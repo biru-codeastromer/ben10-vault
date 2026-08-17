@@ -25,3 +25,4 @@ dist-ssr
 
 # QA outputs (regenerate with npm run qa:sheets / qa:shots)
 research/qa/
+.vercel

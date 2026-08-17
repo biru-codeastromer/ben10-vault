@@ -1,0 +1,216 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 839237
+|textcolor = cfcf5a
+|name = Crashhopper
+|image = OV_Crashhopper.png
+|species = [[Orthopterran]]
+|home-planet = Unknown
+|power = {{Scroll|Enhanced Jumping<br>Shock Waves <small>(via Enhanced Jumping)</small><br>Hard Head<br>Shock Absorption <small>(via Hard Head)</small><br>Enhanced Strength<br>Enhanced Durability<br>Enhanced Acrobatics<br>Enhanced Speed <small>(via propulsion)</small><br>Enhanced Agility<br>Enhanced Reflexes<br>Wall Climbing}}
+|voice = [[Dee Bradley Baker]]
+|1st-appearance = It Was Them
+|fusion = [[Crashocker]]
+}}
+'''Crashhopper''' is the [[Omnitrix]]'s DNA sample of an [[Orthopterran]]{{Refn|''[[Ben 10 Omniverse: Heroes Rise]]''; [[:File:Crashhopper Proof.png|file]]|group = DVD}} from an unknown planet.
+
+==Appearance==
+Crashhopper greatly resembles a mix between a grasshopper and a praying mantis with significantly large three-jointed hind limbs. He has a green film of {{W|Arthropod exoskeleton|cuticle}} connected to the tibia and tarsus of his legs. He has green skin, which has a hue similar to [[Stinkfly (Classic)|Stinkfly]], a large, segmented horn on top of his head, and two smaller horns on the sides of his head where the eyes are placed. Each horn has three tiny spikes behind them. There are also three spikes on each forearm and the back of both tarsi on his legs. He has two sharp fingers, a thumb on each hand, and two light-colored claw-like toes on his feet along with one on the back. His chin is quite small with two lines, he has gill-like structures under his armpits, and his segmented neck extends from a green collar that is fused with the torso.
+
+Crashhopper's suit represents green overalls with three black stripes and a green tip. The green stripe on his stomach has a large green hexagonal patch where the [[Omnitrix (Omniverse)|Omnitrix]] symbol is located and a smaller white stripe.
+
+==Powers and Abilities==
+<gallery type="slideshow">
+DepreyPresa2P318.png|Enhanced Jumping
+BiS (299).png|Shock Waves (via Enhanced Jumping)
+SLaTfAtS (20).png|Enhanced Strength/Durability/Hard Head/Shock Absorption
+DepreyPresa2P324.png|Enhanced Acrobatics
+MITTW (508).png|Enhanced Speed (via propulsion)
+MHR (628).png|Enhanced Agility
+UPdC (555).png|Enhanced Reflexes
+RMP (258).png|Wall Scaling
+</gallery>
+Due to his relatively long and muscular legs, Crashhopper is able to jump extremely long distances. His legs can also kick with considerable force, making them offensive weapons in close-quarters.
+
+The resulting shock waves created by Crashhopper's jumping are strong enough to push through a large number of [[Mutant Ant|Mutant Ants]] should they get on top of him.<ref name="IWT">''[[It Was Them]]''</ref> They are also powerful enough to crack concrete.<ref>''[[Breakpoint]]''</ref>
+
+Crashhopper's head is hard as steel and full of shock-absorbing viscous matter that cushions the impact on his internal organs.{{Refn|[[:File:Crashhopper Hard Horn.png]]|group = DJW}}
+
+Crashhopper possesses enhanced strength, as he is capable of lifting and throwing a [[Muroid]].<ref>''[[Bros in Space]]''</ref> He can also combine his strength and jumping, as seen when he bounced [[Milleous]] around.<ref>''[[The Frogs of War: Part 1]]''</ref>
+
+Crashhopper can propel himself forward by pushing himself off walls, effectively jumping off walls.<ref>''[[Mud is Thicker Than Water]]''</ref> He is also quite agile.<ref name="AFoB">''[[A Fistful of Brains]]''</ref>
+
+The claws on Crashhopper's arms and legs can dig into hard surfaces, allowing him to scale walls and other tall structures.<ref>''[[Rad Monster Party]]''</ref>
+
+==Weaknesses==
+<gallery type="slideshow">
+It Was Them (484).png|Trapped by Mucilator
+</gallery>
+Being an [[Orthopterran]], Crashhopper is vulnerable to being trapped by a member of [[Mucilator (Transformation)|Mucilator]]'s [[Mucilator|species]], as shown when he got himself in and was unable to escape Mucilator's sticky goo sacs on his own.<ref name="IWT" /><ref name="OPaPP2">''[[Of Predators and Prey: Part 2]]''</ref>
+
+Crashhopper's body is not as shielded as it looks; when a [[Contumelia]] ship missile struck him, he started to stroke his head and feel great discomfort from the impact.<ref>''[[So Long, and Thanks for All the Smoothies]]''</ref> Furthermore, he was easily hurt by punches from [[Looma Red Wind|Princess Looma]].<ref>''[[Many Happy Returns]]''</ref>
+
+If his legs are hit correctly, Crashhopper will move backward automatically, as demonstrated with [[Weapon XI (Present)|17-year-old Mutant Kevin]].<ref>''[[Weapon XI: Part 2]]''</ref>
+
+==History==
+===Omniverse===
+*Crashhopper first appeared in ''[[It Was Them]]'', where he battled [[Dr. Animo (Classic)|Dr. Animo]]'s [[Mutant Ant|Mutant Ants]] and [[Mucilator (Transformation)|Mucilator]].{{Refn|Despite first being used in ''[[It Was Them]]'', Crashhopper was never locked in the [[Omnitrix (Omniverse)|Omnitrix]].{{Refn|[[:File:New Aliens in OV Weren't Locked.png]]|group = DJW}}|group = note}}
+*In ''[[So Long, and Thanks for All the Smoothies]]'', Crashhopper destroyed some [[Contumelia]] ship missiles that were about to crash onto [[Earth (Classic)|Earth]].
+*In ''[[Hot Stretch]]'', Crashhopper failed to catch [[Ester]].
+*In ''[[Of Predators and Prey: Part 1]]'', Crashhopper was crushed by Mucilator, so he switched into [[Armodrillo]].
+*In ''[[Of Predators and Prey: Part 2]]'', Crashhopper fought [[Buglizard (Transformation)|Buglizard]] until she switched into Mucilator.
+*In ''[[Many Happy Returns]]'', Crashhopper was defeated by [[Looma Red Wind|Princess Looma]].
+*In ''[[Gone Fishin']]'', Crashhopper defeated the [[Krakken]].
+*In ''[[Bros in Space]]'', Crashhopper helped scare away the [[Muroid]]s.
+*In ''[[The Frogs of War: Part 1]]'', Crashhopper briefly battled [[Milleous]] until he reverted.
+*In ''[[Mud is Thicker Than Water]]'', Crashhopper defeated [[Psyphon]] and [[Psyphon's Gang|his gang]] in a [[Plumber Tank]].
+*In ''[[A Fistful of Brains]]'', Crashhopper was defeated by [[Albedo|Negative]] [[Ultimate Humungousaur]].
+*In ''[[Rad Monster Party]]'', Crashhopper defeated [[Kuphulu]].
+*In ''[[Clyde 5]]'', Crashhopper defeated [[Liam]].
+*In ''[[Breakpoint]]'', Crashhopper fought [[Fistrick]], [[Corvo]], Liam, and [[Solid Plugg]].
+*In ''[[A New Dawn]]'', Crashhopper appeared for a short time when [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+==Appearances==
+{{Scroll box|
+===Omniverse===
+====Season 1====
+*''[[It Was Them]]'' <small>(first appearance; accidental transformation)</small>
+*''[[So Long, and Thanks for All the Smoothies]]''
+*''[[Hot Stretch]]''
+*''[[Of Predators and Prey: Part 1]]''
+*''[[Of Predators and Prey: Part 2]]''
+
+====Season 2====
+*''[[Many Happy Returns]]''
+*''[[Gone Fishin']]'' <small>(intended alien was [[Way Big (Classic)|Way Big]])</small>
+*''[[Bros in Space]]''
+
+====Season 3====
+*''[[The Frogs of War: Part 1]]'' <small>(cameo)</small>
+
+====Season 4====
+*''[[Mud is Thicker Than Water]]''
+*''[[A Fistful of Brains]]''
+
+====Season 5====
+*''[[Rad Monster Party]]''
+
+====Season 7====
+*''[[Clyde 5]]''
+*''[[Breakpoint]]''
+
+====Season 8====
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+===Video Games===
+====Omniverse====
+*''[[Ben 10: Omniverse (Video Game)|Ben 10: Omniverse]]'' <small>(3DS; by 11-year-old Ben and 16-year-old Ben)</small>
+*''[[Ben 10: Omniverse 2]]''
+
+===Online Games===
+====Omniverse====
+*''[[Alien Unlock 2]]''
+*''[[Zombozo's Big Score]]''
+
+===Mobile Games===
+====Omniverse====
+*''[[Cavern Run (Mobile Game)|Cavern Run]]''
+
+===Comics===
+====Omniverse====
+*''[[Ghost Ship]]''
+*''[[Halloween Special]]''
+**''[[Undertown Halloween]]'' <small>(in the Sock Vendor's imagination; cameo)</small>
+
+====Super Secret Crisis War!====
+*''[[Super Secret Crisis War! Issue 4|Issue 4]]'' <small>(x2; second time was by Ben Doppelganger Robots and non-speaking)</small>
+}}
+
+==Games==
+===Video Games===
+<gallery type="slideshow" widths="275">
+Ben 10 Omniverse DS (7).PNG|Crashhopper in ''Omniverse''
+Crashhopper OV2.png|Crashhopper in ''Omniverse 2''
+</gallery>
+====[[Ben 10: Omniverse (Video Game)|Ben 10: Omniverse]]====
+Crashhopper is a playable alien in the game (by both 11-year-old and 16-year old Ben; DS and 3DS only).
+
+====[[Ben 10: Omniverse 2]]====
+Crashhopper is a playable alien in the game on all platforms.
+
+==Comics==
+===[[Super Secret Crisis War!]]===
+*In ''[[Super Secret Crisis War! Issue 4|Issue 4]]'', Crashhopper destroyed [[Ben Doppelganger Robot]]s transformed into [[Pesky Dust]].
+
+==Naming and Translations==
+{{Translation
+|portuguesebr = Crashhopper
+|portuguesebrd = From the original English name
+|ha = Crashhopper
+|had = From the original English name; pronounced /'kraʃhopɛr/ or /'kaʃhopɛr/
+|polish = Crashhopper
+|polishd = From the original English name
+|bulgarian = Крашхопър
+|bulgariand = From the original English name
+|romanian = Carambol
+|romaniand = From ''carambol'', collision
+|hungarian = Mennykőcske
+|hungariand = From ''mennykő'', thunderbolt, and ''szöcske'', grasshopper
+|french = Cigalocrash
+|frenchd = From ''cigale'', cicada, and ''crash''
+|norwegian = Krasjhoppe
+|norwegiand = From ''krasj'', crash, and ''gresshoppe'', grasshopper
+|chinese = 炸蚱蜢
+|chinesed = From ''炸'' <small>(Zhà)</small>, fried, and ''蚱蜢'' <small>(Zhà Měng)</small>, grasshopper. ''炸'' may also reference his collision related properties as it is similar to explosion(爆炸).
+|german = Grashüpfer
+|germand = From ''Grashüpfer'', grasshopper
+|greek = Συγκρουστής
+|greekd = From ''συγκρουστής'', collider
+|dutch = Ramsprinkhaan
+|dutchd = From ''ram'', crash, and ''sprinkhaan'', grasshopper
+|turkish = Çarpan Çekirge
+|turkishd = From ''çarpan'', crashing, and ''çekirge'', grasshopper
+|russian = Крешхоппер
+|russiand = From the original English name
+|italian = Super Insetto
+|italiand = From ''super'' and ''insetto'', insect}}
+
+==Etymology==
+Crashhopper's name is a portmanteau of "crash", the impact that he makes upon landing, and "[[Wikipedia:Grasshopper|grasshopper]]", the creature he is based on.
+
+==Trivia==
+*When Crashhopper jumps or speaks, a cricket-like sound is heard.
+*[[Ben Tennyson (Classic)|Ben]] enjoys jumping as Crashhopper.{{Refn|[[:File:Ben Enjoys Jumping as Crashhopper.png]]|group = DJW}}
+*[[Derrick J. Wyatt]] did not come up with Crashhopper.{{Refn|[[:File:Derrick Came Up With Ball Weevil.png]]|group = DJW}} However, he was designed by Derrick{{Refn|[[:File:Crashhopper Prototypes.png]]|group = ca}} and [[Chap Yaep]].{{Refn|[[:File:Chap yaep crashhopper.PNG]]|group = DJW}}
+*[[Skurd]] could give Ben Crashhopper's legs while in [[Human (Classic)|human]] form. However, the legs would be pretty dangerous for Ben's more fragile human form.{{Refn|[[:File:Skurd Could Give Ben Crashhopper's Legs.png]]|group = DJW}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====Concept Art====
+{{Reflist|group = ca}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+===[[Merchandise]]===
+====[[DVDs]]====
+{{Reflist|group = DVD}}
+
+{{Ben 10 Aliens}}
+[[de:Schmetterhüpfer]]
+[[es:Crashhopper]]
+[[fr:Cigalocrash]]
+[[it:Super Insetto]]
+[[pl:Crashhopper]]
+[[pt-br:Crashhopper]]
+[[ro:Carambol]]
+[[ru:Крешхоппер]]
+[[tr:Çarpan çekirge]]
+[[Category:Transformations]]
+[[Category:Aliens]]
+[[Category:Omniverse Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]
+[[Category:Ben 10,000's Transformations]]

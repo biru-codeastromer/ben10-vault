@@ -1,0 +1,181 @@
+{{Original}}
+{{Disambig|main=Ben 10: Ultimate Alien}}
+{{Group
+|image = Ultimates.png
+|backcolor = 000000
+|textcolor = #78c109
+|name =Ultimate Forms
+|creator = [[Albedo]]
+|first = [[The Final Battle: Part 1]]
+|other = [[Nemetrix|Nemetrix Predators]]}}
+{{Quote|Not only can I transform into anything you can, but I can also evolve those creatures to their Ultimate form.|[[Albedo]], describing the Ultimate forms to [[Ben Tennyson (Classic)|Ben]].<ref name="TFB1">''[[The Final Battle: Part 1]]''</ref>}}
+'''Ultimate Forms''' are the evolved forms of various [[Ultimatrix]] aliens, used primarily by [[Ben Tennyson (Classic)|Ben]] in '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' and [[Albedo]] in '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''.
+
+==Concept and Creation==
+The evolutionary function works by placing the DNA of the selected alien in a simulated scenario, subjecting them to the worst-case scenario over millions of theoretical years in order to "force" evolution.{{Refn|[[:File:Ultimates Worst Case Scenario.PNG]]|group = DM|name = scenario}} The resultant evolutionary adaptations to this simulated worst case scenario are then modified into the existing DNA of the selected alien, thus evolving it into the Ultimate form.
+
+The method of this is the "survival of the fittest", in which simulated evolution ensures that the Ultimate forms are more combat-oriented than their normal forms. An example is [[Ultimate Humungousaur]] having his durable armor on both his head and abdomen, as well as a spiked mace at the end of his tail, which regular [[Humungousaur (Classic)|Humungousaur]] does not have.
+
+The evolutionary function was added to the [[Ultimatrix (Original)|Ultimatrix]] by [[Albedo]] after stealing the prototype from [[Azmuth (Classic)|Azmuth]].<ref name="TFB1" />{{Refn|group = DM|name = scenario}} When Azmuth saw the Ultimatrix for the first time, he commented that the function was "begging for trouble".<ref>''[[Map of Infinity (Episode)|Map of Infinity]]''</ref> He was proven right later when the Ultimate forms gained some sentience and planned to free themselves from the Ultimatrix against [[Ben Tennyson (Classic)|Ben]].<ref name=TUS>''[[The Ultimate Sacrifice]]''</ref>
+
+The Ultimate forms are not found within the [[Codon Stream]] because, strictly speaking, they do not exist in the [[Prime Timeline]] as a collectible species. Rather, they are by-products of pre-existing alien DNA.{{Refn|[[:File:Ultimates Were Stored Locally.PNG]]|group = DM}}{{Refn|[[:File:Ultimate Forms Are Artificial.png]]|group = DM}}{{Refn|[[:File:Ultimates Are Not Natural Species.PNG]]|group = DJW}}
+
+Almost any DNA can be put through the evolution process.{{Refn|[[:File:Almost All Aliens Have Ultimates.png]]|group = DJW}}
+
+==Activation==
+===Original Ultimatrix===
+To activate an Ultimate form, [[Ben Tennyson (Classic)|Ben]] transformed into an alien and then pressed the [[Ultimatrix (Original)|Ultimatrix]] symbol (occasionally rotating it counterclockwise about 45 degrees before pressing), which resulted in four spikes protruding from the Ultimatrix diagonally. Ben was then consumed by a bright green energy field and went Ultimate.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+GT (428).png|link=Ultimate Humungousaur|Ultimate Humungousaur Activation
+EotB (420).png|link=Ultimate Swampfire|Ultimate Swampfire Activation
+Fame (468).png|link=Ultimate Spidermonkey|Ultimate Spidermonkey Activation
+HEWTL (546.1).png|link=Ultimate Big Chill|Ultimate Big Chill Activation
+THtH (669).png|link=Ultimate Cannonbolt|Ultimate Cannonbolt Activation
+VTS (88).png|link=Ultimate Echo Echo|Ultimate Echo Echo Activation
+PN775IM (431).png|link=Ultimate Wildmutt|Ultimate Wildmutt Activation
+TUE2 (37).png|link=Ultimate Way Big|Ultimate Way Big Activation
+</gallery>
+
+===[[Omnitrix (Ultimate Alien Future)|Ben 10,000's Omnitrix]]===
+To become [[Ultimate Ben]], [[Ben 10,000 (Ultimate Alien)|Ben]] twists the dial of the Omnitrix and a wave of green light passes over him.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+B10kR (37.5).png|Ultimate Ben Activation|link=Ultimate Ben
+</gallery>
+
+===[[Ultimatrix (Stabilizer)]]===
+To activate the Ultimate form, [[Albedo]] selects an alien and activates the transformation, just like on the original Ultimatrix. However, he is immediately transformed into the Ultimate form directly of that alien without activating them in-between regular forms. Instead of green, the light Albedo is consumed in is red.
+
+Whereas [[Ben Tennyson (Classic)|Ben]] usually reserves the Ultimate feature as a last resort, Albedo seemingly replaces the devolved forms of his aliens with them in order to gain the upper hand whenever he and Ben do battle.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+ATTWN (128).png|Ultimate Humungousaur Activation|link=Ultimate Humungousaur
+MA (260).png|Ultimate Spidermonkey Activation|link=Ultimate Spidermonkey
+UPdC (449).png|Ultimate Albedo Activation|link=Ultimate Albedo
+FaFBM (85).png|Ultimate Arctiguana Activation|link=Ultimate Arctiguana
+FaFBM (298).png|Ultimate Gravattack Activation|link=Ultimate Gravattack
+MA (302).png|Ultimate Rath Activation|link=Ultimate Rath
+</gallery>
+
+==Sentient Forms==
+[[File:TUS (523).png|thumb|The Sentient Forms]]
+In ''[[The Ultimate Sacrifice]]'', the six Ultimate forms that [[Ben Tennyson (Classic)|Ben]] had used most by then gained sentience and demanded their freedom from the [[Ultimatrix (Original)|Ultimatrix]], causing Ben to eventually make the decision to sacrifice his own life to let them escape. [[Azmuth (Classic)|Azmuth]] was impressed by Ben's willingness to sacrifice himself and intervened, freeing the Ultimates while simultaneously saving Ben's life after which he took the Ultimates to a world where they would be free to roam by themselves.
+
+Azmuth prevented the recurrence of the incident by modifying the Ultimatrix in such a way that the Ultimate forms, as with their normal forms, would simply be "empty shells" occupied by Ben's mind in order to prevent them from gaining sentience.
+
+==Transformations==
+===Ultimatrix===
+{| width="500" border="0" cellspacing="5" align="center" style="background: transparent;"
+|{{Portal square 80px|articlename=Ultimate Humungousaur|name=Humungousaur|image=Ultimate humungousaur character.png}}
+|{{Portal square 80px|articlename=Ultimate Swampfire|name=Swampfire|image=Ultimate swampfire character.png}}
+|{{Portal square 80px|articlename=Ultimate Spidermonkey|name=Spidermonkey|image=ultimate spidermonkey character.png}}
+|{{Portal square 80px|articlename=Ultimate Big Chill|name=Big Chill|image=Ultimate big chill character.png}}
+|-
+|{{Portal square 80px|articlename=Ultimate Cannonbolt|name=Cannonbolt|image=Ultimate cannonbolt character.png}}
+|{{Portal square 80px|articlename=Ultimate Echo Echo|name=Echo Echo|image=ultimate echo echo character.png}}
+|{{Portal square 80px|articlename=Ultimate Wildmutt|name=Wildmutt|image=Ultimate wildmutt character.png}}
+|{{Portal square 80px|articlename=Ultimate Way Big|name=Way Big|image=Ultimate way big character.png}}
+|}
+
+===Omnitrix (Future)===
+{| width="500" border="0" cellspacing="5" align="center" style="background: transparent;"
+|{{Portal square 80px|articlename=Ultimate Ben|name=Ben|image=Ultimate ben character.png|color=ken}}
+|{{Portal square 80px|articlename=Ultimate Humungousaur|name=Humungousaur|color=ken|image=Character UH future.png}}
+|}
+
+===Recreated Ultimatrix===
+{| width="500" border="0" cellspacing="5" align="center"
+|{{Portal square 80px|articlename=Ultimate Humungousaur|name=Humungousaur|image=Negative Ultimate Humungousaur character.png|color=red}}
+|{{Portal square 80px|articlename=Ultimate Echo Echo|name=Echo Echo|image=Negative Ultimate Echo Echo character.png|color=red}}
+|{{Portal square 80px|articlename=Ultimate Spidermonkey|name=Spidermonkey|image=Negative ultimate spidermonkey character.png|color=red}}
+|{{Portal square 80px|articlename=Ultimate Albedo|name=Albedo|image=Ultimate Albedo character.png|color=red}}
+|-
+|{{Portal square 80px|articlename=Ultimate Arctiguana|name=Arctiguana|image=Negative Ultimate Articguana character.png|color=red}}
+|{{Portal square 80px|articlename=Ultimate Gravattack|name=Gravattack|image=Negative Ultimate Gravattack character.png|color=red}}
+|{{Portal square 80px|articlename=Ultimate Rath|name=Rath|image=ultimate rath character.png|color=red}}
+|}
+
+===[[Nemetrix]]===
+{| width="500" border="0" cellspacing="5" align="center" style="background: transparent;"
+|{{Portal square 80px|articlename=Ultimate Panuncian (Transformation)|name=Panuncian|image=ultimate panuncian character.png|color=ken}}
+|}
+
+==Naming and Translations==
+{{Translation
+|ha = [alien]+Supremo<br>Máximo+[alien] (''[[The Ultimate Heist]]'')
+|had = From ''supremo'', supreme<br>From ''máximo'', maximum
+|spanish = Ultimate+[alien]
+|spanishd = From the original English name
+|albanian = [alien]+Më i Ri/Më e Re
+|albaniand = From 'më i ri/më e re' meaning 'the newest'
+|greek = Απόλυτος + [alien] <small>('''[[Ben 10: Alien Force (TV Series)|Alien Force]]''')</small><br> Υπέρτατος + [alien] <small>('''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''')</small>
+|greekd = From ''απόλυτος'', asbolute<br>From ''υπέρτατος'', supreme
+|french = Ultimate+[alien]
+|frenchd = From the original English name
+|polish=Ostateczne Formy
+|polishd=Ultimate Forms
+|italian=Ultra, Evolute (occasionally)
+|italiand=Ultra forms, evolved forms
+|romanian=[alien] + X
+|romaniand=“X” from the Ultimatrix’s X-like symbol when transformed into an ultimate alien
+|portuguesebr = Formas Supremas
+|portuguesebrd = Supreme Forms
+|bulgarian = Ултра Извънзелни
+|bulgariand = Ultra Aliens
+}}
+
+==Trivia==
+*Some of the Ultimates have completely changed their physical appearance, while some ([[Ultimate Cannonbolt|Cannonbolt]], [[Ultimate Way Big|Way Big]], [[Ultimate Big Chill|Big Chill]], etc) simply change their color with some minor additions.
+**[[Ultimate Ben]] looks identical to to his [[Ben 10,000 (Ultimate Alien)|regular counterpart]].
+**All Ultimate forms used by Albedo in '''Omniverse''' (except Ultimate Humungousaur and Ultimate Echo Echo), have the same color scheme like his regular transformations, but their physical appearance has changed to varying degrees.
+*The first time the Ultimate function was used, [[Albedo]] turned the rim of the [[Ultimatrix (Original)|Ultimatrix]] symbol, causing the core to pop out, which he promptly pressed.<ref name="TFB1" /> In some instances, Ben turned the symbol between 45 and 90 degrees counterclockwise before activating it, which doesn't activate the Ultimate function. 
+**In '''Omniverse''', with his stabilizer Ultimatrix, Albedo only needs to think about transforming into an Ultimate Form.
+*[[Ben Tennyson (Classic)|Ben]] is a bit scared of the Ultimates the same way he used to be afraid of [[Ghostfreak]], but thinks they are cool.{{Refn|[[:File:Bellwood Population.PNG]]|group = DM}}
+*Ben felt discomfort whenever going Ultimate.{{Refn|''link unavailable''|group = DM}}
+*The original Ultimatrix's evolutionary feature had nothing to do with the wielder.{{Refn|[[:File:Evolutionary Featured Not Related To Wielder.PNG]]|group = DM}}
+*According to [[Dwayne McDuffie]], Ben's pink eyes in ''[[Fame]]'' had a connection to the Ultimate forms,{{Refn|[[:File:Ben Pink Eyes.PNG]]|group = DM}} and there was an episode explaining them in development.{{Refn|[[:File:Glowing Eyes Episode.PNG]]|group = DM}}
+**The episode's original script stated that the eyes were supposed to be red, where the pink color was a animation error.{{Refn|[https://static.wikia.nocookie.net/ben10/images/c/cf/Fame_Script_As_Recorded.pdf ''Fame'' Script As Recorded]|group = script}} This could link the eyes to the Sentient Forms, as Ben had red eyes when the [[Sentient Ultimate Humungousaur]] took over his mind.<ref name=TUS/>
+*The evolutionary function drained the original Ultimatrix's battery quicker than regular transformations.{{Refn|[[:File:Evolutionary Feature Drained the Ultimatrix's Battery.PNG]]|group = DM}}
+*Ultimate Forms could be used in an alien fusion, being a mix of the Ultimate forms of both aliens.{{Refn|[[:File:Ultimate Fusions.png]]|group = DR}}
+*It was decided from the beginning of development on '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''' that the current [[Omnitrix (Omniverse)|Omnitrix]] does not have an evolutionary feature.{{Refn|[[:File:OV Omnitrix No Evolutionary Function.png]]|group = DJW}}{{Refn|[[:File:OV Omnitrix No Evolutionary Function 2.png]]|group = DJW}}
+**The Omnitrix is neither able to accept the evolved DNA of Ultimate forms{{Refn|''link unavailable''|group = DJW}} nor be transformed into an Ultimatrix by a [[Polymorphic Crystal]].{{Refn|[[:File:Polymorphic Crystal Will Not Turn Omnitrix Into Ultimatrix.png]]|group = DJW}} Because of these factors, Ben will never regain the ability to transform into Ultimate Forms.{{Refn|[[:File:Ben Will Never Regain Ultimate Forms.png]]|group = DJW}}
+***Originally the [[Omnitrix (Omniverse)|Omnitrix]] would have the [[Ultimate Forms]] function, while still being called the Omnitrix.{{Refn|[https://static.wikia.nocookie.net/ben10/images/9/92/Tangled_Web_P2_Script_Outline.pdf/revision/latest ''Tangled Web: Part 2'' Script Outline]|group = outline}}<ref>''[[Tangled Web: Part 2]]''</ref> Similarly, [[Ben 10,000 (Ultimate Alien)|Ben 10,000's]] [[Omnitrix (Ultimate Alien Future)|Omnitrix]] is named Omnitrix but possesses Ultimate Forms, just as the [[Nemetrix]] does not become known as the Ultimatrix despite gaining access to Ultimate Forms.
+*If [[Ben 23]] had the Ultimatrix, he would call his Ultimate forms "Monsterizer Forms".{{Refn|[[:File:Ben 23 Ultimate Forms.png]]|group = DJW}}
+*The Evolutionary Function can be used on the Ultimate forms themselves for seemingly infinite times, allowing them to evolve even further so that they can adapt to the situation around them. However, the resulting evolutions may not turn out the way the Ultimatrix's user would like.{{Refn|[[:File:Ultimates Can Go Ultimate.png]]|group = DJW}}{{Refn|[[:File:Ultimatrix Can Evolve Infinite Amount of Times.png]]|group = DR}}
+*[[Derrick J. Wyatt]] loved the concept of the evolved forms of Ben's aliens, but to him, calling them "Ultimate" would mean that the Ultimate forms themselves would have to be cooler than their regular counterparts. He found this to be probably totally impossible because he felt that there was no way to make 100% of them to be cooler, but one must push an evolved form as far as they can.{{Refn|[[:File:Derrick's Opinion on the Ultimates' Designs.png]]|group = DJW}}
+**Derrick believed that it was possible but not probable for Ultimate forms to be stronger than the [[Nemetrix]] aliens.{{Refn|[[:File:Ultimate Aliens vs Nemetrix Aliens.png]]|group = DJW}}
+**Derrick found the idea of Ultimate forms existing as natural species in alternate timelines to be interesting and believed it would be possible.{{Refn|[[:File:Ultimate Forms as Natural Species in Alternate Timelines.png]]|group = DJW}} One notable example of such a universe is the War Universe.{{Refn|[[:File:War Universe Proof.png]]|group = DJW}}
+*Derrick oversaw the development of the Ultimate forms' designs in '''Omniverse''' from roughs to color. However, the only designs he worked on were [[Ultimate Albedo]] and some work on [[Ultimate Spidermonkey]]. As for the rest of the Ultimates featured in the show, they were designed by [[Steven Choi]] alongside [[Chap Yaep]] and Dou Hong.{{Refn|[[:File:Derrick's work on the Ultimate forms.PNG]]|group = DJW}}
+*[[Charlotte McDuffie]] likes to think the Ultimates are 10 times stronger than their regular forms.{{Refn|[[:File:Charlotte McDuffie Thinks Ultimates are 10x Stronger.png]]|group = CM}}
+
+==References==
+{{Reflist}}
+
+===Production Material===
+====Script Outlines====
+{{Reflist|group = outline}}
+====Scripts====
+{{Reflist|group = script}}
+===Crew Statements===
+====[[Dwayne McDuffie]]====
+{{Reflist|group = DM}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+====[[Charlotte McDuffie]]====
+{{Reflist|group = CM}}
+{{Ben 10 Aliens}}
+{{Nemetrix Aliens}}
+{{Transformation Gimmicks Classic}}
+[[es:Versión suprema]]
+[[pl:Ostateczne formy]]
+[[pt-br:Formas supremas]]
+[[ro:Formele X]]
+[[Category:Ultimate Forms]]
+[[Category:Transformations]]
+[[Category:Aliens]]
+[[Category:Classic Aliens]]
+[[Category:Ultimatrix]]
+[[Category:Classic Transformations]]

@@ -1,0 +1,116 @@
+{
+  "id": "eye-guy",
+  "name": "Eye Guy",
+  "wikiTitle": "Eye Guy",
+  "kind": "standard",
+  "species": "Opticoid",
+  "homeworld": "Sightra",
+  "bodyType": "Humanoid covered in eyes",
+  "debut": {
+    "episode": "Ben 10 vs. Negative 10: Part 2",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Optic energy blasts from any of ~20 body eyes",
+    "Merges eyes into one large charged chest-eye beam (shatters Rock Monsters)",
+    "360-degree vision; palm eyes see round corners",
+    "Elemental variants: fire blasts, freeze rays, electric bolts, sticky eye-goop",
+    "Ophthalmokinesis - moves eyes across his body",
+    "Optic-blast propulsion",
+    "Enhanced durability",
+    "Acrobatics, jumping and reflexes",
+    "Chemical trail detection by sight"
+  ],
+  "weaknesses": [
+    "Irritants (Gracklflint venom, cologne) blind and burn his many eyes",
+    "Multiplied vision amplifies fears (Zombozo)"
+  ],
+  "summary": "A tan Opticoid with eyes everywhere except his face, firing energy, fire, ice, lightning or goo from any of them.",
+  "traits": [
+    "No eyes on his face - just a mouth and bat-like ears",
+    "Skeleton is cartilage",
+    "Chest eye replaced by the Ultimatrix in the UA intro",
+    "OV adds palm eyes"
+  ],
+  "notableFeats": [
+    "Battled the Negative 10 in his debut (Ben 10 vs. Negative 10: Part 2)",
+    "Destroyed Dr. Animo's DNA bomb (Secret of the Omnitrix, Gold Edition)",
+    "Fought Negative Ultimate Humungousaur (The Ultimate Heist)",
+    "Stabilised the Plumber HQ power core with Gwen (Mud is Thicker Than Water)",
+    "Defeated Mad Rook with Freeze-Ghost (It's a Mad, Mad, Mad Ben World: Part 2)",
+    "Defeated a possessed Max as an 11-year-old (From Hedorium to Eternity)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Ben 10 vs. Negative 10: Part 2",
+      "notableEpisodes": [
+        "Ben 10 vs. Negative 10: Part 2",
+        "Ben 10: Secret of the Omnitrix"
+      ],
+      "designNotes": "Light-green eyes with dark-green pupils, one giant primary eye in the chest, black pants with white bands, white belt with the original Omnitrix.",
+      "image": {
+        "file": "Eye Guy Without Chest Eye.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": "Official Original Series model sheet pose (chest eye closed), transparent background. Verified 2026-08-17."
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "Rad",
+      "notableEpisodes": [
+        "Rad",
+        "The Ultimate Heist",
+        "Evil's Encore",
+        "Mud is Thicker Than Water",
+        "Something Zombozo This Way Comes",
+        "The Ballad of Mr. Baumann"
+      ],
+      "designNotes": "Bigger, brighter, symmetrically placed eyes; chest eye closed by default; extra palm eyes; green pant cuffs and hand cuffs, green Omnitrix belt with white stripe. 11-year-old: OS look with the new eye layout, white bands and a green Omnitrix.",
+      "image": {
+        "file": "OmniverseEyeGuy.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 4,
+    "durability": 6,
+    "speed": 4,
+    "mobility": 5,
+    "offense": 7,
+    "defense": 5,
+    "special": 6,
+    "versatility": 7,
+    "intellect": 4,
+    "energy": 6,
+    "regeneration": 0,
+    "survivability": 4,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "A walking arsenal of energy, fire, ice, electric and goop beams with all-round vision, so he handles most ranged fights; physically ordinary and easily blinded by irritants."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Eye_Guy"
+  ],
+  "notes": [
+    "Not used in Alien Force (removed from the playlist) or Ultimate Alien (intro only; re-unlocked in Ben 10,000 Returns).",
+    "Also used by Ben 23 and Weapon XI (Kevin) - not counted."
+  ]
+}

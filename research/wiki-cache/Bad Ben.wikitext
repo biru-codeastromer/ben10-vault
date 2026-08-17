@@ -1,0 +1,85 @@
+{{Alternate Timeline|Ben Tennyson (Classic)}}
+{{Disambig|main=Ben Tennyson}}
+{{Charbox
+|name = Ben Tennyson
+|image = Bad ben.png
+|backcolor = 000000
+|textcolor = 2B4A79
+|species = [[Human (Classic)|Human]]
+|voice = [[Yuri Lowenthal]]
+|affiliation = [[Vilgax (Classic)|Vilgax]] <small>(formerly)</small><br>[[Eon]]<br>[[Albedo]]<br>[[Benzarro]]<br>[[Nega Ben]]<br>[[Mad Ben|Mad Ben]]
+|first = And Then There Were None
+|Alternate Counterparts = {{Scroll|[[Ben Tennyson (Classic)|Ben Tennyson]] <small>([[Prime Timeline]])</small><br>[[Ben 10,000 (Original)|Ben Tennyson]] <small>([[Original Future Timeline]])</small><br>[[Ben Tennyson (Race Against Time Timeline)|Ben Tennyson]] <small>([[Race Against Time Timeline|'''''Race Against Time''''' Timeline]])</small><br>[[Eon]]<br>[[Eon's Minions (Ben 10,000 Returns)|Eon's Minions]] <small>('''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' iteration)</small><br>Ben Tennyson <small>(No [[Ultimatrix]] Timeline)</small><ref name=PP>[[Professor Paradox]]</ref><ref name=B10kR>''[[Ben 10,000 Returns]]''</ref><br>[[Ben_23|Ben Tennyson]] <small>([[Dimension 23]])</small><br>[[Ben Tennyson (No Watch Timeline)|Ben Tennyson]] <small>([[No Watch Timeline]])</small><br>[[Mad Ben|Ben Tennyson]] <small>([[Mad World]])</small><br>[[Nega Ben]]<br>[[Benzarro]]}}
+|home world = [[Earth (Classic)|Earth]] <small>(Alternate Version)</small>
+|age = 16
+|status = Alive
+|ability = Hand-to-Hand Combat Skills
+|equipment = [[Omnitrix (Bad Ben's Timeline)|Omnitrix]]}}
+{{Quote|If I were a nice guy, I would explain why you must be destroyed. '''But I am not a nice guy!'''|Bad Ben as [[Ghostfreak]] before chasing [[Ben Tennyson (No Watch Timeline)|No Watch Ben]].<ref name="And Then There Were None">''[[And Then There Were None]]''</ref>}}
+'''Ben Tennyson''', also known as '''Bad Ben''',{{Refn|[[:File:And Then There Were None Voice Credits (1).png]]|group = credits}}<ref name="And Then There Were None"/> is an alternate and evil version of [[Ben Tennyson (Classic)|Ben Tennyson]].
+
+==Appearance==
+Bad Ben bears a very strong resemblance to Ben Prime, except he has black hair instead of brunette hair, which is natural.{{Refn|[[:File:Mad Ben Is Australian.PNG]]|group = DJW}} He also has mint green-colored eyes, shirt, and an [[Omnitrix]] of the same color. Plus his cargo pants are of a darker brown color and his shoes are black instead of green.
+
+==Personality==
+{{Quote|"Evil" is relative.|Bad Ben to [[Ben Tennyson (No Watch Timeline)|No Watch Ben]].<ref name="And Then There Were None" />}}
+Bad Ben enjoys being bad; from small things such as intentionally withholding an explanation about the multiple Bens from [[Ben Tennyson (No Watch Timeline)|No Watch Ben]] to maintain the latter's terror, to bigger things such as sadistically attacking and tormenting the good Bens.
+
+Bad Ben also speaks slower than [[Ben Tennyson (Classic)|Ben Prime]].
+Bad Ben has a twisted sense of humor, as he exclaimed to a crowd of shoppers upon suddenly poking his head out of a wall at them as [[Ghostfreak]], "Clean up on Aisle Ten!"
+==History==
+===Omniverse===
+Bad Ben first appeared in ''[[And Then There Were None]]'', where he was among the evil Bens recruited by [[Eon]] and [[Vilgax (Classic)|Vilgax]] from across the [[multiverse]] and brought to [[No Watch Timeline]] to wipe [[Ben Tennyson (No Watch Timeline)|No Watch Ben]] out. Bad Ben was the first alternate Ben that No Watch Ben encountered. Bad Ben as [[Ghostfreak]] chased No Watch Ben through [[Bellwood (Classic)|town]], but No Watch Ben was saved by [[Ben Tennyson (Classic)|Ben Prime]]. Later, in [[Los Soledad]], Bad Ben was part of the fight between the good and evil Bens, as [[Gravattack]]. At the end of the episode, just like all the other Omnitrix wielders, he and his timeline were erased from space-time by the [[Chronosapien Time Bomb]].
+
+In ''[[And Then There Was Ben]]'', Bad Ben was brought back into existence when No Watch Ben used [[Clockwork]] to suck the Time Bomb's ripple back in. Later, he was chasing an Omnitrixless [[Ben Tennyson (Classic)|Ben Prime]] as [[Buzzshock (Classic)|Buzzshock]] along with [[Ultimate Echo Echo|Negative Ultimate Echo Echo]] and [[Mad Ben|Mad Ben]]. At the end of the episode, Bad Ben was sent back to his own reality by Clockwork.
+
+==Powers and Abilities==
+[[File:ATTWN (88).png|thumb|Fight Skills]]
+Bad Ben displayed a few fighting skills against [[Ben Tennyson (No Watch Timeline)|No Watch Ben]] in [[Human (Classic)|human]] form, explicitly stating that he had taken self-defense classes at some point.<ref name="And Then There Were None"/>
+
+===Equipment===
+[[File:ATTWN (91).png|thumb|Omnitrix]]
+Like many of his other counterparts, Bad Ben possesses an [[Omnitrix (Bad Ben's Timeline)|Omnitrix]].
+
+==Appearances==
+===Omniverse===
+====Season 5====
+*''[[And Then There Were None]]'' <small>(first appearance)</small>
+*''[[And Then There Was Ben]]'' <small>(non-speaking)</small>
+
+==Trivia==
+*[[Derrick J. Wyatt]] said that no backstory was ever written for Bad Ben.{{Refn|[[:File:Nothing on Bad Ben.png]]|group = DJW}} However, [[Matt Youngberg]] stated that Bad Ben has the same story as [[Ben Tennyson (Classic)|Ben Prime]], with the difference being that he made bad choices instead of good ones.{{Refn|https://preservetube.com/watch?v&#61;u9_TUZZNT8w|group = MY}}
+*It is unknown what Bad Ben's food preferences are{{Refn|[[:File:Bad Ben Food Preference.png]]|group = DJW}} because he is probably not much of a foodie.{{Refn|[[:File:Bad Ben Food Preference 2.png]]|group = DJW}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====End Credits====
+{{Reflist|group = credits}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Matt Youngberg]]====
+{{Reflist|group = MY}}
+{{Human Villains Classic}}
+[[es:Ben Malo]]
+[[it:Ben Cattivo]]
+[[pl:Zły Ben]]
+[[pt-br:Ben Malvado]]
+[[ru:Плохой Бен]]
+[[Category:Male Villains]]
+[[Category:Omniverse Characters]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Human Males]]
+[[Category:Alternate Versions of Ben Tennyson]]
+[[Category:Villains]]
+[[Category:Omnitrix Wielders]]
+[[Category:Alternate Timeline Characters]]
+[[Category:Introduced in Omniverse]]
+[[Category:Human Villains]]
+[[Category:Classic Characters]]
+[[Category:Classic Villains]]
+[[Category:Tennyson Family]]
+[[Category:Antagonists]]
+[[Category:Secondary Antagonists]]

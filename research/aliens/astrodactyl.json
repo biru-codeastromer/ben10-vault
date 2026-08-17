@@ -1,0 +1,99 @@
+{
+  "id": "astrodactyl",
+  "name": "Astrodactyl",
+  "wikiTitle": "Astrodactyl",
+  "kind": "standard",
+  "species": "Unknown",
+  "homeworld": "Unknown",
+  "bodyType": "Pterodactyl-like humanoid with a natural jetpack",
+  "debut": {
+    "episode": "While You Were Away",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Astro-dynakinesis - generates green internalized stellar energy and shapes it with precision",
+    "Energy whips and throwing-star constructs channelled through the holes in his arms",
+    "Stellar energy breath / projectiles fired from his mouth",
+    "Natural jetpack - very fast flight, plus explosive energy waves that knocked an Incursean fighter out of the sky",
+    "Foldable glider wings",
+    "Enhanced strength (tore Thep Khufan tendrils, ripped free of Revonnahgander-grade adhesive, swung Techadon robots through a brick wall)",
+    "Enhanced durability (survived a fall from several hundred feet)",
+    "Enhanced reflexes (dodged lasers), acrobatics and prehensile feet (lifted a Cerebrocrustacean)",
+    "Space survivability"
+  ],
+  "weaknesses": [
+    "Vulnerable to electricity, such as a Cerebrocrustacean's (A Fistful of Brains)",
+    "Cannot jump into hyperspace"
+  ],
+  "summary": "A red pterodactyl-glider alien with a built-in jetpack who whips foes with green star-energy and outflies fighter craft.",
+  "traits": [
+    "Squawks like a parrot when talking or excited",
+    "Name was invented first; look and powers came later",
+    "Designed by Steven Choi",
+    "Was never intended as a Jetray replacement",
+    "'Whoever said the sky's the limit never met Astrodactyl!'"
+  ],
+  "notableFeats": [
+    "Battled Dr. Psychobos and helped destroy the Amber Ogia supply (While You Were Away)",
+    "Blasted an Incursean space fighter out of the air with a jetpack energy wave (The Frogs of War: Part 1)",
+    "Held his own against Negative Brainstorm until both reverted (A Fistful of Brains)",
+    "Fought Bad Ben's Gravattack and saved No Watch Ben from Eon (And Then There Were None)",
+    "Broke himself and Rook out of Collectimus's adhesive trap (Collect This)",
+    "Smashed Techadon Robots through a wall with energy whips (Clyde 5)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "While You Were Away",
+      "notableEpisodes": [
+        "While You Were Away",
+        "The Frogs of War: Part 1",
+        "A Fistful of Brains",
+        "And Then There Were None",
+        "Collect This",
+        "Clyde 5"
+      ],
+      "designNotes": "Red skin, large yellow beak, green eyes, black-and-green shoulder and waist clothing, green wrist and ankle braces, small yellow retractable glider wings attached to a jetpack structure on his back; Omnitrix symbol on left shoulder.",
+      "image": {
+        "file": "Astrodactyl Wings.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render, wings extended (1152x953, transparent). Wings-retracted view: 'Astrodactyljet.PNG' (201x352). 'Astrodactyl official.png' (1477x1137) is the same pose on a green promo background."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 6,
+    "speed": 7,
+    "mobility": 8,
+    "offense": 6,
+    "defense": 4,
+    "special": 5,
+    "versatility": 6,
+    "intellect": 3,
+    "energy": 6,
+    "regeneration": 1,
+    "survivability": 8,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Mobility 8 and survivability 8: jetpack flight fast enough to dogfight Incursean fighters, space-capable, and tough enough to walk off a multi-hundred-foot fall. Stellar-energy whips, stars and breath give solid mid-range offense. Not a heavy hitter and electricity drops him."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Astrodactyl"
+  ],
+  "notes": [
+    "Species and planet are unknown: a Derrick J. Wyatt joke that he came from Terradino sat on the wiki as fact from 2013 until March 2025, when it was debunked (also by Charlotte McDuffie).",
+    "Never locked in the Omnitrix. Gravadactyl (with Gravattack) is a Biomnitrix concept only.",
+    "The Vampire Strikes Back use is a cameo (flying back to Anur Transyl). Games (Omniverse 2) and comics (Deep Trouble, Super Secret Crisis War!) not counted."
+  ]
+}

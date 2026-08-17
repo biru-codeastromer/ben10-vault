@@ -1,0 +1,98 @@
+{
+  "id": "ultimate-big-chill",
+  "name": "Ultimate Big Chill",
+  "wikiTitle": "Ultimate Big Chill",
+  "kind": "ultimate",
+  "species": "Ultimate Necrofriggian",
+  "homeworld": "",
+  "bodyType": "Winged humanoid moth",
+  "debut": {
+    "episode": "Hit 'Em Where They Live",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": "big-chill",
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Ice-flame breath and hand beams: plasma 'fire so cold it burns' that absorbs heat and flash-freezes",
+    "Ice constructs and localised snowstorms",
+    "Ice-fire vortex generation while flying",
+    "Intangibility, invisibility and cryo-phasing (freezing what he phases through)",
+    "Flight with foldable cloak-wings",
+    "Enhanced strength and durability over Big Chill",
+    "Underwater survivability"
+  ],
+  "weaknesses": [
+    "Vulnerable to electricity (e.g. Dr. Viktor)",
+    "Still a light-bodied flyer that can be swatted by giants (sentient version smacked by Way Big)"
+  ],
+  "summary": "The evolved Necrofriggian: Big Chill recoloured in flame-red with a breath of freezing blue plasma that flash-freezes air, builds ice constructs and can be phased straight into a target.",
+  "traits": [
+    "'Fire so cold it burns'",
+    "Wings and antennae fold into a cloak",
+    "Alien of the Month July 2011",
+    "Voiced by Dee Bradley Baker"
+  ],
+  "notableFeats": [
+    "Defeated Vulkanus and his Pickaxe Alien minions on debut (Hit 'Em Where They Live)",
+    "Battled Galapagus with ice-flame vortexes and cryo-phasing (Escape From Aggregor)",
+    "Chased Ultimate Aggregor and defeated the Piscciss Volann core guards (Deep)",
+    "Froze Zarkovian soldiers before being beaten by the undead Dr. Viktor (Viktor: The Spoils)",
+    "Fought a Techadon Robot and defeated the Esoterica (Greetings From Techadon; The Flame Keepers' Circle)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Hit 'Em Where They Live",
+      "notableEpisodes": [
+        "Hit 'Em Where They Live",
+        "Escape From Aggregor",
+        "Ultimate Aggregor",
+        "Deep",
+        "Viktor: The Spoils",
+        "Greetings From Techadon",
+        "The Flame Keepers' Circle"
+      ],
+      "designNotes": "Same body as UAF Big Chill but skin recoloured red; wings and antennae carry a flame pattern and there are flame-shaped crests over the eyes; wings still fold into a cloak; evolved Ultimatrix symbol on chest.",
+      "image": {
+        "file": "Ultimate Big Chill Uncloaked Shaded.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "Infobox render, wings open. Cloaked alternative: 'Ultimate Big Chill Official Artwork (2).png'."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 7,
+    "speed": 7,
+    "mobility": 8,
+    "offense": 8,
+    "defense": 8,
+    "special": 7,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 5,
+    "regeneration": 0,
+    "survivability": 8,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Ice flames flash-freeze the air around a target, build constructs and vortexes, and cryo-phasing freezes from the inside; keeps flight, intangibility and invisibility, so offense and defense both jump over Big Chill. Electricity (Dr. Viktor) still drops him and he is not physically imposing."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Big_Chill",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "UA-only form; never used in AF or OV (Derrick J. Wyatt mused about weather powers had Albedo used it in OV, but it never appeared).",
+    "Comic-only freeze rays from hands (Cartoon Network Action Pack) are non-canon and excluded.",
+    "Sentient Ultimates storyline (UA S3, 'The Ultimate Sacrifice'): the six most-used Ultimate forms (Humungousaur, Swampfire, Spidermonkey, Big Chill, Cannonbolt, Echo Echo) gained sentience inside the Ultimatrix and demanded freedom; Ben offered his life, Azmuth freed them to their own world and reworked the Ultimatrix so Ultimates are 'empty shells' again.",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

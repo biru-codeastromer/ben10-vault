@@ -1,0 +1,111 @@
+{
+  "id": "arctiguana",
+  "name": "Arctiguana",
+  "wikiTitle": "Arctiguana",
+  "kind": "standard",
+  "species": "Polar Manzardill",
+  "homeworld": "X'Nelli",
+  "bodyType": "Iguana-like biped",
+  "debut": {
+    "episode": "Ben 10,000",
+    "series": "os",
+    "usedBy": "ben-10k-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": "ultimate-arctiguana",
+  "componentIds": [],
+  "abilities": [
+    "Freeze-ray breath (freezes water and even molten lava)",
+    "Icy wind that encases targets",
+    "Ice constructs",
+    "Freeze-ray propulsion",
+    "Enhanced strength and durability",
+    "Cold immunity / sub-freezing survival",
+    "Wall crawling",
+    "Enhanced jumping"
+  ],
+  "weaknesses": [
+    "No documented Weaknesses section on the wiki; ice-based powers are situational against heat",
+    "Short-range breath weapon; ordinary mobility"
+  ],
+  "summary": "Ben 10,000's ice-breathing blue iguana, later a regular for teen Ben in Omniverse, capable of freezing lava solid.",
+  "traits": [
+    "Literally cold-blooded",
+    "Ultimate Arctiguana was only ever used by Albedo",
+    "Ultimate Ben borrowed his ice breath in Ben 10,000 Returns"
+  ],
+  "notableFeats": [
+    "Froze Vilgax in water (Ben 10,000)",
+    "Froze Mot Snikrep solid (Ken 10)",
+    "Froze the Kraaho's lava flow (Hot Stretch)",
+    "Fought Eon's minions alongside Gwen and Rook (Ben Again)",
+    "Fought Simian and Deefus Veeblepister (Collect This)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10k-os"
+      ],
+      "firstEpisode": "Ben 10,000",
+      "notableEpisodes": [
+        "Ben 10,000",
+        "Ken 10"
+      ],
+      "designNotes": "Small facial spikes, three dorsal fins, white gills on the head, white pants and black open-front shirt with white cuffs, Omnitrix on the left hand.",
+      "image": {
+        "file": "Arctiguana_Model.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Hot Stretch",
+      "notableEpisodes": [
+        "Hot Stretch",
+        "Ben Again",
+        "Collect This"
+      ],
+      "designNotes": "Clothing extends up to the head with a white underbelly shell covering the chest, four pointed fins, face stripes go around the mouth, chin spikes, no visible gills, pointier claws, Omnitrix on the chest.",
+      "image": {
+        "file": "OV_Teen_Arctiguana.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 6,
+    "speed": 3,
+    "mobility": 5,
+    "offense": 6,
+    "defense": 5,
+    "special": 5,
+    "versatility": 5,
+    "intellect": 3,
+    "energy": 4,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Reliable ranged freeze breath strong enough to solidify lava and lock down big foes, backed by decent toughness; little else in his kit and average speed."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Arctiguana"
+  ],
+  "notes": [
+    "Wiki has no Weaknesses section; weaknesses above are editorial inference.",
+    "OS use is by Ben 10,000 only. Not used in AF/UA (UA intro only; re-unlocked in Ben 10,000 Returns).",
+    "OV 'Ben Again': 11-year-old Ben's mind in 16-year-old Ben's body used the 16-year-old design (counted as ben-16-ov).",
+    "Ultimate Arctiguana was used only by Albedo (For a Few Brains More) - it is not a Ben appearance."
+  ]
+}

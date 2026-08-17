@@ -1,0 +1,101 @@
+{
+  "id": "whampire",
+  "name": "Whampire",
+  "wikiTitle": "Whampire",
+  "kind": "standard",
+  "species": "Vladat",
+  "homeworld": "Anur Transyl",
+  "bodyType": "Vampire",
+  "debut": {
+    "episode": "The Vampire Strikes Back",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Hypnosis through eye contact",
+    "Corrupturas - spits small crystalline bat-creatures that latch onto a victim's forehead and enslave them; sized to fit the target, and usable as plain projectiles",
+    "Corrupturas also control undead beings and supernaturally possessed objects",
+    "Life-force draining by biting/sucking - can even feed on a Celestialsapien",
+    "Sonic explosion - last-resort blast that hurled Rook, Scout, Rad and a whole mob away",
+    "Flight on bat-like arm flaps; bat transformation into a tiny winged form",
+    "X-ray vision (sees nerves and energy) and night vision",
+    "Enhanced strength (flipped Malgax over), durability (thrown into a wall by Malgax), agility, reflexes, stamina, jumping, smell and hearing",
+    "Prehensile feet - hangs upside down ('does his best thinking' that way); quadrupedal running",
+    "Space survivability; willpower lets him resist other Vladats' hypnosis"
+  ],
+  "weaknesses": [
+    "Sunlight burns him - he cannot stay in it long (Blukic and Driba Go to Area 51)",
+    "Intense heat (Pyronites, Prypiatosian-Bs, Atomix's species) harms him and destroys his Corrupturas",
+    "Corrupturas shatter when the Omnitrix times out, freeing all victims; they are fragile and fail on wet/slimy, intangible or cyborg targets (Exo-Skull), Dagon and strong-willed Vladats",
+    "Must resist the urge to drain the life energy of intelligent beings",
+    "Sonic explosion also blows away allies",
+    "Possibly allergic to garlic; can be scared by Toepick's species"
+  ],
+  "summary": "A pale, fanged Vladat in a black-and-green suit who hypnotises, drains life force and enslaves foes with mind-controlling Corrupturas - the last new alien of the Classic continuity.",
+  "traits": [
+    "Speaks with a Hungarian accent in homage to Bela Lugosi's Dracula",
+    "Modelled after Marvel's Baron Blood; name puns on the band Wham! and Stoker's 'Count Wampyr'",
+    "Only OV alien unlocked by scanning a DNA sample (the resurrected Lord Transyl)",
+    "He and Lord Transyl are the only Vladats left in the universe",
+    "Chibi bat form is a real power, not a gag"
+  ],
+  "notableFeats": [
+    "Enslaved Dr. Viktor, Kuphulu and Cruejo with Corrupturas, resisted Lord Transyl's mind control, and stormed Z'Castle Zs'Skayr to fight Lord Transyl and Zs'Skayr (The Vampire Strikes Back)",
+    "Blew a hostile Anur Transyl mob away with a sonic explosion (The Vampire Strikes Back)",
+    "Freed Max from Malgax, flipped him over and, with Skurd's borrowed alien parts, defeated him (Malgax Attacks)",
+    "Defeated Exo-Skull and Subdora (The End of an Era)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "The Vampire Strikes Back",
+      "notableEpisodes": [
+        "The Vampire Strikes Back",
+        "Blukic and Driba Go to Area 51",
+        "Malgax Attacks",
+        "The End of an Era"
+      ],
+      "designNotes": "Pale-skinned vampire with a large head, green eyes and sharp yellow fangs; black jumpsuit with green chest and markings, black gloves with clawed green fingers, spiked green mask, green bat-wing flaps under the arms; Omnitrix symbol on the stomach. Bat form: small black winged ball with his face.",
+      "image": {
+        "file": "Whampire facebook profileT.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (transparent) but small at 196x471; 'Whampire facebook profile.png' (240x505) is the same art on white. Hi-res official action pose: 'Tq3ouOG.png' (1884x2024, transparent)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 6,
+    "speed": 6,
+    "mobility": 7,
+    "offense": 6,
+    "defense": 5,
+    "special": 7,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 5,
+    "regeneration": 1,
+    "survivability": 5,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 3,
+    "controlPenalty": 1,
+    "rationale": "Special 7: hypnosis, life-drain and Corrupturas that turned three Anur monsters into henchmen and beat Exo-Skull and Subdora; a sonic explosion clears rooms. Mobility 7 with flight, bat form and quadrupedal sprinting, and he physically handled Malgax. Sunlight and heat are crippling, Corrupturas are fragile and vanish on time-out, and he must fight the urge to feed."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Whampire"
+  ],
+  "notes": [
+    "DNA source: Lord Transyl, scanned in The Vampire Strikes Back after Zs'Skayr resurrected him with Alpha Rune magic. Final new alien introduced in Omniverse and in the Classic continuity.",
+    "Malgax Attacks: Skurd gave Whampire Armodrillo's drill, Bloxx-Lobbers, Feedback's hands and Diamondhead's arm/sword/shield/helmet during the fight.",
+    "Blukic and Driba Go to Area 51: accidental daytime desert transformation - nearly burned to death until Max switched him to Four Arms.",
+    "Albedo cannot transform into Whampire. Wiki 'Vladat' spelling was once suspected to be a misnomer for 'Vladite' but pop-up trivia recordings (2024) confirmed 'Vladat'."
+  ]
+}

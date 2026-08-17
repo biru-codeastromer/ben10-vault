@@ -1,0 +1,86 @@
+{
+  "id": "big-chuck",
+  "name": "Big Chuck",
+  "wikiTitle": "Big Chuck",
+  "kind": "fusion",
+  "species": "Perk Gourmand/To'kustar hybrid",
+  "homeworld": "",
+  "bodyType": "Stocky finned humanoid",
+  "debut": {
+    "episode": "Let's Do the Time War Again",
+    "series": "ov",
+    "usedBy": "ben-10k-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [
+    "upchuck",
+    "way-big"
+  ],
+  "abilities": [
+    "Eats solid matter (swallowed Eon's sword) with strong prehensile tongues",
+    "Spits ingested matter back out as explosive energy",
+    "Near-Way-Big-level enhanced strength",
+    "Enhanced speed"
+  ],
+  "weaknesses": [
+    "No weaknesses documented on the wiki",
+    "Much smaller than Way Big (all Way Big fusions shrink unless the partner is equally huge)"
+  ],
+  "summary": "Ben 10,000's Biomnitrix fusion of Perk Upchuck and Way Big: a To'kustar-finned Upchuck who eats weapons whole and spits them back as explosions with a fraction of Way Big's might.",
+  "traits": [
+    "Voice is OV Way Big's (Eric Bauza)",
+    "Way Big's chin eyes and head fin on an Upchuck body",
+    "Ate Eon's sword"
+  ],
+  "notableFeats": [
+    "Ate Eon's sword and took out Eon's minions with ease (Let's Do the Time War Again)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-10k-ov"
+      ],
+      "firstEpisode": "Let's Do the Time War Again",
+      "notableEpisodes": [
+        "Let's Do the Time War Again"
+      ],
+      "designNotes": "Perk Upchuck's basic body with Way Big's details: Way Big-style fins on head, elbows and shoulders in Perk Upchuck green, head bulbs turned fin-like, white face with grey top and green sides/back/neck, black arm stripes, tiny thighs with big calves, green fingers/toes, Way Big's chin eyes; Biomnitrix symbol on chest.",
+      "image": {
+        "file": "Big chuck.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (small, 308x573)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 8,
+    "durability": 8,
+    "speed": 6,
+    "mobility": 5,
+    "offense": 8,
+    "defense": 5,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 4,
+    "regeneration": 0,
+    "survivability": 6,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "To'kustar-scale strength and speed in a compact body (wrecked Eon's minions effortlessly) combined with Upchuck's eat-anything-and-explode-it trick, giving strong offense and useful range. Only one outing, far smaller than Way Big and no cosmic ray shown."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Big_Chuck",
+    "https://ben10.fandom.com/wiki/Biomnitrix"
+  ],
+  "notes": [
+    "One-time form used only by the Omniverse Ben 10,000 via the Biomnitrix (Let's Do the Time War Again, OV S8).",
+    "Per Derrick J. Wyatt, Way Big combinations are smaller than Way Big unless fused with something equally large.",
+    "Biomnitrix context: the Omniverse Ben 10,000 (Original Future timeline, re-established as Ben Prime's true future) wears two linked Omnitrix gauntlets; slamming them together fuses two aliens on the fly (combinations are generated at transformation time, not stored). Each gauntlet alone gives normal aliens; it is voice-controlled and can be knocked out by a large EMP or Chronosapien time-freeze. All on-screen fusions were drawn by Thomas N. Perkins IV; the device name was coined by Derrick J. Wyatt (unnamed in scripts)."
+  ]
+}

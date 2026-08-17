@@ -1,0 +1,117 @@
+{
+  "id": "terraspin",
+  "name": "Terraspin",
+  "wikiTitle": "Terraspin",
+  "kind": "standard",
+  "species": "Geochelone Aerios",
+  "homeworld": "Aldabra",
+  "bodyType": "Bipedal Tortoise",
+  "debut": {
+    "episode": "Reflected Glory",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Aerokinesis - hurricane-force wind gusts from shell vents",
+    "Limbs morph into spinning fan blades; generates tornadoes and corkscrew cyclones",
+    "Reverse-spin vacuum that sucks up air and toxic gas",
+    "Flight/hovering by spinning his limbs like propellers",
+    "Thick impermeable shell (high durability); retractable head and limbs",
+    "Enhanced strength (held a giant robot while spinning)",
+    "Immunity to poisonous gas; resistance to manna",
+    "Species can learn magic (Addwaitya)"
+  ],
+  "weaknesses": [
+    "Cumbersome and slow on the ground unless flying",
+    "Chest vents can be jammed with objects while spinning, forcing him to stop",
+    "Not fully immune to manna",
+    "Vulnerable to electricity"
+  ],
+  "summary": "A green turtle alien whose flippers become spinning fan blades - Ben's living wind turbine, sampled from Galapagus of the Andromeda Five.",
+  "traits": [
+    "DNA sampled from Galapagus",
+    "Spins like a helicopter with his shell suspended",
+    "Eight shell holes in UA, six in OV",
+    "Addwaitya's species can wield magic"
+  ],
+  "notableFeats": [
+    "Destroyed a Forever Knight giant robot in his debut (Reflected Glory)",
+    "Wiped out Aggrebots aboard the Rustbucket 3 (The Forge of Creation)",
+    "Blew away Thirteen's bombs to save Julie (Inspector 13)",
+    "Sucked all the gas out of the Gas House to expose Bubble Helmet (The More Things Change: Part 2)",
+    "Rescued Azmuth and his brain (For a Few Brains More)",
+    "Defeated Fistina (Universe vs. Tennyson)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Reflected Glory",
+      "notableEpisodes": [
+        "Reflected Glory",
+        "The Forge of Creation",
+        "Absolute Power: Part 1",
+        "The Widening Gyre",
+        "Inspector 13"
+      ],
+      "designNotes": "Green tortoise with large flipper arms, stumpy legs, circular body, eight holes in shell, three finger-holes per flipper; Ultimatrix symbol on chest.",
+      "image": {
+        "file": "Terraspin 2T.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "infobox UA render"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "The More Things Change: Part 2",
+      "notableEpisodes": [
+        "The More Things Change: Part 2",
+        "Vilgax Must Croak",
+        "The Ultimate Heist",
+        "Catfight",
+        "Universe vs. Tennyson"
+      ],
+      "designNotes": "Slightly larger hexagonal body, six shell holes, brown spots on upper legs/toes/shoulders, thicker black eye stripes, shorter legs, three toes per foot; Omnitrix on chest.",
+      "image": {
+        "file": "OV Terraspin Stand.PNG",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 7,
+    "speed": 4,
+    "mobility": 6,
+    "offense": 6,
+    "defense": 7,
+    "special": 6,
+    "versatility": 5,
+    "intellect": 4,
+    "energy": 2,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "A shell tough enough to ignore most attacks (defense 7) and hurricane winds/cyclones that shred robots and blow bombs away; can fly by spinning. Sluggish on foot, vents can be jammed, and Gwen's slow spell or electricity shut him down."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Terraspin"
+  ],
+  "notes": [
+    "UA wearer: Ultimatrix; OV: new Omnitrix."
+  ]
+}

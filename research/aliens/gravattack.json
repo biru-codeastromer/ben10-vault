@@ -1,0 +1,106 @@
+{
+  "id": "gravattack",
+  "name": "Gravattack",
+  "wikiTitle": "Gravattack",
+  "kind": "standard",
+  "species": "Galilean",
+  "homeworld": "Keplorr's Orbit",
+  "bodyType": "Living planetoid (rocky, headless humanoid)",
+  "debut": {
+    "episode": "A Jolt From the Past",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Gravikinesis - levitates, hurls, slams or pins targets with hand gestures, and can redirect the pull of gravity itself",
+    "Gravity crushing - increases gravity around a target hard enough to crush them (Vilgax Must Croak)",
+    "Orbitakinesis - traps objects and people in an orbit around himself at chosen speeds",
+    "Gravity force fields - walls, barriers and domes of gravitational energy",
+    "Speed reduction - slowed a light-speed Time Beast to a standstill",
+    "Planetoid form - retracts limbs into a sphere with boosted gravity powers, self-levitation and flight",
+    "Enhanced strength (punched a hole in the ground) and durability (took Fistrick's Class 12 mecha punches)",
+    "Space survivability - he is literally a living planetoid",
+    "Black hole generation (accidental, in a gravitational deadlock)"
+  ],
+  "weaknesses": [
+    "Heavy damage to his molten core causes agony and can trigger a meltdown explosion large enough to destroy the area (Food Around the Corner)",
+    "Bulky body struggles in tight spaces (While You Were Away)",
+    "Sudden changes of mass throw off his orbit (For a Few Brains More)",
+    "Cannot stop energy-based attacks with gravity (Fight at the Museum)",
+    "Straining against a light-speed object can accidentally spawn a black hole (Let's Do the Time War Again)"
+  ],
+  "summary": "A silicon-based living planet with a face on its torso and a lava core, who bends gravity to pin, crush, orbit or levitate anything around him.",
+  "traits": [
+    "Headless - the face is on the torso, with rock teeth and a molten planetary core",
+    "Concept name 'Graviton' was rejected for legal reasons",
+    "Size drawn inconsistently across episodes (Derrick J. Wyatt admits size-comp problems)",
+    "Judged too powerful for the Reboot's Earth-bound villains",
+    "Gravity aura was white before turning green from Vilgax Must Croak onward"
+  ],
+  "notableFeats": [
+    "Defeated Fistrick's armored mech and saved the Megawhatts (A Jolt From the Past)",
+    "Defeated General Attea, SixSix, SevenSeven and EightEight at once (Vilgax Must Croak)",
+    "Brokered the Appoplexian-Lewodan peace treaty even while the Hulex tried to detonate his core (Food Around the Corner)",
+    "Defeated the Rooters (The Rooters of All Evil) and pinned Exo-Skull into the floor (Fight at the Museum)",
+    "Chased and trapped a light-speed Time Beast, accidentally opening a black hole (Let's Do the Time War Again)",
+    "Got Max and Luhley off the Chimeran Hammer and flew them to Galvan Prime (Malgax Attacks)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "A Jolt From the Past",
+      "notableEpisodes": [
+        "A Jolt From the Past",
+        "Vilgax Must Croak",
+        "Food Around the Corner",
+        "For a Few Brains More",
+        "The Rooters of All Evil",
+        "Let's Do the Time War Again",
+        "Malgax Attacks"
+      ],
+      "designNotes": "Large bulky reddish-brown rock body, no head (face and toothy mouth on torso), molten lava core in the centre, three-toed tan feet, black shorts with green stripes and a green/white belt; Omnitrix symbol on forehead.",
+      "image": {
+        "file": "Gravattack Pose.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (562x489). Higher-res alternates in gallery: 'Gravattack Model - Alternate.png' (2356x2048, same pose, model-sheet outlines) and 'Grav.png' (2737x2969, action pose)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 8,
+    "speed": 3,
+    "mobility": 6,
+    "offense": 7,
+    "defense": 7,
+    "special": 8,
+    "versatility": 7,
+    "intellect": 3,
+    "energy": 3,
+    "regeneration": 1,
+    "survivability": 7,
+    "range": 6,
+    "cosmic": 3,
+    "weaknessPenalty": 2,
+    "controlPenalty": 1,
+    "rationale": "Special 8: gravity control that pinned four bounty hunters at once, crushed the Rooters and stopped a light-speed Time Beast; gravity domes and orbits double as defense. Durability 8 as a living planetoid that survives space and mech blows. Slow, oversized indoors, energy attacks bypass him, and a damaged core can trigger a catastrophic meltdown - hence the penalties."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Gravattack",
+    "https://ben10.fandom.com/wiki/Ultimate_Gravattack"
+  ],
+  "notes": [
+    "ultimateFormId left null: Ultimate Gravattack appeared only once and only as Albedo's Negative Ultimate Gravattack (For a Few Brains More); no version of Ben ever used it. Ultimate Gravattack record exists separately (ultimate-gravattack.json) with baseFormId 'gravattack'.",
+    "Also used by Albedo (Negative Gravattack, For a Few Brains More) and Bad Ben (And Then There Were None / And Then There Was Ben) - not counted in usedBy.",
+    "The Ultimatrix page infers Gravattack was unlocked before Double or Nothing (UA) because Albedo could later use it, but Ben never used it in UA - no UA appearance.",
+    "Gravadactyl (Gravattack + Astrodactyl) is a Biomnitrix concept only, never on-screen. Ben 23 counterpart: Orbit-Man.",
+    "Matt Wayne: targets hit a structural limit long before fusion, so Gravattack alone cannot create a black hole; the Time War black hole was a deadlock accident."
+  ]
+}

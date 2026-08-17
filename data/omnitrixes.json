@@ -1,0 +1,81 @@
+[
+  {
+    "id": "omnitrix-prototype",
+    "name": "Prototype Omnitrix",
+    "seriesIds": ["os"],
+    "wearer": "Ben Tennyson (age 10)",
+    "description": "The original, unfinished Omnitrix that latched onto ten-year-old Ben's wrist. A chunky grey-and-black wristband with a large circular faceplate; press the button and the dial pops up, twist to cycle glowing alien silhouettes, slam it down to transform.",
+    "features": [
+      "Ten starter DNA samples, more unlocked over the summer",
+      "Green active mode / red recharge mode / yellow capture mode",
+      "Timed-out transformations (roughly ten minutes)",
+      "Master Control unlocked briefly by Ben; Self-Destruct Mode; Quick-Change; Recalibration"
+    ],
+    "colors": { "primary": "#59d21f", "secondary": "#1a1a1a", "accent": "#e6e6e6" },
+    "notes": [
+      "Also called the 'Original Omnitrix' by the franchise; the same physical device later reconfigures into the Alien Force form."
+    ],
+    "assetId": null
+  },
+  {
+    "id": "omnitrix-recalibrated",
+    "name": "Recalibrated Omnitrix",
+    "seriesIds": ["af"],
+    "wearer": "Ben Tennyson (age 15–16)",
+    "description": "The same Omnitrix, reconfigured five years later into a sleeker black, green and silver wristwatch. The round green face displays a holographic image of the selected alien; the hourglass symbol became the standard Omnitrix badge on Ben's aliens.",
+    "features": [
+      "New default playlist of ten aliens with the older set locked",
+      "Holographic alien selection instead of silhouettes",
+      "Voice command mode; DNA repair function (cured DNAliens)",
+      "Master Control briefly used in War of the Worlds; destroyed in The Final Battle"
+    ],
+    "colors": { "primary": "#3ddc3d", "secondary": "#101010", "accent": "#b7bcc2" },
+    "notes": [],
+    "assetId": null
+  },
+  {
+    "id": "ultimatrix",
+    "name": "Ultimatrix",
+    "seriesIds": ["ua"],
+    "wearer": "Ben Tennyson (age 16)",
+    "description": "Albedo's incomplete evolutionary Omnitrix, claimed by Ben at the end of Alien Force. Larger and more gauntlet-like, black and green, with a four-lobed hourglass dial that Ben twists to evolve a transformation into its Ultimate form.",
+    "features": [
+      "Evolutionary function: 'Ultimate' forms simulating a million years of worst-case evolution",
+      "Full alien roster of the recalibrated Omnitrix plus new unlocks",
+      "Voice command mode; can be controlled by Ben's mind after synching",
+      "Removed by Azmuth after The Ultimate Enemy"
+    ],
+    "colors": { "primary": "#38e05a", "secondary": "#0d0d0d", "accent": "#5a5a5a" },
+    "notes": [
+      "The Ultimatrix's Ultimate forms were sentient during the Ultimate Alien season-3 'Sentient Ultimates' storyline."
+    ],
+    "assetId": null
+  },
+  {
+    "id": "omnitrix-omniverse",
+    "name": "Omnitrix (Omniverse)",
+    "seriesIds": ["ov"],
+    "wearer": "Ben Tennyson (age 16)",
+    "description": "Azmuth's completed Omnitrix — the real thing, not a prototype. A slim white-and-green wristwatch with black accents; the dial's green core projects a hologram of the selected alien, and the faceplate slides open to reveal the activation core.",
+    "features": [
+      "Complete Codon Stream access; new randomizer / master control functions",
+      "Feedback restored, Ultimate forms removed (they belong to the Ultimatrix)",
+      "Life-form lock, remote transformation and other Galvan security features",
+      "Worn throughout Omniverse, including the 'eleven-year-old Ben' flashbacks (with the prototype)"
+    ],
+    "colors": { "primary": "#3ce33c", "secondary": "#f2f2f2", "accent": "#141414" },
+    "notes": [],
+    "assetId": null
+  },
+  {
+    "id": "biomnitrix",
+    "name": "Biomnitrix",
+    "seriesIds": ["ov"],
+    "wearer": "Ben 10,000 (Omniverse)",
+    "description": "Ben 10,000's twin-Omnitrix system worn on both wrists; slamming them together fuses two aliens into one.",
+    "features": ["Fusion transformations such as Fourmungousaur, Humungoopsaur and Atomic-X"],
+    "colors": { "primary": "#3ce33c", "secondary": "#f2f2f2", "accent": "#141414" },
+    "notes": [],
+    "assetId": null
+  }
+]

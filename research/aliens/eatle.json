@@ -1,0 +1,112 @@
+{
+  "id": "eatle",
+  "name": "Eatle",
+  "wikiTitle": "Eatle",
+  "kind": "standard",
+  "species": "Oryctini",
+  "homeworld": "Coleop Terra",
+  "bodyType": "Metallic Humanoid (UA) / Humanoid Beetle (OV)",
+  "debut": {
+    "episode": "A Knight to Remember",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Eats almost anything and converts it into energy",
+    "Green energy beam fired from his horn (cut a Legerdomain mountain in half, pinned Lucubra-enhanced Vilgax)",
+    "Powerful jaws that chew metal",
+    "Enhanced strength (crushed Captain Nemesis's glove, shoved Ship-Julie through walls)",
+    "Enhanced durability (survived Nemesis's glove laser and a falling building)",
+    "Fast running; horn used as a battering ram",
+    "Wall scaling"
+  ],
+  "weaknesses": [
+    "Compulsively eats things against his interests (ate the Tenn-Speed wreck)",
+    "Weak against his natural predator"
+  ],
+  "summary": "A beetle-horned alien who chews up matter and fires it back as a laser from his horn; a blue metallic bruiser in UA and a proper rhinoceros beetle in OV.",
+  "traits": [
+    "Ten feet tall in UA",
+    "Mouth takes up most of his upper body in UA",
+    "Design changed drastically for Omniverse",
+    "Ate Kevin's bumper because it was 'delicious'"
+  ],
+  "notableFeats": [
+    "Confronted Vilgax at the Seal (A Knight to Remember)",
+    "Destroyed Addwaitya's water creature and cut a Legerdomain mountain in half (Enemy of My Frenemy)",
+    "Fought Captain Nemesis (Catch a Falling Star)",
+    "Battled Ultimate Vilgax alongside Sir George (The Ultimate Enemy: Part 1)",
+    "Retrieved the Nuclear Fusion Device from Ester (Hot Stretch)",
+    "Fought a giant OTTO (OTTO Motives)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "A Knight to Remember",
+      "notableEpisodes": [
+        "A Knight to Remember",
+        "Enemy of My Frenemy",
+        "Catch a Falling Star",
+        "The Ultimate Enemy: Part 1"
+      ],
+      "designNotes": "Ten-foot dark-blue metallic humanoid; huge silver serrated mouth spans his upper body/back, small swivelling head with a tall front horn and short rear horn, silver belt/wristbands/soles, four claws; Ultimatrix symbol on chest.",
+      "image": {
+        "file": "UAeatlepose.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "infobox UA render"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Hot Stretch",
+      "notableEpisodes": [
+        "Hot Stretch",
+        "OTTO Motives",
+        "Let's Do the Time War Again"
+      ],
+      "designNotes": "Beetle-like: grey skin with dark-green spiked armour down face/back/limbs, rounded toothy underbite jaw hinged by two spikes, blue tongue, long forked front horn (rhinoceros beetle), two toes, three fingers, green clothing on the bare torso; Omnitrix on chest.",
+      "image": {
+        "file": "Eatle omniverse official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 7,
+    "speed": 5,
+    "mobility": 5,
+    "offense": 7,
+    "defense": 5,
+    "special": 5,
+    "versatility": 5,
+    "intellect": 4,
+    "energy": 6,
+    "regeneration": 0,
+    "survivability": 4,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Mid-tier bruiser with a real gun: eating matter powers a horn beam that halved a floating mountain and held Vilgax down; tough enough to take Nemesis's lethal glove laser. Needs to eat to charge and sometimes eats the wrong thing."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Eatle"
+  ],
+  "notes": [
+    "UA and OV designs are radically different (metallic humanoid vs beetle) - both infobox images are series-labelled.",
+    "UA wearer: Ultimatrix; OV: new Omnitrix."
+  ]
+}

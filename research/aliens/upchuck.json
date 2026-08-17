@@ -1,0 +1,163 @@
+{
+  "id": "upchuck",
+  "name": "Upchuck",
+  "wikiTitle": "Upchuck",
+  "kind": "standard",
+  "species": "Gourmand (Perk and Murk variants)",
+  "homeworld": "Peptos XII (Peptos XI destroyed)",
+  "bodyType": "Amoeba-like humanoid",
+  "debut": {
+    "episode": "The Visitor",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Three (or four) long adhesive prehensile tongues",
+    "Mouth expansion - swallows objects larger than himself",
+    "Eats almost any matter, liquid or energy (Sub-Energy, energy beams)",
+    "Converts what he eats into explosive green vomit 'loogies'",
+    "Energy redirection via ingestion",
+    "Vomit-propelled flight",
+    "Space survivability",
+    "Enhanced durability (survives car impacts)",
+    "Enhanced jumping and reflexes",
+    "Slime / acid spit"
+  ],
+  "weaknesses": [
+    "Size limit - To'kustar-sized things must be chopped up first",
+    "Too much matter/energy inflates him and kills his mobility",
+    "Struggles to keep down living, moving prey",
+    "Easily distracted by food",
+    "In OS could not eat normal human food"
+  ],
+  "summary": "Ben's bottomless-stomach Gourmand who eats anything - even raw energy - and spits it back as explosive loogies; Perk in OS, Murk in AF/UA, both in OV.",
+  "traits": [
+    "Perk (green, curly tail) vs Murk (swamp-green, spotted, straight tail) sub-species",
+    "Stomach links to a trans-space bladder dimension",
+    "Gourmands ate their own planet Peptos XI to deny it to the Incurseans",
+    "Fusion component of Big Chuck (OV)"
+  ],
+  "notableFeats": [
+    "Ate the Sub-Energy and defeated the Mechadroid (The Visitor)",
+    "Defeated the Red Knight and Sir Driscoll, blowing up Mt. Rushmore (Ben 10 vs. Negative 10: Part 2)",
+    "Ate a Crabdozer whole (For a Few Brains More)",
+    "Captured the escaped Chromastone (Vengeance of Vilgax: Part 2)",
+    "Ate Charmcaster's giant animated Mr. Smoothy (In Charm's Way)",
+    "Carried the Alpha Nanite's container across dimensions in his stomach (Heroes United)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "The Visitor",
+      "notableEpisodes": [
+        "The Visitor",
+        "Ben 4 Good Buddy",
+        "Ben 10 vs. Negative 10: Part 2",
+        "Ben 10: Secret of the Omnitrix"
+      ],
+      "designNotes": "PERK Gourmand: green skin, six sprouts on the head, dark-green head patch, crooked overbite, curled tail, white eyes; black open-front suit with white over-sleeves and leg bands, original Omnitrix on the left hand.",
+      "image": {
+        "file": "Ben 10 Upchuck.PNG",
+        "label": "OS(P)",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af",
+        "ben-16-af"
+      ],
+      "firstEpisode": "War of the Worlds: Part 1",
+      "notableEpisodes": [
+        "War of the Worlds: Part 1",
+        "Vengeance of Vilgax: Part 2",
+        "In Charm's Way"
+      ],
+      "designNotes": "MURK Gourmand: swamp-green skin with tan stomach and muzzle, black sprouts and black-green spots, sharp green eyes, whisker lines, aligned teeth with canines, short straight tail, no clothing, Omnitrix on the stomach (shared AF/UA design).",
+      "image": {
+        "file": "Upchuck Clear.png",
+        "label": "UAF(M)",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Duped",
+      "notableEpisodes": [
+        "Duped",
+        "The Purge",
+        "Ben 10/Generator Rex: Heroes United"
+      ],
+      "designNotes": "MURK Gourmand, same as Alien Force with the Ultimatrix on the stomach; Heroes United version has longer face stripes and finger stubs.",
+      "image": {
+        "file": "Upchuck Clear.png",
+        "label": "UAF(M)",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "Tummy Trouble",
+      "notableEpisodes": [
+        "Tummy Trouble",
+        "Store 23",
+        "Evil's Encore",
+        "For a Few Brains More",
+        "No Honor Among Bros",
+        "Universe vs. Tennyson"
+      ],
+      "designNotes": "Both variants appear (Tummy Trouble). PERK (most used, chosen image): 16-year-old is unclothed with green eyes and Omnitrix on the stomach; 11-year-old keeps the OS suit with green eyes, green Omnitrix and bare clawed feet. MURK (Store 23, Tummy Trouble): previous design with longer claws, brighter sprouts, fewer spots, two underbite teeth. Murk image: 'Murk Upchuck Stand.png'.",
+      "image": {
+        "file": "Upchuck tabber.png",
+        "label": "OV(P)",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 4,
+    "durability": 6,
+    "speed": 3,
+    "mobility": 5,
+    "offense": 7,
+    "defense": 5,
+    "special": 7,
+    "versatility": 6,
+    "intellect": 3,
+    "energy": 6,
+    "regeneration": 0,
+    "survivability": 6,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Eating anything up to raw energy and returning it as grenade-strength explosive loogies is a strong, flexible offense/counter, and he can fly on vomit and survive space. Physically small and slow, easily bloated or distracted by food."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Upchuck"
+  ],
+  "notes": [
+    "Variant by series: OS = Perk; AF/UA = Murk (Perk locked in Ben 10 Returns, Murk unlocked by the Master Control in War of the Worlds: Part 1); OV = both, mostly Perk.",
+    "AF: War of the Worlds: Part 1 is wiki S1 (Ben 15); Vengeance of Vilgax: Part 2 and In Charm's Way are wiki S2 (Ben 16).",
+    "UA 'Duped' use is by 'Rude Ben' (a personality-split Ben) - counted as Ben. Also used by Gwen (Inspector 13) and Mad Ben (OV) - not counted.",
+    "One alien record for both variants per assignment; per-series designNotes describe which variant."
+  ]
+}

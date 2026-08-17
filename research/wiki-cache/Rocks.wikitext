@@ -1,0 +1,85 @@
+{{Questioned}}
+{{Infobox Alien
+|backcolor = D6E144
+|textcolor = 8D9127
+|name = Rocks
+|image = Rocks Live.png
+|species = [[Basalt]]
+|home-planet = [[Andesite]]
+|power = Enhanced Strength<br>Earthquake Generation<br>Heat Resistance
+|1st-appearance = Ben 10 Live: Power of the Omnitrix
+}}
+'''Rocks''' is the [[Omnitrix (Omniverse)|Omnitrix]]'s DNA sample of a [[Basalt]] from the planet [[Andesite]].{{Refn|''link unavailable''|group = Net|name = site}}
+
+==Appearance==
+Rocks is a humanoid alien whose body consists entirely of symmetrically formed yellow-lime stone. His stone is darker in some areas: between his shoulders and forearms; from his lower torso down to his knees; and on his palms. He also has two darker-colored spikes coming out of each arm. He has smaller spikes on his legs and his hands have three fingers: the middle one being larger and spade shaped. He wears the [[Omnitrix (Original)|Omnitrix]] symbol on his chest.
+
+==Personality==
+Although he may appear to have a tough exterior and is quick-tempered in battle, Rocks is very down-to-earth, and acts like a solid, loyal type of hero.{{Refn|group = Net|name = site}}
+
+==Powers and Abilities==
+Rocks has enhanced strength, which he can use for crushing and pummeling things.{{Refn|group = Net|name = site}}
+
+By using his strength, Rocks can generate earthquakes.{{Refn|group = Net|name = site}}
+
+Due to the environment of his home planet, Rocks is resistant to intense heat.{{Refn|group = Net|name = site}}
+
+==Weaknesses==
+Rocks is cumbersome, and thus not very fast or agile.{{Refn|group = Net|name = site}}
+
+Water is dangerous to Rocks: over time, it erodes his body and weakens his strength.{{Refn|group = Net|name = site}}
+
+Rocks cannot swim, and sinks like a stone when in water.{{Refn|group = Net|name = site}}
+
+==Appearances==
+===Plays===
+*''[[Ben 10 Live: Power of the Omnitrix]]''
+*''[[Ben 10 Live: The Rise of VilEon]]''
+
+==Naming and Translations==
+{{Translation
+|ha = Rocks
+|had = From the original English name
+|italian = Rocks
+|italiand = From the original English name
+|polish = Rocks
+|polishd = From the original English name
+|portuguesebr = Rochas
+|portuguesebrd = From ''rochas'', rocks
+|romanian = Rocks
+|romaniand = From the original English name
+|russian = Рокс
+|russiand = From the original English name
+|turkish = Roks
+|turkishd = From the original English name}}
+
+==Trivia==
+[[File:Rockspose.png|thumb|2D promotional art of Rocks]]
+*Although some crew members think Rocks is not canon,{{Refn|[[:File:Rocks and Squidstrictor Originally Non-Canon.PNG]]|group = DM}}{{Refn|[[:File:Rocks and Squidstrictor Originally Non-Canon 2.PNG]]|group = MW}} [[Derrick J. Wyatt]] believed Rocks is canon{{Refn|[[:File:Rocks and Squidstrictor Canon.png]]|group = DJW}} and was unlocked off-screen prior to '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''.{{Refn|[[:File:Rocks and Squidstrictor Unlocked Before OV.png]]|group = DJW}}
+**Had the network allowed the crew to include more aliens into '''Omniverse''', Derrick would have incorporated Rocks.{{Refn|[[:File:Derrick Wanted to Add Rocks and Squidstrictor Into OV.png]]|group = DJW}}{{Refn|[[:File:Derrick was not aware of Total Access aliens during production.png]]|group = DJW}} Had he added him, Rocks would have been accompanied by the sound of rocks scraping together.{{Refn|[[:File:DJW Alien Sound Effects.png]]|group = DJW}}
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Dwayne McDuffie]]====
+{{Reflist|group = DM}}
+====[[Matt Wayne]]====
+{{Reflist|group = MW}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+===[[Cartoon Network]]===
+====Ben 10.Net====
+{{Reflist|group = Net}}
+{{Non-Canon Aliens}}
+[[es:Rocks]]
+[[it:Rocks]]
+[[pl:Rocks]]
+[[pt-br:Rochas]]
+[[ro:Rocks]]
+[[ru:Рокс]]
+[[tr:Roks]]
+[[Category:Transformations]]
+[[Category:Aliens]]
+[[Category:Live-Action Transformations]]
+[[Category:Non-Canon Aliens]]
+[[Category:Non-Canon Transformations]]

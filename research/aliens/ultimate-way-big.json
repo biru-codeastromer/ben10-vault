@@ -1,0 +1,91 @@
+{
+  "id": "ultimate-way-big",
+  "name": "Ultimate Way Big",
+  "wikiTitle": "Ultimate Way Big",
+  "kind": "ultimate",
+  "species": "Ultimate To'kustar",
+  "homeworld": "",
+  "bodyType": "Giant humanoid",
+  "debut": {
+    "episode": "The Ultimate Enemy: Part 2",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": "way-big",
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Cosmic rays fired as beams or projectiles from crossed arms",
+    "Cosmic energy saws (cut off one of Dagon's tentacles)",
+    "High-speed body spin that deflects energy beams",
+    "Flight",
+    "Immense strength (dragged the gargantuan Dagon to the ground)",
+    "Immense durability (withstood Dagon's energy beams)",
+    "Enhanced jumping; even larger than Way Big"
+  ],
+  "weaknesses": [
+    "Vulnerable to acid (Dagon's acid rain brought him down)",
+    "Enormous size - unusable in confined spaces"
+  ],
+  "summary": "The evolved To'kustar: a bigger, blue-and-white, horned Way Big that flies, spins away energy blasts and hurls cosmic rays and cosmic saws. Ben's last-resort weapon against Dagon.",
+  "traits": [
+    "Last Ultimate form introduced in UA",
+    "One-time transformation",
+    "Ultraman Taro/Dyna homage",
+    "Voiced by Dee Bradley Baker"
+  ],
+  "notableFeats": [
+    "Cut off one of Dagon's tentacles with a cosmic saw (The Ultimate Enemy: Part 2)",
+    "Pulled the vastly larger Dagon down to the ground (The Ultimate Enemy: Part 2)",
+    "Spun fast enough to repel Dagon's laser beams and withstood his energy attacks (The Ultimate Enemy: Part 2)",
+    "Ultimately brought down by Dagon's acid rain (The Ultimate Enemy: Part 2)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "The Ultimate Enemy: Part 2",
+      "notableEpisodes": [
+        "The Ultimate Enemy: Part 2"
+      ],
+      "designNotes": "Almost identical to UAF Way Big but recoloured: white body areas (except chest, hands, face) become blue, red areas (except shoulders/cheeks) become white, black becomes red; two curved horns on the sides of the head; larger than Way Big; evolved Ultimatrix symbol on chest.",
+      "image": {
+        "file": "Ultimate way big.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "Infobox image, but it is an episode screenshot (upper-body portrait, night sky background); the wiki has no official full-body render for this form. Other candidate screenshots: 'Ultimate Way Big 004.png' (cosmic ray), 'Ultimate way big flight.png'."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 10,
+    "durability": 10,
+    "speed": 6,
+    "mobility": 8,
+    "offense": 9,
+    "defense": 7,
+    "special": 7,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 8,
+    "regeneration": 0,
+    "survivability": 8,
+    "range": 9,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 2,
+    "rationale": "Planetary-tier physicals: dragged the colossal Dagon down, tanked his beams, deflected lasers by spinning, sliced a tentacle with a cosmic saw and fires cosmic rays at long range, all while flying. Only one outing, acid rain defeated him, and his size is a serious control problem anywhere but open ground."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Way_Big",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "One-time form (The Ultimate Enemy: Part 2). Never used in AF/OV and never by Albedo.",
+    "No official model/render exists on the wiki - image confidence high only in the sense that it is the infobox choice; a human may prefer a different screenshot.",
+    "Not among the six sentient Ultimates in 'The Ultimate Sacrifice' (debuted afterwards).",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

@@ -1,0 +1,77 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 671E44
+|textcolor = 547AD1
+|name = Ultimate Arctiguana
+|image = Negative Ultimate Articguana.png
+|species = [[Ultimate Polar Manzardill]]
+|body = Animalistic
+|normal form = [[Arctiguana]]
+|power = Ice Cannons<br>Freeze rays <small>(via Ice Cannons)</small><br>Ice Boulders <small>(via Ice Cannons)</small>
+|voice = [[Eric Bauza]]
+|1st-appearance = For a Few Brains More
+}}
+'''Ultimate Arctiguana''' is the [[Ultimatrix (Stabilizer)|Ultimatrix]]'s artificially [[Ultimate Forms|evolved]] DNA sample of a [[Polar Manzardill]].
+
+==Appearance==
+Ultimate Arctiguana has increased in size and his body has gained more bulk in front. He wears what appears to be red armor. He now has an overbite; three whiskers on his chin; and a long, black "mustache" of sorts, starting off as black zigzag markings between his eyes and then falling off the sides of his mouth and curving inward at the tips. He has ice covering sections of his back and shoulders, with twin red cannons sticking out from the shoulders. There are also small ice growths on his arms.
+
+Ultimate Arctiguana wears the evolved [[Ultimatrix (Stabilizer)|Ultimatrix]] symbol seemingly attached to the spiky mound of ice on his back.
+
+==Powers and Abilities==
+<gallery type="slideshow">
+FaFBM (87).png|Ice Cannons
+FaFBM (88).png|Freeze Rays (via Ice Cannons)
+FaFBM (90).png|Ice Boulders (via Ice Cannons)
+</gallery>
+Ultimate Arctiguana has shoulder-mounted cannons that can aim forward. From these, he can shoot freeze rays that can solidify in midair to create large boulders of ice.
+
+==History==
+===Omniverse===
+*Ultimate Arctiguana first appeared in ''[[For a Few Brains More]]'', where he was used by [[Albedo]] to pursue and attack [[Ben Tennyson (Classic)|Ben]], [[Rook Blonko|Rook]], and [[Max Tennyson (Classic)|Max]] in an attempt to recover [[Azmuth (Classic)|Azmuth]]'s brain.
+
+==Appearances==
+===Omniverse===
+====Season 4====
+*''[[For a Few Brains More]]'' <small>(first appearance; cameo)</small>
+
+==Naming and Translations==
+{{Translation
+|russian = Ульти Арктигуана
+|russiand = From ''Ульти Арктигуана'', Ulti Arctiguana
+|ha = Arctiguana Supremo
+|had = From ''Arctiguana Supremo'', Supreme Arctiguana
+|polish = Ostateczna Arktiguana
+|polishd = From ''Ostateczna Arktiguana'', Ultimate Arctiguana
+|portuguesebr = Iguana Ártica Suprema
+|portuguesebrd = From ''Iguana Ártica Suprema'', Supreme Arctic Iguana
+|romanian = Articguana X
+|romaniand = From ''Articguana X''
+|italian= Ultra Arctiguana
+}}
+
+==Trivia==
+*Negative Ultimate Arctiguana was designed by Dou Hong alongside [[Steven Choi]] and [[Chap Yaep]].{{Refn|[[:File:Dou Hong Designed Ultimate Arctiguana.png]]|group = DJW}}{{Refn|[[:File:Derrick's work on the Ultimate forms.PNG]]|group = DJW}}
+*Negative Ultimate Arctiguana's shoulder cannons are reminiscent of [[pokémon:Blastoise|Blastoise]]'s cannons from the '''[[Wikipedia:Pokémon|Pokémon]]''' series.
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+{{Ben 10 Aliens}}
+[[es:Arctiguana Supremo]]
+[[pl:Negatywna Ostateczna Arktiguana]]
+[[pt-br:Iguana Ártica Suprema (Albedo)]]
+[[ro:Articguana X]]
+[[ru:Ульти-Арктигуанна]]
+
+[[Category:Aliens]]
+[[Category:Transformations]]
+[[Category:Omniverse Transformations]]
+[[Category:Ultimate Forms]]
+[[Category:Albedo's Transformations]]
+[[Category:Classic Aliens]]
+[[Category:One-Time Aliens]]
+[[Category:One-Time Transformations]]
+[[Category:Classic Transformations]]

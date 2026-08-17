@@ -1,0 +1,2072 @@
+[
+ {
+  "title": "Vendetta",
+  "series": "af",
+  "season": null,
+  "episode": null,
+  "canonical": null,
+  "airing": null,
+  "overall": null
+ },
+ {
+  "title": "Ben 10 Returns: Part 1",
+  "series": "af",
+  "season": 1,
+  "episode": 1,
+  "canonical": null,
+  "airing": 1,
+  "overall": 1
+ },
+ {
+  "title": "Ben 10 Returns: Part 2",
+  "series": "af",
+  "season": 1,
+  "episode": 2,
+  "canonical": null,
+  "airing": 2,
+  "overall": 2
+ },
+ {
+  "title": "Everybody Talks About the Weather",
+  "series": "af",
+  "season": 1,
+  "episode": 3,
+  "canonical": null,
+  "airing": 3,
+  "overall": 3
+ },
+ {
+  "title": "Kevin's Big Score",
+  "series": "af",
+  "season": 1,
+  "episode": 4,
+  "canonical": null,
+  "airing": 4,
+  "overall": 4
+ },
+ {
+  "title": "All That Glitters",
+  "series": "af",
+  "season": 1,
+  "episode": 5,
+  "canonical": null,
+  "airing": 5,
+  "overall": 5
+ },
+ {
+  "title": "Max Out",
+  "series": "af",
+  "season": 1,
+  "episode": 6,
+  "canonical": null,
+  "airing": 58,
+  "overall": 7
+ },
+ {
+  "title": "Pier Pressure",
+  "series": "af",
+  "season": 1,
+  "episode": 7,
+  "canonical": null,
+  "airing": 59,
+  "overall": 6
+ },
+ {
+  "title": "What Are Little Girls Made Of?",
+  "series": "af",
+  "season": 1,
+  "episode": 8,
+  "canonical": null,
+  "airing": 60,
+  "overall": 9
+ },
+ {
+  "title": "The Gauntlet",
+  "series": "af",
+  "season": 1,
+  "episode": 9,
+  "canonical": null,
+  "airing": 61,
+  "overall": 10
+ },
+ {
+  "title": "Paradox",
+  "series": "af",
+  "season": 1,
+  "episode": 10,
+  "canonical": null,
+  "airing": 62,
+  "overall": 12
+ },
+ {
+  "title": "Be-Knighted",
+  "series": "af",
+  "season": 1,
+  "episode": 11,
+  "canonical": null,
+  "airing": 63,
+  "overall": 8
+ },
+ {
+  "title": "Plumbers' Helpers (Episode)",
+  "series": "af",
+  "season": 1,
+  "episode": 12,
+  "canonical": null,
+  "airing": 64,
+  "overall": 11
+ },
+ {
+  "title": "X = Ben + 2",
+  "series": "af",
+  "season": 1,
+  "episode": 13,
+  "canonical": null,
+  "airing": 13,
+  "overall": 13
+ },
+ {
+  "title": "Unproduced Alien Force Episode",
+  "series": "af",
+  "season": 2,
+  "episode": null,
+  "canonical": null,
+  "airing": null,
+  "overall": null
+ },
+ {
+  "title": "Darkstar Rising",
+  "series": "af",
+  "season": 2,
+  "episode": 1,
+  "canonical": null,
+  "airing": 66,
+  "overall": 15
+ },
+ {
+  "title": "Alone Together",
+  "series": "af",
+  "season": 2,
+  "episode": 2,
+  "canonical": null,
+  "airing": 67,
+  "overall": 14
+ },
+ {
+  "title": "Good Copy, Bad Copy",
+  "series": "af",
+  "season": 2,
+  "episode": 3,
+  "canonical": null,
+  "airing": null,
+  "overall": 16
+ },
+ {
+  "title": "Save the Last Dance",
+  "series": "af",
+  "season": 2,
+  "episode": 4,
+  "canonical": null,
+  "airing": 17,
+  "overall": 17
+ },
+ {
+  "title": "Undercover",
+  "series": "af",
+  "season": 2,
+  "episode": 5,
+  "canonical": null,
+  "airing": 18,
+  "overall": 18
+ },
+ {
+  "title": "Pet Project",
+  "series": "af",
+  "season": 2,
+  "episode": 6,
+  "canonical": null,
+  "airing": 71,
+  "overall": 21
+ },
+ {
+  "title": "Grounded",
+  "series": "af",
+  "season": 2,
+  "episode": 7,
+  "canonical": null,
+  "airing": 20,
+  "overall": 20
+ },
+ {
+  "title": "Voided",
+  "series": "af",
+  "season": 2,
+  "episode": 8,
+  "canonical": null,
+  "airing": 73,
+  "overall": 23
+ },
+ {
+  "title": "Inside Man",
+  "series": "af",
+  "season": 2,
+  "episode": 9,
+  "canonical": null,
+  "airing": 74,
+  "overall": 24
+ },
+ {
+  "title": "Birds of a Feather",
+  "series": "af",
+  "season": 2,
+  "episode": 10,
+  "canonical": null,
+  "airing": 75,
+  "overall": 19
+ },
+ {
+  "title": "Unearthed",
+  "series": "af",
+  "season": 2,
+  "episode": 11,
+  "canonical": null,
+  "airing": 76,
+  "overall": 22
+ },
+ {
+  "title": "War of the Worlds: Part 1",
+  "series": "af",
+  "season": 2,
+  "episode": 12,
+  "canonical": null,
+  "airing": 25,
+  "overall": 25
+ },
+ {
+  "title": "War of the Worlds: Part 2",
+  "series": "af",
+  "season": 2,
+  "episode": 13,
+  "canonical": null,
+  "airing": 26,
+  "overall": 26
+ },
+ {
+  "title": "Vengeance of Vilgax: Part 1",
+  "series": "af",
+  "season": 3,
+  "episode": 1,
+  "canonical": null,
+  "airing": null,
+  "overall": 27
+ },
+ {
+  "title": "Vengeance of Vilgax: Part 2",
+  "series": "af",
+  "season": 3,
+  "episode": 2,
+  "canonical": null,
+  "airing": null,
+  "overall": 28
+ },
+ {
+  "title": "Inferno",
+  "series": "af",
+  "season": 3,
+  "episode": 3,
+  "canonical": null,
+  "airing": null,
+  "overall": 29
+ },
+ {
+  "title": "Fool's Gold",
+  "series": "af",
+  "season": 3,
+  "episode": 4,
+  "canonical": null,
+  "airing": 82,
+  "overall": 32
+ },
+ {
+  "title": "Simple",
+  "series": "af",
+  "season": 3,
+  "episode": 5,
+  "canonical": null,
+  "airing": null,
+  "overall": 31
+ },
+ {
+  "title": "Don't Fear the Repo",
+  "series": "af",
+  "season": 3,
+  "episode": 6,
+  "canonical": null,
+  "airing": 84,
+  "overall": 30
+ },
+ {
+  "title": "Singlehanded",
+  "series": "af",
+  "season": 3,
+  "episode": 7,
+  "canonical": null,
+  "airing": null,
+  "overall": 33
+ },
+ {
+  "title": "If All Else Fails",
+  "series": "af",
+  "season": 3,
+  "episode": 8,
+  "canonical": null,
+  "airing": null,
+  "overall": 34
+ },
+ {
+  "title": "In Charm's Way",
+  "series": "af",
+  "season": 3,
+  "episode": 9,
+  "canonical": null,
+  "airing": null,
+  "overall": 35
+ },
+ {
+  "title": "Ghost Town",
+  "series": "af",
+  "season": 3,
+  "episode": 10,
+  "canonical": null,
+  "airing": 88,
+  "overall": 37
+ },
+ {
+  "title": "Trade-Off!",
+  "series": "af",
+  "season": 3,
+  "episode": 11,
+  "canonical": null,
+  "airing": 89,
+  "overall": 36
+ },
+ {
+  "title": "Busy Box",
+  "series": "af",
+  "season": 3,
+  "episode": 12,
+  "canonical": null,
+  "airing": null,
+  "overall": 38
+ },
+ {
+  "title": "Con of Rath",
+  "series": "af",
+  "season": 3,
+  "episode": 13,
+  "canonical": null,
+  "airing": null,
+  "overall": 39
+ },
+ {
+  "title": "Primus (Episode)",
+  "series": "af",
+  "season": 3,
+  "episode": 14,
+  "canonical": null,
+  "airing": null,
+  "overall": 40
+ },
+ {
+  "title": "Time Heals",
+  "series": "af",
+  "season": 3,
+  "episode": 15,
+  "canonical": null,
+  "airing": 93,
+  "overall": 44
+ },
+ {
+  "title": "The Secret of Chromastone",
+  "series": "af",
+  "season": 3,
+  "episode": 16,
+  "canonical": null,
+  "airing": null,
+  "overall": 42
+ },
+ {
+  "title": "Above and Beyond",
+  "series": "af",
+  "season": 3,
+  "episode": 17,
+  "canonical": null,
+  "airing": 95,
+  "overall": 41
+ },
+ {
+  "title": "The Final Battle: Part 1",
+  "series": "af",
+  "season": 3,
+  "episode": 19,
+  "canonical": null,
+  "airing": null,
+  "overall": 45
+ },
+ {
+  "title": "The Final Battle: Part 2",
+  "series": "af",
+  "season": 3,
+  "episode": 20,
+  "canonical": null,
+  "airing": null,
+  "overall": 46
+ },
+ {
+  "title": "And Then There Were 10",
+  "series": "os",
+  "season": 1,
+  "episode": 1,
+  "canonical": 1,
+  "airing": 1,
+  "overall": 1
+ },
+ {
+  "title": "Washington B.C.",
+  "series": "os",
+  "season": 1,
+  "episode": 2,
+  "canonical": 2,
+  "airing": 2,
+  "overall": 2
+ },
+ {
+  "title": "The Krakken",
+  "series": "os",
+  "season": 1,
+  "episode": 3,
+  "canonical": null,
+  "airing": 3,
+  "overall": 3
+ },
+ {
+  "title": "Permanent Retirement",
+  "series": "os",
+  "season": 1,
+  "episode": 4,
+  "canonical": null,
+  "airing": null,
+  "overall": 4
+ },
+ {
+  "title": "Hunted",
+  "series": "os",
+  "season": 1,
+  "episode": 5,
+  "canonical": null,
+  "airing": 5,
+  "overall": 5
+ },
+ {
+  "title": "Tourist Trap",
+  "series": "os",
+  "season": 1,
+  "episode": 6,
+  "canonical": 8,
+  "airing": 6,
+  "overall": 8
+ },
+ {
+  "title": "Kevin 11 (Episode)",
+  "series": "os",
+  "season": 1,
+  "episode": 7,
+  "canonical": null,
+  "airing": 7,
+  "overall": 7
+ },
+ {
+  "title": "The Alliance",
+  "series": "os",
+  "season": 1,
+  "episode": 8,
+  "canonical": null,
+  "airing": 8,
+  "overall": 9
+ },
+ {
+  "title": "Last Laugh",
+  "series": "os",
+  "season": 1,
+  "episode": 9,
+  "canonical": 6,
+  "airing": 9,
+  "overall": 6
+ },
+ {
+  "title": "Lucky Girl (Episode)",
+  "series": "os",
+  "season": 1,
+  "episode": 10,
+  "canonical": null,
+  "airing": 10,
+  "overall": 10
+ },
+ {
+  "title": "A Small Problem",
+  "series": "os",
+  "season": 1,
+  "episode": 11,
+  "canonical": null,
+  "airing": 11,
+  "overall": 11
+ },
+ {
+  "title": "Side Effects",
+  "series": "os",
+  "season": 1,
+  "episode": 12,
+  "canonical": null,
+  "airing": 12,
+  "overall": 12
+ },
+ {
+  "title": "Secrets",
+  "series": "os",
+  "season": 1,
+  "episode": 13,
+  "canonical": null,
+  "airing": null,
+  "overall": 13
+ },
+ {
+  "title": "Truth",
+  "series": "os",
+  "season": 2,
+  "episode": 1,
+  "canonical": null,
+  "airing": 14,
+  "overall": 14
+ },
+ {
+  "title": "The Big Tick",
+  "series": "os",
+  "season": 2,
+  "episode": 2,
+  "canonical": null,
+  "airing": null,
+  "overall": 15
+ },
+ {
+  "title": "Framed",
+  "series": "os",
+  "season": 2,
+  "episode": 3,
+  "canonical": null,
+  "airing": null,
+  "overall": 16
+ },
+ {
+  "title": "Gwen 10 (Episode)",
+  "series": "os",
+  "season": 2,
+  "episode": 4,
+  "canonical": null,
+  "airing": 17,
+  "overall": 19
+ },
+ {
+  "title": "Grudge Match",
+  "series": "os",
+  "season": 2,
+  "episode": 5,
+  "canonical": null,
+  "airing": null,
+  "overall": 18
+ },
+ {
+  "title": "The Galactic Enforcers",
+  "series": "os",
+  "season": 2,
+  "episode": 6,
+  "canonical": null,
+  "airing": 19,
+  "overall": 17
+ },
+ {
+  "title": "Camp Fear",
+  "series": "os",
+  "season": 2,
+  "episode": 7,
+  "canonical": null,
+  "airing": 20,
+  "overall": 22
+ },
+ {
+  "title": "Ultimate Weapon",
+  "series": "os",
+  "season": 2,
+  "episode": 8,
+  "canonical": null,
+  "airing": null,
+  "overall": 21
+ },
+ {
+  "title": "Tough Luck",
+  "series": "os",
+  "season": 2,
+  "episode": 9,
+  "canonical": null,
+  "airing": 22,
+  "overall": 23
+ },
+ {
+  "title": "They Lurk Below",
+  "series": "os",
+  "season": 2,
+  "episode": 10,
+  "canonical": null,
+  "airing": 23,
+  "overall": 24
+ },
+ {
+  "title": "Ghostfreaked Out",
+  "series": "os",
+  "season": 2,
+  "episode": 11,
+  "canonical": null,
+  "airing": 24,
+  "overall": 20
+ },
+ {
+  "title": "Dr. Animo and the Mutant Ray",
+  "series": "os",
+  "season": 2,
+  "episode": 12,
+  "canonical": null,
+  "airing": null,
+  "overall": 25
+ },
+ {
+  "title": "Back With a Vengeance",
+  "series": "os",
+  "season": 2,
+  "episode": 13,
+  "canonical": null,
+  "airing": null,
+  "overall": 26
+ },
+ {
+  "title": "Ben 10,000 (Episode)",
+  "series": "os",
+  "season": 3,
+  "episode": 1,
+  "canonical": null,
+  "airing": 27,
+  "overall": 28
+ },
+ {
+  "title": "Midnight Madness",
+  "series": "os",
+  "season": 3,
+  "episode": 2,
+  "canonical": null,
+  "airing": 28,
+  "overall": 27
+ },
+ {
+  "title": "A Change of Face",
+  "series": "os",
+  "season": 3,
+  "episode": 3,
+  "canonical": null,
+  "airing": null,
+  "overall": 29
+ },
+ {
+  "title": "Merry Christmas",
+  "series": "os",
+  "season": 3,
+  "episode": 4,
+  "canonical": null,
+  "airing": null,
+  "overall": 30
+ },
+ {
+  "title": "Benwolf",
+  "series": "os",
+  "season": 3,
+  "episode": 5,
+  "canonical": null,
+  "airing": null,
+  "overall": 31
+ },
+ {
+  "title": "Game Over",
+  "series": "os",
+  "season": 3,
+  "episode": 6,
+  "canonical": null,
+  "airing": null,
+  "overall": 32
+ },
+ {
+  "title": "Super Alien Hero Buddy Adventures (Episode)",
+  "series": "os",
+  "season": 3,
+  "episode": 7,
+  "canonical": null,
+  "airing": null,
+  "overall": 33
+ },
+ {
+  "title": "Under Wraps",
+  "series": "os",
+  "season": 3,
+  "episode": 8,
+  "canonical": null,
+  "airing": null,
+  "overall": 34
+ },
+ {
+  "title": "The Unnaturals",
+  "series": "os",
+  "season": 3,
+  "episode": 9,
+  "canonical": null,
+  "airing": 35,
+  "overall": 36
+ },
+ {
+  "title": "Monster Weather",
+  "series": "os",
+  "season": 3,
+  "episode": 10,
+  "canonical": null,
+  "airing": 36,
+  "overall": 35
+ },
+ {
+  "title": "The Return",
+  "series": "os",
+  "season": 3,
+  "episode": 11,
+  "canonical": null,
+  "airing": 37,
+  "overall": 38
+ },
+ {
+  "title": "Be Afraid of the Dark",
+  "series": "os",
+  "season": 3,
+  "episode": 12,
+  "canonical": null,
+  "airing": 38,
+  "overall": 39
+ },
+ {
+  "title": "The Visitor",
+  "series": "os",
+  "season": 3,
+  "episode": 13,
+  "canonical": null,
+  "airing": 39,
+  "overall": 37
+ },
+ {
+  "title": "Perfect Day",
+  "series": "os",
+  "season": 4,
+  "episode": 1,
+  "canonical": 40,
+  "airing": 40,
+  "overall": 40
+ },
+ {
+  "title": "Divided We Stand",
+  "series": "os",
+  "season": 4,
+  "episode": 2,
+  "canonical": 41,
+  "airing": 41,
+  "overall": 41
+ },
+ {
+  "title": "Don't Drink the Water",
+  "series": "os",
+  "season": 4,
+  "episode": 3,
+  "canonical": 42,
+  "airing": 42,
+  "overall": 42
+ },
+ {
+  "title": "Big Fat Alien Wedding",
+  "series": "os",
+  "season": 4,
+  "episode": 4,
+  "canonical": 43,
+  "airing": 43,
+  "overall": 43
+ },
+ {
+  "title": "Ben 4 Good Buddy",
+  "series": "os",
+  "season": 4,
+  "episode": 5,
+  "canonical": 44,
+  "airing": 44,
+  "overall": 44
+ },
+ {
+  "title": "Ready to Rumble",
+  "series": "os",
+  "season": 4,
+  "episode": 6,
+  "canonical": 45,
+  "airing": 45,
+  "overall": 45
+ },
+ {
+  "title": "Ken 10",
+  "series": "os",
+  "season": 4,
+  "episode": 7,
+  "canonical": 46,
+  "airing": 46,
+  "overall": 46
+ },
+ {
+  "title": "Ben 10 vs. Negative 10: Part 1",
+  "series": "os",
+  "season": 4,
+  "episode": 8,
+  "canonical": 47,
+  "airing": 47,
+  "overall": 47
+ },
+ {
+  "title": "Ben 10 vs. Negative 10: Part 2",
+  "series": "os",
+  "season": 4,
+  "episode": 9,
+  "canonical": 48,
+  "airing": 48,
+  "overall": 48
+ },
+ {
+  "title": "Goodbye and Good Riddance",
+  "series": "os",
+  "season": 4,
+  "episode": 10,
+  "canonical": 52,
+  "airing": 49,
+  "overall": 52
+ },
+ {
+  "title": "Tangled Web: Part 1",
+  "series": "ov",
+  "season": 1,
+  "episode": 1,
+  "canonical": null,
+  "airing": null,
+  "overall": null
+ },
+ {
+  "title": "The More Things Change: Part 1",
+  "series": "ov",
+  "season": 1,
+  "episode": 1,
+  "canonical": null,
+  "airing": 1,
+  "overall": 1
+ },
+ {
+  "title": "Tangled Web: Part 2",
+  "series": "ov",
+  "season": 1,
+  "episode": 2,
+  "canonical": null,
+  "airing": null,
+  "overall": null
+ },
+ {
+  "title": "The More Things Change: Part 2",
+  "series": "ov",
+  "season": 1,
+  "episode": 2,
+  "canonical": null,
+  "airing": 2,
+  "overall": 2
+ },
+ {
+  "title": "A Jolt From the Past",
+  "series": "ov",
+  "season": 1,
+  "episode": 3,
+  "canonical": null,
+  "airing": 3,
+  "overall": 3
+ },
+ {
+  "title": "Trouble Helix",
+  "series": "ov",
+  "season": 1,
+  "episode": 4,
+  "canonical": null,
+  "airing": 154,
+  "overall": 6
+ },
+ {
+  "title": "Have I Got a Deal for You",
+  "series": "ov",
+  "season": 1,
+  "episode": 5,
+  "canonical": null,
+  "airing": 155,
+  "overall": 8
+ },
+ {
+  "title": "It Was Them",
+  "series": "ov",
+  "season": 1,
+  "episode": 6,
+  "canonical": 154,
+  "airing": 156,
+  "overall": 4
+ },
+ {
+  "title": "So Long, and Thanks for All the Smoothies",
+  "series": "ov",
+  "season": 1,
+  "episode": 7,
+  "canonical": 155,
+  "airing": 157,
+  "overall": 5
+ },
+ {
+  "title": "Hot Stretch",
+  "series": "ov",
+  "season": 1,
+  "episode": 8,
+  "canonical": null,
+  "airing": 158,
+  "overall": 7
+ },
+ {
+  "title": "Of Predators and Prey: Part 1",
+  "series": "ov",
+  "season": 1,
+  "episode": 9,
+  "canonical": null,
+  "airing": 9,
+  "overall": 9
+ },
+ {
+  "title": "Of Predators and Prey: Part 2",
+  "series": "ov",
+  "season": 1,
+  "episode": 10,
+  "canonical": null,
+  "airing": 10,
+  "overall": 10
+ },
+ {
+  "title": "Outbreak",
+  "series": "ov",
+  "season": 2,
+  "episode": 1,
+  "canonical": null,
+  "airing": 161,
+  "overall": 13
+ },
+ {
+  "title": "Many Happy Returns",
+  "series": "ov",
+  "season": 2,
+  "episode": 2,
+  "canonical": null,
+  "airing": 162,
+  "overall": 11
+ },
+ {
+  "title": "Gone Fishin'",
+  "series": "ov",
+  "season": 2,
+  "episode": 3,
+  "canonical": null,
+  "airing": 163,
+  "overall": 12
+ },
+ {
+  "title": "Blukic and Driba Go to Mr. Smoothy's",
+  "series": "ov",
+  "season": 2,
+  "episode": 4,
+  "canonical": null,
+  "airing": 14,
+  "overall": 14
+ },
+ {
+  "title": "Malefactor",
+  "series": "ov",
+  "season": 2,
+  "episode": 5,
+  "canonical": null,
+  "airing": 15,
+  "overall": 15
+ },
+ {
+  "title": "Arrested Development",
+  "series": "ov",
+  "season": 2,
+  "episode": 6,
+  "canonical": null,
+  "airing": 166,
+  "overall": 17
+ },
+ {
+  "title": "Bros in Space",
+  "series": "ov",
+  "season": 2,
+  "episode": 7,
+  "canonical": null,
+  "airing": 167,
+  "overall": 16
+ },
+ {
+  "title": "Ben Again",
+  "series": "ov",
+  "season": 2,
+  "episode": 8,
+  "canonical": null,
+  "airing": 168,
+  "overall": 25
+ },
+ {
+  "title": "Store 23",
+  "series": "ov",
+  "season": 2,
+  "episode": 9,
+  "canonical": null,
+  "airing": 169,
+  "overall": 23
+ },
+ {
+  "title": "Special Delivery",
+  "series": "ov",
+  "season": 2,
+  "episode": 10,
+  "canonical": null,
+  "airing": 170,
+  "overall": 26
+ },
+ {
+  "title": "Showdown: Part 1",
+  "series": "ov",
+  "season": 3,
+  "episode": 1,
+  "canonical": null,
+  "airing": 171,
+  "overall": 19
+ },
+ {
+  "title": "Showdown: Part 2",
+  "series": "ov",
+  "season": 3,
+  "episode": 2,
+  "canonical": null,
+  "airing": 172,
+  "overall": 20
+ },
+ {
+  "title": "Tummy Trouble",
+  "series": "ov",
+  "season": 3,
+  "episode": 3,
+  "canonical": null,
+  "airing": 173,
+  "overall": 22
+ },
+ {
+  "title": "Vilgax Must Croak",
+  "series": "ov",
+  "season": 3,
+  "episode": 4,
+  "canonical": null,
+  "airing": 24,
+  "overall": 24
+ },
+ {
+  "title": "While You Were Away",
+  "series": "ov",
+  "season": 3,
+  "episode": 5,
+  "canonical": null,
+  "airing": 175,
+  "overall": 28
+ },
+ {
+  "title": "The Frogs of War: Part 1",
+  "series": "ov",
+  "season": 3,
+  "episode": 6,
+  "canonical": null,
+  "airing": 176,
+  "overall": 29
+ },
+ {
+  "title": "The Frogs of War: Part 2",
+  "series": "ov",
+  "season": 3,
+  "episode": 7,
+  "canonical": null,
+  "airing": 177,
+  "overall": 30
+ },
+ {
+  "title": "Rules of Engagement",
+  "series": "ov",
+  "season": 3,
+  "episode": 8,
+  "canonical": null,
+  "airing": 178,
+  "overall": 18
+ },
+ {
+  "title": "Rad",
+  "series": "ov",
+  "season": 3,
+  "episode": 9,
+  "canonical": null,
+  "airing": 179,
+  "overall": 27
+ },
+ {
+  "title": "Evil's Encore",
+  "series": "ov",
+  "season": 3,
+  "episode": 10,
+  "canonical": null,
+  "airing": 180,
+  "overall": 35
+ },
+ {
+  "title": "T.G.I.S.",
+  "series": "ov",
+  "season": 4,
+  "episode": 1,
+  "canonical": null,
+  "airing": 181,
+  "overall": 21
+ },
+ {
+  "title": "Food Around the Corner",
+  "series": "ov",
+  "season": 4,
+  "episode": 2,
+  "canonical": null,
+  "airing": 182,
+  "overall": 31
+ },
+ {
+  "title": "O Mother, Where Art Thou?",
+  "series": "ov",
+  "season": 4,
+  "episode": 3,
+  "canonical": null,
+  "airing": 33,
+  "overall": 33
+ },
+ {
+  "title": "Return to Forever",
+  "series": "ov",
+  "season": 4,
+  "episode": 4,
+  "canonical": null,
+  "airing": 184,
+  "overall": 36
+ },
+ {
+  "title": "Mud is Thicker Than Water",
+  "series": "ov",
+  "season": 4,
+  "episode": 5,
+  "canonical": null,
+  "airing": 185,
+  "overall": 37
+ },
+ {
+  "title": "OTTO Motives",
+  "series": "ov",
+  "season": 4,
+  "episode": 6,
+  "canonical": null,
+  "airing": 186,
+  "overall": 38
+ },
+ {
+  "title": "The Ultimate Heist",
+  "series": "ov",
+  "season": 4,
+  "episode": 7,
+  "canonical": null,
+  "airing": 187,
+  "overall": 32
+ },
+ {
+  "title": "A Fistful of Brains",
+  "series": "ov",
+  "season": 4,
+  "episode": 8,
+  "canonical": null,
+  "airing": 188,
+  "overall": 39
+ },
+ {
+  "title": "For a Few Brains More",
+  "series": "ov",
+  "season": 4,
+  "episode": 9,
+  "canonical": null,
+  "airing": 189,
+  "overall": 40
+ },
+ {
+  "title": "Max's Monster",
+  "series": "ov",
+  "season": 4,
+  "episode": 10,
+  "canonical": null,
+  "airing": 190,
+  "overall": 34
+ },
+ {
+  "title": "Something Zombozo This Way Comes",
+  "series": "ov",
+  "season": 5,
+  "episode": 1,
+  "canonical": null,
+  "airing": 41,
+  "overall": 41
+ },
+ {
+  "title": "Mystery, Incorporeal",
+  "series": "ov",
+  "season": 5,
+  "episode": 2,
+  "canonical": null,
+  "airing": 42,
+  "overall": 42
+ },
+ {
+  "title": "Bengeance is Mine",
+  "series": "ov",
+  "season": 5,
+  "episode": 3,
+  "canonical": null,
+  "airing": 43,
+  "overall": 43
+ },
+ {
+  "title": "An American Benwolf in London",
+  "series": "ov",
+  "season": 5,
+  "episode": 4,
+  "canonical": null,
+  "airing": 44,
+  "overall": 44
+ },
+ {
+  "title": "Animo Crackers",
+  "series": "ov",
+  "season": 5,
+  "episode": 5,
+  "canonical": null,
+  "airing": 45,
+  "overall": 45
+ },
+ {
+  "title": "Rad Monster Party",
+  "series": "ov",
+  "season": 5,
+  "episode": 6,
+  "canonical": null,
+  "airing": 46,
+  "overall": 46
+ },
+ {
+  "title": "Charmed, I'm Sure",
+  "series": "ov",
+  "season": 5,
+  "episode": 7,
+  "canonical": null,
+  "airing": 47,
+  "overall": 47
+ },
+ {
+  "title": "The Vampire Strikes Back",
+  "series": "ov",
+  "season": 5,
+  "episode": 8,
+  "canonical": null,
+  "airing": 48,
+  "overall": 48
+ },
+ {
+  "title": "Catfight",
+  "series": "ov",
+  "season": 5,
+  "episode": 9,
+  "canonical": null,
+  "airing": 199,
+  "overall": 51
+ },
+ {
+  "title": "Collect This",
+  "series": "ov",
+  "season": 5,
+  "episode": 10,
+  "canonical": null,
+  "airing": 200,
+  "overall": 52
+ },
+ {
+  "title": "And Then There Were None",
+  "series": "ov",
+  "season": 6,
+  "episode": 1,
+  "canonical": null,
+  "airing": 201,
+  "overall": 49
+ },
+ {
+  "title": "And Then There Was Ben",
+  "series": "ov",
+  "season": 6,
+  "episode": 2,
+  "canonical": null,
+  "airing": 202,
+  "overall": 50
+ },
+ {
+  "title": "The Vengers",
+  "series": "ov",
+  "season": 6,
+  "episode": 3,
+  "canonical": null,
+  "airing": null,
+  "overall": 53
+ },
+ {
+  "title": "Cough It Up",
+  "series": "ov",
+  "season": 6,
+  "episode": 4,
+  "canonical": null,
+  "airing": null,
+  "overall": 54
+ },
+ {
+  "title": "The Rooters of All Evil",
+  "series": "ov",
+  "season": 6,
+  "episode": 5,
+  "canonical": null,
+  "airing": null,
+  "overall": 55
+ },
+ {
+  "title": "Blukic and Driba Go to Area 51",
+  "series": "ov",
+  "season": 6,
+  "episode": 6,
+  "canonical": null,
+  "airing": null,
+  "overall": 56
+ },
+ {
+  "title": "No Honor Among Bros",
+  "series": "ov",
+  "season": 6,
+  "episode": 7,
+  "canonical": null,
+  "airing": null,
+  "overall": 57
+ },
+ {
+  "title": "Universe vs. Tennyson",
+  "series": "ov",
+  "season": 6,
+  "episode": 8,
+  "canonical": null,
+  "airing": null,
+  "overall": 58
+ },
+ {
+  "title": "Weapon XI: Part 1",
+  "series": "ov",
+  "season": 6,
+  "episode": 9,
+  "canonical": null,
+  "airing": null,
+  "overall": 59
+ },
+ {
+  "title": "Weapon XI: Part 2",
+  "series": "ov",
+  "season": 6,
+  "episode": 10,
+  "canonical": null,
+  "airing": null,
+  "overall": 60
+ },
+ {
+  "title": "Clyde 5",
+  "series": "ov",
+  "season": 7,
+  "episode": 1,
+  "canonical": null,
+  "airing": null,
+  "overall": 61
+ },
+ {
+  "title": "Rook Tales",
+  "series": "ov",
+  "season": 7,
+  "episode": 2,
+  "canonical": null,
+  "airing": null,
+  "overall": 62
+ },
+ {
+  "title": "Charm School",
+  "series": "ov",
+  "season": 7,
+  "episode": 3,
+  "canonical": null,
+  "airing": null,
+  "overall": 63
+ },
+ {
+  "title": "The Ballad of Mr. Baumann",
+  "series": "ov",
+  "season": 7,
+  "episode": 4,
+  "canonical": null,
+  "airing": null,
+  "overall": 64
+ },
+ {
+  "title": "Fight at the Museum",
+  "series": "ov",
+  "season": 7,
+  "episode": 5,
+  "canonical": null,
+  "airing": null,
+  "overall": 65
+ },
+ {
+  "title": "Breakpoint",
+  "series": "ov",
+  "season": 7,
+  "episode": 6,
+  "canonical": null,
+  "airing": null,
+  "overall": 66
+ },
+ {
+  "title": "The Color of Monkey",
+  "series": "ov",
+  "season": 7,
+  "episode": 7,
+  "canonical": null,
+  "airing": null,
+  "overall": 67
+ },
+ {
+  "title": "Vreedlemania",
+  "series": "ov",
+  "season": 7,
+  "episode": 8,
+  "canonical": null,
+  "airing": null,
+  "overall": 68
+ },
+ {
+  "title": "It's a Mad, Mad, Mad Ben World: Part 1",
+  "series": "ov",
+  "season": 7,
+  "episode": 9,
+  "canonical": null,
+  "airing": null,
+  "overall": 69
+ },
+ {
+  "title": "It's a Mad, Mad, Mad Ben World: Part 2",
+  "series": "ov",
+  "season": 7,
+  "episode": 10,
+  "canonical": null,
+  "airing": null,
+  "overall": 70
+ },
+ {
+  "title": "From Hedorium to Eternity",
+  "series": "ov",
+  "season": 8,
+  "episode": 1,
+  "canonical": null,
+  "airing": null,
+  "overall": 71
+ },
+ {
+  "title": "Stuck on You",
+  "series": "ov",
+  "season": 8,
+  "episode": 2,
+  "canonical": null,
+  "airing": null,
+  "overall": 72
+ },
+ {
+  "title": "Let's Do the Time War Again",
+  "series": "ov",
+  "season": 8,
+  "episode": 3,
+  "canonical": null,
+  "airing": null,
+  "overall": 73
+ },
+ {
+  "title": "The Secret of Dos Santos",
+  "series": "ov",
+  "season": 8,
+  "episode": 4,
+  "canonical": null,
+  "airing": null,
+  "overall": 74
+ },
+ {
+  "title": "Third Time's a Charm",
+  "series": "ov",
+  "season": 8,
+  "episode": 5,
+  "canonical": null,
+  "airing": null,
+  "overall": 75
+ },
+ {
+  "title": "The Final Countdown",
+  "series": "ov",
+  "season": 8,
+  "episode": 6,
+  "canonical": null,
+  "airing": null,
+  "overall": 76
+ },
+ {
+  "title": "Malgax Attacks",
+  "series": "ov",
+  "season": 8,
+  "episode": 7,
+  "canonical": null,
+  "airing": null,
+  "overall": 77
+ },
+ {
+  "title": "The Most Dangerous Game Show",
+  "series": "ov",
+  "season": 8,
+  "episode": 8,
+  "canonical": null,
+  "airing": 78,
+  "overall": 78
+ },
+ {
+  "title": "The End of an Era",
+  "series": "ov",
+  "season": 8,
+  "episode": 9,
+  "canonical": null,
+  "airing": null,
+  "overall": 79
+ },
+ {
+  "title": "A New Dawn",
+  "series": "ov",
+  "season": 8,
+  "episode": 10,
+  "canonical": null,
+  "airing": null,
+  "overall": 80
+ },
+ {
+  "title": "Fame",
+  "series": "ua",
+  "season": 1,
+  "episode": 1,
+  "canonical": null,
+  "airing": 1,
+  "overall": 1
+ },
+ {
+  "title": "Duped",
+  "series": "ua",
+  "season": 1,
+  "episode": 2,
+  "canonical": null,
+  "airing": 2,
+  "overall": 2
+ },
+ {
+  "title": "Hit 'Em Where They Live",
+  "series": "ua",
+  "season": 1,
+  "episode": 3,
+  "canonical": null,
+  "airing": 3,
+  "overall": 3
+ },
+ {
+  "title": "Video Games (Episode)",
+  "series": "ua",
+  "season": 1,
+  "episode": 4,
+  "canonical": null,
+  "airing": 4,
+  "overall": 4
+ },
+ {
+  "title": "Escape From Aggregor",
+  "series": "ua",
+  "season": 1,
+  "episode": 5,
+  "canonical": null,
+  "airing": 5,
+  "overall": 5
+ },
+ {
+  "title": "Too Hot to Handle",
+  "series": "ua",
+  "season": 1,
+  "episode": 6,
+  "canonical": null,
+  "airing": 6,
+  "overall": 6
+ },
+ {
+  "title": "Andreas' Fault",
+  "series": "ua",
+  "season": 1,
+  "episode": 7,
+  "canonical": null,
+  "airing": 7,
+  "overall": 7
+ },
+ {
+  "title": "Fused",
+  "series": "ua",
+  "season": 1,
+  "episode": 8,
+  "canonical": null,
+  "airing": 8,
+  "overall": 8
+ },
+ {
+  "title": "Hero Time",
+  "series": "ua",
+  "season": 1,
+  "episode": 9,
+  "canonical": null,
+  "airing": 9,
+  "overall": 9
+ },
+ {
+  "title": "Ultimate Aggregor (Episode)",
+  "series": "ua",
+  "season": 1,
+  "episode": 10,
+  "canonical": null,
+  "airing": 10,
+  "overall": 10
+ },
+ {
+  "title": "Map of Infinity (Episode)",
+  "series": "ua",
+  "season": 1,
+  "episode": 11,
+  "canonical": null,
+  "airing": 11,
+  "overall": 11
+ },
+ {
+  "title": "Reflected Glory",
+  "series": "ua",
+  "season": 1,
+  "episode": 12,
+  "canonical": null,
+  "airing": 12,
+  "overall": 12
+ },
+ {
+  "title": "Deep",
+  "series": "ua",
+  "season": 1,
+  "episode": 13,
+  "canonical": null,
+  "airing": 13,
+  "overall": 13
+ },
+ {
+  "title": "Where the Magic Happens",
+  "series": "ua",
+  "season": 1,
+  "episode": 14,
+  "canonical": null,
+  "airing": 14,
+  "overall": 14
+ },
+ {
+  "title": "Perplexahedron (Episode)",
+  "series": "ua",
+  "season": 1,
+  "episode": 15,
+  "canonical": null,
+  "airing": 15,
+  "overall": 15
+ },
+ {
+  "title": "The Forge of Creation",
+  "series": "ua",
+  "season": 1,
+  "episode": 16,
+  "canonical": null,
+  "airing": 16,
+  "overall": 16
+ },
+ {
+  "title": "...Nor Iron Bars a Cage",
+  "series": "ua",
+  "season": 1,
+  "episode": 17,
+  "canonical": null,
+  "airing": 17,
+  "overall": 17
+ },
+ {
+  "title": "The Enemy of My Enemy",
+  "series": "ua",
+  "season": 1,
+  "episode": 18,
+  "canonical": null,
+  "airing": 18,
+  "overall": 18
+ },
+ {
+  "title": "Absolute Power: Part 1",
+  "series": "ua",
+  "season": 1,
+  "episode": 19,
+  "canonical": null,
+  "airing": 19,
+  "overall": 19
+ },
+ {
+  "title": "Absolute Power: Part 2",
+  "series": "ua",
+  "season": 1,
+  "episode": 20,
+  "canonical": null,
+  "airing": 20,
+  "overall": 20
+ },
+ {
+  "title": "The Transmogrification of Eunice",
+  "series": "ua",
+  "season": 2,
+  "episode": 1,
+  "canonical": null,
+  "airing": 21,
+  "overall": 21
+ },
+ {
+  "title": "Eye of the Beholder",
+  "series": "ua",
+  "season": 2,
+  "episode": 2,
+  "canonical": null,
+  "airing": 22,
+  "overall": 22
+ },
+ {
+  "title": "Viktor: The Spoils",
+  "series": "ua",
+  "season": 2,
+  "episode": 3,
+  "canonical": 122,
+  "airing": 121,
+  "overall": 24
+ },
+ {
+  "title": "The Big Story",
+  "series": "ua",
+  "season": 2,
+  "episode": 4,
+  "canonical": 121,
+  "airing": 122,
+  "overall": 23
+ },
+ {
+  "title": "Girl Trouble",
+  "series": "ua",
+  "season": 2,
+  "episode": 5,
+  "canonical": null,
+  "airing": 25,
+  "overall": 25
+ },
+ {
+  "title": "Revenge of the Swarm",
+  "series": "ua",
+  "season": 2,
+  "episode": 6,
+  "canonical": null,
+  "airing": 26,
+  "overall": 26
+ },
+ {
+  "title": "The Creature From Beyond",
+  "series": "ua",
+  "season": 2,
+  "episode": 7,
+  "canonical": 126,
+  "airing": 125,
+  "overall": 28
+ },
+ {
+  "title": "Basic Training",
+  "series": "ua",
+  "season": 2,
+  "episode": 8,
+  "canonical": 127,
+  "airing": 126,
+  "overall": 29
+ },
+ {
+  "title": "It's Not Easy Being Gwen",
+  "series": "ua",
+  "season": 2,
+  "episode": 9,
+  "canonical": 128,
+  "airing": 127,
+  "overall": 30
+ },
+ {
+  "title": "Ben 10,000 Returns",
+  "series": "ua",
+  "season": 2,
+  "episode": 10,
+  "canonical": 125,
+  "airing": 128,
+  "overall": 27
+ },
+ {
+  "title": "Moonstruck",
+  "series": "ua",
+  "season": 2,
+  "episode": 11,
+  "canonical": 130,
+  "airing": 129,
+  "overall": 32
+ },
+ {
+  "title": "Prisoner Number 775 is Missing",
+  "series": "ua",
+  "season": 2,
+  "episode": 12,
+  "canonical": 129,
+  "airing": 130,
+  "overall": 31
+ },
+ {
+  "title": "The Purge",
+  "series": "ua",
+  "season": 3,
+  "episode": 1,
+  "canonical": 133,
+  "airing": 131,
+  "overall": 35
+ },
+ {
+  "title": "Simian Says",
+  "series": "ua",
+  "season": 3,
+  "episode": 2,
+  "canonical": 131,
+  "airing": 132,
+  "overall": 33
+ },
+ {
+  "title": "Greetings From Techadon",
+  "series": "ua",
+  "season": 3,
+  "episode": 3,
+  "canonical": 132,
+  "airing": 133,
+  "overall": 34
+ },
+ {
+  "title": "The Flame Keepers' Circle",
+  "series": "ua",
+  "season": 3,
+  "episode": 4,
+  "canonical": null,
+  "airing": 36,
+  "overall": 36
+ },
+ {
+  "title": "Double or Nothing",
+  "series": "ua",
+  "season": 3,
+  "episode": 5,
+  "canonical": null,
+  "airing": 37,
+  "overall": 37
+ },
+ {
+  "title": "The Perfect Girlfriend",
+  "series": "ua",
+  "season": 3,
+  "episode": 6,
+  "canonical": null,
+  "airing": 38,
+  "overall": 38
+ },
+ {
+  "title": "The Ultimate Sacrifice",
+  "series": "ua",
+  "season": 3,
+  "episode": 7,
+  "canonical": null,
+  "airing": 39,
+  "overall": 39
+ },
+ {
+  "title": "The Widening Gyre",
+  "series": "ua",
+  "season": 3,
+  "episode": 8,
+  "canonical": null,
+  "airing": 138,
+  "overall": 41
+ },
+ {
+  "title": "The Mother of All Vreedles",
+  "series": "ua",
+  "season": 3,
+  "episode": 9,
+  "canonical": null,
+  "airing": 139,
+  "overall": 40
+ },
+ {
+  "title": "A Knight to Remember",
+  "series": "ua",
+  "season": 3,
+  "episode": 10,
+  "canonical": null,
+  "airing": 42,
+  "overall": 42
+ },
+ {
+  "title": "Solitary Alignment",
+  "series": "ua",
+  "season": 3,
+  "episode": 11,
+  "canonical": null,
+  "airing": 43,
+  "overall": 43
+ },
+ {
+  "title": "Inspector 13",
+  "series": "ua",
+  "season": 3,
+  "episode": 12,
+  "canonical": null,
+  "airing": 44,
+  "overall": 44
+ },
+ {
+  "title": "Enemy of My Frenemy",
+  "series": "ua",
+  "season": 3,
+  "episode": 13,
+  "canonical": null,
+  "airing": 45,
+  "overall": 45
+ },
+ {
+  "title": "Couples Retreat",
+  "series": "ua",
+  "season": 3,
+  "episode": 14,
+  "canonical": null,
+  "airing": 144,
+  "overall": 48
+ },
+ {
+  "title": "Catch a Falling Star",
+  "series": "ua",
+  "season": 3,
+  "episode": 15,
+  "canonical": null,
+  "airing": 145,
+  "overall": 46
+ },
+ {
+  "title": "The Eggman Cometh",
+  "series": "ua",
+  "season": 3,
+  "episode": 16,
+  "canonical": null,
+  "airing": 146,
+  "overall": 47
+ },
+ {
+  "title": "Night of the Living Nightmare",
+  "series": "ua",
+  "season": 3,
+  "episode": 17,
+  "canonical": null,
+  "airing": 49,
+  "overall": 49
+ },
+ {
+  "title": "The Beginning of the End",
+  "series": "ua",
+  "season": 3,
+  "episode": 18,
+  "canonical": null,
+  "airing": 50,
+  "overall": 50
+ },
+ {
+  "title": "The Ultimate Enemy: Part 1",
+  "series": "ua",
+  "season": 3,
+  "episode": 19,
+  "canonical": null,
+  "airing": 51,
+  "overall": 51
+ },
+ {
+  "title": "The Ultimate Enemy: Part 2",
+  "series": "ua",
+  "season": 3,
+  "episode": 20,
+  "canonical": null,
+  "airing": 52,
+  "overall": 52
+ }
+]

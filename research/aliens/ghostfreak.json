@@ -1,0 +1,156 @@
+{
+  "id": "ghostfreak",
+  "name": "Ghostfreak",
+  "wikiTitle": "Ghostfreak",
+  "kind": "standard",
+  "species": "Ectonurite",
+  "homeworld": "Anur Phaetos",
+  "bodyType": "Ghost",
+  "debut": {
+    "episode": "Permanent Retirement",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Intangibility (selective; can chill or incapacitate by passing through)",
+    "Invisibility",
+    "Body possession (can erase consciousness)",
+    "Flight and levitation",
+    "Prehensile tentacles hidden under his skin",
+    "Telekinesis and telepathy",
+    "Sharp claws; enhanced strength/durability",
+    "Space survivability",
+    "Movable eye giving 360-degree vision; night vision",
+    "True form: energy beams and dark-empowerment"
+  ],
+  "weaknesses": [
+    "Solidified protoplasm (Kraab's orange liquid) removes intangibility/invisibility",
+    "Intangibility needs conscious activation - can be hit off-guard",
+    "Electricity, Corrupturas hurt or control him when tangible",
+    "Cannot possess mindless zombies, Omnitrix forms or Dagon; strong wills can eject him",
+    "Zs'Skayr's consciousness hijacked the form in OS (sunlight weakness of the true form)"
+  ],
+  "summary": "Ben's grey ghost: phases through walls, vanishes, possesses enemies and hides a nightmare of tentacles under his skin - powered by DNA that once took Ben over.",
+  "traits": [
+    "DNA came from Zs'Skayr, High Ecto-Lord of Anur Phaetos",
+    "One eye slides along the lines on his body",
+    "Ben feared using him until Omniverse",
+    "OV design wears green chains"
+  ],
+  "notableFeats": [
+    "Beat Kraab (Hunted) and scared Zombozo into defeat (Last Laugh)",
+    "Incapacitated Thumbskull by phasing into his body (Ghostfreaked Out)",
+    "Possessed Michael Morningstar to break his spell (Mystery, Incorporeal)",
+    "Escaped Sentient Ultimate Spidermonkey's webbing (The Ultimate Sacrifice)",
+    "Possessed Ma Vreedle to call off the Pretty Boys (Vreedlemania)",
+    "Shredded Vilgax's Mechadroids (Malgax Attacks)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Permanent Retirement",
+      "notableEpisodes": [
+        "Permanent Retirement",
+        "Hunted",
+        "Last Laugh",
+        "Secrets",
+        "Ghostfreaked Out"
+      ],
+      "designNotes": "Grey skin with black lines, pink eye with black pupil, claw hands, original Omnitrix peeking from his skin on the lower-left chest; black-and-white striped tentacles under the skin.",
+      "image": {
+        "file": "GhostfreakPose2.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-16-af"
+      ],
+      "firstEpisode": "Ghost Town",
+      "notableEpisodes": [
+        "Ghost Town"
+      ],
+      "designNotes": "Identical to Zs'Skayr's Alien Force design - purple body - but with a green eye and the Omnitrix on his chest.",
+      "image": {
+        "file": "Ghostfreak Ghost Town 1.PNG",
+        "label": "AF",
+        "confidence": "high",
+        "notes": "Infobox image labelled AF (episode screenshot from Ghost Town)."
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "The Ultimate Sacrifice",
+      "notableEpisodes": [
+        "The Ultimate Sacrifice"
+      ],
+      "designNotes": "Ectonurite design from Ghost Town with a green eye; Ultimatrix on chest (line pattern differs in the UA intro).",
+      "image": {
+        "file": "Ghostfreak in UA.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "Infobox image labelled UA (episode screenshot from The Ultimate Sacrifice)."
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Mystery, Incorporeal",
+      "notableEpisodes": [
+        "Mystery, Incorporeal",
+        "Bengeance is Mine",
+        "Charm School",
+        "Vreedlemania",
+        "Malgax Attacks"
+      ],
+      "designNotes": "Peppermint-grey skin, dark green chains across the front leading to neck/waist/chest with the Omnitrix at their centre, elbow spikes back, two cuffs per arm, green eye, black-and-purple tentacles; glows green when possessing.",
+      "image": {
+        "file": "Ghostfreak ov official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 5,
+    "speed": 6,
+    "mobility": 8,
+    "offense": 5,
+    "defense": 8,
+    "special": 8,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 4,
+    "regeneration": 5,
+    "survivability": 7,
+    "range": 4,
+    "cosmic": 0,
+    "weaknessPenalty": 3,
+    "controlPenalty": 2,
+    "rationale": "Intangibility, invisibility and possession make him nearly untouchable and able to end fights without a punch, plus flight and space survival. Loses it all if his protoplasm is solidified or he is caught off-guard, and in OS the form's donor personality overrode Ben."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ghostfreak"
+  ],
+  "notes": [
+    "Wiki AF 'Season 2' = spec's AF Season 3, so AF usedBy is ben-16-af (Ghost Town).",
+    "In OS Ben lost Ghostfreak when Zs'Skayr escaped (Ghostfreaked Out); re-scanned in Be Afraid of the Dark but never used again in OS; used once each in AF and UA; freely used from OV's Mystery, Incorporeal.",
+    "Also used by Bad Ben (And Then There Were None) - not counted."
+  ]
+}

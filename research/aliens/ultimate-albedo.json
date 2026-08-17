@@ -1,0 +1,73 @@
+{
+  "id": "ultimate-albedo",
+  "name": "Ultimate Albedo",
+  "wikiTitle": "Ultimate Albedo",
+  "kind": "ultimate",
+  "species": "Ultimate Galvan",
+  "homeworld": "",
+  "bodyType": "Floating giant head on a hovercraft",
+  "debut": {
+    "episode": "The Ultimate Heist",
+    "series": "ov",
+    "usedBy": "albedo"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Hyper-evolved intelligence: predicts and plans for multiple scenarios at once",
+    "Energy beam from third eye (one-shot Eye Guy, Perk Upchuck and Goop)",
+    "Force-field generation",
+    "Energy pulses that shove opponents away",
+    "Flight via hovercraft with twin turrets",
+    "Temporarily (with Azmuth's brain): telekinesis, trapping energy spheres, omniversal awareness"
+  ],
+  "weaknesses": [
+    "Tiny limbs - completely dependent on his hovercraft to move and support his head",
+    "Still doesn't think things through; Azmuth's added intellect overwhelmed him into indecision",
+    "Physically feeble"
+  ],
+  "summary": "Albedo's own Galvan DNA pushed to a hyper-evolved 'Ultimate Thinker': a MODOK-like giant brain-head on a hovercraft that fires eye beams, raises force fields and briefly absorbed Azmuth's mind.",
+  "traits": [
+    "Only Ultimate whose Ultimatrix symbol lacks spikes",
+    "MODOK homage designed by Derrick J. Wyatt",
+    "Subtitles call him 'Ultimate Grey Matter'",
+    "Voiced by Eric Bauza"
+  ],
+  "notableFeats": [
+    "Defeated Eye Guy, Perk Upchuck and Goop with single eye-beam shots (A Fistful of Brains)",
+    "Stole and absorbed Azmuth's brain, gaining telekinesis and awareness of the Omniverse (For a Few Brains More)",
+    "Declared himself the 'Ultimate Thinker' to the Galvan on Galvan Prime (Malgax Attacks)"
+  ],
+  "appearances": [],
+  "scoring": {
+    "strength": 1,
+    "durability": 6,
+    "speed": 4,
+    "mobility": 6,
+    "offense": 7,
+    "defense": 7,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 10,
+    "energy": 7,
+    "regeneration": 0,
+    "survivability": 4,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Genius-tier intellect and a third-eye beam that one-shots Ben's aliens, plus force fields and energy pulses; but he is a near-immobile head reliant on a hovercraft, physically feeble, and his own arrogance undoes his planning. Azmuth's-brain powers were temporary and are not scored."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Albedo",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "ALBEDO-ONLY: this form was used exclusively by Albedo via his stabilizer Ultimatrix in Omniverse (red eyes/red symbol, direct transformation without passing through the base form). No version of Ben ever used it, so 'appearances' is intentionally empty and it should be excluded from the wall while the record is kept.",
+    "Appearances (all Albedo): 'The Ultimate Heist' (first), 'A Fistful of Brains', 'For a Few Brains More' (x4), 'Malgax Attacks' (OV S8).",
+    "baseFormId is null: this is the evolution of Albedo's own Galvan body, not of Ben's Grey Matter sample.",
+    "Infobox image 'Ultimate Albedo Official.png' (only art available).",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

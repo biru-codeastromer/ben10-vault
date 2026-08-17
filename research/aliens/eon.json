@@ -1,0 +1,91 @@
+{
+  "id": "eon",
+  "name": "Eon",
+  "wikiTitle": "Eon (Transformation)",
+  "kind": "standard",
+  "species": "Chronian",
+  "homeworld": "Chronia",
+  "bodyType": "Humanoid (young Eon in Ben's likeness)",
+  "debut": {
+    "episode": "Ben 10: Race Against Time",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Chronokinesis - control of the flow of time around him or a target",
+    "Time rays that rapidly age targets (even to dust)",
+    "Dynakinesis - energy control and force fields",
+    "Technokinesis via energy control (vehicles, clockwork)",
+    "Materiokinesis - illusions and mirages",
+    "Telekinesis",
+    "Enhanced strength and durability",
+    "Fire resistance",
+    "Cognitive projection"
+  ],
+  "weaknesses": [
+    "Eon's own personality overrides Ben's if the Omnitrix failsafe is off",
+    "Repeated time-leaps weaken and pale the body",
+    "Time rays are useless against Petrosapiens",
+    "Vulnerable to electricity"
+  ],
+  "summary": "The alternate-timeline Ben's darkest form: a purple-energy Chronian time-manipulator forced into the Omnitrix by Eon himself, who then seized Ben's mind.",
+  "traits": [
+    "Only appears in the live-action Ben 10: Race Against Time",
+    "Never used by Ben Prime on-screen (Race Against Time timeline only)",
+    "Omnitrix turned violet when Eon's DNA was added",
+    "Second form after Ghostfreak to suppress Ben's personality"
+  ],
+  "notableFeats": [
+    "Activated the Hands of Armageddon while under Eon's control (Ben 10: Race Against Time)",
+    "Broke free of chains and resisted Diamondhead's shards / Heatblast's fire (as the original Eon)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Ben 10: Race Against Time",
+      "notableEpisodes": [
+        "Ben 10: Race Against Time"
+      ],
+      "designNotes": "Live-action: looks like Eon without the helmet, with pale white skin and bags under the eyes; purple time-energy; Omnitrix on the right side of the stomach. ALTERNATE TIMELINE (Race Against Time).",
+      "image": {
+        "file": "Beon2.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": "Only infobox image (unlabelled); live-action still of Ben-as-Eon from Race Against Time."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 6,
+    "speed": 4,
+    "mobility": 5,
+    "offense": 7,
+    "defense": 6,
+    "special": 8,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 6,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 6,
+    "cosmic": 6,
+    "weaknessPenalty": 2,
+    "controlPenalty": 3,
+    "rationale": "Time rays that age enemies to dust, force fields, illusions and telekinesis give him a fight-ending kit and real time/space manipulation. Ineffective on Petrosapiens, and the form's donor personality took Ben over - Ben effectively could not control it."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Eon_(Transformation)"
+  ],
+  "notes": [
+    "ALTERNATE TIMELINE: exists only in Ben 10: Race Against Time; the movie was originally canon to the prime timeline as of AF season 1 but is now its own timeline. Ben Prime never used Eon.",
+    "The wiki's 'Eon.wikitext' cache is the villain page; the transformation page is 'Eon (Transformation)'.",
+    "Immediately locked after Ben reverted; one of only two regular transformations (with Spitter) never used by Ben Prime on-screen."
+  ]
+}

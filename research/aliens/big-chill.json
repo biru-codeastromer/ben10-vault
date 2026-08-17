@@ -1,0 +1,146 @@
+{
+  "id": "big-chill",
+  "name": "Big Chill",
+  "wikiTitle": "Big Chill (Classic)",
+  "kind": "standard",
+  "species": "Necrofriggian",
+  "homeworld": "Kylmyys",
+  "bodyType": "Humanoid Moth",
+  "debut": {
+    "episode": "Kevin's Big Score",
+    "series": "af",
+    "usedBy": "ben-15-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": "ultimate-big-chill",
+  "componentIds": [],
+  "abilities": [
+    "Cryokinesis (freezing breath near absolute zero, freeze rays, ice constructs, cryo-touch)",
+    "Intangibility and phasing (can freeze what he passes through)",
+    "Flight (outpaced Rex's Boogie Pack) and levitation",
+    "Wings fold into a hooded cloak",
+    "Space and underwater survivability; radiation resistance",
+    "Extreme temperature resistance (drank molten steel)",
+    "Sharp claws and prehensile feet",
+    "Metal-eating jaws"
+  ],
+  "weaknesses": [
+    "Harmed by fire and vulnerable to electricity",
+    "Hypnotised by Psycholeopterrans; ice useless against their intangibility",
+    "Certain objects (Rustbucket II netting, Shield of Seagle, Plumber cell doors) can touch him while intangible",
+    "Intangibility cancelled by other intangible beings",
+    "Vulnerable to sonic vibrations while intangible",
+    "Species breeding instinct can override Ben (Save the Last Dance)"
+  ],
+  "summary": "A ghostly ice moth that phases through walls and freezes anything it breathes on - Ben's stealth-and-control specialist from Alien Force onward.",
+  "traits": [
+    "Wings fold into a phantom-like hooded robe",
+    "Laid eggs and built a metal nest during breeding season (Save the Last Dance)",
+    "Can drink molten steel",
+    "Voice barely moves his mouth"
+  ],
+  "notableFeats": [
+    "Froze D'Void's drilling generator solid, defeating him (Voided)",
+    "Laid the eggs that hatched into his Necrofriggian offspring (Save the Last Dance)",
+    "Defeated Kraab before the Vilgax fight (The Final Battle: Part 1)",
+    "Fought Ultimate Kevin (Absolute Power: Part 2)",
+    "Defeated Khyber and escaped his ship (Of Predators and Prey: Part 2)",
+    "Froze Emperor Milleous (The Frogs of War: Part 1)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af",
+        "ben-16-af"
+      ],
+      "firstEpisode": "Kevin's Big Score",
+      "notableEpisodes": [
+        "Kevin's Big Score",
+        "Save the Last Dance",
+        "Voided",
+        "Ben 10: Alien Swarm",
+        "The Final Battle: Part 1"
+      ],
+      "designNotes": "Slender black body with blue chest/limb patches and cyan ice-chunk patches, four moth wings, blue face with harsh black lines, green pupil-less eyes, four teeth; recalibrated Omnitrix symbol on chest. Alien Swarm used a greyer palette with a moving mouth.",
+      "image": {
+        "file": "BCAF2T.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Duped",
+      "notableEpisodes": [
+        "Duped",
+        "Hit 'Em Where They Live",
+        "Map of Infinity",
+        "Absolute Power: Part 2",
+        "Ben 10/Generator Rex: Heroes United"
+      ],
+      "designNotes": "Same design as Alien Force with Ultimatrix symbol on chest. Heroes United variant was paler with asymmetric cyan patches.",
+      "image": {
+        "file": "BCAF2T.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-15-af"
+      ],
+      "firstEpisode": "Of Predators and Prey: Part 2",
+      "notableEpisodes": [
+        "Of Predators and Prey: Part 2",
+        "Malefactor",
+        "Tummy Trouble",
+        "The Frogs of War: Part 1",
+        "Something Zombozo This Way Comes"
+      ],
+      "designNotes": "Bulkier, hunched, larger chest with long black hair draped over it, blue brows and chin stripe, six teeth, bigger bat-like wings and claws, ankle-length robe when folded. 16-year-old wears a green/white belt with the Omnitrix on the waist; the 15-year-old flashback version (Special Delivery) has no belt and the symbol on the chest.",
+      "image": {
+        "file": "OV BigChill.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render (16-year-old belt design)"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 6,
+    "speed": 6,
+    "mobility": 8,
+    "offense": 6,
+    "defense": 8,
+    "special": 7,
+    "versatility": 7,
+    "intellect": 4,
+    "energy": 4,
+    "regeneration": 0,
+    "survivability": 8,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Intangibility plus flight make him near-untouchable (defense 8) and let him phase-freeze enemies from inside; froze D'Void's generator and Milleous outright. Survives space, water and radiation. Fire, electricity and Psycholeopterran hypnosis are reliable counters, and his breeding instinct once hijacked Ben."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Big_Chill_(Classic)"
+  ],
+  "notes": [
+    "OV usedBy includes ben-15-af for the Special Delivery flashback (15-year-old Ben in OV art style, Omnitrix on chest); Ben Again use was 11-year-old Ben's mind in 16-year-old Ben's body (counted under ben-16-ov).",
+    "Also used by Albedo (Negative Big Chill) in AF, UA (dream) and OV; Film Fan Ben in Duped is Ben.",
+    "Heroes United (UA-era) transformations folded into UA appearance.",
+    "Alien Swarm counts as AF-era (Ben 16).",
+    "AF S1 (wiki) = ben-15-af, AF S2 = ben-16-af."
+  ]
+}

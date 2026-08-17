@@ -1,0 +1,141 @@
+{
+  "id": "spidermonkey",
+  "name": "Spidermonkey",
+  "wikiTitle": "Spidermonkey (Classic)",
+  "kind": "standard",
+  "species": "Arachnachimp",
+  "homeworld": "Aranhascimmia",
+  "bodyType": "Four-Armed Monkey",
+  "debut": {
+    "episode": "Be-Knighted",
+    "series": "af",
+    "usedBy": "ben-15-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": "ultimate-spidermonkey",
+  "componentIds": [],
+  "abilities": [
+    "Steel-strong webbing fired from tail (traps, blinds, slingshots, nets)",
+    "Web-swinging and wall/web scaling",
+    "Enhanced agility, acrobatics and reflexes",
+    "Enhanced strength (carried Queen Rumbletum, knocked Ultimate Kevin airborne)",
+    "Prehensile tail and feet; four arms",
+    "Enhanced hearing",
+    "Durable for his size (shrugged off falling concrete)"
+  ],
+  "weaknesses": [
+    "Can be tangled in his own webs; enemies turn them against him",
+    "Webs frozen brittle by Polar Manzardill breath or dissolved by Crystalsapien heat",
+    "Vulnerable to electricity, toxic gas and Argit's quills",
+    "Prey to Root Sharks and other Aranhascimmia predators"
+  ],
+  "summary": "A wisecracking blue four-armed monkey who slings steel-strong webbing from his tail; Ben's acrobat and the base of Ultimate Spidermonkey.",
+  "traits": [
+    "Four eyes in AF/UA, six in OV",
+    "Wisecracks mid-battle",
+    "Webbing shoots from his tail",
+    "Fur oil keeps him from sticking to his own webs"
+  ],
+  "notableFeats": [
+    "Fixed the Mapmaker's Universal Translator (Be-Knighted)",
+    "Escaped the Omnitrix and fought Brainstorm (Vengeance of Vilgax: Part 2)",
+    "Fought Bivalvan before first going Ultimate (Fame)",
+    "Battled Eon's minions (Ben 10,000 Returns)",
+    "Carried Queen Rumbletum to safety and fought General Attea (Tummy Trouble)",
+    "Rescued No Watch Ben from the evil Bens (And Then There Were None)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af",
+        "ben-16-af"
+      ],
+      "firstEpisode": "Be-Knighted",
+      "notableEpisodes": [
+        "Be-Knighted",
+        "Birds of a Feather",
+        "Vengeance of Vilgax: Part 2",
+        "Inferno",
+        "If All Else Fails"
+      ],
+      "designNotes": "Small blue-furred monkey with dark blue centre, four arms, four green eyes, three fingers/toes, striped tail; recalibrated Omnitrix symbol on chest.",
+      "image": {
+        "file": "Spidermonkey_UAF.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Fame",
+      "notableEpisodes": [
+        "Fame",
+        "Reflected Glory",
+        "Absolute Power: Part 2",
+        "Ben 10,000 Returns",
+        "Simian Says",
+        "The Mother of All Vreedles"
+      ],
+      "designNotes": "Same design as Alien Force with the Ultimatrix symbol on chest. Heroes United cameo had fully black spider eyes with green pupils.",
+      "image": {
+        "file": "Spidermonkey_UAF.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "The More Things Change: Part 1",
+      "notableEpisodes": [
+        "The More Things Change: Part 1",
+        "So Long, and Thanks for All the Smoothies",
+        "Tummy Trouble",
+        "And Then There Were None",
+        "Cough It Up"
+      ],
+      "designNotes": "Six green eyes, opposable toes, spiky flipped-up head fur with white stripes, white tail stripes, nose moved to forehead; Omnitrix on chest joined to two green sashes.",
+      "image": {
+        "file": "Spidermonkey omniverse profile.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render; small (307x307) but full-body - visually verified. Alternates: 'Pose of Spider Monkey.png', 'Ov Spider Monkey Transparent.png'"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 5,
+    "speed": 5,
+    "mobility": 8,
+    "offense": 4,
+    "defense": 5,
+    "special": 5,
+    "versatility": 5,
+    "intellect": 4,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 3,
+    "range": 4,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Mobility specialist (8): web-swinging, wall-crawling and acrobatics that outmanoeuvre most foes, with webbing strong enough to net Forever Knights and Incurseans. Light hitter who is usually the set-up for Ultimate Spidermonkey; his own webs and electricity are exploitable."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Spidermonkey_(Classic)"
+  ],
+  "notes": [
+    "Also used by Albedo (Negative Spidermonkey), the Naljian Destructor, Vilgax's Bioids and Time Heals Timeline Ben - no separate appearances.",
+    "Ben Prime showcased Spidermonkey to Ben 23 in Store 23 (still Ben Prime).",
+    "AF S1 (wiki) = ben-15-af, AF S2 = ben-16-af."
+  ]
+}

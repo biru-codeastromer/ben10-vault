@@ -1,0 +1,122 @@
+{
+  "id": "wildvine",
+  "name": "Wildvine",
+  "wikiTitle": "Wildvine (Classic)",
+  "kind": "standard",
+  "species": "Florauna",
+  "homeworld": "Flors Verdance",
+  "bodyType": "Humanoid plant",
+  "debut": {
+    "episode": "Camp Fear",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Elastic vine limbs and whip tendrils (grab, restrain, swing)",
+    "Chlorokinesis (control of plant life)",
+    "Explosive / gas-bomb / vine-growing fruit pods on his back",
+    "Thorn generation",
+    "Regeneration",
+    "Enhanced strength and durability",
+    "Burrowing",
+    "Gas immunity (no lungs)",
+    "Closeable flytrap head; plant merging"
+  ],
+  "weaknesses": [
+    "Vines can be tangled",
+    "Over-stretched limbs stay extended for a while",
+    "Vulnerable to electricity",
+    "Extreme cold makes him wilt and can kill him"
+  ],
+  "summary": "A one-eyed walking plant with whip-vine limbs, a flytrap head and a back full of explosive fruit - stretchy, sneaky and surprisingly tough.",
+  "traits": [
+    "Five vine legs in OS, four in OV",
+    "DNA donor was possessed by Zs'Skayr, which is how Ghostfreak entered the Omnitrix",
+    "Fruits can tame Gracklflints",
+    "Can merge with Earth trees"
+  ],
+  "notableFeats": [
+    "Held back the Mycelium spores of Camp Opinicon (Camp Fear)",
+    "Caught Max and Gwen mid-fall and beat Hex and Charmcaster (Tough Luck)",
+    "Defeated three Null Guardians in the Null Void (Back With a Vengeance)",
+    "Dragged the Werewolf underground (Benwolf)",
+    "Defeated Kuphulu (Rad Monster Party)",
+    "Battled Eon in Ben Again"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Camp Fear",
+      "notableEpisodes": [
+        "Camp Fear",
+        "Tough Luck",
+        "Back With a Vengeance",
+        "Benwolf",
+        "Super Alien Hero Buddy Adventures"
+      ],
+      "designNotes": "Green skin and teeth, five vine legs, blue main eye plus a secondary blue eye on each shoulder, black fruit pods on the back, original Omnitrix on the chest.",
+      "image": {
+        "file": "Wildvine Flors Verdance.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "Outbreak",
+      "notableEpisodes": [
+        "Outbreak",
+        "Ben Again",
+        "Evil's Encore",
+        "Rad Monster Party",
+        "Rook Tales",
+        "Breakpoint"
+      ],
+      "designNotes": "Green skin, four legs, white teeth, shorter thicker fingers, shoulder eyes replaced by light-green patches, blue tongue, bigger flytrap; 16-year-old wears the Omnitrix on a green/white belt, 11-year-old on the chest (green).",
+      "image": {
+        "file": "OmniverseWildvine.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 5,
+    "speed": 4,
+    "mobility": 6,
+    "offense": 5,
+    "defense": 4,
+    "special": 5,
+    "versatility": 6,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 6,
+    "survivability": 5,
+    "range": 4,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Mid-tier utility fighter: stretching vines, restraints, explosive/gas fruit and regeneration cover many situations, but he lacks raw power and is undone by cold, electricity or a good tangle."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Wildvine_(Classic)"
+  ],
+  "notes": [
+    "Not used in Alien Force (locked) or Ultimate Alien (intro only; re-unlocked in Ben 10,000 Returns).",
+    "OV 'Ben Again': 16-year-old Ben's mind in 11-year-old Ben's body used the 11-year-old design (counted as ben-11-ov).",
+    "Also used by Ken (Ken 10), Albedo (The Ultimate Heist) and Gwen 10 (And Then There Were None / And Then There Was Ben) - not counted."
+  ]
+}

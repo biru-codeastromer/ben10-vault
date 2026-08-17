@@ -1,0 +1,142 @@
+{
+  "id": "upgrade",
+  "name": "Upgrade",
+  "wikiTitle": "Upgrade (Classic)",
+  "kind": "standard",
+  "species": "Galvanic Mechamorph",
+  "homeworld": "Galvan B",
+  "bodyType": "Technological humanoid (liquid nanite body)",
+  "debut": {
+    "episode": "Permanent Retirement",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Technological possession and 'upgrading' of any machine into ultra-tech",
+    "Technokinesis / hacking of possessed systems",
+    "Amorphous liquid body: shapeshifting, stretching, size alteration",
+    "Green optic plasma beam (explosive)",
+    "Bio-electric shocks",
+    "Regeneration and rejoining of severed pieces",
+    "Space and underwater survivability",
+    "Enhanced strength and durability",
+    "Electroportation through currents"
+  ],
+  "weaknesses": [
+    "Sapient machines (Slix Vigma) can fight off possession; some security systems/viruses resist him",
+    "Can be forcibly separated from possessed tech",
+    "Sensitive to EMPs, magnetic fields and electricity",
+    "Weak to acid and intense heat/lava",
+    "Can be hurt if over-stretched"
+  ],
+  "summary": "A living black-and-green circuit-liquid that merges with machines and rebuilds them into super-weapons - Ben's most creative OS tool.",
+  "traits": [
+    "Body made of billions of nanites",
+    "One glowing eye that flashes when he talks",
+    "Merged with Rex in Heroes United",
+    "Same species as Ship and Malware"
+  ],
+  "notableFeats": [
+    "Merged with Rojo's cyborg armour to beat her (The Alliance)",
+    "Turned the Rustbucket into a battle machine and saved Max from Vilgax (Secrets)",
+    "Merged with Slix Vigma to free the Megacruiser prisoners (Grudge Match)",
+    "Beat Kenko and escaped a video game from the inside (Game Over)",
+    "Merged with Kevin's car to defeat OTTO Gestalt (OTTO Motives)",
+    "Halted Kundo's virus across the Plumber network (The Final Countdown)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Permanent Retirement",
+      "notableEpisodes": [
+        "Permanent Retirement",
+        "The Alliance",
+        "Secrets",
+        "Grudge Match",
+        "Game Over",
+        "Be Afraid of the Dark"
+      ],
+      "designNotes": "Black nanite body with green circuit lines, white front torso, single green eye, original Omnitrix on chest.",
+      "image": {
+        "file": "Upgrade Model.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Ben 10/Generator Rex: Heroes United",
+      "notableEpisodes": [
+        "Ben 10/Generator Rex: Heroes United"
+      ],
+      "designNotes": "UA intro design: front torso recolored green with black circuitry; in Heroes United the circuit stripes glow yellow (Generator Rex art style) and the Ultimatrix only shows once merged with Rex.",
+      "image": {
+        "file": "Upgrade HU full body.png",
+        "label": "HU",
+        "confidence": "high",
+        "notes": "Infobox image labelled HU. Upgrade's only UA-era on-screen use is the Heroes United crossover."
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "OTTO Motives",
+      "notableEpisodes": [
+        "OTTO Motives",
+        "Something Zombozo This Way Comes",
+        "Animo Crackers",
+        "The Color of Monkey",
+        "From Hedorium to Eternity",
+        "The Final Countdown"
+      ],
+      "designNotes": "16-year-old: more muscular, slightly changed circuit pattern, Omnitrix inside the ring of his eye. 11-year-old: OS design with a longer neck and green Omnitrix on chest.",
+      "image": {
+        "file": "OV Upgrade.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 5,
+    "speed": 5,
+    "mobility": 6,
+    "offense": 6,
+    "defense": 6,
+    "special": 8,
+    "versatility": 8,
+    "intellect": 6,
+    "energy": 6,
+    "regeneration": 5,
+    "survivability": 6,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Turns any machine into a weapon, hacks networks and reforms from any bisection - extremely versatile with decent plasma offense. EMPs, magnets, electricity, acid and lava all disable him."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Upgrade_(Classic)"
+  ],
+  "notes": [
+    "UA record rests solely on the Heroes United crossover (Generator Rex episode); Upgrade was re-unlocked in Ben 10,000 Returns but never used in a UA episode proper - flag for QA if crossovers should be excluded.",
+    "Not used in Alien Force (locked). In Ben 10,000 the 10-year-old Ben used Upgrade before Ben 10,000's Diamondhead switched him to Cannonbolt.",
+    "Also used by Kevin (Framed) and Max (Gwen 10, non-canon) - not counted.",
+    "Editorial score calibration (principal pass): regeneration 8→5, durability 6→5, survivability 7→6 — to keep the roster ladder consistent across research batches."
+  ]
+}

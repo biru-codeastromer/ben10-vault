@@ -1,0 +1,102 @@
+{{Original}}
+{{Disambig|main=Rath}}
+{{Infobox Alien
+|backcolor = B81B29
+|textcolor = CAC9C4
+|name = Ultimate Rath
+|image = Ultimate Rath OV.png
+|species = [[Ultimate Appoplexian]]
+|normal form = [[Rath (Classic)|Rath]]
+|power = Enhanced Strength<br>Enhanced Durability<br>Enhanced Jumping<br>Quadrupedalism
+|voice = [[John DiMaggio]]
+|1st-appearance = Malgax Attacks
+}}
+'''Ultimate Rath''' is the [[Ultimatrix]]'s artificially [[Ultimate Forms|evolved]] DNA sample of an [[Appoplexian (Classic)|Appoplexian]].
+
+==Appearance==
+Ultimate Rath has dark pink skin and white fur with red stripes. He is covered by fur everywhere except on his feet, hands, chest, neck, and most of his lower jaw. He has red bandages on his elbows, forearms, and wrists, and the ones on his wrists have three small red spikes on them. He has two giant claws on his hands, and his fingers and toes now have smaller claws. He also has giant claws coming out from his elbows.
+
+He wears black shorts with a white belt that has silver spikes and a silver buckle. He also has a red coat with red eyes and four yellow fangs. He has three giant red spikes on his back that are covered by his coat's hood, which is made up of long, thick, black fur. His face is white with flipped up hair and sideburns, and his eyebrows are now red and sharp.
+
+Ultimate Rath wears the evolved [[Ultimatrix (Stabilizer)|Ultimatrix]] symbol on his chest.
+
+==Personality==
+Ultimate Rath's personality is not changed due to [[Albedo]]'s superior intellect.
+
+If [[Ben Tennyson (Classic)|Ben]] were to use Ultimate Rath, his catchphrase would probably be “Let me tell ya FIVE things!”.{{Refn|[[:File:Ultimate Rath's Catchphrase.PNG]]|group = DJW}}
+
+==Powers and Abilities==
+<gallery type="slideshow">
+MA (344).png|Enhanced Strength
+MA (356).png|Enhanced Durability
+MA (362).png|Enhanced Jumping
+MA (361).png|Quadrupedalism
+</gallery>
+In general, all of Ultimate Rath's abilities are enhanced compared to his [[Rath (Classic)|devolved counterpart]].{{Refn|[[:File:Ultimate Rath has enhanced abilities.png]]|group = DJW}}
+
+Ultimate Rath is strong enough to carry a fairly large and bulky blaster.<ref name="MA">''[[Malgax Attacks]]''</ref>
+
+Ultimate Rath was durable enough to withstand blasts from [[Luhley]]'s [[Plumbers (Classic)|Plumber]] blaster.<ref name="MA" />
+
+Ultimate Rath can jump exceptionally high, as shown when he jumped out of Azmuth's lab through a hole in the roof.<ref name="MA" />
+
+Ultimate Rath was shown leaping on all fours which implies he maintaned his quadrupedalism.<ref name="MA" />
+
+Ultimate Rath has two claws extended from his wrists and has smaller claws on each of his fingers and toes.
+
+==History==
+===Omniverse===
+*Ultimate Rath first appeared in ''[[Malgax Attacks]]'', where he was used by [[Albedo]] to seemingly kill [[Azmuth (Classic)|Azmuth]] and chased an angered [[Luhley]] before a restored Azmuth disabled his Ultimatrix.
+
+==Appearances==
+===Omniverse===
+====Season 8====
+*''[[Malgax Attacks]]'' <small>(first appearance)</small>
+
+==Naming and Translations==
+{{Translation
+|russian = Ульти Рэт
+|russiand = From ''Ульти Рэт'', Ulti Rath
+|ha = Rath Supremo
+|italian = Ultra Tigre
+|polish = Ostateczny Gniew
+|romanian = Rath X
+|portuguesebr = Rath Supremo
+|had = From ''Rath Supremo'', Supreme Rath
+|italiand = From ''Ultra Tigre'', Ultra Tiger
+|polishd = From ''Ostateczny Gniew'', Ultimate Wrath
+|romaniand = From ''Rath X''
+|portuguesebrd = From ''Rath Supremo'', Supreme Rath}}
+
+==Trivia==
+*Negative Ultimate Rath is the final [[Ultimate Forms|Ultimate form]], as well as the final alien that [[Albedo]] transforms into, seen on-screen in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', as well as in the Classic Continuity in general.
+*In the comic ''[[One Man's Trash]]'', [[Ben Tennyson (Classic)|Ben]] attempts to turn into Ultimate Rath but fails due to the transformation being a joke at the time.
+*When asked what Ultimate form he would really like to see, [[Eugene Son]] chose Ultimate Rath.{{Refn|[[:File:DNAliens Are Not a Species.png]]|group = ES}}
+*Negative Ultimate Rath was designed by [[Steven Choi]] alongside [[Chap Yaep]] and Dou Hong.{{Refn|[[:File:Derrick's work on the Ultimate forms.PNG]]|group = DJW}}
+*Negative Ultimate Rath's design and outfit strongly resemble that of [[Wikipedia:Marvel Comics|Marvel Comics]] characters such as [[Wikipedia:Wolverine (character)|Wolverine]], [[Wikipedia:Sabretooth (comics)|Sabretooth]] and [[Wikipedia:Kraven the Hunter|Kraven the Hunter]] respectively.
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Eugene Son]]====
+{{Reflist|group = ES}}
+{{Ben 10 Aliens}}
+[[de:Ultimate Tiger]]
+[[es:Rath Supremo]]
+[[it:Ultra Tigre]]
+[[pl:Ostateczny Gniew]]
+[[pt-br:Rath Supremo (Albedo)]]
+[[ro:Rath X]]
+[[ru:Ульти-Рэт]]
+[[Category:Aliens]]
+[[Category:Transformations]]
+[[Category:Ultimate Forms]]
+[[Category:Omniverse Transformations]]
+[[Category:Albedo's Transformations]]
+[[Category:Classic Aliens]]
+[[Category:One-Time Aliens]]
+[[Category:Appoplexians]]
+[[Category:One-Time Transformations]]
+[[Category:Classic Transformations]]

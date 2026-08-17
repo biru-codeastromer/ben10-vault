@@ -1,0 +1,363 @@
+{{Original|rb=Grey Matter (Reboot)|de=Grey Matter (Dynamite)}}
+{{Disambig|main=Grey Matter}}
+{{Infobox Alien
+|name = Grey Matter
+|backcolor = 74887D
+|textcolor = 000000
+|image = 
+<gallery>
+OmniverseGreyMatter.png|OV
+Grey Matter OS.png|OS
+</gallery>
+|species = [[Galvan (Classic)|Galvan]]
+|home-planet = [[Galvan Prime (Classic)|Galvan Prime]]
+|nicknames = Micro Munchkin <small>([[Ben Tennyson (Classic)|Ben Tennyson]])</small><ref name="ASP">''[[A Small Problem]]''</ref><br>Brainiac <small>([[Gwen Tennyson (Classic)|Gwen Tennyson]])</small><ref name="ASP"/><br>Small Fry <small>([[Phil Billings (Classic)|Phil Billings]])</small><ref name="TTH">''[[Truth]]''</ref><br>Short Stuff <small>([[Kevin Levin (Classic)|Kevin Levin]] and Gwen Tennyson)</small><ref>''[[Grudge Match]]''</ref><ref name="SOTO">'''''[[Ben 10: Secret of the Omnitrix]]'''''</ref><br>Pygmy Punk <small>([[Dr. Animo (Classic)|Dr. Animo]])</small><ref name="SOTO"/>
+|body = Humanoid Frog
+|power = Enhanced Intelligence<br>Technological Expertise<br>Small Space Maneuvering<br>Enhanced Jumping<br>Enhanced Reflexes<br>Underwater Breathing<br>Wall Scaling<br>Long Prehensile Tongue<br>Sharp Teeth<br>Linguistic Intelligence
+|fusion = [[Diamond Matter]]
+|voice = [[Richard Horvitz]] <small>([[Ben 10 (2005 TV Series)|Original Series]])</small><br>[[Kari Wahlgren]] <small>([[Gwen Tennyson (Gwen 10)|Gwen]])</small><br>[[Carlos Alazraqui]] <small>([[Ben 10: Race Against Time|Race Against Time]])</small><br>[[Eric Bauza]] <small>([[Ben 10: Omniverse (TV Series)|Omniverse]])</small>
+|1st-appearance = Washington B.C.
+|Alternate Counterparts = [[Brainfrog]]
+|spellings = Greymatter{{Refn|group = Bandai|name = Spelling}}
+}}
+{{Quote|How do I stop this thing? I'm a thinker, not a fighter! Think...think...|Grey Matter, thinking of a way to subdue [[Tyrannopede]].<ref name="OPP2">''[[Of Predators and Prey: Part 2]]''</ref>}}
+'''Grey Matter''' is the [[Omnitrix]]'s DNA sample of a [[Galvan (Classic)|Galvan]]<ref>[[Azmuth (Classic)|Azmuth]]</ref><ref name="SOTO"/> from the planet [[Galvan Prime (Classic)|Galvan Prime]].<ref>[[w:c:secretsaturdays:Arthur_Beeman|Arthur Beeman]]</ref><ref>[[w:c:secretsaturdays:Guess_Who%27s_Going_To_Be_Dinner|Guess Who's Going To Be Dinner]]</ref>{{Refn|[[:File:Grey Matter Bandai Lenticular Card.png]]|group = Bandai|name = Spelling}}
+
+==Appearance==
+===Ben as Grey Matter===
+Grey Matter is a grey-skinned, frog-like, bipedal alien that is only six inches tall<ref>[[Howell Wainwright]]</ref><ref name="ASP"/> with large green eyes, which have rectangular pupils and horizontal eyelids.
+
+In the '''[[Ben 10 (2005 TV Series)|Original Series]]''', Grey Matter wore a white jumpsuit with a thin vertical black stripe down the front, his eyes were yellowish-green, his forehead had a larger version of the jumpsuit's stripe, and the [[Omnitrix (Original)|original Omnitrix]] symbol was on his back.
+
+In the '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' [[Ben 10: Ultimate Alien (TV Series)/Theme Song|intro]], Grey Matter looked exactly the same as before, except his skin was slightly lighter, his eyes were green and he wore the [[Ultimatrix (Original)|Ultimatrix]] symbol on his chest.
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Grey Matter now has a green jumpsuit with a black belt. His suit collar is now black, and the stripe on his head and jumpsuit are no longer present. He wears black, fingerless gloves with a green rectangle on the back. His neck is slightly longer, and his [[Omnitrix (Omniverse)|Omnitrix]] symbol has returned to his back.
+
+11-year-old Grey Matter in '''Omniverse''' looks exactly the same as he did in the '''Original Series''' except his collar is black, his eyes are green, and his skin tone is slightly different.
+
+===Gwen as Grey Matter===
+[[Gwen Tennyson (Gwen 10)|Gwen]] as Grey Matter had Gwen's hair and more oval-shaped eyes, with much smaller pupils. She wore a light blue jumpsuit with dark blue sleeves, and the Omnitrix symbol was on her back. She lacked the stripes [[Ben Tennyson (Classic)|Ben]]'s Grey Matter has.
+
+===Ken as Grey Matter===
+[[Ken Tennyson (Original)|Ken]]'s Grey Matter looked the same as 10-year-old Grey Matter in the '''Original Series'''.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Grey Matter RAT New.png|Grey Matter in '''''[[Ben 10: Race Against Time|Race Against Time]]'''''
+Grey Matter DAA.png|Grey Matter in '''''[[Ben 10: Destroy All Aliens|Destroy All Aliens]]'''''
+Grey matter omniverse.png|11-year-old Grey Matter in '''Omniverse'''
+Materia Gris en UA mejor imagen - CC3B3pia.PNG|Grey Matter in the '''Ultimate Alien''' intro
+Grey Matter Gwen OS.png|[[Gwen Tennyson (Gwen 10)|Gwen]] as Grey Matter
+</gallery>
+<!-- Do not put icons/holograms or the version that's in the infobox here. DO NOT REMOVE THIS WARNING. -->
+
+==Powers and Abilities==
+<gallery type="slideshow" widths="300">
+File:RadEp (345).png|Enhanced Intelligence/Technological Expertise
+File:DepreyPresa2P409.png|Small Space Maneuvering
+File:Problem (256).png|Enhanced Jumping/Enhanced Reflexes
+File:SLaTfAtS (127).png|Wall Scaling
+File:Captura de tela 2020-09-19 165059.png|Sharp Teeth
+File:RadEp (283).png|Linguistic Comprehension  
+</gallery>
+{{Quote|"Let's kick a few butts!"<br>"Actually, most of the Galvan species are known as technological geniuses."<br>"Oh. Then let's outthink a few butts!"|[[Ben Tennyson (No Watch Timeline)|No Watch Ben]] as Grey Matter and [[Professor Paradox]].<ref>''[[And Then There Was Ben]]''</ref>}}
+Grey Matter's small size masks his great calculative and technical intellect. He can create extremely advanced machinery from spare parts, understand the function of any device at a glance, and make sophisticated repairs to complex machines (such as a warp-drive engine).<ref name="Rad">''[[Rad]]''</ref> In fact, when [[Ben Tennyson (Classic)|Ben]] becomes Grey Matter, he instantly knows more about the [[Omnitrix]]'s inner workings, including its malfunctions;<ref name="ASP">''[[A Small Problem]]''</ref> how to rectify it being tampered with; and how to remove its limiter (the latter two being demonstrated by [[Ben 23]] as [[Brainfrog]]<ref>''[[It's a Mad, Mad, Mad Ben World: Part 2]]''</ref> and [[Ken Tennyson (Original)|Ken]] as Grey Matter,<ref name = "Ken 10">''[[Ken 10]]''</ref> respectively.)
+
+Grey Matter's intellect serves as a problem solver and analytical help in difficult situations. This allows Grey Matter to think more strategically when brute force is inefficient. He is also generally knowledgeable; even if he does not know something, he can learn it very quickly.{{Refn|[[:File:Grey Matter Can Learn Things Quickly.PNG]]|group = DJW}}
+
+Grey Matter's brain capacity also gives him an intuitive understanding of things he has never even seen before, like [[Kraab (Classic)|Kraab]]'s alien circuitry.{{Refn|[[:File:Grey Matter Brain Capacity.png]]|group = pop-up}}<ref>''[[Hunted]]''</ref> Grey Matter's multidisciplinary intellect can also extend to understanding unfamiliar languages, such as that of the [[Lovely Duck]]'s Artifical Intelligence, [[Pyxi]].
+
+Grey Matter's size allows him to squeeze into small spaces and he can climb walls due to microscopic pads on his skin,{{Refn|[[:File:Grey Matter Wall.PNG]]|group = pop-up}}<ref name="SOTO"/> which is covered in a thin membrane that feels slimy but doesn't actually make slime.{{Refn|[[:File:Grey Matter Bandai Alien Creation Card.png]]|group = Bandai|name = card2}} He also has sharp teeth that can cause massive pain to those he bites.<ref name="ASP" />
+
+Grey Matter is stronger than he looks, as he was strong enough to move a cleaner's bucket with mops in it<ref name="Ultimate Weapon">''[[Ultimate Weapon]]''</ref> and break a coolant pipe to freeze the [[Vreedle Brothers]].<ref>''[[So Long, and Thanks for All the Smoothies]]''</ref>
+
+Grey Matter can breathe underwater due to having gills, making him amphibious.{{Refn|[[:File:Galvan Amphibious.PNG]]|group = DJW}}
+
+Grey Matter has a long prehensile tongue, owing to his insectivore nature, as demonstrated with [[Blukic]].<ref>''[[Evil's Encore]]''</ref> As a [[Galvan (Classic)|Galvan]], he also possesses a "pre-brain" which deals with all basic bodily functions,<ref>[[Rook Blonko]]</ref> as well as some mild speech and motor capability, equivalent to that of a young or foolish [[Human (Classic)|Human]].<ref>''[[For a Few Brains More]]''</ref>
+
+Grey Matter's horizontal pupils create microscopic vision.{{Refn|group=Bandai|name=card2}}
+
+==Weaknesses==
+[[File:Problem (141).png|thumb|218x218px|Small Size]]
+{{Quote|Grey Matter?! I said "muscle", not "miniscule"!|Grey Matter intending to transform into [[Four Arms (Classic)|Four Arms]].<ref name="TTH" />}}
+Grey Matter's small size makes him unsuitable for physical battle, so he must outsmart his enemies in a fight. Animals like dogs and cats can be a problem, as they may see Grey Matter as a chew toy or food to them.<ref name="Ultimate Weapon" />
+
+Being a Galvan, Grey Matter is at a massive disadvantage against the [[Nemetrix]]'s sample of an [[Omnivoracious|Omnivoracious]] due to his small size.<ref>''[[Showdown: Part 1]]''</ref>
+
+Grey Matter is vulnerable to electricity, as demonstrated by [[Driba]].<ref name="IWT">''[[It Was Them]]''</ref>
+
+==History==
+===Ben 10===
+*Grey Matter first appeared in ''[[Washington B.C.]]'', where he searched through a whole aisle of cereal boxes for a Golden '''[[Sumo Slammers (Classic)|Sumo Slammers]]''' card.
+*In ''[[Hunted]]'', Grey Matter defeated [[Kraab (Classic)|Kraab]] and [[SixSix (Classic)|SixSix]].
+*In ''[[A Small Problem]]'', the [[Omnitrix (Original)|Omnitrix]] malfunctioned, trapping Ben as Grey Matter for most of the episode.
+*In ''[[Secrets]]'', Grey Matter defeated one of [[Vilgax (Classic)|Vilgax]]'s [[Mechadroid|Mechadroids]] before the malfunctioning Omnitrix turned him into [[Upgrade (Classic)|Upgrade]].
+**Also, Grey Matter appeared as one of the many alien templates used for Vilgax's army in an imaginary sequence.
+*In ''[[Truth]]'', Grey Matter defeated a [[Null Guardian]] and sent [[Phil Billings (Classic)|Phil]] to the [[Null Void (Classic)|Null Void]].
+*In ''[[Grudge Match]]'', Grey Matter disabled the alien prisoners' shock implants, looked for the escape pod controls and defeated some of [[Slix Vigma]]'s [[Slix Vigma's Bodyguards|drones]] with [[Kevin 11]].
+*In ''[[Ghostfreaked Out]]'', Grey Matter fought the [[Circus Freaks (Classic)|Circus Freaks]] and hid from [[Zs'Skayr]].
+*In ''[[Ultimate Weapon]]'', Grey Matter snuck into a building and helped [[Gwen Tennyson (Classic)|Gwen]] and [[Max Tennyson (Classic)|Max]] to get in. He then opened a safe to retrieve the [[Mask of Ah Puch]] and escaped from [[Sir Enoch]] and the [[Forever Knights]].
+*In ''[[They Lurk Below]]'', Grey Matter saved a drowning man from some sharks.
+*In ''[[Back With a Vengeance]]'', Grey Matter appeared about eight times. Firstly, he appeared when Ben unlocked the Master Control. Then, he appeared in a photo. Later, Grey Matter escaped from Vilgax's grip while he and [[Kevin 11]] where arguing. In the [[Null Void (Classic)|Null Void]], Grey Matter was used several times to evade Vilgax and Kevin. At the end of the episode, Ben accidentally transformed into Grey Matter, having just remembered that the Master Control was once again locked.
+*In ''[[Midnight Madness]]'', Grey Matter was hypnotized into being Gwen's slave.
+*In ''[[Merry Christmas]]'', Grey Matter accidentally destroyed the Rustbucket's air conditioner and later (intentionally) destroyed the [[Jinglelator]].
+*In ''[[The Unnaturals]]'', Grey Matter stopped some thieves from stealing the [[Wikipedia:Liberty Bell|Liberty Bell]] and won an MP3 player in a contest.
+*In ''[[Be Afraid of the Dark]]'', Grey Matter evaded Zs'Skayr and [[Dr. Viktor]], explained the former's plan to Max and Gwen, and built a [[Sun Gun]].
+*In '''''[[Ben 10: Secret of the Omnitrix]]''''', Grey Matter attacked [[Dr. Animo (Classic)|Dr. Animo]] with a hoverboard and crawled into his vest.
+*In ''[[Perfect Day]]'', Grey Matter defeated a mutated [[Cash Murray (Classic)|Cash]] and [[JT (Classic)|JT]] in a dream.
+*In '''''[[Ben 10: Destroy All Aliens]]''''', Grey Matter escaped [[Azmuth's Father|Retaliator]] and ran back to [[Ben's House|his house]], where he was attacked by [[Carl Tennyson|Carl]] and [[Sandra Tennyson|Sandra]] before the Omnitrix switched him into [[Diamondhead (Classic)|Diamondhead]].
+*In ''[[Snack Break]]'', Grey Matter attempted to retrieve his snack in a vending machine, but reverted before he could grab it and, as a result, got stuck in the machine.
+
+===Alien Force=== 
+*Grey Matter was locked by the Omnitrix's reconfiguration in ''[[Ben 10 Returns: Part 1]]''.
+
+===Ultimate Alien===
+*In ''[[Ben 10,000 Returns]]'', Grey Matter was re-unlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]].
+
+===Omniverse===
+*In ''[[So Long, and Thanks for All the Smoothies]]'', Grey Matter stopped the [[Vreedle Brothers]] from shooting at him and [[Rook Blonko|Rook]].
+*In ''[[Have I Got a Deal for You]]'', Grey Matter was part of an accidental transformation chain along with [[Juryrigg]], [[Nanomech]], and [[Bloxx]].
+*In ''[[Of Predators and Prey: Part 2]]'', Grey Matter defeated [[Tyrannopede]].
+*In ''[[Rad]]'', Grey Matter repaired [[Rad Dudesman|Rad]]'s [[Lovely Duck|ship]] so he and [[Ben's Team (Omniverse)|the team]] could escape.
+*In ''[[And Then There Was Ben]]'', [[Ben Tennyson (No Watch Timeline)|No Watch Ben]] as Grey Matter disabled the shields on the [[Chimeran Hammer (Classic)|Chimeran Hammer]] during the events of ''[[And Then There Were 10]]''.
+*In ''[[It's a Mad, Mad, Mad Ben World: Part 2]]'', Grey Matter and [[Brainfrog]] repaired each other's [[Omnitrix (Omniverse)|Omnit]][[Hero Watch|rices]].
+*In ''[[A New Dawn]]'', Grey Matter appeared for a short time when [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+===[[Original Future Timeline|Original Future]]===
+*Prior to ''[[Ken 10]]'', Grey Matter was among the intelligent aliens used by [[Ben 10,000 (Original)|Ben 10,000]] to create an [[Omnitrix (Ken's Replica)|Omnitrix]] for his [[Ken Tennyson (Original)|son]]'s 10 birthday.{{Refn|[[:File:Aliens Ben 10,000 Used to Create Ken's Omnitrix.png]]|group = pop-up}}<ref name="Ken 10" />
+*In ''[[Ken 10]]'', Ken as Grey Matter escaped his room to help his father battle [[Devlin Levin|Devlin]] before suddenly timing out. Later, Ken as Grey Matter unlocked the Master Control offscreen before confronting [[Kevin 11,000]] and switching into [[Spitter]] to attack him.
+
+===Gwen 10 (What-If?)===
+*In ''[[Gwen 10 (Episode)|Gwen 10]]'', [[Gwen Tennyson (Gwen 10)|Gwen]] as Grey Matter was chased by a raccoon.
+
+===[[Race Against Time Timeline]]===
+*In '''''[[Ben 10: Race Against Time]]''''', Grey Matter rewired various machines in [[Doris Dalton|Mrs. Dalton]]'s [[Le Roy's Restaurant|diner]] to throw various food at all the customers.
+
+==Appearances==
+{{Scroll box|
+===Ben 10===
+====Season 1====
+*''[[Washington B.C.]]'' <small>(first appearance)</small>
+*''[[Hunted]]''
+*''[[A Small Problem]]'' <small>(intended alien was [[Ripjaws (Classic)|Ripjaws]])</small>
+*''[[Secrets]]'' <small>(x2; first time was in Ben's imagination; second time was an unintentional transformation and a cameo)</small>
+
+====Season 2====
+*''[[Truth]]'' <small>(intended alien was [[Four Arms (Classic)|Four Arms]])</small>
+*''[[Grudge Match]]''
+*''[[Gwen 10 (Episode)|Gwen 10]]'' <small>(non-canon; by Gwen 10; off-screen activation)</small>
+*''[[Ghostfreaked Out]]''
+*''[[Ultimate Weapon]]''
+*''[[They Lurk Below]]'' <small>(intended alien was Ripjaws)</small>
+*''[[Back With a Vengeance]]'' <small>(x8; first to seventh times were cameos; eighth time was an accidental transformation)</small>
+
+====Season 3====
+*''[[Midnight Madness]]'' <small>(under hypnosis)</small>
+*''[[Merry Christmas]]'' <small>(x2; second time intended alien was Four Arms)</small>
+*''[[The Unnaturals]]'' <small>(intended alien was [[XLR8 (Classic)|XLR8]])</small>
+*''[[Be Afraid of the Dark]]'' <small>(accidental transformation)</small>
+
+====Season 4====
+*''[[Perfect Day]]'' <small>(dream; intended alien was [[Heatblast (Classic)|Heatblast]])</small>
+*''[[Ken 10]]'' <small>(by Ken; x2; off-screen activations; cameos)</small>
+*''[[Goodbye and Good Riddance]]'' <small>(non-canon; comic)</small>
+
+====Movies====
+*'''''[[Ben 10: Secret of the Omnitrix]]''''' <small>(unintentional transformation)</small>
+*'''''[[Ben 10: Race Against Time]]''''' <small>(selected alien was Four Arms)</small>
+*'''''[[Ben 10: Destroy All Aliens]]''''' <small>(unintentional transformation)</small>
+
+====Shorts====
+*''[[Snack Break]]''
+
+===Omniverse===
+====Season 1====
+*''[[So Long, and Thanks for All the Smoothies]]'' <small>(first reappearance; intended alien was [[Rath (Classic)|Rath]])</small>
+*''[[Have I Got a Deal for You]]'' <small>(accidental transformation; cameo)</small>
+*''[[Of Predators and Prey: Part 2]]'' <small>(intended alien was [[Way Big (Classic)|Way Big]])</small>
+
+====Season 3====
+*''[[Rad]]''
+
+====Season 5====
+*''[[And Then There Was Ben]]'' <small>(by No Watch Ben)</small>
+
+====Season 7====
+*''[[It's a Mad, Mad, Mad Ben World: Part 2]]''
+
+====Season 8====
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+===Video Games===
+====Ben 10====
+*''[[Ben 10 (2006 Video Game)|Ben 10]]''
+
+===Online Games===
+====Ben 10====
+*''[[Battle Ready]]''
+*''[[Ben to the Rescue]]''
+*''[[The Mystery of the Mayan Sword]]''
+
+====Omniverse====
+*''[[Ben 10: Slammers]]''
+
+====Ben 10 (2016 TV Series)====
+*''[[Super Hero Time]]''
+
+===Comics===
+====Cartoon Network Action Pack!====
+=====Ben 10=====
+*''[[Ole!]]''
+*''[[Techno Zombies]]'' <small>(accidental transformation)</small>
+*''[[Blast From the Past]]''
+*''[[Space Camp and Beyond]]'' <small>(intended alien was [[Four Arms (Classic)|Four Arms]])</small>
+*''[[Charmed to Beat You]]'' <small>(accidental transformation)</small>
+*''[[Captured!]]''
+
+====Science Hero====
+*''[[Earth Turned Upside Down]]'' <small>(x2; first time was a non-diegetic cameo)</small>
+
+====English Hero====
+*''[[Codename Come]]'' <small>(non-diegetic flashback; cameo)</small>
+
+====Standalone Comics====
+=====Ben 10=====
+*''[[Neighborhood Alien Gag!]]
+}}
+
+==Games==
+===Video Games===
+====[[Ben 10 (2006 Video Game)|Ben 10]]====
+Grey Matter is a playable alien in the game.
+
+===Browser Games===
+<gallery type="slideshow">
+Grey Matter OS SHT.png|Grey Matter in ''Super Hero Time'' ('''Original Series''')
+Grey Matter OV SHT.png|Grey Matter in ''Super Hero Time'' ('''Omniverse''')
+</gallery>
+====[[Ben to the Rescue]]====
+Grey Matter is the playable alien of the second level of ''[[Ben to the Rescue]]''. In his level, he infiltrates [[Tetrax Shard (Classic)|Hoverboard]]'s [[Chimeran Hammer (Classic)|hideout]] through various small rooms full of circuitry, needing to walk around live currents and swap bulbs to match their port and get a green current flowing to each room's door.
+
+====[[Super Hero Time]]====
+Grey Matter is a playable alien in the game as his '''[[Ben 10 (2005 TV Series)|Original Series]]''' and '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''' iterations that must be purchased separately for 299 Robux.
+
+==Comics==
+===Cartoon Network Action Pack!===
+====Ben 10====
+*In ''[[Ole!]]'', Grey Matter rode mechanical bull for a short time.
+*In ''[[Techno Zombies]]'', Grey Matter escaped the possessed children.
+*In ''[[Blast From the Past]]'', Grey Matter defeated [[Groombah]], [[Slezak]] and Honch.
+*In ''[[Space Camp and Beyond]]'', Grey Matter deciphered the code inside the alien.
+*In ''[[Charmed to Beat You]]'', Grey Matter defeated [[Hex (Classic)|Hex]].
+*In ''[[Captured!]]'', Grey Matter fooled the criminals.
+
+==Naming and Translations==
+{{Translation
+|arabic = جراي ماتر
+|arabicd = From ''ماتر'', matter, and ''جراي'' grey
+|bulgarian = Сиво Вещество <small>(Civo Veshtestvo)</small>
+|bulgariand = From ''сиво <small>(civo)</small>'', grey and ''вещество <small>(veshtestvo)</small>'', matter
+|chinese = 小奇兵
+|chinesed = From ''小 <small>(Xiǎo)</small>'', little, and ''奇兵 <small>(Qí Bīng)</small>'', soldier
+|croatian = Siva Tvar
+|croatiand = From ''siva'', grey, and ''tvar'', matter
+|danish = Grå Substans
+|danishd = From ''grå'', grey, and ''substans'', matter
+|deutsch = Graue Eminenz
+|deutschd = From ''grau'', grey, and ''eminenz'', eminence
+|dutch = Grijze Massa
+|dutchd = From ''grijze'', grey, and ''massa'', matter
+|finnish = Harmaa Haitta
+|finnishd = From ''harmaa'', grey, and ''haitta'', disadvantage
+|french = Le Tétard Gris
+|frenchd = From ''gris'', grey, and ''tétard'', tadpole
+|german = Graue Eminenz
+|germand = From ''Graue Eminenz'', [https://en.wikipedia.org/wiki/%C3%89minence_grise grey eminence]
+|greek = Γκρίυλος
+|greekd = From ''Γκρί'', gray, and ''ύλη'', matter
+|ha = Materia Gris
+|had = From ''materia'', matter, and ''gris'', grey
+|hebrew = תא אפור
+|hebrewd = From ''תא'', cell, and ''אפור'', grey
+|hungarian = Ragacska
+|hungariand = From ''ragacs'', putty
+|italian = Materia Grigia
+|italiand = From ''materia'', matter, and ''grigia'', grey
+|japanese = グレイマター
+|japanesed = From ''グレイ <small>(gurei)</small>'', grey, and ''マター <small>(matā)</small>'', matter
+|korean = 미니그레이
+|koreand = From ''미니'', mini, and ''그레이'', grey
+|norwegian = Gråbarken
+|norwegiand = From ''grå'', grey, and ''barken'', bark
+|polish = Szara Materia
+|polishd = From ''szara'', grey, and ''materia'', matter
+|portuguesebr = Massa Cinzenta
+|portuguesebrd = From ''massa'', mass, and ''cinzenta'', grey
+|romanian = Cerebel<br>Materie Cenusie
+|romaniand = From ''cerebel'', cerebellum<br>From ''materie'', matter, and ''cenusie'', grey
+|russian = Инопланетянин<br>Гуманоид <small>(Gumanoyd)</small>
+|russiand = From ''Инопланетянин'', alien<br>From ''Гуманойд <small>(gumanoyd)</small>'', humanoid
+|serbian = Сива Материја <small>(Siva Materija)</small>
+|serbiand = From ''сива <small>(siva)</small>'', grey, and ''материја <small>(materija)</small>'', matter
+|spanish = Materia Gris
+|spanishd = From ''materia'', matter, and ''gris'', grey
+|swedish = Grå Dvärgen
+|swedishd = From ''grå'', grey, and ''dvärgen'', dwarf
+|turkish = Gri Madde
+|turkishd = From ''gri'', grey, and ''madde'', matter
+|albanian = Materia Gri
+|albaniand = From materia gri, materia (matter) and gri (grey)
+|persian = موجود ریزه
+|persiand = From ''ریزه'', tiny, and ''موجود'', creature}}
+
+==Etymology==
+Grey Matter is named after [[Wikipedia:Grey matter|grey matter]], one of the components of the central nervous system.
+
+==Trivia==
+*Grey Matter is the second smallest alien in [[Ben Tennyson (Classic)|Ben's]] arsenal; the overall smallest being [[Nanomech]].<ref>''[[The Ultimate Heist]]''</ref>
+**Grey Matter is stated to be about 6 inches (15.24 cm) tall.<ref name="ASP" />
+*A running gag in the '''[[Ben 10 (2005 TV Series)|Original Series]]''' was that Ben turned into Grey Matter unintentionally in situations where his small size would be disadvantageous.
+*When Grey Matter gets surprised, his rectangular pupils turn into very large squares.
+*Grey Matter, [[Juryrigg]], and [[Feedback]] are the only aliens with their own theme song.
+*Grey Matter is the first alien to stay in a whole episode due to an [[Omnitrix (Original)|Omnitrix]] malfunction; the second being [[Rath (Classic)|Rath]].
+*Grey Matter was the first alien used by [[Ben Tennyson (No Watch Timeline)|No Watch Ben]].
+*Grey Matter is [[Ben Tennyson (Classic)|Ben]]'s smartest alien.{{Refn|[[:File:Grey Matter Is Ben's Smartest Alien.PNG]]|group = DJW}}{{Refn|[[:File:Derrick's Favorite Alien.PNG]]|group = DJW|name = derrickfav}}
+*Grey Matter's DNA was the first DNA sample added to the Omnitrix.{{Refn|[[:File:Galvans First in the Omnitrix.png]]|group = DJW}} However, it came from neither [[Azmuth (Classic)|Azmuth]] nor [[Albedo]].{{Refn|''link unavailable''|group = DJW}}
+*Ben named Grey Matter while transformed as him.{{Refn|[[:File:When Ben Named Grey Matter.png]]|group = DR}}
+*11-year-old Grey Matter was not necessarily planned to appear in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''' flashbacks.{{Refn|[[:File:OV Young Ben Aliens From Intro.png]]|group = DJW}}
+*Grey Matter was first envisioned by [[Ben 10 (2005 TV Series)/Early Development#Greymatter|Steve E. Gordon]] as a stereotypical [[Area 51]] [[wikipedia:Grey alien|grey alien]], with a huge head and giant pupil-less eyes, wearing a black full-body latex suit that covers everything up to his chest. [[Dave Johnson]] initially designed him similar to that design, but since the concept was deemed to be scary for kids, Dave decided to go with a frog-like design instead.
+**Grey Matter's '''Omniverse''' design was made by [[Derrick J. Wyatt]].{{Refn|[[:File:DJW Designed OV Grey Matter.png]]|group = DJW}}{{Refn|[[:File:Some of the Aliens Designed by Derrick in OV.png]]|group = DJW}}
+*Grey Matter is Derrick's favorite [[Omnitrix]] alien,{{Refn|group = DJW|name = derrickfav}} and one of [[Duncan Rouleau]]'s favorite aliens.{{Refn|https://youtu.be/IzdAJuPoKnU|group = DR}}
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+===[[Pop-Up Trivia]]===
+{{Reflist|group = pop-up}}
+===[[Merchandise]]===
+====[[Bandai]]====
+{{Reflist|group = Bandai}}
+
+{{Ben 10 Aliens}}
+{{DISPLAYTITLE:Grey Matter}}
+[[de:Graue Eminenz]]
+[[es:Materia Gris]]
+[[fr:Le tétard gris]]
+[[it:Materia Grigia]]
+[[pl:Szara Materia]]
+[[pt-br:Massa Cinzenta (Original)]]
+[[ro:Cerebel]]
+[[ru:Гуманоид (Классика)]]
+[[tr:Gri Madde]]
+[[Category:Aliens]]
+
+[[Category:Original Series Transformations]]
+[[Category:Transformations]]
+[[Category:Live-Action Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]
+[[Category:Ben 10,000's Transformations]]
+[[Category:Galvans]]

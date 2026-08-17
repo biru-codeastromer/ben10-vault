@@ -1,0 +1,131 @@
+{
+  "id": "nanomech",
+  "name": "Nanomech",
+  "wikiTitle": "Nanomech",
+  "kind": "standard",
+  "species": "Half Human / Half Nanochip (Microchip)",
+  "homeworld": "",
+  "bodyType": "Robotic Humanoid Insect (microscopic)",
+  "debut": {
+    "episode": "Ben 10: Alien Swarm",
+    "series": "af",
+    "usedBy": "ben-16-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Bio-electric energy blasts and explosive energy orbs from hands",
+    "Optic lasers (destroyed Aggregor's mind-control headbands)",
+    "Size reduction down to microscopic scale (cannot grow larger than a few inches)",
+    "Flight via wings",
+    "Small-space manoeuvring (entered a human brain)",
+    "Immunity to Nanochip Queen control (part human)",
+    "Adaptability - copied the Decoy Queen's tentacles",
+    "Electricity resistance"
+  ],
+  "weaknesses": [
+    "Tiny size - smooshed by a spellbook, swatted by a fly swatter",
+    "Useless against large opponents in a straight fight",
+    "Cannot grow beyond a few inches"
+  ],
+  "summary": "Ben's smallest alien, created when the Omnitrix scanned the alien Nanochips - a glowing microscopic bug that fights on the scale of circuitry.",
+  "traits": [
+    "Created by scanning the Nanochip hive in Alien Swarm",
+    "Smaller than a human hand at full height",
+    "'Float like a butterfly, sting like a bee!'",
+    "Only alien with human DNA in the mix"
+  ],
+  "notableFeats": [
+    "Entered Victor Validus's brain and destroyed the Nanochip Decoy Queen, freeing everyone (Ben 10: Alien Swarm)",
+    "Disabled and defeated the Stalker from inside (Video Games)",
+    "Destroyed the headbands controlling Ra'ad and P'Andor (Ultimate Aggregor)",
+    "Blew up Incursean guns from inside (The Frogs of War: Part 1)",
+    "Defeated Mad Way Big (It's a Mad, Mad, Mad Ben World: Part 2)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-16-af"
+      ],
+      "firstEpisode": "Ben 10: Alien Swarm",
+      "notableEpisodes": [
+        "Ben 10: Alien Swarm"
+      ],
+      "designNotes": "Live-action movie render: grey insectoid body with green circuit-like markings, single large green eye, green wings, Omnitrix symbol on chest.",
+      "image": {
+        "file": "Nanomech AlienSwarm Render.png",
+        "label": "AS",
+        "confidence": "high",
+        "notes": "infobox Alien Swarm movie render"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Video Games",
+      "notableEpisodes": [
+        "Video Games",
+        "Ultimate Aggregor",
+        "Absolute Power: Part 1"
+      ],
+      "designNotes": "Animated version of the movie design: grey skin with green circuit pattern, one big green cyclopean eye, green wings, triangular feet; Ultimatrix symbol on chest.",
+      "image": {
+        "file": "Nanomech Ultimate Alien.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "infobox UA render"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Have I Got a Deal for You",
+      "notableEpisodes": [
+        "Have I Got a Deal for You",
+        "The Frogs of War: Part 1",
+        "The Ultimate Heist",
+        "It's a Mad, Mad, Mad Ben World: Part 2"
+      ],
+      "designNotes": "Circuit pattern removed, closer to the movie look; Omnitrix symbol replaces the single eye, surrounded by four small eyes; new wings and legs; body glows bright green.",
+      "image": {
+        "file": "OmniverseNanomech.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 2,
+    "durability": 3,
+    "speed": 4,
+    "mobility": 6,
+    "offense": 4,
+    "defense": 3,
+    "special": 5,
+    "versatility": 4,
+    "intellect": 4,
+    "energy": 4,
+    "regeneration": 0,
+    "survivability": 3,
+    "range": 3,
+    "cosmic": 0,
+    "weaknessPenalty": 3,
+    "controlPenalty": 0,
+    "rationale": "A specialist for microscopic jobs - killed the Nanochip Queen from inside a brain and shut down the Stalker from within - but his blasts are small-scale and he can be flattened by a spellbook or fly swatter. Weak overall outside his niche."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Nanomech"
+  ],
+  "notes": [
+    "Alien Swarm is a live-action AF-era movie (Ben 16), so debut series is af with the AS render.",
+    "No homeworld: he is a hybrid created by the Omnitrix from Nanochip DNA plus Ben's human DNA.",
+    "Also used by Kevin (Inspector 13)."
+  ]
+}

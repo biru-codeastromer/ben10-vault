@@ -1,0 +1,92 @@
+{
+  "id": "chamalien",
+  "name": "ChamAlien",
+  "wikiTitle": "Chamalien",
+  "kind": "standard",
+  "species": "Merlinisapien",
+  "homeworld": "Unknown",
+  "bodyType": "Humanoid Salamander",
+  "debut": {
+    "episode": "Prisoner Number 775 is Missing",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Camouflage - blends into surroundings until effectively invisible",
+    "Wall climbing and agile crawling",
+    "Sharp teeth and claws (damaged Exo-Skull's armour)",
+    "Retractable tail stinger (Prisoner 775)",
+    "Enhanced strength (pushed cars and a truck; beat a Vulpimancer)",
+    "Slippery, hard-to-grab body"
+  ],
+  "weaknesses": [
+    "Only changes colour - his shadow shows and bright lights expose him",
+    "Tracked by Vulpimancers' senses and by Anodites via manna",
+    "Camouflage fails if he carries objects or is coated in powder/oil",
+    "Can be controlled by Vladat Corrupturas"
+  ],
+  "summary": "A purple salamander alien with three-coloured eye lenses who turns nearly invisible - Ben's stealth form, scanned from the Area 51 escapee Prisoner 775.",
+  "traits": [
+    "DNA scanned from Prisoner 775",
+    "Three eyes hidden behind blue, green and red lenses",
+    "Light German accent",
+    "Only used in Ultimate Alien Season 3"
+  ],
+  "notableFeats": [
+    "Tried out immediately after scanning Prisoner 775 (Prisoner Number 775 is Missing)",
+    "Snuck into the Flame Keepers' Circle building unseen (The Flame Keepers' Circle)",
+    "Hid from Gwen and Kevin in a dream (Night of the Living Nightmare)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Prisoner Number 775 is Missing",
+      "notableEpisodes": [
+        "Prisoner Number 775 is Missing",
+        "The Flame Keepers' Circle",
+        "Night of the Living Nightmare"
+      ],
+      "designNotes": "Slim purple salamander with darker camo spots, short tail, black helmet with three triangular lenses (blue/green/red), spike fin, four fingers and frog-like three-toed feet; Ultimatrix symbol on chest.",
+      "image": {
+        "file": "UltimateAlienChamAlien.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "only infobox image (unlabelled but named UA); ChamAlien appears only in UA"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 5,
+    "speed": 5,
+    "mobility": 6,
+    "offense": 4,
+    "defense": 5,
+    "special": 5,
+    "versatility": 4,
+    "intellect": 4,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 3,
+    "range": 2,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Camouflage (special 5) is a solid infiltration gimmick and he is agile with claws and a stinger, but his shadow, bright light, powder and keen-nosed trackers all break it, and Ben barely used him."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Chamalien"
+  ],
+  "notes": [
+    "Wiki title 'Chamalien'; project name 'ChamAlien'.",
+    "Never used on-screen in Omniverse.",
+    "Also used by Albedo (Negative Chamalien, dream).",
+    "UA wearer: Ultimatrix."
+  ]
+}

@@ -1,0 +1,448 @@
+{{Original|rb=Goop (Reboot)}}
+{{Disambig|main=Goop}}
+{{Infobox Alien
+|backcolor = 90CA26
+|textcolor = 39A72E
+|name = Goop
+|image =
+<gallery>
+Goop art.png|OV
+Goop Clear.png|UAF
+</gallery>
+|species = [[Polymorph (Classic)|Polymorph]]
+|home-planet = Unknown <small>(native; destroyed)</small><br>[[Viscosia]]
+|body = Humanoid Cell
+|Alternate Counterparts = [[Muck Amuck]]
+|power = {{Scroll|Elasticity<br>Shapeshifting<br>Prehensile Pseudopods <small>(via Shapeshifting)</small><br>Size Alteration<br>Density Shifting<br>Regeneration<br>Cytoplasm Ensnarement<br>Cytoplasm Projection<br>Adhesive Cytoplasm Projection<br>Self-Acidification<br>Acidic Cytoplasm Projection<br>Acid Neutralization<br>Small Space Maneuvering<br>Flight <small>(via Anti-Gravity Projector)</small><br>Levitation <small>(via Anti-Gravity Projector)</small><br>Enhanced Strength<br>Enhanced Speed <small>(via Flight)</small><br>Enhanced Agility<br>Enhanced Reflexes<br>Underwater Survivability<br>Atomization Survivability<br>Heat Resistance<br>Slippery Body<br>Movable Eyes<br>Eye Merging<br>Cytoplasm Cushion<br>Cytoplasm Spit}}
+|equipment = [[Anti-Gravity Projector (Classic)|Anti-Gravity Projector]]
+|voice = [[Dee Bradley Baker]]<br>[[James Remar]] <small>([[Vilgax (Classic)|Vilgax]])</small>
+|1st-appearance = The Gauntlet
+|fusion = [[Humungoopsaur]]
+}}
+{{Quote|Cool, but gross.|[[Gwen Tennyson (Classic)|Gwen]]'s opinion on Goop.<ref name="UC">''[[Undercover]]''</ref>}}
+'''Goop''' is the [[Omnitrix]]'s DNA sample of a [[Polymorph (Classic)|Polymorph]] from an unknown and destroyed planet and the planet [[Viscosia]].{{Refn|[[:File:Goop Bandai Card.png]]|group = Bandai|name = Bandai}}
+
+==Appearance==
+===Ben as Goop===
+Being a 200-pound single-celled organism{{Refn|[https://static.wikia.nocookie.net/ben10/images/3/38/AF_Mini_Bible.pdf Alien Force Series Mini Bible]|group = AF Mini Bible|name = bible 4}}{{Refn|[[:File:Goop Single-Celled Organism.PNG]]|group = DM}} that is neither liquid nor solid but a colloidal suspension,{{Refn|[[:File:Max Out Premiered Earlier Than Intended.PNG]]|group = DM}} Goop is a green gelatinous humanoid that can take any shape at will. Goop has bright green eyes and an [[Anti-Gravity Projector (Classic)|Anti-Gravity Projector]] that allows him to be mobile in [[Earth (Classic)|Earth]]'s gravity. His brain is spread throughout his body.{{Refn|group = DM|name = link}}
+
+In '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', Goop wore the [[Omnitrix (Original)|original Omnitrix]]/[[Ultimatrix (Original)|Ultimatrix]] symbol on his chest.
+
+In ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]'', the black outlines around Goop's eyes were thicker.
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Goop has a nose-like beak and an amoeba-like shape. His Anti-Gravity Projector has been redesigned and the [[Omnitrix (Omniverse)|Omnitrix]] symbol is on the top of it.
+
+===Albedo as Negative Goop===
+In '''Alien Force''', [[Albedo|Negative]] Goop looked exactly like [[Ben Tennyson (Classic)|Ben]]'s Goop.
+
+In '''Omniverse''', Negative Goop looks mostly the same as Ben's Goop except his body, eyes, and the [[Ultimatrix (Stabilizer)|Ultimatrix]] on his Anti-Gravity Projector are recolored red.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Goop Heroes United.png|Goop in ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]''
+Goop albedo omniverse.png|[[Albedo]] as Negative Goop in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''
+</gallery>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+IaMBW1 (141).png|Elasticity
+IaMBW1 (133).png|Shapeshifting
+TBotE (269).png|Prehensile Pseudopods (via Shapeshifting)
+BoaF (186).png|Size Alteration/Density Shifting
+BaDGtMS (261.1).png|Regeneration
+IaMBW1 (138).png|Cytoplasm Ensnarement
+VoV2 (281).png|Cytoplasm Projection
+AaB (205).png|Adhesive Cytoplasm Projection/Cytoplasm Spit
+ICW (78).png|Self-Acidification
+GCBC (335).png|Acidic Cytoplasm Projection
+BA 346.PNG|Small Space Maneuvering
+BaDGtMS (281).png|Flight/Enhanced Speed (via Anti-Gravity Projector)
+BaDGtMS (295).png|Levitation (via Anti-Gravity Projector)
+IaMBW1 (143).png|Enhanced Strength
+IaMBW1 (135).png|Enhanced Agility/Enhanced Reflexes
+VoV2 (266).png|Underwater Survivability
+Deep (507).png|Atomization Survivability
+Goop Slip.png|Slippery Body
+UC (215).png|Eye Merging
+TCfB (271).png|Cytoplasm Cushion
+VoV2 (325).png|Sharp Anti-Gravity Projector
+</gallery>
+Goop's entire body is comprised of green [https://en.wikipedia.org/wiki/Cytoplasm cytoplasm] that is very bouncy and elastic. This gives him a wide and gangly range of motion, able to stretch his limbs very far to extend his grab reach, as demonstrated by [[Ultimate Kevin]],<ref name="TEoME">''[[The Enemy of My Enemy]]''</ref> or the reach of his punches and kicks.<ref name="IaMBW1">''[[It's a Mad, Mad, Mad Ben World: Part 1]]''</ref><ref name="TUH">''[[The Ultimate Heist]]''</ref> It also allows him to absorb all manner of impacts, useful for blocking opponents' attacks<ref name="NotLN" /> or cushioning falling people.<ref name="HT">''[[Hero Time]]''</ref><ref name="TCFB">''[[The Creature From Beyond]]''</ref>
+
+Goop has the power of shapeshifting, allowing him to stretch, bend, and deform himself into any shape with ease, ranging from a [https://en.wikipedia.org/wiki/Pseudopodia pseudopod]-protruding glob of goo to a stretchy, bouncing ball and everything in between.{{Refn|group = AF Mini Bible|name = bible 4}} He can use this to dodge attacks;<ref name="IaMBW1" /> increase mobility;<ref name="BoaF">''[[Birds of a Feather]]''</ref> wrap around enemies;<ref name="TBotE">''[[The Beginning of the End]]''</ref> slip underneath doors or through small spaces;<ref name="NIBaC">''[[...Nor Iron Bars a Cage]]''</ref> and return to his normal shape if he is ever deformed or separated.<ref name="BaDGtMS">''[[Blukic and Driba Go to Mr. Smoothy's]]''</ref> Using his shapeshifting, Goop can mimic the shape of simple objects well enough to fool opponents, provided they don't look too closely.{{Refn|group = AF Mini Bible|name = bible 4}} Goop can also produce multiple prehensile pseudopods from his body to grab multiple opponents.<ref name="TBotE" />
+
+Goop can produce additional cytoplasm to regenerate,<ref name="TBotE" /> make himself bigger, or have a stronger kinetic impact.<ref name="BoaF" /> He can also change its density depending on his desire,{{Refn|[[:File:Nothing on Earth With Ship's Speed.PNG]]|group = DM}} and the density of Goop's cytoplasm can increase to the point of breaking a metal pipe by the sheer force of its impact.<ref name="VoVP2">''[[Vengeance of Vilgax: Part 2]]''</ref>
+
+Due to being made of cytoplasm, Goop can hold objects<ref>''[[Ben Again]]''</ref> or individuals inside his body to protect them.<ref name="BoaF" /> He can also wrap himself around someone to bind them in place.<ref name="DR">''[[Darkstar Rising]]''</ref><ref name="VoVP2" />
+
+Goop is able to generate and expel cytoplasm from any part of his body for use as offensive weaponry,{{Refn|group = Bandai|name = Bandai}} even as spit despite having no visible mouth.<ref name="AaB">''[[Above and Beyond]]''</ref><ref name="NotLN">''[[Night of the Living Nightmare]]''</ref> The cytoplasm he generates can change properties to be very adhesive.<ref name="AaB" /> He can shoot it in continuous streams similar to a water hose<ref name="GCBC" /> or in blob-like projectiles.<ref name="AaB" />
+
+Goop is capable of making himself acidic at will, or his projectiles.<ref name="GCBC">''[[Good Copy, Bad Copy]]''</ref> His acid is able to dissolve a large variety of materials.<ref>''[[In Charm's Way]]''</ref><ref name="Primus">''[[Primus (Episode)|Primus]]''</ref><ref name="NIBaC" /><ref>''[[Catch a Falling Star]]''</ref> If he needs to, Goop is also able to neutralize his own acid.<ref>[[Ben Tennyson (Classic)|Ben Tennyson]]</ref><ref name="NotLN" />
+
+Goop possesses enhanced strength, as he could wrestle [[Prior Gahlil]], someone who could easily overpower an armored [[Osmosian]].<ref name="DR" /> He can also increase the impact power of his attacks by stretching himself backwards and using the recoil to boost his momentum.<ref name="IaMBW1" />
+
+Due to his body's incredible elasticity, Goop is extremely resilient, and his brain being spread across his body makes it so that he feels no pain from most physical attacks. This allows him to survive lethal falls without a scratch<ref>''[[Simple]]''</ref> and be bisected numerous times.<ref name="TBotE" />
+
+Goop's cytoplasm is hydrophobic, allowing him to survive underwater, as seen when he hid in the sewer to ambush [[Ben Tennyson (Classic)|Ben]].<ref name="VoVP2" /> Goop can additionally survive being atomized across an entire planet's worth of water volume, such as he did with [[Piscciss]]. Moreover, he was able to generate enough additional goop to color all the planet's water green.<ref name="Deep">''[[Deep]]''</ref>
+
+Goop can survive in intense heat, such as the environment of his home planet [[Viscosia]].{{Refn|Goop Plumber Database; [[:File:Goop Plumber Database Collage.png|file]]|group = AF VG|name = PD}}
+
+Goop can pass under an enemy's foot in order to make them slip.<ref>''[[Fool's Gold]]''</ref><ref name="TBotE" />
+
+Goop can move his eyes all throughout his body.{{Refn|[[:File:Goop Movable Eyes.PNG]]|group = DJW}} He can also merge his eyes into one.<ref name="UC" />
+
+===Equipment===
+Goop's Anti-Gravity Projector allows him to be fully mobile on foreign planets like [[Earth (Classic)|Earth]] by generating a corrective field of gravity around him. It also enhances his shapeshifting capabilities, such as assisting in reconstituting himself. If Goop loses his Anti-Gravity Projector, the Omnitrix/Ultimatrix can immediately generate a new one.{{Refn|''link unavailable''|group = DM}}
+
+Thanks to his Anti-Gravity Projector, Goop is capable of high-speed flight and levitation, being able to easily evade [[Trombipulor]]'s shots.<ref name="BaDGtMS" />
+
+Goop's Anti-Gravity Projector has enough strength to pull continental-like masses of cytoplasm together, such as the cytoplasm-infected waters of Piscciss.<ref name="Deep" />
+
+Goop can control and launch his Anti-Gravity Projector at enemies to attack them due to the edges of it being razor-sharp.<ref name="VoVP2" />
+
+==Weaknesses==
+<gallery type="slideshow">
+IaMBW1 (148).png|Vulnerable Anti-Gravity Projector
+IaMBW1 (152).png|Deactivated Anti-Gravity Projector
+TPG (56).png|Compound Separation
+UPdC (524).png|Boiling Point Limit
+</gallery>
+{{Quote|"What did you do? I can't move!"<br>"I know, I turned off Goop's artificial gravity"|Vilgax (as Goop) and Ben. <ref>''[[Primus (Episode)|Primus]]''</ref>}}
+Goop is limited to his [[Anti-Gravity Projector (Classic)|Anti-Gravity Projector]] controlling his body, making it a vulnerable target for opponents. Goop's opponents can take advantage of this weakness in various ways, such as grabbing it to forcefully pull Goop back<ref name="VoVP2" /> or shooting it with a [[Positron Blaster]], which causes Goop to spin rapidly and explode into multiple parts.<ref name="IaMBW1" /> Additionally, the Anti-Gravity Projector can also simply be switched off.<ref name="Primus" />
+
+If Goop's Anti-Gravity Projector is separated from him or deactivated, Goop's body collapses into a puddle,<ref name="Primus" /><ref name="IaMBW1" /> only capable of slowly slithering around<ref name="TPG">''[[The Perfect Girlfriend]]''</ref> until it is reactivated or he recollects it.<ref name="AaB" /><ref name="TPG" />
+
+Despite being able to survive being atomized, Goop will start to hurt if he is, at the very least, spun very quickly in a centrifuge and beginning to separate into his constituent compounds.<ref name="TPG" /> Similarly, Goop would be destroyed on a molecular level should he be teleported due to being a single-celled organism.<ref>''[[Malgax Attacks]]''</ref>
+
+Goop is vulnerable to being super heated and vaporized by an [[Ultimate Galvan]]'s energy beams.<ref>''[[A Fistful of Brains]]''</ref>
+
+Goop is vulnerable to being hypnotized.{{Refn|[[:File:Polymorphs Can Be Hypnotized.png]]|group = DJW}}
+
+Goop can be affected by a [[Nemuina]]'s sleeping dust.{{Refn|[[:File:Pesky Dust Can Affect Galvanic Mechamorphs and Polymorphs.PNG]]|group = DJW}}
+
+==History==
+===Alien Force=== 
+*Goop first appeared in ''[[The Gauntlet]]'', where he defeated a [[Techadon Robot]].
+*In ''[[Darkstar Rising]]'', Goop defeated [[Prior Gahlil]].
+*In ''[[Good Copy, Bad Copy]]'', [[Albedo|Negative]] Goop hid from [[Alien Force|the team]] in a computer store and scared many customers away in the process. Later, [[Ben Tennyson (Classic)|Ben]] as Goop battled Negative [[Humungousaur (Classic)|Humungousaur]] before switching into [[Swampfire]].
+*In ''[[Undercover]]'', Goop saved [[Cooper (Classic)|Cooper]] from some [[DNAlien]]s.
+*In ''[[Birds of a Feather]]'', Goop helped [[Simian]] escape from some guards.
+*In ''[[Vengeance of Vilgax: Part 2]]'', Goop escaped from the Omnitrix and hid in the sewers. He fought Swampfire before getting reabsorbed by him.
+**The same scene reoccurred on TV in ''[[Fame]]''.
+*In ''[[Don't Fear the Repo]]'', Goop fought the [[Vreedle Brothers]].
+* In ''[[Simple]]'', Goop was used to avoid getting hurt after being pushed off a cliff.
+*In ''[[Fool's Gold]]'', Goop defeated [[Mr. Coleman]].
+*In ''[[Singlehanded]]'', [[Diamondhead (Classic)|Diamondhead]] turned into Goop to save himself from a bridge collapse while [[Julie Yamamoto|Julie]] was using his hand as a weapon, disgusting her.
+*In ''[[In Charm's Way]]'', Goop battled a [[Rock Monster]] until it was sucked into a [[Magic (Classic)|magic]] vortex.
+*In ''[[Primus (Episode)|Primus]]'', Ben turned [[Vilgax (Classic)|Vilgax]] into Goop and pulled the Omnitrix off his chest, removing the Omnitrix from Vilgax.{{Refn|group = note|[[Ben Tennyson (Classic)|Ben]] was able to easily remove the [[Omnitrix (Original)|Omnitrix]] from [[Vilgax (Classic)|Vilgax]] while the latter was Goop because the device wasn't bonded to him and not due to any possible inherent weakness with Goop's body composition.{{Refn|[[:File:Omnitrix Bonded With Ben.png]]|group = DM}}}}
+*In ''[[Above and Beyond]]'', Goop battled [[Pierce Wheels|Pierce]].
+
+===Ultimate Alien=== 
+*In ''[[Andreas' Fault]]'', Goop broke out of a dungeon cell and knocked out a [[Forever Knights|Forever Knight]] guard.
+*In ''[[Hero Time]]'', Goop saved [[Julie Yamamoto|Julie]] from falling and battled [[Captain Nemesis|Overlord]] before turning into [[Waterhazard]] even though the chosen alien was [[Big Chill (Classic)|Big Chill]].
+*In ''[[Deep]]'', Goop failed to escape some fans until [[Gwen Tennyson (Classic)|Gwen]] and [[Kevin Levin (Classic)|Kevin]] rescued him. Later, Goop used his Anti-Gravity Projector to save [[Piscciss]]. Although Goop was atomized and spread throughout Piscciss' sea, he was able to pull Piscciss back together.
+* In ''[[...Nor Iron Bars a Cage]]'', Goop escaped a prison cell and unlocked the door to let Gwen out.
+*In ''[[Viktor: The Spoils]]'', Goop briefly appeared as [[King Xarion]] was looking through the Ultimatrix for [[Ampfibian (Classic)|Ampfibian]].
+*In ''[[Revenge of the Swarm]]'', Goop fought a [[Dr. Victor Valadis]] clone until it escaped into a sewer and left a [[Microchip]] behind, which Goop discovered.
+*In ''[[Ben 10,000 Returns]]'', Goop battled some of [[Eon]]'s [[Eon's Minions|minions]].
+*In ''[[The Creature From Beyond]]'', Goop saved Gwen and Kevin from falling to their deaths.
+*In ''[[Greetings From Techadon]]'', Goop fought a [[Techadon Robot]].
+*In ''[[The Perfect Girlfriend]]'', Goop was trapped and tortured by [[Ssserpent]] until "[[Elena Valadis|Julie]]" saved him.
+*In ''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]'', Goop appeared as one of the many aliens when Ben was explaining his story to [[Rex Salazar (Generator Rex)|Rex]].
+* In ''[[Catch a Falling Star]]'', Goop broke into [[Captain Nemesis]] and [[Jennifer Nocturne]]'s [[Desert Dew Motor Court Hotel|motel]] room.
+* In ''[[Night of the Living Nightmare]]'', Goop battled [[Vilgax (Classic)|Vilgax]] before switching into [[Ultimate Spidermonkey]] in a dream.
+*In ''[[The Beginning of the End]]'', Goop defeated a group of Forever Knights on the [[Rustbucket 3]].
+
+===Omniverse=== 
+*In ''[[Blukic and Driba Go to Mr. Smoothy's]]'', Goop battled [[Trombipulor]] and saved [[Blukic]] and [[Driba]] from being devoured by him before switching into [[Echo Echo]].
+*In ''[[Ben Again]]'', Goop was used by 11-year-old [[Ben Tennyson (Classic)|Ben]] in 16-year-old Ben's body to find a clue in a sink pipe.
+*In ''[[The Ultimate Heist]]'', [[Albedo|Negative]] Goop was defeated by [[Terraspin]] while trying to retrieve the [[Polymorphic Crystal]].
+*In ''[[A Fistful of Brains]]'', Goop was defeated by [[Ultimate Albedo]].
+*In ''[[It's a Mad, Mad, Mad Ben World: Part 1]]'', Goop defeated [[Exo-Skull|Exo-Skull]], but was destabilized by [[Subdora]]. Fortunately, though, Goop's remains unintentionally created a means to track them down.
+*In ''[[A New Dawn]]'', Goop appeared for a short time when Ben was cycling through his aliens.
+
+==Appearances==
+{{Scroll box|
+===Alien Force===
+====Season 1====
+*''[[The Gauntlet]]'' <small>(first appearance)</small>
+*''[[Darkstar Rising]]''
+*''[[Good Copy, Bad Copy]]'' <small>(x2; first time was by Albedo; off-screen activation and a cameo)</small>
+*''[[Undercover]]''
+*''[[Birds of a Feather]]'' <small>(off-screen activation)</small>
+
+====Season 2====
+*''[[Vengeance of Vilgax: Part 2]]'' <small>(escaped; non-speaking)</small>
+*''[[Don't Fear the Repo]]''
+*''[[Simple]]''
+*''[[Fool's Gold]]''
+*''[[Singlehanded]]''
+*''[[In Charm's Way]]'' <small>(intended alien was [[Way Big (Classic)|Way Big]])</small>
+*''[[Primus (Episode)|Primus]]'' <small>(by Vilgax)</small>
+*''[[Above and Beyond]]''
+
+===Ultimate Alien===
+====Season 1====
+*''[[Fame]]'' <small>(first reappearance; on TV; cameo)</small>
+*''[[Andreas' Fault]]'' <small>(cameo)</small>
+*''[[Hero Time]]''
+
+====Season 2====
+*''[[Deep]]'' <small>(x2)</small>
+*''[[...Nor Iron Bars a Cage]]''
+
+====Season 3====
+*''[[The Big Story]]'' <small>(photo)</small>
+*''[[Viktor: The Spoils]]'' <small>(cameo)</small>
+*''[[Revenge of the Swarm]]''
+*''[[Ben 10,000 Returns]]'' <small>(intended alien was [[Rath (Classic)|Rath]])</small>
+*''[[The Creature From Beyond]]''
+*''[[Greetings From Techadon]]''
+*''[[The Perfect Girlfriend]]''
+*''[[Catch a Falling Star]]'' <small>(cameo)</small>
+*''[[Night of the Living Nightmare]]'' <small>(dream)</small>
+*''[[The Beginning of the End]]''
+*''[[The Ultimate Enemy: Part 1]]'' <small>(photo)</small>
+
+===Generator Rex===
+====Season 3====
+*''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]'' <small>(non-diegetic flashback; cameo)</small>
+
+===Omniverse===
+====Season 2====
+*''[[Blukic and Driba Go to Mr. Smoothy's]]'' <small>(first reappearance)</small>
+
+====Season 3====
+*''[[Ben Again]]'' <small>(11-year-old Ben in 16-year-old Ben's body; non-speaking)</small>
+
+====Season 4====
+*''[[The Ultimate Heist]]'' <small>(by Albedo; non-speaking)</small>
+*''[[A Fistful of Brains]]'' <small>(cameo)</small>
+
+====Season 7====
+*''[[It's a Mad, Mad, Mad Ben World: Part 1]]'' <small>(accidental transformation)</small>
+
+====Season 8====
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+===Video Games===
+====Alien Force====
+*''[[Ben 10: Alien Force (Video Game)|Ben 10: Alien Force]]'' <small>(DS)</small>
+*''[[Ben 10 Alien Force: Vilgax Attacks]]''
+*''[[Ben 10 Alien Force: The Rise of Hex]]''
+
+===Online Games===
+====Alien Force====
+*''[[Alien Attack]]''
+*''[[Game Creator]]'' <small>(Asia and New Zealand)</small>
+*''[[Omnimatch]]''
+
+====Ben 10 (2016 TV Series)====
+*''[[Super Hero Time]]''
+
+===Books===
+====Chapter Books====
+=====Alien Force=====
+*''[[The Dark of Knight]]'' <small>(x2; first time was an off-page activation; second time selected alien was [[Humungousaur (Classic)|Humungousaur]])</small>
+
+====Short Books====
+=====Alien Force=====
+*''[[Ben's Knightmare]]''
+
+===Comics===
+====Cartoon Network Action Pack!====
+=====Alien Force=====
+*''[[The New Order]]''
+*''[[Bad Boy]]''
+*''[[Double Trouble]]'' <small>(x2; second time was by Albedo)</small>
+*''[[Collectible Heroes]]''
+
+=====Ultimate Alien=====
+*''[[Jail Break]]''
+
+====Doom Dimension====
+*''[[Doom Dimension: Volume 2|Volume 2]]''
+
+====Standalone Comics====
+=====Alien Force=====
+*''[[Wanted: Kevin Levin]]'' <small>(non-diegetic cameo)</small>
+}}
+
+==Games==
+===Video Games===
+[[File:Goop VA.png|thumb|Goop in ''Vilgax Attacks'']]
+====[[Ben 10: Alien Force (Video Game)|Ben 10: Alien Force]]====
+Goop is a playable alien in the Nintendo DS version of the game.
+
+Goop is initially unavailable but is unlocked upon completion of the Warehouse 2-1 level.
+
+Goop is able to stretch his limbs, deform his body in various shapes to attack and turn into a pile of slime to evade enemy attacks.
+
+Goop is capable of throwing blobs of goo and spraying acid from his hands. He can also rotate his feet around like helicopter blades to damage enemies.
+
+Goop is not required to be used at all in order to complete the game.
+
+====[[Ben 10 Alien Force: Vilgax Attacks]]====
+Goop is a playable alien in the game.
+
+=====Xbox 360, Nintendo Wii, PlayStation 2, and PlayStation Portable Versions=====
+Due to the [[Omnitrix (Original)|Omnitrix]] rebooting after [[Ben Tennyson (Classic)|Ben]]'s abuse of the quick-change feature during his battle with an animated [[Mr. Smoothy (Classic)|Mr. Smoothy]] mascot, Goop was temporarily locked until Ben's arrival on [[Terradino (Classic)|Terradino]].
+
+Goop has the ability to stick to slime-covered walls and wall jump, thus reaching otherwise inaccessible areas.
+
+Acid Hose is an unlockable combo move for Goop.
+
+Goop is vital for progression on the Terradino, [[MorOtesi]], and [[Null Void (Classic)|Null Void]] levels of the game.
+
+=====Nintendo DS Version=====
+Only Goop and [[Swampfire]] are available on [[Ben Tennyson (Classic)|Ben]]'s arsenal upon his arrival on [[Vulpin]].
+
+Goop is able to safely walk on the acid rain puddles littering Vulpin's surface and is the only alien form capable of defeating [[Michael Morningstar (Classic)|Darkstar]].
+
+====[[Ben 10 Alien Force: The Rise of Hex]]====
+Goop is a playable alien in the game.
+
+Due to the [[Omnitrix (Original)|Omnitrix]] shorting out after [[Ben Tennyson (Classic)|Ben]] fiddled with it, Goop was temporarily locked until the beginning of Level 10.
+
+Goop is able to turn into a pile of slime to fall through specially designated holes and to slide under incredibly small openings, thereby navigating areas Ben and all of his other alien forms are unable to access.
+
+===Online Games===
+<gallery type="slideshow">
+Goop OV SHT.png|Goop in ''Super Hero Time'' ('''Omniverse''')
+Negative Goop OV SHT.png|Albedo as Goop in ''Super Hero Time''
+</gallery>
+====[[Super Hero Time]]====
+Goop is a playable alien in the game.
+
+==Comics==
+===Cartoon Network Action Pack!===
+====Alien Force====
+*In ''[[Bad Boy]]'' Goop tricked [[Highbreed]] and [[DNAlien]]s that Kevin is Ben and battled them.
+*In ''[[Double Trouble]]'', Goop fought [[Forever Knights]]. Then [[Albedo]] as Goop fought Ben as [[Echo Echo]].
+*In ''[[Collectible Heroes]]'', Goop was used briefly to outsmart the [[Collector (Collectible Heroes)|Collector]], before switching to [[Jetray (Classic)|Jetray]].
+
+====Ultimate Alien====
+*In ''[[Jail Break]]'', Goop fought against [[Sool]].
+
+==Naming and Translations==
+{{Translation
+|portuguesebr = Gosma
+|portuguesebrd = From ''gosma'', goo
+|german = Glibber
+|germand = From ''glibber'', goo
+|greek = Κολλώδης
+|greekd = From ''κολλώδης, sticky''
+|bulgarian = Слуз/Sluz
+|bulgariand = From ''cлуз/sluz'', goo
+|dutch = Glibber
+|dutchd = From ''glibber'', goo
+|hungarian = Hólyag
+|hungariand = From ''hólyag'', cyst
+|croatian = Sluzo/Слузо
+|croatiand = From ''sluz/слуз'', goo
+|serbian = Sluzo/Слузо
+|serbiand = From ''sluz/слуз'', goo
+|italian = Mutante
+|italiand = From ''mutante'', mutant
+|korean = 다이제스트
+|koreand = From "다이제스트", digest
+|norwegian = Guff
+|norwegiand = From ''guff'', goo
+|polish = Plazma
+|polishd = From ''plazma'', plasma
+|russian = Желе/Zhele
+|russiand = From ''желе/zhele'', jelly
+|turkish = Tek Hücre
+|turkishd = From ''tek'', single and ''hücre'', cell
+|spanish = Ameba
+|spanishd = From ''ameba'', amoeba
+|ha = Goop
+|had = From the original English name
+|romanian = Goop
+|romaniand = From the original English name
+|arabic = جووب
+|arabicd = ''Joob''
+|french = Transformo
+|frenchd = From ''transformer'', transform
+|swedish = Slime
+|swedishd = From ''Slime'', Slime
+|chinese = 异型怪
+|chinesed = From ''异型'' <small>(Yì Xíng)</small>, heterotype, and ''怪'' <small>(Guài)</small>, monster
+|portugueseeu=Gosma / *random grunts*
+|portugueseeud=From  ''gosma'', goo}}
+
+==Trivia== 
+* Goop is one of the five aliens who escaped from the [[Omnitrix (Original)|original Omnitrix]]; the others are [[Way Big (Classic)|Way Big]], [[Ghostfreak]], [[Chromastone (Classic)|Chromastone]], and [[Spidermonkey (Classic)|Spidermonkey]].
+* [[Ben Tennyson (Classic)|Ben]] believes Goop's high-pitched voice prevents others from taking him seriously.<ref name="TBotE" />
+* The source of Goop's voice has changed throughout his appearances: 
+**In ''[[The Gauntlet]]'', his voice came from his [[Anti-Gravity Projector (Classic)|Anti-Gravity Projector]].
+**In his subsequent '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' appearances and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', it came from himself.
+** In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', it comes from his Anti-Gravity Projector again.
+*When Goop spoke in ''[[Blukic and Driba Go to Mr. Smoothy's]]'', a crackle of static was heard at the end of each line as if he was speaking through a walkie-talkie.
+*Unlike other aliens, during nighttime scenes, Goop's eyes are shaded.
+*In the Portuguese and Arabic dubs, in certain episodes like ''[[Darkstar Rising]]'', Goop does not conventionally shout his name, he just shouts random grunts.
+*Goop's Anti-Gravity Projector isn't part of his [[Polymorph (Classic)|Polymorph]] biology; he just has one due to the difference of gravity between [[Viscosia]] and [[Earth (Classic)|Earth]].{{Refn|[[:File:Kevin's Original Car.PNG]]|group = DM|name = link}} The projector is created using the same mechanism in which nanomachines break down Ben's clothing during his transformations.{{Refn|[[:File:Ben's Clothes During Transformations.PNG]]|group = DM}}
+**Goop's Anti-Gravity Projector became a substitute for the missing Anti-Gravity Multiplier on the planet of [[Piscciss]].<ref name="Deep" />
+**It was [[Derrick J. Wyatt]]'s idea to put Goop's [[Omnitrix (Omniverse)|Omnitrix]] symbol on his Anti-Gravity Projector in '''Omniverse'''. In his first drawing, the Omnitrix symbol was supposed to be floating inside Goop.{{Refn|[[:File:Goop OV Omnitrix Symbol Placement.PNG]]|group = DJW}}
+*During the pre-production stage of '''Alien Force''', Goop had concept art drawn by [[Eric Canete]].{{Refn|[[:File:Eric Canete Designed Goop Concepts.png]]|group = EC}}
+*Goop was originally supposed to appear in:
+**''[[Inside Man]]'' to corrode the [[Oscillator Key]], referred to as a Non-Dimensional Oscillator.{{Refn|[https://static.wikia.nocookie.net/ben10/images/2/24/Inside_Man_Script_Outline.pdf/revision/latest ''A Man Inside'' Script Outline]|group = outline}}
+**''[[It's Not Easy Being Gwen]]'' to fight [[Dr. Animo (Classic)|Dr. Animo]]'s [[Mutant Frog]]s during [[Emily]]'s piano recital.{{Refn|https://archive.is/YKoW6|group = JHK}}
+*Goop was originally supposed to appear a second time in ''[[Viktor: The Spoils]]'' to free [[Gwen Tennyson (Classic)|Gwen]] and [[Kevin Levin (Classic)|Kevin]] from their shackles.{{Refn|[https://static.wikia.nocookie.net/ben10/images/5/53/VTS_Script_Final_Draft.pdf ''Viktor: The Spoils'' Script Final Draft]|group = script|name = final}}
+*Goop was originally not supposed to appear in the dream in ''[[Night of the Living Nightmare]]'', with [[Eatle]] taking his role.{{Refn|[https://static.wikia.nocookie.net/ben10/images/d/d4/Night_of_the_Living_Nightmare_Script_First_Draft.pdf ''Night of the Living Nightmare'' Script First Draft]|group = script|name = first}}
+*Derrick believed that each alternate counterpart of Goop has a different color and flavor: 
+**Ben Prime's Goop is green, and kiwi-flavored.{{Refn|[[:File:Goop Flavors.png]]|name=flavor|group=DJW}}
+**[[Albedo|Negative]] Goop is red, and cherry-flavored.{{Refn|name=flavor|group=DJW}}
+**[[Muck Amuck]] is blue, and blue-raspberry-flavored.{{Refn|[[:File:Muck Amuck Reveal.png]]|group = DJW}}
+**[[Bad Ben]] as Goop is an unknown color, and licorice-flavored.{{Refn|[[:File:Alternate Goop Flavors.png]]|name=alt|group = DJW}}
+**[[Mad Ben|Mad Ben]] as Goop is orange, and sour orange-flavored.{{Refn|name=alt|group = DJW}}
+**[[Nega Ben]] as Goop is grey, and black pepper-flavored.{{Refn|name=alt|group = DJW}}{{Refn|[[:File:Nega Ben Pepper.png]]|group=DJW}}
+**[[Benzarro]] as Goop is purple, and grape-flavored.{{Refn|name=alt|group = DJW}}
+**[[Argitrix]] Timeline [[Argit (Argitrix Timeline)|Argit]] as Goop is peach, and peach-flavored.{{Refn|[[:File:Argit's Goop.png]]|group = DJW}}
+**[[Gwen 10 (Gweniverse)|Gwen 10]] as Goop is pink, and strawberry-flavored{{Refn|[[:File:Gwen 10 Goop.PNG]]|group = DJW}}{{Refn|[[:File:Gwen 10 Goop Flavor.PNG]]|group = DJW}} or watermelon-flavored.{{Refn|name=flavor|group=DJW}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====Scripts====
+{{Reflist|group = script}}
+====Script Outlines====
+{{Reflist|group = outline}}
+====Alien Force Series Mini Bible====
+{{Reflist|group = AF Mini Bible}}
+===Crew Statements===
+====[[Dwayne McDuffie]]====
+{{Reflist|group = DM}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Eric Canete]] ====
+{{Reflist|group = EC}}
+====[[Jae Hong Kim]]====
+{{Reflist|group = JHK}}
+===[[:Category:Games|Games]]===
+====[[Ben 10: Alien Force (Video Game)]] <small>(DS version)</small>====
+{{Reflist|group = AF VG}}
+===[[Merchandise]]===
+====[[Bandai]]====
+{{Reflist|group = Bandai}}
+
+{{Ben 10 Aliens}}
+{{DISPLAYTITLE:Goop}}
+[[de:Glibber]]
+[[es:Goop]]
+[[fr:Transformo]]
+[[it:Mutante]]
+[[pl:Plazma]]
+[[pt-br:Gosma (Original)]]
+[[ro:Goop]]
+[[ru:Желе]]
+[[tr:Tek Hücre]]
+[[Category:Aliens]]
+[[Category:Transformations]]
+[[Category:Alien Force Transformations]]
+[[Category:Albedo's Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]
+[[Category:Ben 10,000's Transformations]]

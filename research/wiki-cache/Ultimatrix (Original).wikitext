@@ -1,0 +1,603 @@
+{{Original|rb=Ultimatrix (Reboot)}}
+{{Disambig|current=the original Ultimatrix|link=the [[Ultimatrix (Stabilizer)|recreated Ultimatrix]]|main=Ultimatrix|main2=Omnitrix}}
+{{Technology
+|backcolor = 00920E
+|textcolor = 000000
+|name = Ultimatrix
+|image =
+<gallery>
+Ultimatrix Box Image Jul 2021.png|UA/AF2
+Red Ultimatrix.png|AF1
+</gallery>
+|Creator = [[Azmuth (Classic)|Azmuth]]<br>[[Albedo]] <small>(finished)</small>
+|User = [[Ben Tennyson (Classic)|Ben Tennyson]] <small>(formerly)</small><br>[[Albedo]] <small>(formerly)</small><br>[[Plant Alien|Plant Ben]] <small>(temporary)</small><br>[[Gwen Tennyson (Classic)|Gwen Tennyson]] <small>(temporary)</small><br>[[Kevin Levin (Classic)|Kevin Levin]] <small>(temporary)</small>
+|Type = [[Technology Levels|Level 20]]<br>DNA Alterer<br>Gauntlet
+|voice = [[Yuri Lowenthal]]
+|1st = [[The Final Battle: Part 1]]
+|Status = Destroyed{{Refn|[[:File:Azmuth Destroyed The Ultimatrix.png]]|name = destroyed|group = DJW}}
+|alternate counterparts = [[Ultimatrix (Stabilizer)|Recreated Ultimatrix]]<br>[[Ultimatrix (Alpha's Replica)|Ultimatrix]] <small>([[Alpha]]'s Replica)</small>
+|predecessor = [[Omnitrix (Original)|Original Omnitrix]]
+|successor = [[Omnitrix (Omniverse)|Omnitrix]]
+}}
+{{Quote|It's not a knockoff. It's the Ultimatrix. And it's a definite improvement over [[Omnitrix (Original)|the original]]. Wanna see? Not only can I transform into anything you can, but I can also evolve those creatures to their [[Ultimate Forms|Ultimate form]].|[[Albedo]] as [[Humungousaur (Classic)|Humungousaur]].<ref name="TFB1">''[[The Final Battle: Part 1]]''</ref>}}
+The '''Ultimatrix''' was the device that '''[[Ben 10: Ultimate Alien (TV Series)|Ben 10: Ultimate Alien]]''' revolved around. [[Ben Tennyson (Classic)|Ben]] used it to replace the [[Omnitrix (Original)|Omnitrix]], which he destroyed in a [[The Final Battle: Part 2|battle]] with [[Vilgax (Classic)|Vilgax]].
+
+The Ultimatrix was removed by [[Azmuth (Classic)|Azmuth]] in ''[[The Ultimate Enemy: Part 2]]'' after the defeat of [[Dagon]], as well as being replaced by the new, completed [[Omnitrix (Omniverse)|Omnitrix]].
+
+==Appearance==
+The Ultimatrix, despite being called a watch, resembles a vambrace which bore a green gauntlet-like band that extended up to almost halfway up the user's forearm. It is light green in color, with a black rectangular button just below the selection interface, and on the left and right sides lay the wrist couplings which are composed of two small green tubes and beneath the tubes, the circuitry can be seen.
+
+The Ultimatrix's selection interface was identical to the original Omnitrix's dial, with the Galvan tech logo changing color to reflect what mode the Ultimatrix was in.
+
+When [[Albedo]] used it, the Ultimatrix had a red color scheme. After [[Ben Tennyson (Classic)|Ben]] took the Ultimatrix from Albedo, the Ultimatrix became green. This shows that the user can change the color scheme of the Ultimatrix.
+
+In ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]'', the Ultimatrix, when drawn in '''[[w:c:generatorrex:Generator Rex|Generator Rex]]''' art style, looked the same except it was dark green in color and the hourglass glowed light green.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+HU Ultimatrix.png|The Ultimatrix in ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]''
+TUS (176).png|The inside of the Ultimatrix
+</gallery>
+
+== History==
+=== Background===
+[[Azmuth (Classic)|Azmuth]] worked on the Ultimatrix for years,{{Refn|[[:File:Incomplete Ultimatrix.PNG]]|group = DM}} but its power core was unstable and incomplete, so he contained the device in high-security storage.
+
+===Alien Force===
+In ''[[The Final Battle: Part 1]]'', [[Albedo]] stole the Ultimatrix and was able to stabilize the core, as well as "surpassing" the [[Omnitrix (Original)|prototype Omnitrix]] by adding the evolutionary function. Unfortunately for him, [[Ben Tennyson (Classic)|Ben]]'s DNA was still the default for the Omnitrix and the Ultimatrix was still linked to the same database, so Albedo only had access to Ben's current aliens, which excluded [[Grey Matter (Classic)|Grey Matter]]. Allying himself with [[Vilgax (Classic)|Vilgax]], he agreed to help him so he could turn himself back to normal, while Vilgax could have the [[Earth (Classic)|Earth]]. After Albedo as [[Ultimate Humungousaur|Negative Ultimate Humungousaur]] easily defeated Ben as [[Humungousaur (Classic)|Humungousaur]], Vilgax threatened [[Gwen Tennyson (Classic)|Gwen]] and [[Kevin Levin (Classic)|Kevin]]'s lives in order to force Ben to give up the Omnitrix to him. Afterwards, Vilgax betrayed Albedo by using the Omnitrix to defeat him by turning his army of [[Bioid]]s into thousands of Humungousaurs.
+
+In ''[[The Final Battle: Part 2]]'', Ben activated the Omnitrix's self-destruct mechanism to force Vilgax to remove it but Vilgax refused, thinking he was bluffing and later suffered the consequences. Ben released Albedo and forced him to give him the Ultimatrix via the same threat. Ben used [[Ultimate Swampfire]] to battle Vilgax and used [[Jetray (Classic)|Jetray]] to later escape.
+
+===Ultimate Alien===
+At an unknown time during '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', Kevin would add a security feature to the Ultimatrix, restricting Ben from transforming into [[Alien X (Classic)|Alien X]]. It could be overridden by inserting [[Ultimatrix Security Keys|two keys]] that both Kevin and Gwen carry.
+
+Ben continued to use it until he defeated Vilgax with [[Dagon]]'s powers, Azmuth came to take [[Ascalon]] as well as the Ultimatrix and gave the new [[Omnitrix (Omniverse)|Omnitrix]] to the worthy wielder. Azmuth destroyed the Ultimatrix off-screen after ''[[The Ultimate Enemy: Part 2]]''.{{Refn|name = destroyed|group = DJW}}
+
+==Known Users==
+{| border="1" style="border:1px solid black; color:white; border-color:black; border-collapse:collapse; background:#313131;" cellpadding="4"
+|- style="background: green"
+!User 
+!Put On
+!Removal
+|-
+|[[Albedo]]
+|Albedo stole the Ultimatrix from Azmuth's laboratory and puts it on in ''[[The Final Battle: Part 1]]''.
+|In ''[[The Final Battle: Part 2]]'', Albedo removed the Ultimatrix after being threatened by Ben. 
+|-
+| rowspan="2" |[[Ben Tennyson (Classic)|Ben Tennyson]]
+|In ''[[The Final Battle: Part 2]]'', Ben put on the Ultimatrix after getting it from Albedo.
+|In ''[[The Big Story]]'', the Plant Alien removed the Ultimatrix from Ben.
+|-
+|In ''[[The Big Story]]'', Ben put on the Ultimatrix again after taking it from the Plant Alien.
+|In ''[[The Ultimate Enemy: Part 2]]'', [[Azmuth (Classic)|Azmuth]] removed the Ultimatrix from Ben so he can use the [[Omnitrix (Omniverse)|Omnitrix]].
+
+|-
+|[[Plant Alien]]
+|In ''[[The Big Story]]'', the Plant Alien stole the Ultimatrix and put it on.
+|In [[The Big Story|''The Big Story'']], Ben stole the Ultimatrix back from the Plant Clone.
+|}
+
+==Modes==
+<tabber>
+|-|Active=[[File:TP (366).png|thumb|left|Active Mode]]
+Active Mode is the Ultimatrix's default mode. Active Mode is active when the Ultimatrix can be used, is fully recharged, and has not detected any problems. It is where the user can select the transformation they want to become; initiate the process of transforming; and stay in said transformation. The actual usage time is 10 minutes at a time.<ref name="MoI"/> However, different factors and actions performed by the user can severely diminish the available usage time: most commonly if the user, while transformed, changes to another form.<ref>[[Gwen Tennyson (Classic)|Gwen Tennyson]]</ref><ref name="MoI"/> A single chain of 2 transformations limits the combined usage time to no more than 10 minutes, and more often less due to power leakage;{{Refn|[[:File:Dwayne Favorite Alien.PNG]]|group = DM}}{{Refn|[[:File:Omnitrix Transformation Duration.PNG]]|group = DM}} whereas chaining 3 or 4 transformations would leave the user with substantially less combined time than 10 minutes. This is because the action is energy-intensive, and depletes the Ultimatrix's power supply more quickly than staying a single transformations does.{{Refn|[[:File:Original Omnitrix Quick-Change.PNG]]|group = DM}}
+
+|-|Recharge=[[File:HU (992).png|thumb|left|Recharge Mode]]
+Like the Omnitrix, Recharge Mode is activated when the Ultimatrix runs out of time. Recharge Mode can stop automatically, once a certain period of time has passed. Recharge Mode's main purpose is to prevent the alien DNA from attaching permanently to its host, but can trigger due to power-heavy operations.<ref name="SS">''[[Simian Says]]''</ref>
+[[File:Fame (502.5).png|thumb|Time Out]]
+While using the Ultimate Forms, however, Recharge Mode will trigger, as they drain the Ultimatrix's battery too quickly.{{Refn|[[:File:Evolutionary Feature Drained the Ultimatrix's Battery.PNG]]|group = DM|name = battery}}
+
+|-|Collect/Capture=[[File:Fame (304).png|thumb|left|Collect Mode]]
+When DNA not present in the [[Codon Stream]] is near the Ultimatrix, it will close its main features until the DNA is scanned.<ref name=FaM>''[[Fame]]''</ref> When a new DNA sample is acquired and added, on occasion, the Ultimatrix can show a visual of almost every alien unlocked, including the new one.<ref name=EFA>''[[Escape From Aggregor]]''</ref>
+
+When scanning DNA that was previously used or already present in the Codon Stream, the Ultimatrix identifies and matches the scanned DNA, then moves the species to an active playlist.<ref name="PN775iM">''[[Prisoner Number 775 is Missing]]''</ref>{{Refn|During '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]'''<nowiki>'</nowiki>s early run, it was stated that the Ultimatrix could passively scan aliens it already had and move them to active playlists.{{Refn|[[:File:Omnitrix and Ultimatrix Capture Mode.PNG]]|group = DM}} This is changed in ''[[Prisoner Number 775 is Missing]]'', as aliens that the Ultimatrix has DNA sampled in its database can only added to an active playlist when they are directly scanned, as shown when Ben unlocked [[Chamalien]] by scanning [[Prisoner 775]].{{Refn|[[Contradictory Retcons (Classic)|Contradictory Retcons]]|name = retcon|group = BTP}}|group = note}}
+
+[[File:AF (259).png|thumb|The Ultimatrix symbol shooting yellow ray]]
+During scanning, the Ultimatrix either pops out and shoots out a yellow ray from the black and yellow part or doesn't pop out but circles and then reveals a hole that shoots out a yellow ray. When in alien form, the Ultimatrix shoots out a yellow ray from the dial.<ref>''[[Andreas' Fault]]''</ref>
+
+The Ultimatrix could scan [[Kevin's Mutations|Kevin's mutations]], but it was programmed not to.{{Refn|[[:File:Omnitrix and Ultimatrix Could Scan Kevin's Mutations.PNG]]|group = DM|name=kev}}
+
+|-|Reset=[[File:Fused (407).png|thumb|Reset Mode]]
+Reset Mode can be activated by Voice Command<ref name="SS"/> or by pressing and holding the Ultimatrix symbol as an alien for two seconds.<ref name="Fused" /> During a resetting period, the Ultimatrix deactivates, charges, and re-activates.<ref name="Fused" /> This can turn off/on some features.<ref name="SS"/> The Ultimatrix can also be Hard Reset using the Voice Command function.<ref name="I13">''[[Inspector 13]]''</ref>
+
+|-|Radiation=[[File:THtH (487).png|thumb|Radiation Mode]]
+Radiation Mode is activated when high levels of harmful radiation are detected. The Ultimatrix will beep and flash red. Radiation Mode can be turned off by turning the Ultimatrix symbol to the quarter past position as an alien, or when radiation isn't detected anymore.<ref name="THtH">''[[Too Hot to Handle]]''</ref>
+
+|-|Self-Destruct=[[File:TFB2 (357).png|thumb|left|Self-Destruct]]
+When in Self-Destruct Mode, the Ultimatrix counts down until it explodes. Self-Destruct Mode functions as a last resort, should the Ultimatrix fall into the wrong hands. Self-Destruct Mode can be activated and deactivated by Voice Commands, but exclusively recognizes the voice of the user.<ref name="TFB2">''[[The Final Battle: Part 2]]''</ref>
+</tabber>
+
+==Features==
+===General===
+<gallery type="slideshow">
+TCfB (295).png|User Transformation
+EfA (600).png|Show Aliens Unlocked
+VG (317).png|Quick Change
+I13 (112).png|Master Control
+TFB2 (366).png|Detach from the Wrist
+TFB2 (372).png|Color Alter
+Swampfire Eyes.png|Color Alter (Transformed)
+HU (993).png|Instant Recharge
+WtMH (145).png|Self-Activation
+TUE2 (109).png|Detransformation due to user's damage/stamina
+SS (426).png|DNA Repair/Xenocite Extraction
+TUS (168).png|Transport Access Portal
+TUS (527).png|Configuration
+VG (60).png|Alien with the user's current outfit
+B10kR (100).png|Signal Tracking
+B10kR (541).png|DNA Retrieval
+SS (131).png|Matrix core detection
+TUS (170).png|Deactivated Mode
+GT (155).png|Manual Time Out
+Duped (140).png|User Duplication (via Sonorosian DNA)
+Deep (68).png|Image Projection
+TFOC24.PNG|Security Keys Compatibility
+</gallery> 
+{{Quote|Pathetic workmanship, and an evolutionary function? Begging for trouble!|[[Azmuth (Classic)|Azmuth]] voicing his disapproval about the Ultimatrix and the [[Ultimate Forms|Ultimate forms]].<ref name="MoI">''[[Map of Infinity (Episode)|Map of Infinity]]''</ref>}}
+*Just like the [[Omnitrix (Original)|Omnitrix]], the Ultimatrix mainly allowed for the user to transform into a numerous variety of alien life-forms that are each with their own unique powers and abilities (along with their weaknesses) and in a selection of alien DNA that are in groups of 10.
+*The Ultimatrix automatically reverted the user back into their normal form when they got sufficiently hurt or knocked out.<ref>''[[The Ultimate Enemy: Part 2]]''</ref>
+*The Ultimatrix was able to access the Codon Stream's database to show which transformations have been activated over time.<ref name=EFA/>
+*The Ultimatrix was able to scan [[Human (Classic)|human]]-alien hybrids and extract pure alien DNA from them.{{Refn|group = DM|name=kev}}
+*The Ultimatrix could replace one of its DNA samples with someone else from the same species.{{Refn|[[:File:Omnitrix and Ultimatrix Could Replace DNA Samples.PNG]]|group = DM}}
+*The Ultimatrix had a Master Control mode.<ref name="I13"/>
+**It allows unlimited access to all of the Ultimatrix's functions like access to all alien forms in the device and also, instant changes with no time limit unless all available power is used up.{{Refn|[[:File:Halloween Trio Sampled.PNG]]|group = DM}}
+**It can be unlocked by via hacking.<ref name="I13">''[[Inspector 13]]''</ref>
+**Ben could unlock the Master Control via Voice Command, but he'd have to unlock it manually first.{{Refn|''link unavailable''|group = DM|name = link unavailable}}
+*Pressing the navy blue button on the gauntlet end makes the Ultimatrix increase in size, so it can be slipped off.<ref name="TFB2" />
+*The Ultimatrix was able to perform an action that shot out a green beam of energy, that was able to separate [[Eunice]] from a [[Xenocite]] trying to bond with her; though this immediately entered the device in Recharge Mode.<ref name="SS" />
+*The Ultimatrix was waterproof.{{Refn|[[:File:Omnitrix and Ultimatrix Waterproof.PNG]]|group = DM|name = Waterproof}}
+*The Ultimatrix was durable enough to take a bullet.{{Refn|group = DM|name = Waterproof}}
+*The Ultimatrix had a quick change feature.
+**The user could change back by turning the second ring on the dial to the 3 o'clock position.<ref name="Duped">''[[Duped]]''</ref> When [[Ben Tennyson (Classic)|Ben]] appeared to be changing mentally, it was just a coincidence. He was out of time and changing anyway.{{Refn|[[:File:Ben Revert.PNG]]|group = DM}}
+*The Ultimatrix grants the user of knowledge about its transformations.{{Refn|[[:File:Kevin's Original Car.PNG]]|group = DM|name = shouting}} However, Ben had to learn about [[Shocksquatch]]'s powers.<ref name="Rex">''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]''</ref>
+*The Ultimatrix changed the aliens' eye color to match the device's core color.<ref name="TFB2"/>
+**This feature was dismissed on two occasions, in ''[[Fused]]'' and ''[[The Ultimate Sacrifice]]''; due to the transformation's control being taken over from Ben by [[Ra'ad]] and [[Sentient Ultimate Humungousaur]].
+*The Ultimatrix could track alien signals.<ref name="B10KR" />
+*The Ultimatrix could teleport the user and others inside the device.<ref name="TUS" />
+*The Ultimatrix shuts down and the core turns completely black, making it of no use.<ref name="TUS">''[[The Ultimate Sacrifice]]''</ref>
+
+===Evolutionary Function===
+[[File:MoI (326).png|thumb]]
+*The Ultimatrix had the ability to evolve aliens into their Ultimate Form, granting them more powerful abilities. This was activated by pressing the Ultimatrix symbol as an alien, causing four gray spikes to grow from the dial and the selected alien to transform (often [[Transformation Sequences|stylized]] as green bands of light washing over them).
+*The Evolutionary Function worked by placing the selected species in a simulation right down to the DNA, for an extended period of time (about a million years or so) in what is described as a "worst-case scenario";{{Refn|[[:File:Ultimates Worst Case Scenario.PNG]]|group = DM}} the actual DNA is then simply modified to match the new DNA. This survival-of-the-fittest routine explains why the evolutions are more combat-centered than their normal forms.
+*Theoretically, almost any DNA can be put through the Evolutionary Function.{{Refn|[[:File:Almost All Aliens Have Ultimates.png]]|group = DJW}}{{Refn|[[:File:Jetray Speed Limit.png]]|group = MW}}
+
+===Extensions===
+<gallery type="slideshow">
+Fused (145).png|Voice Command
+SS (196).png|Voice Command (Transformed)
+RotS (131).png|GPS
+AU ep 02 Duped.PNG|Using different transformations at once
+UA (119).png|Communicator
+Deep (469).png|Communicator (Transformed)
+</gallery>
+*The Ultimatrix had an AI (Artificial Intelligence).
+*The Ultimatrix could detect other Matrix cores like the [[Eunice|Unitrix]].<ref name="SS" />
+*The Ultimatrix functioned as a GPS.<ref>[[Revenge of the Swarm]]</ref>
+*The Ultimatrix served as a communicator when transformed and not transformed, like the other Omnitrixes.
+*By duplicating before cancelling the transformation before merging back, [[Echo Echo]] can clone the Ultimatrix and its user, with the resulting duplicates able to transform into different aliens separately. The copies can then transform back into Echo Echo before remerging into a single copy, returning the user to one single body.<ref name="Duped" />
+*The Ultimatrix had a built-in [[Universal Translator]] and could also translate other Earth languages,{{Refn|[[:File:Omnitrix and Ultimatrix Could Translate Earth Languages.PNG]]|group = DM}} but not animal languages.{{Refn|[[:File:Omnitrix and Ultimatrix Cannot Translate Animal Languages.png]]|group = DM}}
+*The Ultimatix can change and create different types of extras as clothings or accessories on specific alien forms as cosmetics, armor, or to make the transformation more safe/stable, such as [[NRG]]'s [[Prypiatosian-B Containment Suit|containment suit]]{{Refn|[[:File:Ultimate Humungousaur Can't Grow 1.PNG]]|group = DM}} and [[Goop (Classic)|Goop]]'s [[Anti-Gravity Projector (Classic)|Anti-Gravity Projector]].
+**Ben didn't quite know how the feature worked whereas Albedo individually applied this function to each of the aliens.{{Refn|group = DM|name = link unavailable}}
+
+===Clothing===   
+*Most of the aliens appeared naked due to a bug.{{Refn|[[:File:Old Omnitrix Glitches.png]]|group = DJW|name = glitches}}
+**Most of aliens from the '''[[Ben 10 (2005 TV Series)|Original Series]]''' that were not in the Omnitrix after the reconfiguration wear the same black and white outfit. The only exceptions to this are:
+***[[Four Arms (Classic)|Four Arms]], who wears a gladiator armor.
+***[[Ditto]], whose white outline around the hourglass symbol on his chest and arms is blue.
+***[[Ripjaws (Classic)|Ripjaws]], who is naked.
+
+===Allocation=== 
+*When the user was transformed, an Ultimatrix symbol appeared on the chest of aliens.
+**[[Spitter]]{{Refn|During '''Omniverse'''<nowiki>'</nowiki>s early run, [[Matt Wayne]] believed that [[Ben Tennyson (Classic)|Ben]] had not unlocked [[Spitter]] as of ''[[The Frogs of War: Part 2]]''.{{Refn|[[:File:Spitter Not Unlocked in OV.png]]|group = MW}} Later during the show's run, Derrick stated that Spitter was unlocked off-screen after '''''[[Ben 10: Destroy All Aliens]]'''''.{{Refn|[[:File:OV Spitter Unlocked During Flashbacks.PNG]]|group = DJW}} This would imply that Spitter was re-unlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]'' and has been accessible to Ben since then. Due to this discrepancy, it is unclear if Spitter was unlocked in the Ultimatrix.|group=note}} and [[Upchuck]] have the Ultimatrix symbol on their stomachs.
+
+===Voice Command===
+*The Ultimatrix had a Voice Command, just like the Omnitrix.   
+**'''Command Function Override Code 10''': Overrides function.<ref name="TFB2" />
+**'''Ultimatrix Self Destruct in (time): Command Code: 000 - Destruct 0''': Activates Self-Destruct Mode.<ref name="TFB2" />
+**'''Abort Self Destruct Code 10''': Deactivates Self-Destruct Mode.<ref name="TFB2" />
+**'''Ultimatrix User Access Voice Recognition Mode''': Makes the Ultimatrix recognize the wearer and activates Voice Command Mode.<ref name="I13" />
+**'''Ultimatrix Hard Reset''': Resets the Ultimatrix.<ref name="I13" />
+**'''Ultimatrix Reset Code 10''': Activates Reset Mode.<ref name="SS" />
+**'''Ultimatrix Abort Reset Code 10''': Deactivates Reset Mode.<ref name="SS" />
+
+===Malfunctions===
+<gallery type="slideshow">
+B10kR (365).png|Vulnerability to Temporal Interference
+B10kR (395).png|Eradicable Aliens (via Temporal Interference)
+SS (168).png|Inability to restore DNA
+SS (429).png|Energy Usage Limit/Limited Energy
+TUS (208).png|Sentient Ultimate Forms (formerly)
+TUE1 (415).png|Affected by Magic
+SS (136).png|Not Functional with Codon Stream
+Fame (341).png|Unable to transform (While in Collect Mode)
+I13 (111).png|Poor Firewalls
+HU (888).png|Poor Firewalls (transformed)
+I13 (169).png|Turn others into Aliens (via Hacking)
+HU (985).png|Shutdown (via Hacking)
+Fused (171).png|Affected by Electromagnetic Interference
+Fused (230).png|Limited Transformations (via Electromagnetic Interference)
+TFOC276.PNG|Vulnerability to Energy Absorption
+CaFS (234.5).png|Transformation damage transferring to user
+CaFS (243).png|Aliens Affected by the User's Physical Damage
+TEC (92).png|Naked Aliens
+TUS (105).png|Aliens Overriding the User's Mind
+TUS (48).png|Aliens Overriding the User's Mind (transformed)
+TEC (107).png|Alien's Genetics Changing the User's Personality
+SA (117).png|Forced Time Out
+TFOC99.PNG|Mistransformations
+CaFS (207).png|Automatic Time Out Limit
+MoI (531).png|Current Clothing limit
+</gallery>
+*Much like the [[Omnitrix (Original)|original Omnitrix]], the Ultimatrix would sometimes transform the user into the wrong alien.
+**Furthermore, like the original Omnitrix, the Ultimatrix could be affected by [[manna]].<ref name="TUE1">''[[The Ultimate Enemy: Part 1]]''</ref>
+*The Ultimatrix displayed several signs that it was not completed properly. [[Azmuth (Classic)|Azmuth]] even considered the Ultimatrix to be "pathetic workmanship" compared to the [[Omnitrix (Original)|original]],<ref name="MoI" />{{Refn|[[:File:Ultimatrix Does Not Contain Vilgax's DNA.PNG]]|group = DM|name = vilgax}} despite it being more powerful.{{Refn|[[:File:Omnitrix Less Powerful Than The Ultimatrix.PNG]]|group = DM}}
+*The Ultimatrix couldn't detect outer dimensional creatures.<ref name="TCFB">''[[The Creature From Beyond]]''</ref>
+*Unlike the original Omnitrix, the Ultimatrix did not possess the ability to restore the DNA of those corrupted by Xenocites, such as the [[Arachnachimp (Classic)|Arachnachimp]] [[DNAlien]]s.<ref name="Eunice">[[Eunice]]</ref><ref name="SS" />{{Refn|group = DM|name = Waterproof}}
+*The Evolutionary Function drained the Ultimatrix's battery quicker than regular transformations.{{Refn|group = DM|name = battery}}
+*When exposed to electromagnetic interference, the Ultimatrix could limit transformations to specific alien/s and will be unable to deactivate until the source of the interference is gone.<ref name="Fused">''[[Fused]]''</ref>
+*Much like the original Omnitrix, on occasion any damage the user sustains was retained when said user times out.
+*The Ultimatrix always went into Collect Mode whenever it detected a sapient species whose DNA was not in the Codon Stream. Consequently, it could not be used to transform until the DNA was obtained or the specimen was no longer in range.<ref name="FaM" /><ref name="Fused" />
+*Like the original Omnitrix, the Ultimatrix can be controlled by temporal interference, being able to lose transformations if hit by temporal rays.<ref name="B10KR">''[[Ben 10,000 Returns]]''</ref> 
+*The Ultimatrix did not possess the ability to repair the genetics of other beings.<ref name="Eunice">[[Eunice]]</ref><ref name="SS" />
+*The genetics of some species can alter the user's personality, as occurs with [[Rath (Classic)|Rath]] and [[Juryrigg]].<ref>''[[The Eggman Cometh]]''</ref>{{Refn|[[:File:Aliens' genetics affect Ben's personality.png]]|group = CM}}
+*The Ultimatrix could be hacked as [[Thirteen]]'s Code Spool was able to breach the security measures and activate Master Control<ref name="I13" /> and [[Alpha]] was able to hack it via using the [[Bug Jar]]'s corrupted [[Nanite (Generator Rex)|Nanites]] to form his [[Ultimatrix (Alpha's Replica)|own replica]] of the Ultimatrix powered by said Nanites.<ref name="Rex" /> 
+**In the second case, the Ultimatrix will stop working for a period of time due to interference.<ref name="Rex" />
+*The Ultimate Forms eventually became sentient inside the Ultimatrix due to a glitch in the Evolutionary Function.<ref name="TUS" />
+**Azmuth fixed that glitch at the end of ''[[The Ultimate Sacrifice]]''.
+*Because it is easy to remove from the user's wrist, the Ultimatrix can be picked up by anyone.<ref>''[[The Big Story]]''</ref>{{Refn|In ''[[The Big Story]]'', it is shown that the Ultimatrix goes to the wrist of whoever activates it. However, [[King Xarion]] activated the Ultimatrix in ''[[Viktor: The Spoils]]'' and it did not go to his wrist.{{Refn|name = retcon|group = BTP}}|group = note}}
+*The Ultimatrix will always transform the user into what they were wearing during the reboot; Ben would always return to his normal clothing no matter what he was wearing pre-transformation.<ref name="MoI" /> However, this problem was corrected some time prior or during ''[[Basic Training]]''.
+**The Ultimatrix could reconstruct the last thing the user was wearing before they transformed, but Ben did not figure out how to do so.{{Refn|[[:File:Ultimatrix Clothing Reconstruction.PNG]]|group = DM}} 
+*If the user gets injured, the Ultimatrix will make the aliens injured too.<ref name="CaFS">''[[Catch a Falling Star]]''</ref>
+*In addition to gaining all the powers and abilities of an alien, the user gains all the weaknesses of that alien as well.
+*Technical glitches that would leave all the aliens naked and cold. 
+**Azmuth reformatted and corrected these errors in the [[Omnitrix (Omniverse)|new Omnitrix]].{{Refn|group = DJW|name = glitches}}
+*The DNA sources of aliens can override the alien and take control of the user's mind, like [[Ampfibian (Classic)|Ampfibian]]<ref name="Fused" /> and [[Ultimate Forms|Ultimates]].<ref name="TUS" />
+
+==Known Aliens==
+The Ultimatrix initially had a total of at least 1,000,905 different DNA samples (not counting the Ultimate Forms),<ref>[[Omnitrix (Original)|Omnitrix]]</ref> but throughout the first season of '''[[Ultimate Alien]]''', it scanned the DNA of 5 aliens from the [[Andromeda (Classic)|Andromeda Galaxy]], thus having at least 1,000,910 DNA samples available through the [[Codon Stream]], with 63 aliens unlocked by the time of the episode ''[[The Flame Keepers' Circle]]'', and 46 named aliens (excluding Ultimate forms and transformations with [[Upchuck|repeated names]]). Of the 47 transformations listed, Ben transformed into 35 of them on screen.
+
+===Known Unlocked Aliens===
+The following list shows all transformations unlocked during the timeframe of '''Ultimate Alien'''. Unless noted, all of these transformations were transferred to the current [[Omnitrix (Omniverse)|Omnitrix]] prior to Azmuth removing the Ultimatrix in ''[[The Ultimate Enemy: Part 2]]''.
+{| border="1" style="border:1px solid black; color:white; border-color:black; border-collapse:collapse; background:#313131;" cellpadding="4"
+|- style="background: green"
+!Alien
+!Species
+!When It Was Unlocked/Reunlocked/Obtained
+|-
+|[[Alien X (Classic)|Alien X]]
+|[[Celestialsapien (Classic)|Celestialsapien]]
+|Locked offscreen after ''[[The Final Battle: Part 2]]''<br />Temporarily reunlocked and subsequently locked in ''[[The Forge of Creation]]''{{Refn|[[:File:Alien X Re-Locked During TFoC.PNG]]|group = DM}}
+|-
+|[[Ampfibian (Classic)|Ampfibian]]
+|[[Amperi (Classic)|Amperi]] 
+|Obtained by scanning [[Ra'ad]] in ''[[Fused]]''
+|-
+|[[Arctiguana]]
+|[[Polar Manzardill]]
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[Armodrillo]]
+|[[Talpaedan]]
+|Obtained by scanning [[Andreas]] in ''[[Andreas' Fault]]''<br />First used in ''[[Hero Time]]''
+|-
+|[[Big Chill (Classic)|Big Chill]]
+|[[Necrofriggian (Classic)|Necrofriggian]]
+|
+|-
+|[[Blitzwolfer]]
+|[[Loboan (Classic)|Loboan]]
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[Brainstorm]]
+|[[Cerebrocrustacean]]
+|-
+|[[Cannonbolt (Classic)|Cannonbolt]]
+|[[Arburian Pelarota (Classic)|Arburian Pelarota]]
+|
+|-
+|[[Chamalien]]
+|[[Merlinisapien]]
+|Unlocked by scanning [[Prisoner 775]] in ''[[Prisoner Number 775 is Missing]]''
+|-
+|[[Chromastone (Classic)|Chromastone]]
+|[[Crystalsapien (Classic)|Crystalsapien]]
+|
+|-
+|[[Clockwork]]
+|[[Chronosapien]]
+|Unlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''<br />First used by Ben prior to ''[[Inspector 13]]''{{Refn|[[:File:Clockwork Offscreen Adventure.PNG]]|group = GT}}
+|-
+|[[Diamondhead (Classic)|Diamondhead]]
+|[[Petrosapien (Classic)|Petrosapien]]
+|
+|-
+|[[Ditto]]
+|[[Splixson]]
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[Eatle]]
+|[[Oryctini]]
+|First used in ''[[A Knight to Remember]]''
+|-
+|[[Echo Echo]]
+|[[Sonorosian]]
+|
+|-
+|[[Eye Guy]]
+|[[Opticoid (Classic)|Opticoid]]
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[Fasttrack]]
+|[[Citrakayah]]
+| Unlocked offscreen in ''[[Basic Training]]''{{Refn|[[:File:TWT Fasttrack Data.png]]|group = DVD}}
+|-
+|[[Four Arms (Classic)|Four Arms]]
+|[[Tetramand (Classic)|Tetramand]]
+|Reunlocked offscreen prior to ''[[Video Games (Episode)|Video Games]]'' 
+|-
+|[[Frankenstrike]]
+|[[Transylian]]
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[Ghostfreak]]
+|[[Ectonurite (Classic)|Ectonurite]] 
+|
+|-
+|[[Goop (Classic)|Goop]]
+|[[Polymorph (Classic)|Polymorph]]
+|
+|-
+|[[Gravattack]]
+|[[Galilean]]
+|Unlocked prior to ''[[Double or Nothing]]''{{Refn|As of the events of ''[[Double or Nothing]]'', [[Albedo]] is able to transform into any alien [[Ben Tennyson (Classic)|Ben]] unlocked up to that episode without the need of an [[Omnitrix (Original)|Omnitrix]] or Ultimatrix. Due to Albedo being able to transform into [[Gravattack|Negative Gravattack]] in ''[[For a Few Brains More]]'', and [[Derrick J. Wyatt|Derrick]] being unsure how Albedo would be able to add more aliens to transform into,{{Refn|[[:File: Albedo Cannot Add More Aliens.png]]|group = DJW}} it can be inferred that Gravattack was unlocked and available in the Ultimatrix prior to that episode, despite Ben first using the transformation with the new [[Omnitrix (Omniverse)|Omnitrix]] in '''Omniverse'''. However, Derrick later admitted that his statement of Albedo only being able to transform into aliens available up to ''Double or Nothing'' does not work due to Gravattack, and is unsure of all the aliens Albedo had access to.{{Refn|[[:File:Derrick Retracted Double or Nothing Statement.png]]|group = DJW}}|group = note|name = gravattack unlock}}
+|-
+|[[Grey Matter (Classic)|Grey Matter]]
+|[[Galvan (Classic)|Galvan]]
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[Heatblast (Classic)|Heatblast]]
+|[[Pyronite (Classic)|Pyronite]]
+|
+|-
+|[[Humungousaur (Classic)|Humungousaur]]
+|[[Vaxasaurian (Classic)|Vaxasaurian]]
+|
+|-
+|[[Jetray (Classic)|Jetray]]
+|[[Aerophibian (Classic)|Aerophibian]]
+|
+|-
+|[[Juryrigg]]
+|[[Planchaküle]]
+|First used in [[The Eggman Cometh]]
+|-
+|[[Lodestar]]
+|[[Biotsavartian]]
+|
+|-
+|[[Nanomech]]
+|[[Human (Classic)|Human]]/[[Microchip]]
+|
+|-
+|[[NRG]] 
+|[[Prypiatosian-B]]
+|Obtained by scanning [[P'Andor]] in ''[[Too Hot to Handle]]''<br />First used in ''[[The Forge of Creation]]''
+|-
+| [[Rath (Classic)|Rath]]
+|[[Appoplexian (Classic)|Appoplexian]]
+|
+|-
+|[[Ripjaws (Classic)|Ripjaws]]
+|[[Piscciss Volann (Classic)|Piscciss Volann]]
+|Reunlocked offscreen by scanning some Piscciss Volann after ''[[Deep]]''{{Refn|[[:File:Ben Scanned Piscciss Volanns.PNG]]|group = DM}}<br />First used in ''[[Perplexahedron (Episode)|Perplexahedron]]''
+|-
+|[[Shocksquatch]]
+|[[Gimlinopithecus]]
+|Unlocked by [[Rex Salazar (Generator Rex)|Rex Salazar]]{{Refn|[[:File:How Shocksquatch Was Unlocked.png]]|group = DR}} and first used in ''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]''
+|-
+|[[Snare-Oh]]
+|[[Thep Khufan]] 
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[Spidermonkey (Classic)|Spidermonkey]]
+|[[Arachnachimp (Classic)|Arachnachimp]]
+|
+|-
+|[[Stinkfly (Classic)|Stinkfly]]
+|[[Lepidopterran (Classic)|Lepidopterran]]
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[Swampfire]]
+|[[Methanosian]] 
+|Destroyed by [[Eon]] and subsequently restored by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[Terraspin]]
+|[[Geochelone Aerios]]
+|Obtained by scanning [[Galapagus]] in ''[[Escape From Aggregor]]''<br />First used in ''[[Reflected Glory]]''
+|-
+|Perk [[Upchuck]]
+|Perk [[Gourmand]]
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|Murk [[Upchuck]]
+|Murk [[Gourmand]]
+|
+|-
+|[[Upgrade (Classic)|Upgrade]]
+|[[Galvanic Mechamorph (Classic)|Galvanic Mechamorph]]
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''<br />First used in ''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]''
+|-
+|[[Waterhazard]]
+|[[Orishan]]
+|Obtained by scanning [[Bivalvan]] in ''[[Fame]]''<br />First used in ''[[Too Hot to Handle]]''
+|-
+|[[Way Big (Classic)|Way Big]]
+|[[To'kustar (Classic)|To'kustar]]
+|Destroyed by [[Eon]] and subsequently restored by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[Wildmutt]]
+|[[Vulpimancer]]
+|
+|-
+|[[Wildvine (Classic)|Wildvine]] 
+|[[Florauna (Classic)|Florauna]]
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[XLR8 (Classic)|XLR8]]
+|[[Kineceleran (Classic)|Kineceleran]]
+|Reunlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''<br />First used in ''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]''
+|}
+
+=== Known Ultimate Forms===
+{| border="1" style="border:1px solid black; color:white; border-color:black; border-collapse:collapse; background:#313131;" cellpadding="4"
+|- style="background: green"
+!Normal Form
+!Ultimate Form
+!When The Ultimate Forms Were First Used
+|-
+|[[Big Chill (Classic)|Big Chill]]
+|[[Ultimate Big Chill]]
+
+|First used in ''[[Hit 'Em Where They Live]]''
+|-
+|[[Cannonbolt (Classic)|Cannonbolt]]
+| [[Ultimate Cannonbolt]]
+
+|First used in ''[[Too Hot to Handle]]''
+|-
+|[[Echo Echo]]
+|[[Ultimate Echo Echo]]
+|First used in ''[[Map of Infinity (Episode)|Map of Infinity]]'' 
+|-
+|[[Humungousaur (Classic)|Humungousaur]]
+| [[Ultimate Humungousaur]]
+|First used by [[Albedo]] in ''[[The Final Battle: Part 1]]''<br />First used by [[Ben Tennyson (Classic)|Ben]] in ''[[Too Hot to Handle]]''
+|-
+|[[Spidermonkey (Classic)|Spidermonkey]]
+|[[Ultimate Spidermonkey]]
+|First used in ''[[Fame]]''
+|-
+|[[Swampfire]] 
+|[[Ultimate Swampfire]]
+|First used in ''[[The Final Battle: Part 2]]''<br />Destroyed by [[Eon]] and subsequently restored by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] in ''[[Ben 10,000 Returns]]''
+|-
+|[[Way Big (Classic)|Way Big]]
+
+| [[Ultimate Way Big]]
+|First used in ''[[The Ultimate Enemy: Part 2]]''
+|-
+|[[Wildmutt]]
+|[[Ultimate Wildmutt]]
+|First used in ''[[Prisoner Number 775 is Missing]]''
+|}
+
+==Appearances==
+===Alien Force===
+====Season 2==== 
+*''[[The Final Battle: Part 1]]'' <small>(first appearance)</small> 
+*''[[The Final Battle: Part 2]]''
+
+===Ultimate Alien=== 
+*''[[Ben 10: Ultimate Alien (TV Series)/Episodes|All episodes]]''.
+
+===Generator Rex===
+====Season 3====
+*''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]''
+
+===Comics===
+====Ultimate Alien====
+*[[Ben 10: Ultimate Alien (Comics)#Issues|All issues]].
+
+====Standalone Comics====
+=====Ultimate Alien=====
+*''[[The Scud the Bad and the Ugly]]''
+*''[[A Woman Scorned]]''
+
+==Naming and Translations==
+{{Translation
+|portuguesebr = Superomnitrix
+|portuguesebrd = From ''super'', and ''Omnitrix''
+|ha = Superómnitrix <small>('''[[Ben 10: Alien Force (TV Series)|Alien Force]]''')</small><br>Ultimatrix<br>Ultramatrix <small>(one time in ''[[Simian Says]]'')</small>
+|had = From ''super'', and Omnitrix<br>From the original English name, Pronounced as /ultɪ'matrɪks/ or /ultɪ'meɪtrɪks/<br>From ''ultra'', ultra- and matrix, Dub error
+|spanish = Ultimatrix
+|spanishd = From the original English name
+|german = Ultimatrix
+|germand = From the original English name
+|french = Ultimatrix
+|frenchd = From the original English name
+|italian = Ultimatrix
+|italiand = From the original English name
+|polish = Ultimatrix
+|polishd = From the original English name
+|romanian = Ultimatrix
+|romaniand = From the original English name
+|russian = Ультиматрикс
+|russiand = From the original English name
+|turkish = Ultimatrix
+|turkishd = From the original English name
+}}
+
+==Trivia==
+*[[Albedo]] installed more features in the Ultimatrix than is officially known.{{Refn|[[:File:Ultimatrix Hidden Features.PNG]]|group = DM}}
+*Azmuth does not enjoy the Evolutionary Function, and stated it was "begging for trouble".<ref name="MoI" />
+**[[Dwayne McDuffie]] had originally planned an episode covering Azmuth's dislike of [[Ultimate Forms]], including something to do with Ben's eyes glowing pink after he reverted to human from [[Ultimate Spidermonkey]] in ''[[Fame]]''.{{Refn|[[:File:Glowing Eyes Episode.PNG]]|group = DM}}{{Refn|[[:File:Ben Pink Eyes.PNG]]|group = DM}}
+*The Ultimatrix's mistransformations were not entirely the fault of Albedo's shoddy work.{{Refn|[[:File:Ultimatrix Mistransformations.PNG]]|group = DM}}
+*Most of the Ultimatrix aliens were both prime specimens and optimized adults of their respective species{{Refn|[[:File:Prime Specimen Omnitrix.png]]|group = DJW}}{{Refn|[[:File:Omnitrix Aliens are Optimized Adults.png]]|group = MW}} with the exception being [[Alien X (Classic)|Alien X]] because he is a typical representation of [[Celestialsapien (Classic)|his race]].{{Refn|[[:File:Alien X Typical Celestialsapien.PNG]]|group = DM}}
+**However, this may not be correct, as the way age affects the transformations has been inconsistently represented throughout the series.
+*[[Derrick J. Wyatt]] believed that the Ultimatrix had technical glitches that would cause random flight and abilities not native to the alien species.{{Refn|group = DJW|name = glitches}} However, it is unknown if this is canon as [[Matt Wayne]] seemed to be unaware of the existence of power glitches.{{Refn|http://archive.is/A42xJ|group = MW}}
+*Ben scanned aliens off-screen and reordered his list afterwards. Thus, Ben had many more aliens than revealed. However, he didn't scan them at every chance he got.{{Refn|[[:File:Ben Didn't Always Scan.PNG]]|group = ES}} 
+*Most of the unseen aliens available in the Ultimatrix were unlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]] because he thought it would annoy Azmuth.<ref name="B10KR" />
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Dwayne McDuffie]]====
+{{Reflist|group = DM}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Matt Wayne]]====
+{{Reflist|group = MW}}
+====[[Geoffrey Thorne]]====
+{{Reflist|group = GT}}
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+====[[Eugene Son]]====
+{{Reflist|group = ES}}
+====[[Charlotte McDuffie]]====
+{{Reflist|group = CM}}
+===[[Merchandise]]===
+====[[DVDs]]====
+{{Reflist|group = DVD}}
+====Action Packs====
+{{Reflist|group = AP}}
+===[[Ben 10 Planet]]===
+{{Reflist|group = BTP}}
+==See Also==
+*[[Ben Tennyson (Classic)|Ben Tennyson]] (former wielder)
+*[[Codon Stream]] (DNA database)
+
+{{Omnitrixes timeline}}
+{{DISPLAYTITLE:Ultimatrix}}
+[[de:Ultimatrix]]
+[[es:Ultimatrix]]
+[[fr:Ultimatrix]]
+[[it:Ultimatrix]]
+[[pl:Ultimatrix]]
+[[pt-br:Superomnitrix]]
+[[ro:Ultimatrix]]
+[[ru:Ультиматрикс (Оригинал)]]
+[[tr:Ultimatrix]]
+[[Category:Technology]]
+[[Category:Alien Technology]]
+[[Category:Omnitrix]]
+[[Category:Objects]]
+[[Category:Azmuth's Creations]]
+[[Category:Ben Tennyson's Possessions]]
+[[Category:Ultimatrix]]
+[[Category:Destroyed]]
+[[Category:Nanotechnology]]
+[[Category:Classic Objects]]
+[[Category:Classic Technology]]

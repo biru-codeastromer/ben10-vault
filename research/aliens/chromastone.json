@@ -1,0 +1,138 @@
+{
+  "id": "chromastone",
+  "name": "Chromastone",
+  "wikiTitle": "Chromastone (Classic)",
+  "kind": "standard",
+  "species": "Crystalsapien",
+  "homeworld": "Petropia",
+  "bodyType": "Crystalline Humanoid",
+  "debut": {
+    "episode": "All That Glitters",
+    "series": "af",
+    "usedBy": "ben-15-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Energy absorption (lasers, electricity, manna, EM radiation) and conversion into rainbow-coloured energy beams",
+    "Supercharged blasts after absorbing energy (subdued the Mapmaker, damaged Dagon)",
+    "Energy redirection and manna disruption",
+    "Flight and levitation",
+    "Very dense crystal body (high durability; Xenocite immune)",
+    "Enhanced strength (overpowered Techadon-enhanced Cash)",
+    "Space survivability, radiation and heat resistance",
+    "Crystal entrapment via beams; light and gamma-ray generation"
+  ],
+  "weaknesses": [
+    "Absorption limit - overloaded and disintegrated trying to absorb the Sorcerer's Engine's manna",
+    "Cannot absorb some energies (Contumelia field, Annihilarrgh)",
+    "Can be shattered by sufficient brute force - an empowered Vilgax broke him apart (Vengeance of Vilgax: Part 2)",
+    "Can be controlled by Vladat Corrupturas"
+  ],
+  "summary": "A one-eyed living crystal that drinks up almost any energy attack and fires it back as rainbow beams; briefly destroyed and reborn via Diamondhead in Alien Force.",
+  "traits": [
+    "Single large green eye",
+    "'Lasers call for Chromastone!'",
+    "Shattered by Vilgax and later restored by Sugilite",
+    "Only two Crystalsapiens exist (with Sugilite)"
+  ],
+  "notableFeats": [
+    "Absorbed and returned the Mapmaker's blast (Be-Knighted)",
+    "Overpowered Techadon-enhanced Cash bare-handed (The Gauntlet)",
+    "Escaped the Omnitrix and fought Murk Upchuck; later shattered by Vilgax (Vengeance of Vilgax: Part 2)",
+    "Damaged Dagon after Gwen fed him manna (The Ultimate Enemy: Part 2)",
+    "Pierced the Contumelia's field with a Skurd-made Alien X sword to retrieve the Annihilarrgh (A New Dawn)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af",
+        "ben-16-af"
+      ],
+      "firstEpisode": "All That Glitters",
+      "notableEpisodes": [
+        "All That Glitters",
+        "Be-Knighted",
+        "The Gauntlet",
+        "Vengeance of Vilgax: Part 2",
+        "The Secret of Chromastone"
+      ],
+      "designNotes": "Indigo crystal humanoid with magenta face/hands, six back shards, two chest shards and a horn shard, single green eye; recalibrated Omnitrix symbol on chest.",
+      "image": {
+        "file": "Chromastone UAF.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Fame",
+      "notableEpisodes": [
+        "Fame",
+        "Where the Magic Happens",
+        "Absolute Power: Part 1",
+        "Enemy of My Frenemy",
+        "The Ultimate Enemy: Part 2"
+      ],
+      "designNotes": "Same design as Alien Force with the Ultimatrix symbol on chest. Heroes United cameo had green teeth.",
+      "image": {
+        "file": "Chromastone UAF.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Trouble Helix",
+      "notableEpisodes": [
+        "Trouble Helix",
+        "A New Dawn"
+      ],
+      "designNotes": "OV1 (Trouble Helix only): near-identical to UAF with much longer back/head crystals, Omnitrix on chest. OV2 (A New Dawn): extra shards on shoulders, forearms, knees and head sides, chest shards removed, longer neck, magenta mouth-guard chin, five-fingered crystal hands, green jumpsuit with white-striped bands; Omnitrix on right pectoral. OV2 chosen as it is the later design and had the most screen time.",
+      "image": {
+        "file": "Chromastone OV.png",
+        "label": "OV2",
+        "confidence": "high",
+        "notes": "infobox OV2 render; OV1 alternate is 'Chromastone OV1.png'"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 8,
+    "speed": 5,
+    "mobility": 6,
+    "offense": 7,
+    "defense": 7,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 8,
+    "regeneration": 2,
+    "survivability": 7,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Energy absorption/redirection (8) makes him the answer to lasers, manna and lightning, and supercharged blasts hurt Dagon; dense crystal body tanks vehicle impacts and radiation. Physically only mid-tier, and over-absorption disintegrated him while Vilgax shattered him outright."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Chromastone_(Classic)"
+  ],
+  "notes": [
+    "Homeworld: wiki says Petropia; MorOtesi was retconned into a legend by The Secret of Chromastone.",
+    "OV appearances are only Trouble Helix (OV1, off-screen activation) and A New Dawn (OV2, x2).",
+    "Also used by a Plant Clone Ben (The Big Story).",
+    "AF S1 (wiki) = ben-15-af, AF S2 = ben-16-af."
+  ]
+}

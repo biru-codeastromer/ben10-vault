@@ -1,0 +1,144 @@
+{
+  "id": "rath",
+  "name": "Rath",
+  "wikiTitle": "Rath (Classic)",
+  "kind": "standard",
+  "species": "Appoplexian",
+  "homeworld": "Appoplexia",
+  "bodyType": "Humanoid Tiger",
+  "debut": {
+    "episode": "Con of Rath",
+    "series": "af",
+    "usedBy": "ben-16-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": "ultimate-rath",
+  "componentIds": [],
+  "abilities": [
+    "Enhanced strength (dismembered a Forever Knight tank and tossed the pieces)",
+    "Anger empowerment - strength rises with rage",
+    "Retractable wrist claws (cut through a Plumber ship hull, Attea's blaster)",
+    "Extreme durability (point-blank blasts, several-hundred-foot falls, crushed by Way Big's hand)",
+    "Wrestling proficiency",
+    "Enhanced agility, jumping, wall-running and quadrupedal speed",
+    "Enhanced bite force and hearing",
+    "Limited space survivability; heat and acid resistance"
+  ],
+  "weaknesses": [
+    "Hardwired aggression and low intelligence - easily distracted, argues with inanimate objects, terrible at diplomacy",
+    "Afraid of water like a housecat",
+    "Controlled by cat-controllers (Nyancy Chan) and distracted by laser pointers",
+    "Sensitive hearing hurt by sonic attacks",
+    "Scared by Toepick's species"
+  ],
+  "summary": "An orange wrestling tiger with one claw per wrist who talks in third person, yells at gravity, and gets stronger the angrier he gets.",
+  "traits": [
+    "'Let me tell you something...' catchphrase",
+    "Speaks in third person",
+    "Naked until Skurd gave him a luchador outfit (The Secret of Dos Santos)",
+    "Argues with inanimate objects"
+  ],
+  "notableFeats": [
+    "Stayed transformed for most of a diplomatic mission escorting the Prince of Lewoda (Con of Rath)",
+    "Defeated Manny with wrestling moves (Above and Beyond)",
+    "Tore apart the Forever Knights' Plasma Beam Tank (Duped)",
+    "Crashed a stolen Plumber ship by ripping it apart mid-flight (Prisoner Number 775 is Missing)",
+    "Saved reporter Diane Farrah and later fought Alpha (Ben 10/Generator Rex: Heroes United)",
+    "Fought Mad Way Big alongside Lightning Volt (It's a Mad, Mad, Mad Ben World: Part 2)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-16-af"
+      ],
+      "firstEpisode": "Con of Rath",
+      "notableEpisodes": [
+        "Con of Rath",
+        "Above and Beyond",
+        "Vendetta"
+      ],
+      "designNotes": "Orange-and-white bipedal tiger, no tail, black stripes, one black claw per wrist, green eyes; recalibrated Omnitrix symbol centred on chest.",
+      "image": {
+        "file": "Rath 1.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Duped",
+      "notableEpisodes": [
+        "Duped",
+        "Hit 'Em Where They Live",
+        "The Big Story",
+        "Prisoner Number 775 is Missing",
+        "Greetings From Techadon",
+        "Ben 10/Generator Rex: Heroes United",
+        "A Knight to Remember"
+      ],
+      "designNotes": "Same design as Alien Force with the Ultimatrix symbol on chest. Heroes United added tufts of fur on arms/legs/chin and bulging veins.",
+      "image": {
+        "file": "Rath 1.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "It Was Them",
+      "notableEpisodes": [
+        "It Was Them",
+        "Many Happy Returns",
+        "Food Around the Corner",
+        "Catfight",
+        "It's a Mad, Mad, Mad Ben World: Part 2",
+        "The Secret of Dos Santos"
+      ],
+      "designNotes": "OV1 (intro and It Was Them only): UAF look but more muscular, longer pointed eyebrows, darker fur. OV2 (rest of OV, the standard design): black eyebrows, yellowish teeth, Omnitrix on chest - used for card art. OV3 (The Secret of Dos Santos onward): green/black luchador outfit with mask, gloves, boots, silver claws and the Omnitrix on the belt.",
+      "image": {
+        "file": "Rath OV pre-mask.png",
+        "label": "OV2",
+        "confidence": "high",
+        "notes": "infobox OV2 (standard, pre-luchador) render; OV1 = 'Rath ov1 no bg.png', OV3 luchador = 'Rath luchador official.png'"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 8,
+    "durability": 8,
+    "speed": 5,
+    "mobility": 5,
+    "offense": 7,
+    "defense": 5,
+    "special": 3,
+    "versatility": 4,
+    "intellect": 2,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 2,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 2,
+    "rationale": "Brute force and toughness: dismembers tanks bare-handed, survives point-blank blasts and being crushed by Way Big, and gets stronger as he rages. Zero range, zero subtlety, feral intellect (2); his temper makes him hard for Ben to aim (controlPenalty 2) and he is scared of water and cat-whisperers."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Rath_(Classic)"
+  ],
+  "notes": [
+    "OV has three designs; OV2 'pre-mask' is the standard design used for most of OV and chosen for card art per brief. Luchador (OV3) appears only from The Secret of Dos Santos.",
+    "All AF uses are in wiki AF Season 2 (16-year-old Ben).",
+    "Also used by Azmuth (Primus), Albedo (Negative Rath in AF/UA/OV), Gwen (Inspector 13) and Mad Ben (Mad Rath, And Then There Were None) - none add appearances.",
+    "Ultimate Rath exists but was only ever used by Albedo (OV); ultimateFormId still set.",
+    "Heroes United (UA-era) transformations folded into UA appearance."
+  ]
+}

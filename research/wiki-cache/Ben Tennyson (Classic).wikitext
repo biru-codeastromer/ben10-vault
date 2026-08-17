@@ -1,0 +1,991 @@
+{{Original|rb=Ben Tennyson (Reboot)|de=Ben Tennyson (Dynamite)}}
+{{Disambig|main=Ben Tennyson|main2=Ben 10}}
+{{Charbox
+|backcolor = 2BB04A
+|textcolor = 000000
+|name = Benjamin Kirby Tennyson
+|image = 
+<gallery>
+Ben OV crop.png|OV
+Ben Tennyson UAF Full Image.png|UAF
+Ben Tennyson (Classic) Original Series Pose 1.png|OS
+</gallery>
+|species = [[Human (Classic)|Human]]{{Refn|Ben is ¾ [[Human (Classic)|human]] and ¼ [[Anodite]] by heritage.{{Refn|[[:File:Kevin's Original Car.PNG]]|group = DM|name = name shout}}{{Refn|[[:File:Dwayne Liked Paradox.PNG]]|group = DM}}{{Refn|[[:File:Anodites are energy beings.png]]|group = DM}} However, since he did not inherit the spark, he is genetically fully human.|group = note}}<!--Ben is NOT 1/4 Anodite. Do not add this. Any users disregarding this warning may be blocked without prior warning. DO NOT REMOVE THIS WARNING.--><br>Part [[Elf]]<small> (temporarily)</small><ref>''[[Merry Christmas]]''</ref>
+|home world = [[Earth (Classic)|Earth]]
+|residence = [[Ben's House]], [[Bellwood (Classic)|Bellwood]]<br>[[Plumbers' Academy]] <small>(formerly)</small>
+|age = 4 <small>(''[[Don't Drink the Water]]''; temporarily)</small><ref name="Gwen">[[Gwen Tennyson (Classic)|Gwen Tennyson]]</ref><br>5 ½ <small>([[Ben 10: Omniverse (TV Series)|Omniverse]] Flashbacks)</small><br>10 <small>([[Ben 10 (2005 TV Series)|Original Series]])</small><br>11 <small>(Omniverse Flashbacks and ''[[Arrested Development]]''; temporarily)</small><br>15 <small>([[Ben 10: Alien Force (TV Series)|Alien Force]] Season 1 and ''[[Special Delivery]]'' flashback)</small><br>16 <small>(Alien Force Season 2,{{Refn|[[:File:Alien Swarm Chronology2.png]]|group = RK|name = years}}{{Refn|The idea of Ben (and by extension [[Gwen Tennyson (Classic)|Gwen]]) being 16 instead of 15 was made as a result of demands made by [[Bandai]] for Ben to be one year older in '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]'''.{{Refn|https://www.youtube.com/live/unaX1hKhOy4|group = CM|name = swarm}} In a 2009 interview, [[Dwayne McDuffie]] referred to Ben as a 15-year-old kid.{{Refn|https://archive.md/HJhBl|group = DM}} A pop-up also states that [[Kevin Levin (Classic)|Kevin]] is roughly a year older than Ben.{{Refn|[[:File:Kevin 11 Eleven.PNG]]|group = pop-up}}<ref name="K11">''[[Kevin 11 (Episode)|Kevin 11]]''</ref> However, [[Ryan Kelley]], who played Ben in '''''[[Ben 10: Alien Swarm|Alien Swarm]]''''', stated that the movie took place two to three months after he turned 16.{{Refn|[[:File:Alien Swarm Chronology2.png]]|name = years|group = RK}} Thus, Ben and Gwen were 16 years old as of '''''Alien Swarm''''', which canonically takes place between Seasons 1 and 2 of '''[[Ben 10: Alien Force (TV Series)|Alien Force]]'''.|group = note}} [[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]], and Omniverse)</small>
+|status = Alive
+|affiliation = {{Scroll|[[Ben's Team (Omniverse)|Ben's Team]]<br>[[Plumbers (Classic)|Plumbers]]<br>[[Sunnydale High]]<br>[[Madison Elementary School]] <small>(formerly)</small><br>[[Team Tennyson (Classic)|Team Tennyson]] <small>(disbanded)</small><br>[[Galactic Enforcers]] <small>(temporarily)</small><br>[[Alien Force]] <small>(semi-active)</small><br>[[Alienated!]] <small>(ended)</small><br>[[Plumbers' Academy]] <small>(formerly)</small><br>[[Looma Red Wind]] <small>(fiancée; formerly)</small><br>[[Baumann's]] <small>(temporarily)</small><br>[[Chadzmuth]] <small>(lawyer; formerly)</small>}}
+|occupation = Hero<br>High School Student<br>Soccer Player<br>Voice of Reason <small>(inside [[Alien X (Classic)|Alien X]])</small><br>[[Plumbers (Classic)|Plumber]] <small>(unofficially; deputized agent)</small><br>Elementary School Student <small>(formerly)</small><br>Middle School Student <small>(formerly)</small><br>Delivery Person <small>(temporarily)</small>
+|alias = Ben 10<br>Ben Prime<ref name="ATTWB">''[[And Then There Was Ben]]''</ref><br>Hero of the Highbreed Wars<ref name=Tack>[[Tack]]</ref><ref name="BT">''[[Basic Training]]''</ref><br>Conqueror of Vilgax<ref name=Tack /><ref name="BT"/><br>Hero to All Worlds<ref name=Simian>[[Simian]]</ref><ref name="SS">''[[Simian Says]]''</ref><br>Wielder of the Omnitrix<ref name="DFtR">''[[Don't Fear the Repo]]''</ref><br>Bearer of the Omnitrix<ref name="Malware">[[Malware]]</ref><ref name="TMTCP1">''[[The More Things Change: Part 1]]''</ref><br>Savior of the Universe<ref name="Malware"/><ref name="TMTCP1"/><br>Dr. Tennyson<ref name="MI">''[[Mystery, Incorporeal]]''</ref>
+|nicknames = {{Scroll|Dweeb <small>([[Gwen Tennyson (Classic)|Gwen Tennyson]],<ref name="ATTWT"/> [[Dr. Gwendolyn Tennyson]],<ref name="B10k">''[[Ben 10,000 (Episode)|Ben 10,000]]''</ref> himself,<ref name="DWS">''[[Divided We Stand]]''</ref> and [[Cash Murray (Classic)|Cash Murray]])</small><ref name="DAA">'''''[[Ben 10: Destroy All Aliens]]'''''</ref><br>Watch Boy <small>([[Kevin Levin (Classic)|Kevin Levin]])</small><ref name="K11"/><br>Benji/Benjie <small>(Kevin Levin)</small><ref name="Framed">''[[Framed]]''</ref><br>Wedgie Tennyson <small>(Cash Murray)</small><ref name="TU">''[[The Unnaturals]]''</ref><br>Benny Boy <small>(Kevin Levin)</small><ref>''[[Pier Pressure]]''</ref><br>Benbentennyson <small>([[Reinrassig III]])</small><ref name="AT">''[[Alone Together]]''</ref><br>Tim Bennerson <small>([[Captain Nemesis]])</small><ref name="HT">''[[Hero Time]]''</ref><br>Benetton <small>(Captain Nemesis)</small><ref name="HT"/><br>Tiananmen <small>(Captain Nemesis)</small><ref name="HT"/><br>Ten Bennyson <small>(Captain Nemesis)</small><ref name="HT"/><br>Ben Menace-son <small>([[Will Harangue]])</small><ref>''[[The Big Story]]''</ref><br>Young Tennyson <small>([[Sir George]])</small><ref name="The Purge">''[[The Purge]]''</ref><br>Changeling <small>([[Sir Cyrus]])</small><ref>''[[The Creature From Beyond]]''</ref><br>Young Master Tennyson <small>(Sir George<ref name="SA">''[[Solitary Alignment]]''</ref> and [[Professor Paradox]])</small><ref name="BA"/><br>Alien Boy <small>([[Maureen Nocturne]])</small><ref name="CaFS">''[[Catch a Falling Star]]''</ref><br>Mr. Ten <small>([[Dr. Rebecca Holiday]])</small><ref name ="HU">''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]''</ref><br>Monster Guy <small>([[Rex Salazar (Generator Rex)|Rex Salazar]])</small><ref name="HU"/><br>Ben Dude <small>([[Rook Blonko]])</small><ref name="TMTCP1"/><br>Benny <small>([[Argit]])</small><ref>''[[Many Happy Returns]]''</ref><br>The Coming Storm <small>([[Servantis]])</small><ref name="TRoAE">''[[The Rooters of All Evil]]''</ref><br>Destroyer of the Universe <small>(Servantis)</small><ref name="WXIP1">''[[Weapon XI: Part 1]]''</ref><br>Benno <small>(Argit)</small><ref name="WXIP1"/><br>Omnipotent Monster <small>(Servantis)</small><ref name="WXIP2">''[[Weapon XI: Part 2]]''</ref>}}
+|ability = {{Scroll|Street Fighting Proficiency<br>Savate Proficiency<br>Karate Proficiency<br>Marquess of Queensbury Boxing Proficiency<br>Enhanced Jumping<br>Enhanced Acrobatics<br>Enhanced Reflexes<br>Enhanced Eidetic Memory<br>Strong Willpower<br>Gunmanship<br>Swordsmanship<br>Piloting Proficiency<br>Baseball Proficiency<br>Soccer Proficiency<br>Guitar Shredding<br>Ambidexterity}}
+|equipment = {{Scroll|[[Omnitrix (Omniverse)|Omnitrix]]<br>Second Hoverboard<br>[[Ben's Cell Phone|Cell Phone]]<br>[[Plumber Badge]]<br>[[Plumber Suit]]<br>[[Omnitrix (Original)|Original Omnitrix]] <small>(destroyed)</small><br>X321 Hoverboard <small>(destroyed)</small><br>Galactic Enforcer Badge <small>(formerly)</small><br>Hazmat Suit <small>(formerly)</small><br>Spacesuit <small>(temporarily)</small><br>[[ID Mask]] <small>(temporarily)</small><br>[[Holo-Viewer]]<br>[[Kevin's Car (Original)|Kevin's Car]] <small>(temporarily)</small><br>[[DNA Repair Gun]] <small>(formerly)</small><br>[[Max's Motorcycle]] <small>(temporarily)</small><br>[[Mark 10]] <small>(formerly)</small><br>[[Ultimatrix (Original)|Ultimatrix]] <small>(destroyed)</small><br>[[Ascalon]] <small>(formerly)</small><br>[[Tenn-Speed]] <small>(destroyed)</small><br>[[Time Cycles|Time Cycle]] <small>(destroyed)</small><br>'''In [[Sumo Slammer Smackdown]]''':<br>Sword}}
+|relative = {{Scroll|[[Carl Tennyson]] <small>(father)</small><br>[[Sandra Tennyson]] <small>(mother)</small><br>[[Max Tennyson (Classic)|Max Tennyson]] <small>(paternal grandfather)</small><br>[[Verdona]] <small>(paternal grandmother)</small><br>[[Frank Tennyson]] <small>(paternal uncle)</small><br>[[Natalie Tennyson]] <small>(paternal aunt-in-law)</small><br>[[Ken Tennyson (Gwen's Brother)|Ken Tennyson]] <small>(paternal cousin)</small><br>[[Gwen Tennyson (Classic)|Gwen Tennyson]] <small>(paternal cousin)</small><br>[[Gordon Tennyson]] <small>(paternal granduncle)</small><br>[[Betty Jean Tennyson]] <small>(paternal grandaunt-in-law)</small><br>[[Joel Tennyson]] <small>(paternal first cousin once removed)</small><br>[[Camille Mann]] <small>(paternal first cousin-in-law once removed)</small><br>[[Vera Tennyson]] <small>(paternal grandaunt)</small><br>[[Clyde Fife]] <small>(paternal second cousin)</small><br>Ben <small>(paternal great-great-grandfather)</small><ref>''[[Rook Tales]]''</ref><br>Jedediah <small>(paternal great-granduncle)</small><ref name="UW">''[[Under Wraps]]''</ref><br>[[Sunny (Ben's Cousin)|Sunny]] <small>(paternal cousin)</small><br>[[Baby Chills]] <small>(children as [[Big Chill (Classic)|Big Chill]])</small><br>[[Lucy Mann]] <small>(paternal second cousin-in-law once removed)</small><br>[[Albedo]] <small>(corrupted genetic copy)</small><br>[[Nanomech]] <small> (partial genetic copy)</small><br>Manny <small>(uncle)</small>{{Refn|Manny was mentioned in ''[[Gwen 10 (Episode)|Gwen 10]]'', a non-canon episode. It is unknown if he exists in the canon timeline.|group = note}}}}
+|love interests = [[Julie Yamamoto]] <small>(girlfriend; formerly)</small><br>Patty Berkenfeld<br>[[Kai Green]]<br>[[Elena Valadis]]<br>[[Eunice]]<br>[[Emily]]<br>[[Ester]]<br>[[Attea]]<br>[[Drew Saturday]]<small> (one-sided crush)</small> 
+|aborted = [[Ben Tennyson (Time Heals Timeline)|Ben Tennyson]] <small>([[Time Heals Timeline|''Time Heals'' Timeline]])</small><br>[[Ben 10,000 (Ultimate Alien)|Ben Tennyson]] <small>([[Ultimate Alien Future Timeline|'''Ultimate Alien''' Future Timeline]])</small>
+|non-canon counterparts = [[Ben Tennyson (Gwen 10)|Ben Tennyson]] <small>(''[[Gwen 10 (Episode)|Gwen 10]]'')</small><br>[[Ben Tennyson (Goodbye and Good Riddance)|Ben Tennyson]] <small>(''[[Goodbye and Good Riddance]]'')</small>
+|Alternate Counterparts= {{Scroll|[[Ben 10,000 (Original)|Ben Tennyson]] <small>([[Original Future Timeline]])</small><br>[[Ben Tennyson (Race Against Time Timeline)|Ben Tennyson]] <small>([[Race Against Time Timeline|'''''Race Against Time''''' Timeline]])</small><br>[[Eon]]<br>[[Eon's Minions (Ben 10,000 Returns)|Eon's Minions]] <small>('''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' iteration)</small><br>Ben Tennyson <small>(No [[Ultimatrix]] Timeline)</small><ref name=PP>[[Professor Paradox]]</ref><ref name=B10kR>''[[Ben 10,000 Returns]]''</ref><br>[[Ben_23|Ben Tennyson]] <small>([[Dimension 23]])</small><br>[[Ben Tennyson (No Watch Timeline)|Ben Tennyson]] <small>([[No Watch Timeline]])</small><br>[[Mad Ben|Ben Tennyson]] <small>([[Mad World]])</small><br>[[Nega Ben]]<br>[[Bad Ben]]<br>[[Benzarro]]}}
+|voice = [[Tara Strong]] <small>(4, 5, 10, and 11 years old)</small><br>[[Yuri Lowenthal]] <small>(15 and 16 years old)</small>
+|actor = Christopher Stalley <small>([[Ben 10 Live: Power of the Omnitrix]])</small><br>[[Ryan Kelley]] <small>([[Ben 10: Alien Swarm|Alien Swarm]])</small>
+|first = And Then There Were 10
+}}
+{{Quote|Thanks to [[Omnitrix (Original)|this]], I get to walk a mile in other lifeforms' shoes. So, I can totally understand what it's like to be them since... I '''have''' been them.|Ben speaking of the gift that being the bearer of the Omnitrix has bestowed upon him.<ref name="AT"/>}}
+'''Benjamin Kirby "Ben" Tennyson'''<ref name="Gwen"/><ref>''[[Duped]]''</ref>{{Refn|[[:File:Ben's full name.png]]|group = pop-up}}{{Refn|''[[X-Ray Ben & Diamondhead V.2]]'', X-Ray Ben Top Secret File|group = DVD}} is the titular main protagonist of the [[Ben 10 (Franchise)|'''Ben 10''' franchise]]. He was an ordinary 10-year-old boy until he found the [[Omnitrix (Original)|Omnitrix]], a powerful watch-like device that allowed him to turn into 10 different aliens. Though initially immature and clumsy, Ben grew to be a true hero. By the time he was 16, he had become famous in not only his hometown of [[Bellwood (Classic)|Bellwood]] but on [[Earth (Classic)|Earth]] and beyond. Ben has also been deputized by the [[Plumbers (Classic)|Plumbers]] and has gained more aliens as time progressed.
+
+==Appearance==
+Ben's physical appearance has changed throughout the series from a 10-year-old to a 16-year-old. However, he retains some recurring characteristics. He has unkempt brown hair, green eyes, fair skin, and he is quite skinny for his age, though he shows a lot of muscle definition due to being athletic.
+
+===Regular Appearances===
+In the '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''' flashbacks in which he was five years old, Ben wore green overalls with a white shirt underneath it. White numbers saying "5 1/2" were on a black square in front of his overalls.
+
+In the '''[[Ben 10 (2005 TV Series)|Original Series]]''' and '''Omniverse''' flashbacks, Ben's usual clothes consisted of a black-striped, white shirt with short sleeves, military green cargo pants with side pockets with a black belt hidden under his shirt, and black and white sneakers with black stripes. Ben wore the [[Omnitrix (Original)|original Omnitrix]] on his left wrist.
+
+In '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', Ben wore a black short-sleeved T-shirt, blue jeans, and a green jacket with white stripes on his left sleeve and the number 10 on the right, white socks, and black and white Converse-style shoes. His hair is also shorter than it was when he was 10/11 years old. Ben wore the reconfigured original Omnitrix in '''Alien Force''' and the [[Ultimatrix (Original)|Ultimatrix]] in '''Ultimate Alien''' on his left wrist.
+
+In '''Omniverse''', Ben wears a black shirt that has a green stripe in the middle with a white 10 and green stripes on the sides of his shirt. He wears brown cargo pants with pockets at the knees with a brown belt hidden under the shirt and green and white shoes. His hair has grown longer. He wears the [[Omnitrix (Omniverse)|Omnitrix]] on his left wrist.
+
+===Occasional Appearances===
+In ''[[Washington B.C.]]'', Ben wore a blue scooter helmet.
+
+In ''[[The Krakken]]'' and ''[[Dr. Animo and the Mutant Ray]]'', he wore an orange life jacket.
+
+In ''The Krakken'', he wore a red diving suit.
+
+During water-based activities in the '''Original Series''', he wore a blue swimsuit in ''The Krakken'' and ''[[A Small Problem]]'' and a red and yellow swimsuit in ''[[Divided We Stand]]'' and ''[[Big Fat Alien Wedding]]''.
+
+In a daydream in ''[[The Galactic Enforcers]]'', Ultra Ben looked like Ben with a stereotypical superhero costume in a grey, black and white color scheme.
+
+In ''[[Back With a Vengeance]]'', he wore a yellow raincoat while touring Niagara Falls on a ship.
+
+In ''[[A Change of Face]]'', he wore a pilgrim outfit.
+
+In ''[[Merry Christmas]]'', while cursed as an elf, he had pointy ears, and his eyes were fully green.
+
+In ''[[Game Over]]'', while inside ''[[Sumo Slammer Smackdown]]'', he wore brownish-green armor and had longer hair, tied in a ponytail.
+
+In ''[[The Unnaturals]]'', he wore a blue baseball shirt with the letter "C" at the front and number 23 at the back, white shorts, blue and yellow socks, blue and white shoes, and a blue baseball helmet. Before the baseball game and after he battled the [[Squires]] and [[Coach Finn]], he wore a blue and yellow baseball cap with the letter "C" in the middle.
+
+In '''''[[Ben 10: Secret of the Omnitrix|Secret of the Omnitrix]]''''', he wore light blue pajamas. Later in the movie, he wore a pale blue spacesuit with white stripes on the sleeves and thighs, along with a white helmet with pale blue stripes.
+
+In a dream in ''[[Perfect Day]]'', Ultra Ben wore frameless blue goggles with horn-like extensions, a cyan shirt and white pants. He also donned a white cape.
+
+In ''Big Fat Alien Wedding'', during the wedding ceremony, he wore a purple tuxedo with a red bow tie and white polo shirt.
+
+In ''[[Ben 10 vs. Negative 10: Part 2]]'', he temporarily wore a visor in the [[Mt. Rushmore (Classic)|Mt. Rushmore]] Plumber base.
+5
+In ''[[Ben 10 Returns: Part 1]]'' and ''[[War of the Worlds: Part 1]]'', Ben's soccer clothes consisted of the T-shirt he wore as a 10/11-year-old but with the number 10 at the back, a long-sleeved green undershirt, green shorts, gray gloves with black stripes, and knee-high socks.
+
+In a flashback in ''[[Ben 10 Returns: Part 2]]'', 5-year-old{{Refn|[https://static.wikia.nocookie.net/ben10/images/5/5d/B10R2_Script_As_Broadcast.pdf ''Ben 10 Returns: Part 2'' Script As Broadcast]|group = script}} Ben wore his T-shirt from the '''Original Series''' and shoes from '''Alien Force''' and '''Ultimate Alien''', along with military green shorts, white socks, and a bluish grey bicycle helmet.
+
+In ''[[What Are Little Girls Made Of?]]'' and ''[[In Charm's Way]]'', he wore green trunks.
+
+In ''[[Save the Last Dance]]'', he wore a white bicycle helmet.
+
+In ''[[Birds of a Feather]]'', when on the [[Moon]], he wore an orange spacesuit with four arms.
+
+In '''''[[Ben 10: Alien Swarm|Alien Swarm]]''''', he briefly wore a dark green hoodie. While riding [[Max's Motorcycle|Max's motorcycle]], he wore a black helmet.
+
+In ''[[The Final Battle: Part 1]]'', when held captive by [[Kraab (Classic)|Kraab]], he wore an orange cuff.
+
+In ''[[Duped]]'', ''[[The Perfect Girlfriend]]'', and ''[[Of Predators and Prey: Part 1]]'', Ben briefly wore 3D glasses. In ''Duped'', along with the glasses, he also wore a black wig in the style of a bun.
+
+In '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', Ben wore a standard [[Plumber Suit|Plumber suit]] during a few of his off-world excursions.
+
+In ''[[Video Games (Episode)|Video Games]]'', he wore a blue full-body motion capture suit with white balls on it.
+
+In ''[[Fused]]'', ''[[Revenge of the Swarm]]'', and ''[[Night of the Living Nightmare]]'', Ben's sleeping clothes consisted of his usual black T-shirt and white shorts.
+
+In ''[[Basic Training]]'', while at the barracks in the [[Plumbers' Academy]], he wore an olive tank top and black shorts.
+
+In ''[[Inspector 13]]'', he wore a green t-shirt and black shorts.
+
+In ''[[Catch a Falling Star]]'', he wore a white cast around his right arm.
+
+In ''[[The Ultimate Enemy: Part 2]]'', he wore full-body armor while wielding [[Ascalon]].
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Ben sometimes wears a white hooded jacket with green stripes on both arms and a green number 10 on the right side.
+
+In '''Omniverse''', while riding the [[Tenn-Speed]], Ben wears a white helmet with the number 10 on it, a green visor, a short-sleeved black T-shirt, long white pants and a belt with the number 10 on it.
+
+In ''[[Malefactor]]'', 11-year-old Ben wore a [[Psycholeopterran]]-proof visor.
+
+In ''[[Arrested Development]]'', 11-year-old Ben's gym clothes consisted of a white T-shirt with a red outline, and red shorts with a vertical white line.
+
+In ''[[Bros in Space]]'', he wore a ceremonial female [[Revonnahgander]] outfit.
+
+In ''[[Special Delivery]]'', while working for [[Ignacius Baumann|Mr. Baumann]], he wore a pink and white cap and a pink apron with a black 'B' on it.
+
+In ''[[From Hedorium to Eternity]]'', 11-year-old Ben's pajamas consisted of a green T-shirt with a white "10" on it, as well as white shorts.
+
+In ''[[The Most Dangerous Game Show]]'', Ben wore a crown bestowed upon him by [[Charles Zenith]].
+
+<div class="mw-collapsible-content">
+<div class="mw-collapsible mw-collapsed">
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+4 years ben.png|4-year-old Ben in ''[[Don't Drink the Water]]''
+Young Ben B10R2.png|5-year-old Ben in a flashback in ''[[Ben 10 Returns: Part 2]]''
+5.5 ben.png|5 ½-year-old Ben in '''Omniverse'''
+Ben without the Omnitrix OS.png|Ben without the Omnitrix in the '''Original Series'''
+Young Ben HU.png|10-year-old Ben in ''Heroes United''
+Ben without the Omnitrix OV10.png|10-year-old Ben without the Omnitrix in '''Omniverse'''
+Ben WBC Scooter Helmet.png|Ben wearing a blue scooter helmet in ''[[Washington B.C.]]''
+Ben OS Blue Swimsuit.png|Ben's first swimsuit in the '''Original Series'''
+Ben OS Life Jacket.png|Ben in an orange life jacket in the '''Original Series'''
+Ben OS Diving Suit.png|Ben in a diving suit in ''[[The Krakken]]''
+Ultra Ben TGE.png|Ultra Ben in ''[[The Galactic Enforcers]]''
+Ultra Ben from Galactic Enforcers.png|Ben's [[Galactic Enforcers]] uniform
+OS Ben Yellow Raincoat.png|Ben in a yellow raincoat in ''[[Back With a Vengeance]]''
+Ben Pilgrim Hat.png|Ben as a pilgrim in ''[[A Change of Face]]'' (hat)
+Ben Pilgrim No Hat.png|Ben as a pilgrim in ''A Change of Face'' (no hat)
+Elf Ben.png|Ben as an elf in ''[[Merry Christmas]]''
+Samurai Ben.png|Ben inside ''[[Sumo Slammer Smackdown]]'' in ''[[Game Over]]''
+Ben Protective Suit.png|Ben in a hazmat suit in the '''Original Series'''
+Ben OS Baseball.png|Ben in Cash's baseball clothes in ''[[The Unnaturals]]'' (helmet)
+Ben TU Cap.png|Ben in Cash's baseball clothes in ''The Unnaturals'' (cap)
+Ultra Ben PD.png|Ultra Ben in ''[[Perfect Day]]''
+Ben OS tuxedo.png|Ben wearing a tuxedo in ''[[Big Fat Alien Wedding]]''
+Ben OS Second Swimsuit.png|Ben's second swimsuit in the '''Original Series'''
+Ben OS Visor.png|Ben wearing a visor in ''[[Ben 10 vs. Negative 10: Part 2]]''
+Ben OS Pajamas.png|Ben's pajamas in '''''Secret of the Omnitrix'''''
+Ben SOTO Spacesuit Helmet.png|Ben in a spacesuit in '''''Secret of the Omnitrix''''' (helmet)
+Ben SOTO Spacesuit No Helmet.png|Ben in a spacesuit in '''''Secret of the Omnitrix''''' (no helmet)
+Young ben ua full.png|10-year-old Ben in '''Ultimate Alien'''
+Ben Tennyson (Destroy All Aliens).png|10-year-old Ben in '''''Destroy All Aliens'''''
+Ben10omni char 174x252 youngben.png|10/11-year-old Ben in '''Omniverse'''
+Ben Psycholeopterran Glasses.png|11-year-old Ben wearing a [[Psycholeopterran]]-proof visor in ''[[Malefactor]]''
+Young Ben OV Gym Clothes.png|11-year-old Ben's gym clothes in ''[[Arrested Development]]''
+Young Ben OV Teen Clothes.png|11-year-old Ben with 16-year-old Ben's clothes in ''Arrested Development''
+Ben in Pajamas.png|11-year-old Ben's pajamas in ''[[From Hedorium to Eternity]]''
+Ben 10 Soccer.png|Ben in his soccer clothes in '''Alien Force'''
+B10R1 (276).png|Ben wearing the pre-reconfigured Omnitrix in ''[[Ben 10 Returns: Part 1]]''
+Ben AF No Jacket.png|Ben without a jacket in '''Alien Force'''
+Ben AF Swimsuit.png|Ben's swimsuit in '''Alien Force'''
+Ben AF Bike Helmet.png|Ben wearing a bicycle helmet in ''[[Save the Last Dance]]''
+Ben Orange Spacesuit.png|Ben in an orange spacesuit in ''[[Birds of a Feather]]''
+OmniverseBen15.png|15/16-year-old Ben in '''Omniverse''' flashbacks
+AS Ben 1.png|Ben in '''''Alien Swarm'''''
+Ben AS Hoodie.png|Ben in a dark green hoodie in '''''Alien Swarm'''''
+Ben AS Motorcycle Helmet.png|Ben in a black motorcycle helmet in '''''Alien Swarm'''''
+Ben AS No Jacket.png|Ben without a jacket in '''''Alien Swarm'''''
+Ben without his hand.png|Ben without his left hand in ''[[Singlehanded]]''
+Ben Orange Cuff.png|Ben with an orange cuff in ''[[The Final Battle: Part 1]]''
+Ben without the Omnitrix AF.png|Ben without the Omnitrix/[[Ultimatrix (Original)|Ultimatrix]] in '''Alien Force''' and '''Ultimate Alien'''
+Ben Ultimatrix TFB2.png|Ben with the Ultimatrix in ''[[The Final Battle: Part 2]]''
+Ben UA No Jacket.png|Ben without a jacket in '''Ultimate Alien'''
+Ben Duped Wig.png|Ben with 3D glasses in ''[[Duped]]'' (wig)
+Ben Duped No Wig.png|Ben with 3D glasses in ''Duped'' (no wig)
+Ben Mocap Suit.png|Ben in a motion capture suit in ''[[Video Games (Episode)|Video Games]]''
+Ben UA Plumber Suit Helmet.png|Ben in a Plumber suit in '''Ultimate Alien''' (helmet)
+Ben UA Plumber Suit.png|Ben in a Plumber suit in '''Ultimate Alien''' (no helmet)
+Ben UA Sleeping Clothes.png|Ben in his sleeping clothes in '''Ultimate Alien'''
+Ben10 Profile.png|16-year-old Ben in ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]''
+Ben HU No Jacket.png|16-year-old Ben without a jacket in ''Heroes United''
+Ben HU Rex Jacket.png|16-year-old Ben with [[Rex Salazar (Generator Rex)|Rex's]] jacket in ''Heroes United''
+Ben Basic Training.png|Ben in ''[[Basic Training]]''
+Ben The Perfect Girlfriend 3D Glasses.png|Ben with 3D glasses in ''[[The Perfect Girlfriend]]''
+Inspector 13 Ben.png|Ben in ''[[Inspector 13]]''
+Ben wearing Arm Cast.png|Ben wearing an arm cast in ''[[Catch a Falling Star]]''
+Ben Ascalon Armor.png|Ben in Ascalon's armor in ''[[The Ultimate Enemy: Part 2]]''
+Ben with the new Omnitrix.png|Ben with the [[Omnitrix (Omniverse)|new Omnitrix]] in ''The Ultimate Enemy: Part 2''
+Ben OV Teen with Hoodie.png|16-year-old Ben in '''Omniverse''' in a white hoodie
+Ben 3D Glasses OV.png|Ben with 3D glasses in ''[[Of Predators and Prey: Part 1]]''
+Ben Tenn Speed.png|16-year-old Ben in his Tenn-Speed riding clothes in '''Omniverse''' (helmet)
+Ben OV Tenn-Speed Outfit No Helmet.png|16-year-old Ben in his Tenn-Speed riding clothes in '''Omniverse''' (no helmet)
+Ben BiS Ceremonial Outfit.png|16-year-old Ben in a ceremonial female [[Revonnahgander]] outfit in ''[[Bros in Space]]''
+Ben OV Baumann.png|16-year-old Ben while working for Mr. Baumann in ''[[Special Delivery]]''
+Ben as Albedo.png|16-year-old Ben disguised as Albedo in ''[[The Ultimate Heist]]''
+Ben OV Octagon's Cap.png|16-year-old Ben wearing [[Octagon Vreedle|Octagon's]] cap in ''[[O Mother, Where Art Thou?]]''
+Ben OV Life Jacket.png|16-year-old Ben wearing a life jacket in ''[[An American Benwolf in London]]''
+Ben without the Omnitrix OV.png|16-year-old Ben without the Omnitrix in '''Omniverse'''
+Ben with Fake Beard.png|16-year-old Ben with a fake beard in ''[[It's a Mad, Mad, Mad Ben World: Part 1]]''
+King ben.png|16-year-old Ben wearing a crown in ''[[The Most Dangerous Game Show]]''
+</gallery>
+</div>
+</div>
+
+==Personality==
+{{Quote|You think I don't know? When it's hero time, if I mess up, somebody could die. From what you told me, if we mess up this time, everybody could die... Maybe that's too much to have in your head when you have to win. Maybe if I pretend everything is a big joke, when the time comes, I'll be able to do what I have to do.|10-year-old Ben to 17-year-old [[Kevin Levin (Classic)|Kevin]] asking him to be serious.<ref name="TFoC"/>}}
+Initially cocky, childish, and selfish, Ben's immaturity and attention-seeking behavior often led him to joke around, regardless of the situation, which landed him in trouble with adults. When he was 10 years old, he often used the [[Omnitrix (Original)|Omnitrix]] improperly in order to benefit himself instead of actually helping others, such as using [[Grey Matter (Classic)|Grey Matter]] to search cereal boxes for a gold '''[[Sumo Slammers (Classic)|Sumo Slammer]]''' card.<ref name="WBC">''[[Washington B.C.]]''</ref> His allies often criticized his attitude, unaware of the fact that he used humor to mask his fears.<ref name="TFoC">''[[The Forge of Creation]]''</ref> It was also implied that, on some level, Ben helped people to get rewards<ref name="WBC" /> and for the thrill of being a hero, rather than because it was the right thing to do.<ref>[[Tetrax Shard (Classic)|Tetrax Shard]]</ref><ref name="SOTO" /> Despite some childish attitude, Ben was heroic, caring and generally good-natured, always willing to save others at any time even at the risk of himself. In spite of this good nature, heroism, and his moments of maturity, Ben could occasionally get carried away when it came to fame and recognition.<ref name="LG">''[[Lucky Girl (Episode)|Lucky Girl]]''</ref> This led him to act rather arrogantly and recklessly, and occasionally made dire mistakes and alienated his loved ones. However, he was quick to realize his mistakes and is quick to take responsibility and knew not to take things too far.<ref name="K11" />
+
+Over the years, Ben has displayed good leadership skills, as well as the ability to adapt his attitude to a situation, becoming serious when it's called for. He became more mature, responsible and sensible. He continues to be kind-hearted and willing to lay down his own life for others, such as when he attempted to sacrifice himself to set the sentient [[Ultimate Forms]] free from the [[Ultimatrix (Original)|Ultimatrix]].<ref name="TUS">''[[The Ultimate Sacrifice]]''</ref> His idealistic views and unwillingness to compromise his values – aspects condemned by [[Azmuth (Classic)|Azmuth]],<ref name="WotW1">''[[War of the Worlds: Part 1]]''</ref> yet commended by others – sometimes drive him to act against reason, such as helping his enemies if they need it (most remarkably [[Vilgax (Classic)|Vilgax]]).<ref>''[[Ghost Town]]''</ref> [[Professor Paradox]] has praised Ben's good nature, going so far as to say he had the gift to make the right choices at the right moments, and even Azmuth himself states that Ben ultimately always does the right thing.<ref name="TFoC" /> Also, Ben doesn't give up and wouldn't let anyone stop him from doing what's right for those in need, especially his family, friends and mentors, or to bring enemies down, even when he once got a broken arm.<ref name="CaFS" /> 
+
+However, even as a teen, Ben still displays some of his negative childish traits at times, which usually comes to light when Ben gets too caught up with fame much to the annoyance of [[Gwen Tennyson (Classic)|Gwen]] and Kevin.<ref name="EotB">''[[Eye of the Beholder]]''</ref> Ben also has a violent, aggressive side: when Ben fails to save someone, is worried about the well-being his loved ones, or if people get hurt because of his failure, he becomes angry and lashes out, even at people he cares about. Perhaps the most notable of these instances is when Kevin willingly [[Ultimate Kevin|mutated]] himself to stop [[Aggregor]], Ben was determined to kill Kevin, even fighting Gwen when she refused to help him. During the episode, Ben confessed to [[Max Tennyson (Classic)|Max]] that he felt guilty for letting fame get into his head and claimed that he was trying to act more mature for once.<ref name="AP1">''[[Absolute Power: Part 1]]''</ref> He also threatened to hunt down and destroy the [[Forever Knights]] if [[Sir Driscoll|Driscoll]] did not promise to cease hunting down aliens.<ref name="The Purge" />
+
+Ben has experienced trust issues, when it comes to automatically trusting everybody and teaming up with people whose true colors are later revealed and turns against [[Ben's Team|the team]].<ref name="ATG">''[[All That Glitters]]''</ref><ref name="BOAF"> ''[[Birds of a Feather]]''</ref> 
+
+Though often perceived as unintelligent because of his immaturity and constant joking, Ben is cunning and resourceful when needed, quickly adapting when the Omnitrix doesn't provide him with the alien he wanted. He has once admitted that people assume he's not paying attention, but he actually is.<ref name="BT" />
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Ben started thinking of himself as more of a superhero than a [[Plumbers (Classic)|Plumber]], often remarking that he's not a cop, but a superhero.<ref name="TMTC2">''[[The More Things Change: Part 2]]''</ref>
+
+==History==
+<tabber>
+|-|Close Tabs=
+{{:Ben 10 Planet:Close Tabs}}
+|-|Ben 10=
+{{:Ben Tennyson (Classic)/Ben 10}}
+|-|Omniverse Flashbacks=
+{{:Ben Tennyson (Classic)/Omniverse flashbacks}}
+|-|Alien Force=
+{{:Ben Tennyson (Classic)/Alien Force}}
+|-|Ultimate Alien=
+{{:Ben Tennyson (Classic)/Ultimate Alien}}
+|-|Omniverse=
+{{:Ben Tennyson (Classic)/Omniverse}}
+</tabber>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+CaFS (169).png|Street Fighting Proficiency
+File:BoaF (535).png|Enhanced Strength 
+WtMH (29).png|Photographic Memory
+VSB (340).png|Resistance to Hypnosis and Mind Control through willpower
+BK (67).png|Savate Proficiency
+BK (69.5).png|Karate Proficiency
+DepreyPresa1P303.png|Enhanced Jumping
+RtF (30).png|Enhanced Reflexes
+WtMH (33).png|Enhanced Eidetic Memory
+WotW1 (567).png|Gunmanship
+TUE2 (318).png|Swordsmanship
+TToE (29).png|Driving Proficiency
+2SOTO (1588).png|Piloting Proficiency
+Unnaturals (1532).png|Baseball Proficiency
+CT (5).png|Soccer Proficiency
+MW (1031).png|Guitar Shredding
+</gallery>
+
+Ben is a fairly proficient fighter, even as a [[Human (Classic)|human]], being able to hold his own against [[Pierce Wheels|Pierce]].<ref name="V">''[[Voided]]''</ref>{{Refn|[[:File:Nothing on Earth With Ship's Speed.PNG]]|group = DM}} Although he mainly employs a loose street fighting style,<ref name="CaFS" /> he also knows martial arts,{{Refn|[[:File:Ben Knows Martial Arts.png]]|group = DM|name = fame}} having been trained in savate and karate by [[Gwen Tennyson (Classic)|Gwen]], and Marquess of Queensbury boxing.<ref name="BK">''[[Be-Knighted]]''</ref> On top of that, he has gained practical experience from years of fighting aliens. He copied a lot of his fighting moves from [[Abel North|Kangaroo Commando]].{{Refn|[[:File:Super Alien Hero Buddy Adventures Pop-up (6).png]]|group = pop-up}}<ref name="SAHBA">''[[Super Alien Hero Buddy Adventures (Episode)|Super Alien Hero Buddy Adventures]]''</ref>
+
+Ben is able over easily overpower [[Simian]]<ref name="BOAF"> </ref> and knock out a Forever Knight with a punch square in the face.<ref name="TBotE">''[[The Beginning of the End]]''</ref> 
+
+Ben has also received basic [[Plumbers (Classic)|Plumber]] training, having succeeded in the [[Plumbers' Academy]] with a 95 out of a 100.<ref name="BT" />
+
+It is evident that Ben is smart in some respects, possessing an above-average to high intelligence and maintaining a B+ average at school. Gwen even stated that he really is not working up to his potential at school.<ref name="WtMH">''[[Where the Magic Happens]]''</ref> He managed to get 95 out of 100 on the Plumbers' Academy test, only 3 points less than Gwen, showing that he can be quite intelligent when he pays attention.<ref name="BT" />
+
+Ben has an extraordinarily sharp memory, as he was perfectly capable of remembering and writing down the mystic rune-like symbols for entering the inter-dimensional realm of [[Legerdomain]] with just one glance from a distance.<ref name="WtMH" /> This is even more true for things that interest him.{{Refn|[[:File:Ben Has Excellent Memory.PNG]]|group = DM}}
+
+Ben can jump high in the air<ref name="OPaP1" /> and is acrobatic, able to perform flips even as a 10-year-old.<ref>''[[The Visitor]]''</ref>
+
+Ben has good reflexes, being able to easily dodge shots from [[Manny Armstrong|Manny's]] blasters before disarming him while in [[Human (Classic)|human]] form,<ref name="AaB">''[[Above and Beyond]]''</ref> dodge [[Sunder|Sunder's]] axe attacks,<ref>''[[Singlehanded]]''</ref> Zed's lunges,<ref name="OPaP1">''[[Of Predators and Prey: Part 1]]''</ref> and a laser blast from [[Tummyhead]].<ref name="RtF">''[[Return to Forever]]''</ref>
+
+Ben has great willpower, capable of breaking free from [[Hypnotick]]'s hypnosis<ref name="Malefactor">''[[Malefactor]]''</ref> and withstanding [[Lord Transyl]]'s mind control.<ref name="TVSB">''[[The Vampire Strikes Back]]''</ref>
+
+Ben is surprisingly a natural at [[hoverboard]]-based combat, which generally requires intensive training and the use of holographic simulators.{{Refn|[[:File:Hoverboard Combat.PNG]]|group = pop-up}}<ref name="SOTO" /> Relatedly, he is also good at snowboarding.<ref name="MW">''[[Monster Weather]]''</ref>
+
+Ben has shown himself to be quite a proficient gunman, as he demonstrated with a [[DNA Repair Gun]].
+
+Ben is a proficient swordsman, as he demonstrated with [[Ascalon]].<ref name="TUE2">''[[The Ultimate Enemy: Part 2]]''</ref>
+
+Ben is proficient at driving, having been taught by [[Max Tennyson (Classic)|Max]].<ref name="Paradox">''[[Paradox]]''</ref> For example, he was able to swerve out of the way at the last second to avoid coming into contact with [[Eunice]]'s crashing pod.<ref name="TToE">''[[The Transmogrification of Eunice]]''</ref>
+
+Ben has impressive piloting skills, as shown when, at 10 years old, he could adequately control a [[gyropod]] (a small ship designed for alien pilots) within seconds of testing,<ref name="SOTO" /> and at 16 years old, could pilot the [[Rustbucket 3]].<ref name="TEoME">''[[The Enemy of My Enemy]]''</ref> He gets this skill from a combination of playing video games and tap lessons [[Sandra Tennyson|Sandra]] made him take, though he would never admit it.{{Refn|[[:File:Ben Pilot.PNG]]|group = pop-up}}<ref name="SOTO" /> Despite this, [[Kevin Levin (Classic)|Kevin]] is considered to be a better pilot than Ben.{{Refn|[[:File:P'Andor Imprisoned.PNG]]|group = DM}}
+
+Ben is proficient at baseball.<ref name="TU" />
+
+Ben is proficient at soccer, serving as a goalie for his high school team.<ref name="B10RP1"/><ref name="WotW1" /> In fact, he was the first freshman start as goalie on his school's team.{{Refn|[[:File:AF Ben Brief.png]]|group = AF Brief|name = af brief}}
+
+Ben is a decent musician, as he knew a variety of electric guitar techniques like shredding, hammer-ons, and pinch harmonics, and on drums, was able to keep up with a professional rock band.<ref name="MW" />
+
+Ben has a knack for turning his weaknesses into strengths.{{Refn|[[:File:Ben Weaknesses Strengths.PNG]]|group = pop-up}}<ref name="SOTO" />
+
+===Equipment===
+<gallery type="slideshow">
+BIM (380).png|Omnitrix
+DepreyPresa1P320.png|Second Hoverboard
+DepreyPresa2P230.png|Plumber Badge
+Deep (159).png|Propulsion Unit (via Plumber Suit)
+Deep (160).png|Neuroshock Pulser (via Plumber Suit)
+DR (22).png|Original Omnitrix (destroyed)
+TL (1107).png|X321 Hoverboard (destroyed)
+Galactic (1116).png|Galactic Enforcer Badge (formerly)
+Wraps (1085).png|Hazmat Suit (destroyed)
+2SOTO (1004).png|Spacesuit (temporarily)
+B10R2 (261).png|ID Mask (temporarily)
+PX (244).png|Kevin's Car (temporarily)
+SS (140).png|DNA Repair Gun (formerly)
+Swarm (1373).png|Max's Motorcycle (temporarily)
+DX Mark 10 Omniverse1.png|Mark 10 (formerly)
+Duped (121).png|Ultimatrix (destroyed)
+TUE2 (299).png|Ascalon (formerly)
+RoAE (105).png|Tenn-Speed (destroyed)
+LDtTWA (731).png|Time Cycle (destroyed)
+Game (365).png|Sword (in Sumo Slammers Smackdown)
+</gallery>
+{{Quote|"You are...one of us?"<br>"I'm one of everybody."|A [[Necrofriggian (Classic)|Necrofriggian]] Guard and [[Big Chill (Classic)|Big Chill]].<ref>''[[Map of Infinity (Episode)|Map of Infinity]]''</ref>}}
+Ben is the wielder of the [[Omnitrix (Omniverse)|Omnitrix]] (formerly the [[Ultimatrix (Original)|Ultimatrix]] and [[Omnitrix (Original)|first Omnitrix]]), which gives him the power to modify his own genetic code in order to turn into various alien creatures. Traditionally, he could only transform into ten aliens at the beginning of both the '''[[Ben 10 (2005 TV Series)|Original Series]]''' and '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''', but he later gained additional forms by either unlocking them or by scanning the DNA of aliens he met.
+
+When transforming into an alien, Ben gets all the creature's features, including its appearance, voice, all of its unique and special abilities and powers, strengths and weaknesses. Though he mostly retains his personality, there are some cases where the transformation causes a change in it, like with [[Rath (Classic)|Rath]] and [[Juryrigg]].
+
+Though he usually uses his alien forms to fight, he can impersonate aliens as he did with [[Waterhazard]] to convince [[P'Andor]] to go home, though he was only successful at getting P'Andor to believe he was [[Bivalvan]].<ref>''[[Too Hot to Handle]]''</ref>
+
+In addition to transforming into aliens, the Ultimatrix included what is referred as an "evolutionary function", that allowed Ben to evolve his alien forms, referred to as [[Ultimate Forms]].
+
+In addition to the primary transformations and evolutionary function, the Omnitrices and Ultimatrix can both be used for various purposes. Both have a built-in [[Universal Translator]] that allows Ben to communicate with most aliens that do not speak English.<ref>''[[Escape From Aggregor]]''</ref>
+
+The original Omnitrix displayed the ability to manipulate and repair genetic damage, a function he used to cure DNAliens<ref name="MO">''[[Max Out]]''</ref> and save the Highbreed from extinction.<ref name="WotW2">''[[War of the Worlds: Part 2]]''</ref> [[Azmuth (Classic)|Azmuth]] also mentioned that Ben could use the original Omnitrix to bring back to life any species stored on [[Primus]].<ref>''[[Primus (Episode)|Primus]]''</ref>
+
+The current Omnitrix also has a failsafe to help prevent Ben from dying.<ref name="AND">''[[A New Dawn]]''</ref>
+
+Ben formerly owned an [[Hoverboard|X321 hoverboard]], given to him by [[Tetrax Shard (Classic)|Tetrax]].<ref name="Hunted">''[[Hunted]]''</ref> It was destroyed when it fell into a vat of nuclear waste.<ref name="SOTO" /> Tetrax gave him a second hoverboard which was later destroyed by [[Khyber]].<ref name="OPaP1" /> The second hoverboard was later either rebuilt or replaced.<ref name="CT" >''[[Collect This]]''</ref>
+
+Ben owns a [[Plumber Badge]].<ref name="OPaP2">''[[Of Predators and Prey: Part 2]]''</ref>
+
+Ben has a [[Plumber Suit|Plumber suit]], allowing him to survive in unsuitable environments. [[Kevin Levin (Classic)|Kevin]] modified his suit by installing a propulsion unit and neuroshock pulsers.<ref>''[[Deep]]''</ref>
+
+As a [[Galactic Enforcers|Galactic Enforcer]], Ben had a badge which allowed him to activate some features from the team's ship remotely.<ref name="TGE">''[[The Galactic Enforcers]]''</ref>
+
+Ben formerly had a hazmat suit, given to him by [[Max Tennyson (Classic)|Max]]. The suit protected him from the effects of [[Corrodium]]<ref name="UW" /> and allowed him to survive in space.<ref name="BAotD">''[[Be Afraid of the Dark]]''</ref>
+
+Ben temporarily wore a spacesuit, given to him by Tetrax, which allowed him to survive in space.<ref name="SOTO" />
+
+Ben temporarily used an [[ID Mask]] to disguise himself as a [[DNAlien]] to navigate a [[Highbreed Cruiser]].
+
+Ben temporarily drove [[Kevin's Car (Original)|Kevin's car]] when [[Kevin Levin (Classic)|Kevin]] had been aged into an old man by the [[Hugo|Time Monster]].<ref name="Paradox" />
+
+Ben formerly wielded a [[DNA Repair Gun]], which he used to revert the DNAliens back to [[Human (Classic)|human]].<ref name="WotW1" /> [[Simian]] later sold it to the [[Incursean (Classic)|Incursean]]s.<ref name="SS" />
+
+Ben temporarily used [[Max's Motorcycle|Max's motorcycle]] during '''''[[Ben 10: Alien Swarm|Alien Swarm]]'''''.
+
+Ben formerly owned the [[Mark 10]], given to him as a birthday gift by Kevin.<ref name="AS">'''''[[Ben 10: Alien Swarm]]'''''</ref> The car is now owned by [[Sandra Tennyson|Sandra]].{{Refn|[[:File:Sandra Drives the Mark 10.png]]|group = DJW}}
+
+Ben temporarily wielded [[Ascalon]], which also covered him in armor.<ref name="TUE2" />
+
+Ben, as Juryrigg, created the [[Tenn-Speed]] from parts of the destroyed [[Proto-TRUK]].<ref name="RoE">''[[Rules of Engagement]]''</ref> It was later damaged by Ben off-screen prior to ''[[Let's Do the Time War Again]]'', and its parts were used by [[Ben 10,000 (Original)|Ben 10,000]] as [[Uprigg]] to create the [[Time Cycles]]. Both Time Cycles were destroyed when Ben and [[Rook Blonko|Rook]] crash-landed onto the [[Contumelia Ship]].<ref name="AND" />
+
+When in ''[[Sumo Slammer Smackdown]]'', he had access to a sword.<ref name="GO">''[[Game Over]]''</ref>
+
+===Non-Canon Powers and Abilities===
+====Cartoon Network Action Pack!====
+Ben (and by extension, his alien forms) had [[Brainstorm]]'s enhanced intelligence due to [[Cooper (Classic)|Cooper]]'s [[Neural Net Chamber]] machine before it was destroyed.{{Refn|''[[Benstorm]]''|group = AP}}
+
+==Weaknesses==
+<gallery type="slideshow">
+SZTWC (79).png|Coulrophobia
+TSoC (173).png|Cold Virus Vulnerability
+Midmad (125).png|Hypnosis Vulnerability
+CHS (256).png|Affected By Alien Biology
+</gallery>
+
+Ben appears to have a short attention span and very little patience at times.{{Refn|[[:File:Gwen 10 is Better.png]]|group = pop-up}}<ref name="G10">''[[Gwen 10 (Episode)|Gwen 10]]''</ref> More often than not, it can get him into trouble, such as not reading the directions when trapped in ''[[Sumo Slammer Smackdown]]''.{{Refn|[[:File:Ben's Impatience.png]]|group = pop-up}}<ref name="GO" /> Though he has matured substantially since receiving the [[Omnitrix (Original)|original Omnitrix]], he is still a teenager with much to learn and is prone to irrational impulses and recklessness.
+
+Ben has coulrophobia (i.e. a fear of clowns),<ref name="LL">''[[Last Laugh]]''</ref> which was indirectly caused by [[Max Tennyson (Classic)|Max]].{{Refn|In '''Ultimate Alien''', Ben's coulrophobia came from being scared by a clown at the circus when he was four.<ref name="TUS"/> This was changed in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', as Ben's coulrophobia came from seeing [[Max Tennyson (Classic)|Max]] in clown make-up when he was five.<ref name="SZTWC">''[[Something Zombozo This Way Comes]]''</ref>{{Refn|[[Contradictory Retcons (Classic)|Contradictory Retcons]]|group = BTP|name = retcons}}|group = note}}
+
+Ben is vulnerable to the cold virus.<ref name="SE">''[[Side Effects]]''</ref>
+
+Ben is vulnerable to hypnosis.<ref name="MM">''[[Midnight Madness]]''</ref>
+
+Ben is not immune to [[Corrodium]] and will be mutated when exposed to this mineral unless he either wears special protection or transforms into an alien.<ref name="UW" /><ref name="BAotD" />
+
+Ben has an allergy to peanuts.<ref>''[[Blukic and Driba Go to Mr. Smoothy's]]''</ref>
+
+Ben's worst fear is that of [[Wikipedia:Peacock|peacocks]].<ref name="AD">''[[Arrested Development]]''</ref><ref name="Rook">[[Rook Blonko]]</ref><ref name="SP1"/>
+
+Ben's worst subject is Physics.<ref name="GCBC">''[[Good Copy, Bad Copy]]''</ref>
+
+Whenever the [[Omnitrix (Omniverse)|Omnitrix]] times out, Ben is left powerless until he either dodges or switches to a new alien form. In addition to gaining the selected alien's powers and strengths, he gains its weaknesses.
+
+At times, the natural biological behavior of certain aliens can override Ben's behavior, such as [[Big Chill (Classic)|Big Chill's]] reproductive phase<ref name="StLD">''[[Save the Last Dance]]''</ref> or [[Swampfire|Swampfire's]] blossoming process.<ref name="CIS">''[[Charmed, I'm Sure]]''</ref>
+
+Any illness Ben is experiencing in his human form will affect his alien forms.<ref name="SE" /><ref name="TSoC">''[[The Secret of Chromastone]]''</ref>
+
+==Known Inventions==
+*[[Tenn-Speed]]
+
+==Relationships==
+<tabber>
+|-|Close Tabs=
+{{:Ben 10 Planet:Close Tabs}}
+|-|Family=
+{{:Ben Tennyson (Classic)/Family}}
+|-|Allies=
+{{:Ben Tennyson (Classic)/Allies}}
+|-|Love Interests=
+{{:Ben Tennyson (Classic)/Love Interests}}
+|-|Enemies=
+{{:Ben Tennyson (Classic)/Enemies}}
+|-|Neutral=
+{{:Ben Tennyson (Classic)/Neutral}}
+</tabber>
+
+==Appearances==
+{{Scroll box|
+===Ben 10===
+*[[Ben 10 (2005 TV Series)/Episodes|All episodes]] except ''[[Gwen 10 (Episode)|Gwen 10]]'', ''[[Ken 10]]'' and ''[[Goodbye and Good Riddance]]''.
+
+====Movies====
+*'''''[[Ben 10: Secret of the Omnitrix]]'''''
+*'''''[[Ben 10: Destroy All Aliens]]'''''
+
+====Shorts====
+*[[Ben 10 (2005 TV Series)/Shorts|All shorts]].
+
+====Helpful Hints With Grandpa Max====
+*[[Helpful Hints With Grandpa Max#Shorts|All shorts]] except ''[[Apple Pie]] and ''[[Signs]]''.
+
+===Alien Force===
+====15/16 years old====
+*[[Ben 10: Alien Force (TV Series)/Episodes|All episodes]].
+
+=====Movies=====
+*'''''[[Ben 10: Alien Swarm]]'''''
+
+====5 years old====
+=====Season 1=====
+*''[[Ben 10 Returns: Part 2]]''
+
+===Ultimate Alien===
+====16 years old====
+*[[Ben 10: Ultimate Alien (TV Series)/Episodes|All episodes]].
+
+====15 years old====
+=====Season 2=====
+*''[[Absolute Power: Part 2]]''
+
+=====Season 3=====
+*''[[The Ultimate Enemy: Part 2]]''
+
+====10 years old====
+=====Season 2=====
+*''[[The Forge of Creation]]''
+
+=====Season 3=====
+*''[[The Ultimate Enemy: Part 2]]''
+
+===Omniverse===
+====16 years old====
+*[[Ben 10: Omniverse (TV Series)|All episodes]] except ''[[From Hedorium to Eternity]]''.
+
+====15 years old====
+=====Season 3=====
+*''[[Special Delivery]]''
+
+====11 years old====
+=====Season 1=====
+*''[[The More Things Change: Part 1]]''
+*''[[A Jolt From the Past]]''
+*''[[It Was Them]]''
+*''[[Trouble Helix]]''
+*''[[Of Predators and Prey: Part 1]]''
+
+=====Season 2=====
+*''[[Malefactor]]''
+*''[[Arrested Development]]''
+*''[[Showdown: Part 1]]''
+*''[[Showdown: Part 2]]''
+
+=====Season 3=====
+*''[[Ben Again]]''
+*''[[Special Delivery]]''
+
+=====Season 4=====
+*''[[Max's Monster]]'' <small>(cameo)</small>
+*''[[Evil's Encore]]''
+*''[[Mud is Thicker Than Water]]''
+*''[[For a Few Brains More]]'' <small>(dream)</small>
+
+=====Season 5=====
+*''[[Bengeance is Mine]]''
+
+=====Season 6=====
+*''[[Collect This]]''
+*''[[The Vengers]]''
+*''[[Weapon XI: Part 2]]''
+
+=====Season 7=====
+*''[[The Ballad of Mr. Baumann]]''
+
+=====Season 8=====
+*''[[From Hedorium to Eternity]]''
+
+====10 years old====
+=====Season 1=====
+*''[[It Was Them]]''
+
+=====Season 5=====
+*''[[And Then There Was Ben]]''
+
+====5 years old====
+=====Season 3=====
+*''[[Special Delivery]]''
+
+=====Season 5=====
+*''[[Something Zombozo This Way Comes]]''
+
+=====Season 7=====
+*''[[The Ballad of Mr. Baumann]]''
+
+===Video Games===
+All [[Video Games|video games]] based on the Classic Continuity.
+
+===Online Games===
+====Ben 10====
+*''[[Alien Strike]]''
+*''[[Battle Ready]]'' <small>(NPC)</small>
+*''[[Ben to the Rescue]]'' <small>(NPC)</small>
+*''[[Blockade Blitz]]''
+*''[[Cannonbolt Strikes]]''
+*''[[Cavern Run]]''
+*''[[Critical Impact]]'' <small>(NPC)</small>
+*''[[DNA Lab]]''
+*''[[FusionFall]]'' <small>(Nano)</small>
+*''[[Heroine Hoops]]'' <small>(NPC)</small>
+*''[[Hero Matrix]]'' <small>(NPC)</small>
+*''[[Krakken Attack]]'' <small>(NPC)</small>
+*''[[Omnitrix Unleashed]]'' <small>(NPC)</small>
+*''[[Power Splash]]'' <small>(NPC)</small>
+*''[[Sumo Slammer Samurai]]''
+*''[[Savage Pursuit]]''
+*''[[Saving Sparksville]]'' <small>(NPC)</small> 
+*''[[The Alien Device]]''
+*''[[The Mystery of the Mayan Sword]]''
+*''[[Upchuck Unleashed]]'' <small>(NPC)</small>
+*''[[Upgrade: Space Battle]]''
+
+====Alien Force====
+*''[[Action Packs]]''
+*''[[Formula Cartoon]]''
+*''[[Forever Defense]]'' <small>(NPC)</small>
+*''[[FusionFall]]'' <small>(NPC)</small>
+*''[[Hero Hoops]]''
+* ''[[Humungousaur Giant Force]]''
+*''[[The Way of Power]]''
+*''[[Toon Creator]]''
+*''[[Vilgax Takedown]]''
+
+====Ultimate Alien====
+*''[[Project Exonaut]]'' <small>(NPC)</small> 
+*''[[SnowBrawl Fight!]]''
+*''[[Ultimatrix Unleashed]]''
+
+====Omniverse====
+*''[[Alien Unlock]]''
+*''[[Battle for Power]]''
+*''[[Chronopolis]]''
+*''[[Code Red]]''
+*''[[Final Clash]]''
+*''[[Formula Cartoon]]'' <small>(11-year-old Ben; NPC)</small>
+*''[[Fuel Run]]'' <small>(NPC)</small> 
+*''[[Galactic Champions]]'' <small>(11-year-old Ben; NPC)</small>
+*''[[SnowBrawl Fight!]]''
+*''[[Superstar Soccer]]''
+*''[[The Return of Psyphon]]'' <small>(NPC)</small> 
+*''[[Zombozo's Big Score]]''
+
+===Comics===
+====Cartoon Network Action Pack!====
+=====Ben 10=====
+*All issues.
+
+=====Alien Force=====
+======15 years old======
+*All issues except ''[[Old Friends]]'', ''[[Plumbers' Kids]]'' and ''[[It's a Set Up]]''.
+
+======10 years old======
+*''[[The Past is the Key to the Future]]''
+*''[[Plumbers' Kids]]''
+
+=====Ultimate Alien=====
+*All issues.
+
+====Doom Dimension====
+=====15 years old=====
+*[[Doom Dimension#Volumes|Both volumes]].
+
+=====10 years old=====
+*''[[Doom Dimension: Volume 1|Volume 1]]'' <small>(cameo)</small>
+
+====Ultimate Alien====
+=====16 years old=====
+*[[Ben 10: Ultimate Alien (Comics)#Issues|All issues]].
+
+=====10 years old=====
+======Volume 1======
+*''[[Time Saver]]''
+
+====Science Hero====
+*[[Science Hero#Volumes|All volumes]].
+
+====Exploring Hero====
+*''[[Exploring Hero#Volumes|Protect the U.K.!]]''
+
+====English Hero====
+*[[English Hero#Volumes|All volumes]].
+
+====Omniverse====
+=====16 years old=====
+*[[Ben 10: Omniverse (Graphic Novels)#Graphic Novels|All graphic novels]].
+
+=====11 years old=====
+*''[[Parallel Paradox]]''
+
+=====10 years old=====
+*''[[Joyrides]]''
+**''[[Down in the Dumps]]'' <small>(non-speaking)</small>
+
+====Ben 10====
+*[[Ben 10 (2013 Comics)|All issues]].
+
+====Super Secret Crisis War!====
+*[[Super Secret Crisis War!#Issues|All main issues]].
+
+====Standalone Comics====
+=====Ben 10=====
+*''[[Ben 10 (Mini-Comic)|Ben 10]]''
+*''[[Neighborhood Alien Gag!]]''
+
+=====Alien Force=====
+*''[[Wanted: Kevin Levin]]''
+*''[[FusionFall: Worlds Collide]]''
+
+=====Ultimate Alien=====
+*''[[The Scud the Bad and the Ugly]]''
+*''[[A Woman Scorned]]''
+
+=====Omniverse=====
+*''[[The Worm That Turned]]''
+*''[[No Laughing Matter]]''
+
+===Plays===
+*''[[Ben 10 Live: Power of the Omnitrix]]''
+*''[[Ben 10 Live: Time Machine]]''
+*''[[Ben 10 Live: The Rise of VilEon]]''
+
+===Commercials===
+====Ben 10====
+*''[[Ben at the Camp]]''
+*''[[Make It Fast]]''
+
+====Omniverse====
+*''[[Ben 10 R&B]]''
+*''[[Harlem Shake]]''
+*''[[Ben 10: Time Wars]]''
+
+===Parks and Attractions===
+====Omniverse====
+*[[IMG Worlds of Adventure]]
+**''[[Ben 10: 5D Hero Time]]''
+}}
+
+==Games==
+===Video Games===
+<gallery type="slideshow">
+BenPoE.png|Ben in ''Protector of Earth'' (consoles)
+Ben PoE DS.png|Ben in ''Protector of Earth'' (DS)
+Ben 10 alien force vilgax attacks-wiiartwork6357ben 01.png|Ben in ''Vilgax Attacks''
+Ben CD.png|Ben in ''Cosmic Destruction'' (consoles)
+Ben CD DS.png|Ben in ''Cosmic Destruction'' (DS)
+Ben PTE.png|Ben in ''Punch Time Explosion''
+Teen Ben PTEXL.png|16-year-old Ben in ''Punch Time Explosion XL''
+Young Ben PTEXL.png|10-year-old Ben in ''Punch Time Explosion XL''
+Ben GR DS.png|Ben in ''Galactic Racing'' (DS)
+Teen Ben OV Game.png|16-year-old Ben in ''Omniverse'' (consoles)
+Young Ben OV Game.png|11-year-old Ben in ''Omniverse'' (consoles)
+Teen Ben OV Game DS.png|16-year-old Ben in ''Omniverse'' (DS)
+Young Ben OV Game DS.png|11-year-old Ben in ''Omniverse'' (DS)
+Minecraft Ben (Classic).png|'''Original Series''' Ben in ''Minecraft''
+Minecraft Ben (Alien Force).png|'''Alien Force''' Ben in ''Minecraft''
+Minecraft Ben (Omniverse).png|'''Omniverse''' Ben in ''Minecraft''
+</gallery>
+====[[Ben 10: Protector of Earth]]====
+{{PartStub}}
+While Ben is sleeping at the Grand Canyon, [[Vilgax (Classic)|Vilgax]] extracts DNA from the [[Omnitrix (Original)|Omnitrix]]. Ben travels around the United States to retrieve the [[Omnitrix Crystal|Omnitrix Crystals]].
+
+Ben starts with [[Heatblast (Classic)#Ben 10: Protector of Earth|Heatblast]] and [[Four Arms (Classic)#Ben 10: Protector of Earth|Four Arms]], but later obtains [[XLR8 (Classic)#Ben 10: Protector of Earth|XLR8]], [[Cannonbolt (Classic)#Ben 10: Protector of Earth|Cannonbolt]], [[Wildvine (Classic)#Ben 10: Protector of Earth|Wildvine]], and Perk [[Upchuck]] (on the DS, through a cheat code). Later, he unlocks the Master Control, allowing the player to stay in alien form for an unlimited amount of time, and switch between forms without reverting to Ben.
+
+Ultra Ben is a playable character through a cheat.
+
+====[[Ben 10: Alien Force (Video Game)|Ben 10: Alien Force]]====
+=====Nintendo Wii, PlayStation 2, and PlayStation Portable Versions=====
+Ben is a playable character in the game. He starts with [[Swampfire]] and [[Big Chill (Classic)|Big Chill]], and later unlocks [[Spidermonkey (Classic)|Spidermonkey]], [[Jetray (Classic)|Jetray]], and [[Humungousaur (Classic)|Humungousaur]].
+
+While on their way to the amusement pier, Ben, [[Gwen Tennyson (Classic)|Gwen]] and [[Kevin Levin (Classic)|Kevin]] encounter the [[Forever Knights]] through the use of an alien technology tracker. They follow the Knights to the dock where they are searching for a piece of alien technology buried there. On his way to recover the component, Ben encounters a [[Tetramand (Classic)|Tetramand]] [[Plumbers (Classic)|Plumber]] named [[Gorvan (Alien Force Video Game)|Gorvan]]. Gorvan states that his goal is to recover various illegal alien technological components and quickly recruits Ben, Gwen and Kevin to complete this task. 
+
+Then, [[Alien Force|the team]] go to a Forever Knights castle in Avalon Forest. Ben and Kevin fight their way through the castle and the security system where Ben discovers the next component is hidden in a [[Mech Dragon]]. After defeating the dragon, Ben retrieves the component and brings it back to the nearest Plumber base where he very grotesquely takes the component for safekeeping.
+
+Next, the team pursues one of the recently discovered components at a military base. Kevin decides to abandon the mission after being insulted by Ben and Gwen. As Ben makes his way through the surface, Gwen disables the security systems for Ben. Eventually, Ben bumps his way into [[Vulkanus]] (who is disappointed that Kevin decided not to join Ben in his mission), where Ben has to fight and defeat him under a strip of ammunition leading him to the component. Back at base, after giving Gorvan the component and telling him about Vulkanus, Gorvan states that Vulkanus will have to be "dealt with" eventually. The team notices that Gorvan is acting suspicious and that they should keep an eye on him.
+
+Gorvan receives a message and claims it is from the Plumbers asking for a progress report. Gorvan fails to deliver it over an encrypted channel. Next, Ben travels to an incubator where a group of [[DNAlien]]s are using the component to power an egg machine. After fighting his way through a ghost town and the incubator, Ben retrieves the component and brings it back to base.
+
+After unlocking a locked file on the base's computer, a recorded holographic message from [[Max Tennyson (Classic)|Max]] plays. He reveals that Gorvan is a disgraced Plumber who was thrown out of the organization for selling illegal alien technology. The revelation causes Kevin to hunt Gorvan without thinking and Ben goes after him. Meanwhile, Kevin is caught by Gorvan who lured him into a Xenocyte incubator inside the base. After finally retrieving the component from Kevin, Ben finds him partially transformed into a DNAlien. After defeating Kevin, Ben manages to transform him back to normal and sends him back to Gwen. Ben continues Kevin's short-lived quest to find Gorvan and defeat him. After returning to Gwen and Kevin, Gwen explains that the final component (which was hidden inside the base) is a [[Sub-Energy]] core. A [[Highbreed]] invades and steal the equipment.
+
+Using Kevin's tracking technology, they trace the Highbreed to three recently constructed [[Highbreed Weather Tower|weather towers]]. The team is immediately split up due to a swarm of DNAliens. Ben deduces that a nearby [[Highbreed Cruiser|ship]] is the control center for the weather towers and resources to remove it from the circuit board, despite Gwen's tentative warnings. After fighting a swarm of DNAliens and a Highbreed, Ben makes his way alone, where he moves to an out-of-the-loop ship. However, the Highbreed in-charge explains that removing the ship initiates the weather array's startup sequence. He then throws Ben out of his ship.
+
+Meanwhile, Gwen and Kevin split up to take down the force fields around the towers. After completing their mission, they meet Humungousaur who easily takes them to the remaining towers and destroys them. While exploring the remains of the towers at the end of the game, it is revealed that the Highbreed are planning to make a giant [[Hyperspace Jump Gate|arch]].
+
+=====Nintendo DS Version=====
+{{PartStub}}
+
+Ben is a playable character in the game. He starts with [[Swampfire]] and [[Humungousaur (Classic)|Humungousaur]], and later unlocks [[Echo Echo]], [[Goop (Classic)|Goop]] and [[Chromastone (Classic)|Chromastone]].
+
+====[[Ben 10 Alien Force: Vilgax Attacks]]====
+=====Nintendo Wii, PlayStation 2, and PlayStation Portable Versions=====
+Ben is a playable character in the game. His accessible transformations are [[Spidermonkey (Classic)|Spidermonkey]], [[Humungousaur (Classic)|Humungousaur]], [[Big Chill (Classic)|Big Chill]], [[Swampfire]], [[Cannonbolt (Classic)|Cannonbolt]], [[Goop (Classic)|Goop]], [[Brainstorm]], [[Echo Echo]], [[Chromastone (Classic)|Chromastone]] and [[Jetray (Classic)|Jetray]].
+
+[[Vilgax (Classic)|Vilgax]] opens a [[Null Void (Classic)|Null Void]] portal on [[Earth (Classic)|Earth]] and sends [[Psyphon]] to [[Bellwood (Classic)|Bellwood]] with some escapees to find Ben. When Ben sees the town being overrun by the escapees, he intends to transform into [[Alien X (Classic)|Alien X]]. Paradox arrives to stop him, saying that now is not the time to use [[Alien X (Classic)|Alien X]]. 
+
+Paradox disappears, and Ben, [[Gwen Tennyson (Classic)|Gwen]] and [[Kevin Levin (Classic)|Kevin]] go to fight the aliens. When Ben finds Psyphon on a rooftop, Psyphon unleashes some [[Vilgax's Crewmen|Crewmen]] and [[Mechadroid]]s on Ben. Ben fights Psyphon and more Crewmen and Mechadroids. When Psyphon is defeated, he brings the image of the [[Mr. Smoothy (Classic)|Mr. Smoothy]] mascot on a billboard to life to attack Ben. Ben uses several aliens in succession to defeat the mascot, namely Humungousaur, Echo Echo, Swampfire, Chromastone, Spidermonkey, Big Chill, Jetray, Brainstorm, and Goop. With it defeated, Ben reverts to normal and discovers that the [[Omnitrix (Original)|Omnitrix]] is not working. [[Azmuth (Classic)|Azmuth]] arrives and tells Ben that his constant quick changes has put the Omnitrix into reset mode. Ben tells Azmuth that Earth is being invaded. Azmuth sees that the Omnitrix needs recharging and tells Ben to wield it wisely. Gwen and Kevin arrive at Ben. Just as he was about to tell them that the Omnitrix is in reset mode, Paradox arrives and says that it is too late to save Earth. Paradox takes them back in time to before the invasion and shows them a holographic message from [[Max Tennyson (Classic)|Max]]. Max tells [[Alien Force|the team]] to meet up with him on the planet [[Vulpin]]. To get to Vulpin, Ben recruits [[Ship]].
+
+Upon arriving on Vulpin, Ben finds a [[Plumber Badge]] with a message from Max stating that Vilgax's forces have already invaded the planet and are using the local refinery to create technology unknown to Vilgax. While on Vulpin, Ben faces a [[Vulpin Serpent]]. Later, he comes into conflict with the [[Vreedle Brothers]]. After defeating them, Ben finds a Plumber Badge with another message from Max, telling Ben to go to [[Terradino (Classic)|Terradino]] for another mission.
+
+On Terradino, Ben finds another Plumber Badge with a message from Max stating that Vilgax's forces have taken over Terradino too, and have not yet found the energy core. Max also states that the energy core is located in a nearby temple. On his way to the temple, Ben fights some [[Rock Monster]]s, Crewmen and Mechadroids. Ben later encounters [[Charmcaster (Classic)|Charmcaster]] who unleashes some Rock Monsters on Ben. Ben defeats Charmcaster and retrieves the energy core as Gwen and Kevin find it. Ben finds another Plumber Badge with a message from Max stating that he had to attend to some urgent business on [[Encephalonus IV]] and that an old enemy of Ben's was also spotted there.
+
+On Encephalonus IV, Ben is still wondering who the old enemy is. While reaching the energy core, Ben discovers that the enemy was [[Michael Morningstar (Classic)|Darkstar]]. After defeating Darkstar, Ben collects the energy core. He, Gwen and Kevin find a Plumber Badge with a message from Max. He voices his suspicions that his messages to Ben are being intercepted and does not know how long he can stay in contact with him. He then informs Ben that Vilgax is looking for the last energy core and that it is on [[Anur Phaetos]]. Ben reminds Gwen that it is the planet where [[Zs'Skayr]] lives. Just then, a message comes from Vilgax stating to Ben that he is in on Ben's plot and promises to obtain the last energy core.
+
+When searching for Anur Phaetos, Ben, Gwen and Kevin encounter [[Verdona]], who was sent by Max to help them get to Anur Phaetos, which is actually another dimension. Verdona creates a portal to Anur Phaetos, separating Ben from Gwen and Kevin. After appearing on Anur Phaetos, Ben encounters Zs'Skayr who tells him he is in his domain before leaving. After traversing the planet, Ben manages to get to Zs'Skayr and defeat him. After Ben is reunited with Gwen and Kevin, Gwen states that Verdona is too far away from Anur Phaetos. Paradox arrives and brings them back to their own dimension. He also states that the only material to make other energy cores is [[Taydenite]] which is located on [[MorOtesi]], being experimented on by [[Cooper (Classic)|Cooper]], unknowingly to create an energy core for Vilgax to use to conquer Earth.
+
+Upon arrival on MorOtesi, Ben makes his way to the core. Eventually, Ben encounters [[Albedo]], and the two battle to find out who has the better Omnitrix. With Albedo defeated and the energy core destroyed, Ben reunites with Gwen and Kevin, who received help from Cooper to reach Ben. Max finally appears in person and reveals that the final energy core is within the Null Void. He gives Ben a [[Skeleton Key]] to enter and exit the Null Void. Seeing how it only allows one person to use it, Ben uses it to enter the Null Void, separating himself from the team.
+
+Upon arrival at the Null Void, Ben makes his way to where Max stayed during his time in the Null Void and encounters [[Dr. Animo (Classic)|D'Void]]. After defeating him, Ben finds the box containing the energy core. Ben takes it and teleports out of the Null Void.
+
+By the time the team returns to Earth, the aliens are attacking Bellwood. Due to his past interference, Vilgax has no power to release anymore aliens from the Null Void. While Gwen, Kevin and Max fight some of the individuals, Ben goes after Vilgax while fighting through some powerful aliens that have been unleashed. When Ben faces Vilgax in [[Vilgax's Ship (Alien Force)|his ship]], the final fight begins. When Ben defeats Vilgax, Psyphon appears and snatches the energy core from him to activate the [[Null Void Projector]]. When Psyphon turns it on, Paradox appears and tells Ben that now is the time to use Alien X. Ben transforms into him and tries to convince [[Bellicus]] and [[Serena]] to help stop Earth from being destroyed. Alien X uses his powers to redirect the Null Void Projector's beam toward Vilgax and Psyphon, sending them into the Null Void. When Alien X transforms back into Ben, Azmuth appears and congratulates Ben on saving the Earth. He then rewards Ben by making some adjustments to the Omnitrix.
+
+=====Nintendo DS Version=====
+{{PartStub}}
+Ben is a playable character in the game. His accessible transformations are [[Spidermonkey (Classic)|Spidermonkey]], [[Humungousaur (Classic)|Humungousaur]], [[Big Chill (Classic)|Big Chill]], [[Swampfire]], [[Goop (Classic)|Goop]], [[Brainstorm]], [[Echo Echo]], [[Chromastone (Classic)|Chromastone]], [[Jetray (Classic)|Jetray]] and Murk [[Upchuck]].
+
+====[[Ben 10 Alien Force: The Rise of Hex]]====
+{{PartStub}}
+
+====[[Ben 10 Ultimate Alien: Cosmic Destruction]]====
+Ben confronts a new villain, [[Evil Way Big]]. To defeat him, Ben looks for parts of the [[Potis Altiare]] located in places around the world. In the final battle with Evil Way Big, Ben puts the Potis Altiare together and uses it as [[Way Big (Classic)|Way Big]]. During the battle, Way Big uses a very powerful cosmic ray and sends Evil Way Big to space.
+
+====[[Punch Time Explosion XL|Punch Time Explosion and XL]]====
+In ''Punch Time Explosion'', Ben hunts down [[Vilgax (Classic)#Punch Time Explosion and XL|Vilgax]], and the latter conquers Chowder's Universe. Ben later teams up with other [[Cartoon Network]] characters to hunt down Vilgax throughout other universes. He is the first playable character. 
+
+*[[Swampfire]] <small>(standard attack)</small>
+*[[Big Chill (Classic)|Big Chill]] <small>(up/extra jump attack)</small>
+*[[Ampfibian (Classic)|Ampfibian]] <small>(down attack)</small>
+*[[Humungousaur (Classic)|Humungousaur]] <small>(side attack)</small>
+*[[Ultimate Humungousaur]] <small>(Punch Time Explosion)</small>
+
+In ''Punch Time Explosion XL'', 10-year-old Ben doesn't appear in the storyline but is also playable. He costs 1500, which is more than the average character, making him rarer. Ultra Ben is an unlockable costume.
+*[[Heatblast (Classic)|Heatblast]] <small>(up/extra jump attack)</small>
+*[[XLR8 (Classic)|XLR8]] <small>(side attack)</small>
+*[[Cannonbolt (Classic)|Cannonbolt]] <small>(down attack)</small>
+*[[Wildvine (Classic)|Wildvine]] <small>(standard attack)</small>
+*[[Four Arms (Classic)|Four Arms]] <small>(Punch Time Explosion)</small>
+
+====[[Ben 10: Galactic Racing]]====
+Ben is a playable racer in the game.
+
+====[[Minecraft]]====
+In the '''Ben 10''' DLC expansion pack, Minecraft skins based off Ben's '''[[Ben 10 (2005 TV Series)|Original Series]]''', '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''', and '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''' designs are available.
+
+====[[Fortnite]]====
+Ben Tennyson is a playable Outfit in Fortnite. He also includes a LEGO style, which can be used in the LEGO Fortnite Odyssey gamemode, which is his first appearance as an official LEGO mini-figure in any medium. Ben Tennyson is purchasable in the Fortnite Item Shop for 2,000 V-Bucks.
+
+==Crossovers==
+<gallery type="slideshow">
+Robot Chicken Ben.png|Ben in '''[[Wikipedia:Robot Chicken|Robot Chicken]]'''
+Ben in Uncle Grandpa.png|Ben in '''[[Wikipedia:Uncle Grandpa|Uncle Grandpa]]'''
+Ben in Jellystone.png|Ben in ''[[w:c:cartoonnetwork:Crisis on Infinite Mirths|Crisis on Infinite Mirths]]''
+OS Ben Any.png|Ben in [https://youtu.be/ulX43pthP4A?si=tGBCeEYzdXfZO8d6 '''The Unfiltered World of Any Malu''']
+</gallery>
+====Super Friends====
+Ben appears in a commercial featuring the '''[[Wikipedia:Super Friends|Super Friends]]''' where they are having a meal and talking about Ben. Ben comes in to join them and asks Batman for his autograph and then asked the other Justice Leaguers if they want half his tuna Sandwich. Aquaman tells him he wants it and gives it to him but before leaving, Ben tells Superman he has Superman Pajamas.
+
+====MAD====
+Ben appeared briefly in a snippet of '''[[Wikipedia:MAD|MAD]]''' during a '''[[Wikipedia:Star Trek|Star Trek]]''' parody, where the crew watched '''Ben 10''' on their screen.
+
+====Robot Chicken====
+Ben made an appearance in the fifth episode of the sixth season of '''[[Wikipedia:Robot Chicken|Robot Chicken]]''', ''[[w:c:robotchicken:Hurtled from a Helicopter into a Speeding Train|Hurtled from a Helicopter into a Speeding Train]]'', where Ben is just turning 14.
+
+====Uncle Grandpa====
+In the twelfth episode of the third season of '''[[Wikipedia:Uncle Grandpa|Uncle Grandpa]]''' in the short titled ''The Grampies'', Ben (in his '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''' appearance), among other [[Cartoon Network]] characters, made a cameo watching an awards show hosted by Uncle Grandpa. Ben, who did not speak, was annoyed by a lame joke that Uncle Grandpa made.
+
+====Jellystone!====
+In the crossover special ''[[w:c:cartoonnetwork:Crisis on Infinite Mirths|Crisis on Infinite Mirths]]'', 10-year-old Ben makes an appearance fighting alongside other Cartoon Network characters against the cast of '''[[Wikipedia:Jellystone!|Jellystone!]]''', transforming into [[Stinkfly (Classic)|Stinkfly]] to do so.
+
+====The Unfiltered World of Any Malu====
+Ben makes a cameo in the first episode of the series as a photo.
+
+==Etymology==
+Benjamin is a name from the Hebrew name בִּנְיָמִין (Binyamin) which means "son of the south" or "son of the right hand" going back into the Tanakh (called the Hebrew Bible by Christian scholars), a name of one of the sons of Jacob. His name, "Ben," is to create a rhyming effect between his first name and the number Ten. Also, his surname, "Tennyson," is a reference to 'Ten' of Ben 10.
+
+His middle name, Kirby, was named as reference to comic book artist [[wikipedia:Jack Kirby|Jack Kirby]].{{Refn|http://archive.is/klM3B|group = DJW}}
+
+==Trivia== 
+*[[Gwen Tennyson (Classic)|Gwen's]] birthday is in December,<ref name="Rook" /><ref name="TUH">''[[The Ultimate Heist]]''</ref> which would put Ben's in December too, as they both share the same birthday.<ref>[[Max Tennyson (Classic)|Max Tennyson]]</ref><ref name="CF"/> Their childhood rivalry in the '''[[Ben 10 (2005 TV Series)|Original Series]]''' arose from this.{{Refn|[[:File:Ben Gwen Rivalry.png]]|group = pop-up}}<ref name="ATTWT">''[[And Then There Were 10]]''</ref> 
+**At some point, the crew considered Ben's birthday to be a reference to the premiere date of ''[[And Then There Were 10]]''. However, they never nailed down a specific birthday to spare Ben some embarrassment, because after his birthday comes and goes, he will still be 16.{{Refn|[[:File:Ben's Birthday.png]]|group = MW}}
+*Ben hates mushrooms, though this may have been a consequence of his ordeal with the [[Fungal Force]].<ref name="CF">''[[Camp Fear]]''</ref>
+*When Ben was 10, he used to sleep with his teddy bear, called Furry Freddy.<ref name="Gwen" /> However, Ben defended himself saying that Furry Freddy had his own bed, which happened to be right next to his.<ref name="ACoF">''[[A Change of Face]]''</ref>
+*Ben passed the third grade by choosing C for all the answers on multiple-choice tests.<ref name="PD">''[[Perfect Day]]''</ref>
+*Ben's left eye twitches whenever he tells a lie, but only [[Kevin Levin (Classic)|Kevin]] appears to notice this.<ref name="GCBC">''[[Good Copy, Bad Copy]]''</ref>
+*Ben does not have good table manners.<ref>[[Natalie Tennyson]]</ref><ref name="INEBG">''[[It's Not Easy Being Gwen]]''</ref>
+*Due to [[Rex Salazar (Generator Rex)|Rex]]'s attempts to "cure" Ben from being an [[EVO (Generator Rex)|EVO]] during ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]'', which accidentally gave Ben some of Rex's [[Nanite (Generator Rex)|nanites]], Ben was the only person on his [[Earth (Classic)|Earth]] with any form of nanites. However, he no longer has nanites as of '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''.{{Refn|[[:File:Ben no longer has Nanites.png]]|group = DJW}} This is due to the fact that Rex's nanites resist being cloned.{{Refn|http://web.archive.org/web/20201009174203/https://twitter.com/rouleau1/status/1314620619837771776|group = DR}}
+**However, [[Steven T. Seagle]] believes that the nanites could have left Ben and gone to other people in his universe. {{Refn|https://youtu.be/BlcrO1nqQ_c|group = STS}}
+**If Ben's nanites had been activated, he would think the Omnitrix was malfunctioning.{{Refn|[[:File:Ben Evo.png]]|group = DR}}
+*According to both [[Azmuth (Classic)|Azmuth]] and [[Sir George]], Ben is the same as they were when they were young.<ref name="SA">''[[Solitary Alignment]]''</ref>
+*Ben's history now has to be read at the [[Plumbers' Academy]]. It comprises approximately a chapter and a half.<ref name="Rook" /><ref name="TMTCP1">''[[The More Things Change: Part 1]]''</ref> 
+**Reading about Ben would go on to inspire future [[Plumbers (Classic)|Plumbers]] such as [[Scout]].<ref name="RMP">''[[Rad Monster Party]]''</ref>
+*Ben's first crush was Patty Berkenfeld from third grade.<ref name="Rook" /><ref name="SP1" />{{Refn|In '''Alien Force''', Gwen stated that [[Elena Valadis|Elena]] was Ben's first crush when he was in middle school.<ref name="AS"/> This has been retconned in '''Omniverse''', as [[Rook Blonko]] reveals that Patty Berkenfeld was Ben's first crush when he was in the third grade.<ref name="SP1">''[[Showdown: Part 1]]''</ref>{{Refn|group = BTP|name = retcons}}|group = note}}
+*Ben has a scar on his body in the shape of [[wikipedia:New Jersey|New Jersey]].<ref name="Rook" /><ref name="SP1" />
+*Ben's favorite color is green, and his favorite food is [[Chili Fries|chili fries]].<ref name="SP1" />
+*Ben's favorite drink as a teenager is [[Smoothie (Classic)|smoothies]] from [[Mr. Smoothy (Classic)|Mr. Smoothy]], despite hating them when he was 11 years old.<ref>''[[A Jolt From the Past]]''</ref><ref name="BA">''[[Ben Again]]''</ref>
+**He is still searching for his favorite smoothie flavor. As of the end of Season 1 of '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''', he had never tried the same flavor twice.{{Refn|[[:File:Omnitrix Remote Recalibration.PNG]]|group = DM}}
+**Furthermore, in ''[[A New Dawn]]'', Ben saw the [[Contumelia]] as living mascots from Mr. Smoothy, which implies that he is a materialist and loves Mr. Smoothy more than anything or anyone else.
+*Ben became a huge fan of [[Shag Carpeting]] (Max's favorite band) sometime after the Original Series episode [[Monster Weather]]. This is evidenced in '''Omniverse''', as Ben has a picture of the band in his [[Ben's House|room]].
+*Ben has a habit of referring to other members of his aliens' species by the names he gives his aliens because he does not know the names of most of his aliens' species. 
+**As such, he is often surprised on hearing them, such as when he learned from [[Blarney T. Hokestar|Hokestar]] that [[Bloxx (Classic)|Bloxx]] is a [[Segmentasapien (Classic)|Segmentasapien]], but never admits to this.<ref>''[[Have I Got a Deal for You]]''</ref>
+*Ben has received an honorary doctorate degree from [[Friedkin University]], albeit in an unknown field.<ref name="MI">''[[Mystery, Incorporeal]]''</ref>
+*As of '''Omniverse''', Ben's shoe size is 10.<ref name="RMP" />
+*Ben will have a glorious future.<ref name=PP>[[Professor Paradox]]</ref><ref name="TFoC" /> Azmuth even said that [[Professor Paradox]] once told him of Ben's "grand destiny" and that Ben would be "the legendary being who..." before Paradox cut him short.
+*Ben set several layers of security to the reconfigured [[Omnitrix (Original)|Omnitrix]], coded to his DNA and voice, to make tampering more difficult. This is one of the reasons [[Vilgax (Classic)|Vilgax]] was unable to manipulate the Omnitrix like he did in the '''Original Series'''.{{Refn|[[:File:Omnitrix Bonded With Ben.png]]|name=bonded|group=DM}} 
+*Ben was the first freshman to start as goalie on his school's soccer team.{{Refn|group = AF Brief|name = af brief}}
+**Ben still plays soccer when he can.{{Refn|[[:File:Ben Still Plays Soccer.PNG]]|group = DM}}
+**The reason Ben plays soccer as a goalie is because [[Dwayne McDuffie]] used to play competitive soccer as an All-State Goalie in school.{{Refn|http://archive.is/SGp4l|group = CM}}
+*In '''Alien Force''', Ben was in his freshman year of high school.{{Refn|[[:File:Ben and Gwen Freshmen.PNG]]|group = DM}}{{Refn|[[:File:AF Ben Bandai Card.png]]|group = Bandai|name = Bandai}}  
+**In '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', his teachers were not nice on grading him, but they were fine with his bad attendance record.{{Refn|[[:File:Ben UA Bad Attendance Record.png]]|group = DM}}
+**Ben still goes to school in '''Omniverse''', but not much. He can get an excused absence very easily,<ref>[[Kevin Levin (Classic)|Kevin Levin]]</ref><ref name="INEBG" /> and his assistance to the Plumbers counts as work-study.{{Refn|[[:File:Ben Still Goes to School in OV.png]]|group = MW}}{{Refn|[[:File:Ben Still Goes to School in OV 2.png]]|group = MW}}
+*Ben used to shout the names of his aliens because they were asserting their identity as they gained consciousness,{{Refn|group = DM|name = name shout}} as well as to strike fear into his opponents.<ref name="PN775iM">''[[Prisoner Number 775 is Missing]]''</ref> He stopped doing so, and changed his outfit, in '''Omniverse''' because he got tired of it.{{Refn|[[:File:Ben Got Tired of Shouting His Aliens' Names.png]]|group = MW|name = tired}}
+**It was Dwayne's idea to have Ben shout the names of his aliens, as he thought it would help younger fans know the aliens' names.{{Refn|[[:File:Ben Shouting Out Alien Names.PNG]]|group = DM}}{{Refn|group = DM|name = name shout}}
+*Ben has a lot of pull with the Plumbers.{{Refn|[[:File:Ben Has A Lot of Pull With The Plumbers.PNG]]|group = DM|name = pay}}
+*It is unknown if Ben gets paid for his Plumber work.{{Refn|group = DM|name = pay}} 
+**However, his line "We better be getting hazard pay for this" in ''[[Mud is Thicker Than Water]]'' implies that he and Gwen are on a payroll, even though Ben is no longer officially a Plumber.<ref name="TRoAE">''[[The Rooters of All Evil]]''</ref>
+**In ''[[Hot Stretch]]'' and ''[[Many Happy Returns]]'', it is shown that Ben somehow possesses pieces of [[Tayden|Taydens]], indicating that he earns money somehow.
+*Ben has other friends than the ones seen on-screen, but his coming out of retirement in '''Alien Force''' pushed them away.{{Refn|[[:File:Ben Has Other Friends.PNG]]|group = DM}}
+*Ben has not thought about his career plan at all.{{Refn|[[:File:Ben and Gwen's Career Plans.PNG]]|group = DM}}
+*Ben misses the good old days when he used to hang out with Gwen and Kevin without being mobbed by fans,{{Refn|[[:File:Ben Misses the Good Old Days.PNG]]|group = DM}} so much that he secretly hates being famous and wishes he had his secret identity back.<ref name="AP2">''[[Absolute Power: Part 2]]''</ref>
+**However, Dwayne later stated he did not believe that Ben hates being mobbed by fans despite Ben saying otherwise.{{Refn|group = DM|name = fame}}
+*Ben knows some things about the [[Ultimatrix (Original)|original Ultimatrix]] that [[Eunice]] doesn't, and vice versa.{{Refn|[[:File:Eunice Knows Things About the Ultimatrix.PNG]]|group = MW}}
+*Ben considers both [[Rook Blonko|Rook]] and Kevin his best friend.{{Refn|[[:File:Celestialsapiens Can Die.png]]|group = MW}}
+*Ben still owns several black T-shirts.{{Refn|[[:File:Ben Still Has Several Black T-Shirts.png]]|group = MW}}
+*Ben sometimes goes to [[Undertown]] just to hang out.{{Refn|[[:File:Ben Goes to Undertown to Hang Out.png]]|group = MW|name = forumotion}}
+*Ben sometimes thinks about moving to an apartment or [[Plumber Headquarters (Omniverse)|Plumber Headquarters]] due to the trouble he brings to his home.{{Refn|group = MW|name = forumotion}}
+*Ben owns a [[Tetramand (Classic)|Tetramand]] flag in his bedroom.{{Refn|[[:File:Ben Has a Tetramand Flag.png]]|group = DJW}}
+*Before the events of the '''Original Series''':
+**Ben and Gwen once did not speak to each other for two months over an argument about a stick of gum.{{Refn|[[:File:Ben Gwen Gum.PNG]]|group = pop-up}}<ref name="B10vN10P1">''[[Ben 10 vs. Negative 10: Part 1]]''</ref>
+**At one point, the arguing between Ben and Gwen had gotten so bad that their parents refused to take vacations together anymore.{{Refn|[[:File:Ben Gwen Parents Vacation.PNG]]|group = pop-up}}<ref name="SOTO" />
+*During the road trip in the '''Original Series''':
+**Disliking [[Max Tennyson (Classic)|Max's]] cooking was one of the few things Ben and Gwen agreed on.{{Refn|[[:File:Ben and Gwen Agree on Something.png]]|group = pop-up}}<ref name="UWpon">''[[Ultimate Weapon]]''</ref>
+**Ben was secretly sorry for what happened to Kevin.{{Refn|[[:File:Perfect Day Pop-up (19).png]]|group = pop-up|name = PD pop-up}}<ref name="PD"/>
+**Ben still had gym clothes from the first grade in his gym locker.{{Refn|[[:File:Perfect Day Pop-up (23).png]]|group = pop-up}}<ref name="PD" />
+*'''[[Sumo Slammers (Classic)|Sumo Slammers]]''' is Ben's favorite game, book, and TV show, followed by '''Space Pirates'''.{{Refn|[[:File:Ben's Favorite Stuff.png]]|group = pop-up|name = favorite}}<ref name="GO"/>
+**Initially, '''[[w:c:secretsaturdays:Weird_World|Weird World]]''' was stated to be one of Ben's favorite shows.{{Refn|group = pop-up|name = favorite}}<ref name="GO"/> However, this is retconned in ''[[T.G.I.S.]]'', as Ben states that he did not watch the show very often as it was on at the same time as '''Sumo Slammers'''.{{Refn|group = BTP|name = retcons}}
+*Ben's fight with his hero, [[Abel North|Kangaroo Commando]], in ''[[Super Alien Hero Buddy Adventures (Episode)|Super Alien Hero Buddy Adventures]]'' is one of his favorite memories.{{Refn|[[:File:Super Alien Hero Buddy Adventures Pop-up (7).png]]|group = pop-up|name = img}}<ref name="SAHBA" />
+*When he was younger, Ben's high energy often got him into trouble. As he got older, he learned to focus that energy into sports.{{Refn|[[:File:High Energy Ben.PNG]]|group = pop-up}}<ref name="SOTO" />{{Refn|''[[Azmuth & Galactic Enforcers Ben]]'', Galactic Enforcers Ben Top Secret File|group = DVD}}{{Refn|[[:File:Ben gets in trouble.png]]|group = pop-up}}<ref name="B10RP1">''[[Ben 10 Returns: Part 1]]''</ref>
+*The loss of [[Feedback]], who was Ben's favorite alien at the time, was supposed to be the reason Ben took off the [[Omnitrix (Original)|original Omnitrix]] and retired from being a hero,{{Refn|[[:File:Reason For Ben Removing the Omnitrix.png]]|group = MW}}{{Refn|[[:File:Glen and Dwayne's Idea For Feedback.PNG]]|group = DJW|name = history}} but it was ultimately [[Cartoon Network]] executives who vetoed the idea, which many crew members were thankful for.{{Refn|[[:File:CN Vetoed Dwayne and Glen's Feedback Idea.png]]|group = DJW}} 
+**Prior to '''Omniverse''', the five-year gap between the '''Original Series''' and '''Alien Force''' was discussed and various possibilities were kicked around, everything from "Wow, what if there's something huge and cool that happened there" to "Maybe absolutely nothing interesting happened there".{{Refn|[[:File:OS and AF Gap Possibilities.png]]|group = ES}}
+**Although the '''Alien Force''' crew did not specify how long Ben had the Omnitrix off,{{Refn|group = DM|name = name shout}} the '''Alien Force''' master brief stated that he removed it shortly after defeating [[Vilgax (Classic)|Vilgax]] in '''''[[Ben 10: Secret of the Omnitrix|Secret of the Omnitrix]]'''''.{{Refn|[[:File:AF Series Brief.png]]|group = AF Brief}}
+*[[Adam Wylie]] auditioned to voice Ben for the '''Original Series''' (at [[Meagan Smith]]'s suggestion) and '''Alien Force'''.{{Refn|https://www.cameo.com/recipient/6949ab4ecd64559a7aacfb28|group = AW}}
+*Many voice actors auditioned to voice Ben in '''Alien Force'''. [[Yuri Lowenthal]] was called back multiple times before landing the role.{{Refn|[[:File:AF Ben Audition Process.png]]|group = YL}}{{Refn|https://youtu.be/QcMiHq_53GA|group = YL}}
+**[[Glen Murakami]] told Yuri that Ben was now a little bit older, not quite as prone to say a wisecrack like he would before. At the same time, he said he did not want him to veer into the whining, {{W|Luke Skywalker}} "I got to go to this space station to pick up some moisture evaporators" kind of character.{{Refn|[[:File:Glen Murakami's Instructions for Yuri Lowenthal in Alien Force.png]]|group = YL}}
+*Ben's '''Original Series''' design was made by [[Dave Johnson]],{{Refn|[[:File:Dave Designed OS Ben, Gwen & Omnitrix.PNG]]|group = DJ}} while his Ultra Ben persona was designed by [[Thomas N. Perkins IV]].{{Refn|[[:File:Tom Designed S3 & S4 Characters.png]]|group = TNP}}
+*Initial concepts for 15 and 16-year-old Ben's '''Alien Force''' and '''Ultimate Alien''' design were made by Glen. His head and hair were reworked by [[Glenn Wong]], who also gave him his green jacket, while colors were added by Chris Hooten.{{Refn|[[:File:Ben alien force design process.PNG]]|group = GW}}
+**Ben's green trunks in ''[[What Are Little Girls Made Of?]]'' and ''[[In Charm's Way]]'' were designed by [[T.J. Collins]].{{Refn|https://archive.is/bt2IW|group = TJC}}
+**10-year-old Ben in '''Ultimate Alien''' was designed by Glenn.{{Refn|https://archive.is/DTT2n|group = GW}}
+*The out-of-universe reason Ben aged up from 15 to 16 years old in '''Ultimate Alien''' was because [[Bandai]] wanted him to be able to drive a car.{{Refn|group = CM|name = swarm}}
+*The out-of-universe reason for Ben's increased immaturity in '''Omniverse''' compared to '''Alien Force''' and '''Ultimate Alien''' was due to a request from the executives.{{Refn|[[:File:Ben's Increased Immaturity in OV Reason.png]]|group = CM}}{{Refn|[[:File:Ben's Increased Immaturity in OV Reason 2.png]]|group = CM}}
+**Tangential to this, Yuri felt a slight change in his portrayal of Ben in '''Omniverse''' was needed, and "scraped away" some of Ben's grown-up mannerisms which were present by the end of '''Ultimate Alien'''.{{Refn|https://www.youtube.com/live/unaX1hKhOy4|group = YL}}
+*Ben being the subject of many female characters' romantic affections in '''Omniverse''' was because the crew wanted to play around with that old anime trope where the boy character has all these girls that are way out of his league chasing after him, but he's too clueless to do anything about it.{{Refn|[[:File:OV Ben Romance Inspiration.png]]|group = DJW}}
+*In the [[Gweniverse]], Ben is not an [[Anodite]]{{Refn|[[:File:Gweniverse Ben Not An Anodite.png]]|group = DJW}} and does not know [[Magic (Classic)|magic]].{{Refn|[[:File:Gweniverse Ben Does Not Know Magic.png]]|group = DJW}} In fact, he does not have any powers in general.{{Refn|[[:File:Gweniverse Ben Does Not Have Powers.png]]|group = DJW}} He is essentially a tagalong that gets in [[Gwen 10 (Gweniverse)|Gwen]]'s way.{{Refn|[[:File:Gweniverse Ben.png]]|group = DJW}}
+*There is an alternate version of Ben in the [[Generator Rex Dimension|'''Generator Rex''' Dimension]].{{Refn|[[:File:Possible Alternate Ben in Rex's Universe.png]]|group = DR}}{{Refn|[[:File:There is an alternate version of Ben in Rex's universe.png]]|group = DR}}{{Refn|https://drive.google.com/file/d/1zLeJ1ad0lasJ8ceJAGy0R791awLUBXay/view|name = Prot|group = DR}}
+*[[Duncan Rouleau]] originally stated that the four alternate Bens featured in ''[[Alien X-Tinction]]'' are the same as Ben Prime from the previous four series.{{Refn|group=DR|[[:File:All Alternate Bens are Classic Ben.png]]}} However, he later rescinded that statement, stating that they are from alternate timelines.{{Refn|[[:File:AXT Bens are not Prime.png]]|group = DR}}
+**[[Cartoon Network]] already indicated this, when it said in the description of a video that [[Ben Tennyson (Alien Force Homage Dimension)|'''Alien Force''' Ben]] and [[Ben Tennyson (Ultimate Alien Homage Dimension)|'''Ultimate Alien''' Ben]] are from different dimensions.{{Refn|https://youtu.be/6aZT9D1S5Oc|group = CN}}
+*Ben (as seen in '''Alien Force''') was one of the characters featured in the 2009 Official BBC Children In Need Medley.{{Refn|https://youtu.be/7RD-IyYc1OM|group=BBC}}
+*A Rainbow Milk sponsored a Guinness World Record event at Red Sea Mall in Jeddah, Saudi Arabia, where 475 '''Ben 10''' fans gathered dressed as Ben, setting the record for the largest gathering of Ben 10 fans in costume.{{Refn|https://www.guinnessworldrecords.com/world-records/90101-largest-gathering-of-people-dressed-as-ben10|group = GWR}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====Alien Force Series Master Brief====
+{{Reflist|group = AF Brief}}
+====Scripts====
+{{Reflist|group = script}}
+===Crew Statements===
+====[[Dwayne McDuffie]]====
+{{Reflist|group = DM}}
+====[[Ryan Kelley]]====
+{{Reflist|group = RK}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Matt Wayne]]====
+{{Reflist|group = MW}}
+====[[Charlotte McDuffie]]====
+{{Reflist|group = CM}}
+====[[Eugene Son]]====
+{{Reflist|group = ES}}
+====[[Adam Wylie]]====
+{{Reflist|group = AW}}
+====[[Yuri Lowenthal]]====
+{{Reflist|group = YL}}
+====[[Dave Johnson]]====
+{{Reflist|group = DJ}}
+====[[Thomas N. Perkins IV]]====
+{{Reflist|group = TNP}}
+====[[Glenn Wong]]====
+{{Reflist|group = GW}}
+====[[T.J. Collins]]====
+{{Reflist|group = TJC}}
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+====[[Steven T. Seagle]]====
+{{Reflist|group = STS}}
+===[[Pop-Up Trivia]]===
+{{Reflist|group=pop-up}}
+===[[Cartoon Network]]===
+{{Reflist|group = CN}}
+===[[Merchandise]]===
+====[[DVDs]]====
+{{Reflist|group = DVD}}
+====[[Bandai]]====
+{{Reflist|group = Bandai}}
+====Cartoon Network Action Pack!====
+{{Reflist|group = AP}}
+===Ben 10 Planet===
+{{Reflist|group = BTP}}
+===Other===
+====BBC====
+{{Reflist|group=BBC}}
+====Guiness World Records====
+{{Reflist|group = GWR}}
+====National Library of Medicine====
+{{Reflist|group=NLoM}}
+====Ebru TV Kenya====
+{{Reflist|group=ETVK}}
+====Billy Reinhardt====
+{{Reflist|group=BR}}
+
+{{Ben10C-Human}}
+{{DISPLAYTITLE:Ben Tennyson}}
+
+[[ar:بن تنيسون]]
+[[bg:Бен Тенисън]]
+[[de:Benjamin Kirby Tennyson]]
+[[es:Ben Tennyson]]
+[[fr:Ben Tennyson/Original]]
+[[it:Ben Tennyson]]
+[[pl:Ben Tennyson]]
+[[pt-br:Ben Tennyson/Original]]
+[[ro:Ben Tennyson]]
+[[ru:Бен Теннисон (Классика)]]
+[[tr:Benjamin Kirby Tennyson]]
+
+[[Category:Males]]
+[[Category:Heroes]]
+[[Category:Male Heroes]]
+[[Category:Tennyson Family]]
+[[Category:Humans]]
+[[Category:Human Males]]
+[[Category:Plumbers]]
+[[Category:Omnitrix Wielders]]
+[[Category:Revived Characters]]
+[[Category:Residents of Bellwood]]
+[[Category:Main Characters]]
+[[Category:Time Travelers]]
+[[Category:Original Series Characters]]
+[[Category:Live-Action Movie Characters]]
+[[Category:Alien Force Characters]]
+[[Category:Ultimate Alien Characters]]
+[[Category:Omniverse Characters]]
+[[Category:Introduced in the Original Series]]
+[[Category:Classic Characters]]
+[[Category:Classic Heroes]]
+[[Category:Parents]]
+[[Category:Supporting Characters]]
+[[Category:Series Main Characters]]
+[[Category:Antagonists]]
+[[Category:Main Antagonists]]

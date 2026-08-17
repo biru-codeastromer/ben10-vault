@@ -1,0 +1,108 @@
+{
+  "id": "feedback",
+  "name": "Feedback",
+  "wikiTitle": "Feedback",
+  "kind": "standard",
+  "species": "Conductoid",
+  "homeworld": "Teslavorr",
+  "bodyType": "Humanoid",
+  "debut": {
+    "episode": "The More Things Change: Part 1",
+    "series": "ov",
+    "usedBy": "ben-11-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Bio-electrokinesis - electrical beams, waves, charged electricity bombs and explosions",
+    "Energy absorption and redirection through plug-tipped fingers, tendrils and tail (electricity, tachyon-cannon beams, manna, Crystalsapien energy)",
+    "Energy conversion - absorbed energy supercharges his blasts (overpowered Malware's Tachyon Cannon after draining the Helix)",
+    "Electricity-enhanced punches and electrokinetic propulsion through the air",
+    "Electricity conductivity - runs along power lines at extreme speed",
+    "Elastic, strong tendrils and tail (plugs into foes to electrocute them; knocked over Terroranchula Phil)",
+    "Enhanced strength (lifted Terroranchula Phil, busted through a wall)",
+    "Enhanced durability (shrugged off a giant Malware's blast)",
+    "Enhanced jumping, acrobatics and reflexes (batted an Ultimate Humungousaur missile back)",
+    "Radiolocation - 'smells' radio signals with his tendrils"
+  ],
+  "weaknesses": [
+    "Electric blasts are ineffective against foes that absorb electricity (Phil/Terroranchula)",
+    "Once his blasts are charged he cannot stop firing them - risk of collateral damage (Breakpoint)",
+    "Unknown upper limit to how much energy he can absorb",
+    "Prolonged proximity to several male Conductoids can generate a lethal arc (species lore)"
+  ],
+  "summary": "Ben's black, one-eyed Conductoid with plug-tipped fingers, antennae and tail that drinks in energy and fires it back as electricity - 11-year-old Ben's favourite alien, destroyed by Malware and regained five years later.",
+  "traits": [
+    "Single green eye and two antenna-tendrils with plugs",
+    "Electrical crackle whenever he speaks",
+    "One of only three aliens with their own theme song",
+    "The last alien 16-year-old Ben used on-screen in the Classic continuity",
+    "Only Feedback and Diamondhead ever defeated Malware"
+  ],
+  "notableFeats": [
+    "Defeated Malware in his first appearance (The More Things Change: Part 1)",
+    "Absorbed the Helix and overpowered Malware's Tachyon Cannon, destroying Malware for good with Azmuth's help (Showdown: Part 2)",
+    "Defeated Negative Ultimate Humungousaur, knocking its own missile back at it (A Fistful of Brains)",
+    "Reverted Phil from his Terroranchula form twice (Max's Monster; Weapon XI: Part 1)",
+    "Defeated Argost (T.G.I.S.) and located Liam via radio signals (Clyde 5)",
+    "Absorbed and redirected the Annihilarrgh's energy, trapping Maltruant in an eternal time loop (A New Dawn)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "The More Things Change: Part 1",
+      "notableEpisodes": [
+        "The More Things Change: Part 1",
+        "Trouble Helix",
+        "Malefactor",
+        "Showdown: Part 1",
+        "Showdown: Part 2",
+        "A Fistful of Brains",
+        "Weapon XI: Part 1",
+        "Let's Do the Time War Again",
+        "A New Dawn"
+      ],
+      "designNotes": "16-year-old: black body, one green eye, two plug-tipped antenna-tendrils and tail, GREEN chest, square-plug fingers, gold battery bolts on shoulders/arms/hips, Omnitrix on chest. 11-year-old (flashbacks, first six appearances): identical but WHITE chest and round finger plugs, original Omnitrix on chest.",
+      "image": {
+        "file": "Teen Feedback Stand.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render, 16-year-old design (823x1160, transparent). 11-year-old flashback design render: 'Feedback as 11 Years Old.png' (1296x1832); 'Feedback official2.png' (4096x5568) is an 11-year-old action pose."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 6,
+    "speed": 6,
+    "mobility": 6,
+    "offense": 7,
+    "defense": 6,
+    "special": 7,
+    "versatility": 6,
+    "intellect": 3,
+    "energy": 8,
+    "regeneration": 1,
+    "survivability": 4,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Energy 8: absorbs anything from Megawhatt sparks to the Annihilarrgh and fires it back supercharged - it destroyed Malware and beat Maltruant. Offense 7 with beams, bombs and electrified punches that hurt Mechamorphs and Ultimates; speed 6 riding power lines. Purely a fighter with average toughness; charged blasts can't be cancelled and electricity absorbers shrug him off."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Feedback"
+  ],
+  "notes": [
+    "In-universe Feedback was unlocked off-screen after Destroy All Aliens and used by 11-year-old Ben, but every on-screen appearance is in Omniverse (flashbacks + present), so debut series is 'ov' with debut usedBy ben-11-ov; no OS appearance record.",
+    "Malware storyline: 11-year-old Ben's Feedback was forcibly removed and destroyed by Malware in the flashback of Showdown: Part 1; 16-year-old Ben regained him from Malware's body in Showdown: Part 2 (first 16-year-old use). Crew disagree on the mechanism (locked vs removed from the Codon Stream vs absorbed genetic code); Albedo and Mad Ben do not have Feedback.",
+    "Feedback was intended to be the reason Ben quit hero work between OS and AF, but Cartoon Network vetoed the idea.",
+    "Malgax Attacks: Skurd gave Whampire Feedback's arms - not a transformation. Max's Monster second use is an 11-year-old flashback cameo.",
+    "Dimension 23 counterpart exists (Ben 23's Feedback, originally 'Plug Man'). Video-game/online-game/comic uses (Omniverse games, FusionFall Heroes, Super Secret Crisis War!) not counted."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "frankenstrike",
+  "name": "Frankenstrike",
+  "wikiTitle": "Frankenstrike",
+  "kind": "standard",
+  "species": "Transylian",
+  "homeworld": "Anur Transyl",
+  "bodyType": "Cyborg humanoid (Frankenstein's-monster-like)",
+  "debut": {
+    "episode": "Be Afraid of the Dark",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Bio-electrokinesis from back-mounted conductor coils (lightning-bolt discharges, beams, surface waves)",
+    "Electricity-enhanced punches and electrocuting touch",
+    "Immense strength (tears steel, lifts a tank)",
+    "Immense durability (walks through bullets and tank shells)",
+    "Magnetic grip on metal surfaces",
+    "Technokinesis / merging with and powering machinery",
+    "Regeneration from near-fatal injuries",
+    "Space survivability; heat and wind resistance",
+    "Night vision"
+  ],
+  "weaknesses": [
+    "Too large for tight spaces (coils)",
+    "Energy can be drained through his shoulder generators (Phil)",
+    "Cannot conduct or absorb external electricity",
+    "Can be controlled by Vladat Corrupturas",
+    "Can be scared by Toepick's species"
+  ],
+  "summary": "Ben's Frankenstein: a seven-foot stitched-together Transylian who fires lightning from bio-metallic coils and hits like a truck.",
+  "traits": [
+    "Originally named Benvicktor",
+    "DNA sampled from Dr. Viktor",
+    "Conductor towers are organic growths, not machines",
+    "Anur System native"
+  ],
+  "notableFeats": [
+    "Fought Zs'Skayr and the Mummy on a space station and hurled Dr. Viktor into a portal (Be Afraid of the Dark)",
+    "Trapped Phil in Bellwood (Max's Monster)",
+    "Beat the Circus Freaks and zombie clowns (Something Zombozo This Way Comes)",
+    "Defeated Kraab (Cough It Up)",
+    "Fought a Techadon robot chasing Rojo (The Color of Monkey)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Be Afraid of the Dark",
+      "notableEpisodes": [
+        "Be Afraid of the Dark"
+      ],
+      "designNotes": "Long mullet with pointed sideburns, two-tone greyish-yellow skin, brown gauntlets and conductor coils, black pants, green boot slits, belt with the original Omnitrix as the clasp.",
+      "image": {
+        "file": "Benvicktor 2.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Max's Monster",
+      "notableEpisodes": [
+        "Max's Monster",
+        "Something Zombozo This Way Comes",
+        "Cough It Up",
+        "The Color of Monkey"
+      ],
+      "designNotes": "Short hair with mutton-chop sideburns, dark grey stitched skin patches, large copper bolts with green lines, deep-green coils with white spirals on the shoulders, green belt/gauntlets, copper boots, uneven yellowed teeth, Omnitrix embedded in the right pectoral.",
+      "image": {
+        "file": "OmniverseFrankenstrike.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 7,
+    "durability": 7,
+    "speed": 5,
+    "mobility": 5,
+    "offense": 6,
+    "defense": 5,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 6,
+    "regeneration": 5,
+    "survivability": 7,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Heavy hitter who tanks tank shells and throws lightning that punches holes in starships, with tech-merging utility. Slow-ish and oversized, and an energy-drainer like Phil can empty his coils."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Frankenstrike"
+  ],
+  "notes": [
+    "Not used in Alien Force (locked) or Ultimate Alien (intro only; re-unlocked in Ben 10,000 Returns).",
+    "Also used by Benzarro (And Then There Were None / And Then There Was Ben) - not counted.",
+    "Editorial score calibration (principal pass): energy 7→6, offense 7→6, durability 8→7 — to keep the roster ladder consistent across research batches."
+  ]
+}

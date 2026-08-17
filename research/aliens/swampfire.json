@@ -1,0 +1,145 @@
+{
+  "id": "swampfire",
+  "name": "Swampfire",
+  "wikiTitle": "Swampfire",
+  "kind": "standard",
+  "species": "Methanosian",
+  "homeworld": "Methanos",
+  "bodyType": "Humanoid Plant",
+  "debut": {
+    "episode": "Ben 10 Returns: Part 1",
+    "series": "af",
+    "usedBy": "ben-15-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": "ultimate-swampfire",
+  "componentIds": [],
+  "abilities": [
+    "Chlorokinesis (telepathic plant control and growth)",
+    "Methane generation and ignition (flamethrower streams, fireballs)",
+    "Regeneration and limb reattachment (regrows lost limbs, reforms from pieces)",
+    "Seed/vine generation (restraining vine tentacles, flame-tipped vine whips after blossoming)",
+    "Malleable body (squeezes through bars, laser bolts pass through him)",
+    "Fire propulsion (limited flight)",
+    "Root generation and enhanced digging",
+    "Enhanced strength and durability",
+    "Toxin immunity, heat and cold resistance",
+    "Adhesive mud generation"
+  ],
+  "weaknesses": [
+    "Fire attacks cancelled by extinguishers/water and useless against fire-resistant foes",
+    "Cannot absorb fire; can accidentally ignite flammable gas (blew up the sewers)",
+    "Strong putrid stench and high body heat make stealth impossible",
+    "Vulnerable to electricity (Conductoid) and acid kills his seed vines",
+    "Cannot control sapient plants (Plant Clones)"
+  ],
+  "summary": "Ben's first Alien Force transformation: a walking swamp of methane and vines that throws fire from its palms, regrows anything blown off it, and later 'blossoms' into a stronger, flame-crowned form in Omniverse.",
+  "traits": [
+    "Smells terrible (stench worsens with heat)",
+    "Body produces flammable methane gas",
+    "'Blossomed' into a mature form during Charmed, I'm Sure",
+    "Ben's go-to alien in early Alien Force"
+  ],
+  "notableFeats": [
+    "Defeated DNAliens, Forever Knights and Kevin in his debut (Ben 10 Returns: Part 1)",
+    "Toppled a Highbreed Weather Tower by rooting his feet into the ground (Everybody Talks About the Weather)",
+    "Reattached Reinrassig III's severed hand with his vines (Alone Together)",
+    "Defeated the Highbreed Earth Commander (War of the Worlds: Part 2)",
+    "Fought Vilgax hand-to-hand before going Ultimate (The Final Battle: Part 2)",
+    "Grew plants at will and destroyed his Anur-mirrored copy in his blossomed form (Charmed, I'm Sure)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af",
+        "ben-16-af"
+      ],
+      "firstEpisode": "Ben 10 Returns: Part 1",
+      "notableEpisodes": [
+        "Ben 10 Returns: Part 1",
+        "Everybody Talks About the Weather",
+        "Alone Together",
+        "War of the Worlds: Part 2",
+        "Vengeance of Vilgax: Part 2",
+        "The Final Battle: Part 2"
+      ],
+      "designNotes": "Green/black plant body encrusted with muck, red flame-patterned head with red shoulder petals, root-like feet, four fingers, oval eyes with pupils; recalibrated Omnitrix symbol on chest.",
+      "image": {
+        "file": "Swampfire uaf official.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Hit 'Em Where They Live",
+      "notableEpisodes": [
+        "Hit 'Em Where They Live",
+        "Ultimate Aggregor",
+        "The Forge of Creation",
+        "Ben 10,000 Returns",
+        "Simian Says"
+      ],
+      "designNotes": "Same design as Alien Force; Ultimatrix symbol on chest. First UA sighting in Fame was TV footage only; first real UA transformation is Hit 'Em Where They Live.",
+      "image": {
+        "file": "Swampfire uaf official.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Have I Got a Deal for You",
+      "notableEpisodes": [
+        "Have I Got a Deal for You",
+        "Charmed, I'm Sure",
+        "Weapon XI: Part 2"
+      ],
+      "designNotes": "OV1 (early): olive-green, five fingers, thinner/longer petals and thorns, Omnitrix moved to stomach. OV2 (blossomed, from Charmed, I'm Sure onward): lighter lime-green, more muscular and taller, yellow/red/orange face without pupils, black hands with yellow claws and palm holes, six red flame-like horns (two per forearm, one per shoulder), raised collar; Omnitrix on stomach. Card art uses the later blossomed OV2 design.",
+      "image": {
+        "file": "Swampfire ov2.png",
+        "label": "OV2",
+        "confidence": "high",
+        "notes": "infobox OV2 (blossomed) render; OV1 early design is 'Omniverse Swampfire.png'"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 7,
+    "speed": 4,
+    "mobility": 6,
+    "offense": 7,
+    "defense": 6,
+    "special": 7,
+    "versatility": 7,
+    "intellect": 4,
+    "energy": 5,
+    "regeneration": 8,
+    "survivability": 6,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Strong all-rounder: flamethrower/fireball offense that hurt Highbreed and Vaxasaurians, plant control that toppled a Highbreed tower and freed Max from the Failsafe, and regeneration that regrows heads and reforms from splatter (8). Physically weaker than Humungousaur/Chromastone. Penalised for water/extinguisher counters, electricity, and a stench that ruins stealth."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Swampfire"
+  ],
+  "notes": [
+    "OV has two designs: OV1 (Have I Got a Deal for You, Return to Forever, early Charmed, I'm Sure) and the blossomed OV2 used from mid Charmed, I'm Sure onward; OV2 chosen for card art per brief.",
+    "AF wearer: recalibrated Omnitrix; UA: Ultimatrix; OV: new Omnitrix.",
+    "AF S1 (wiki numbering) = 15-year-old Ben; AF S2 (Vengeance of Vilgax onward) = 16-year-old Ben.",
+    "Also used by Albedo (Negative Swampfire), the Naljian Destructor and Vilgax's Bioids in AF, and by Time Heals Timeline Ben - none of these create separate appearances.",
+    "UA 'Fame' appearance was TV footage only; UA first on-screen transformation is Hit 'Em Where They Live."
+  ]
+}

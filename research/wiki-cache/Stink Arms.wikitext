@@ -1,0 +1,111 @@
+{{Original}}
+{{Infobox Alien
+|name = Stink Arms
+|image = SA.png
+|species = ½ [[Tetramand (Classic)|Tetramand]]<br>½ [[Lepidopterran (Classic)|Lepidopterran]]
+|body = Four-Armed Humanoid with Wings
+|power = Enhanced Strength<br>Limited Flight<br>Sharp Tail<br>Enhanced Durability<br>Enhanced Jumping<br>Enhanced Reflexes<br>Movable Eyes<br>360° Vision <small>(via Movable Eyes)</small>
+|voice = [[Dee Bradley Baker]]
+|1st-appearance = Dr. Animo and the Mutant Ray
+|backcolor = C11C23
+|textcolor = ffffff
+}}
+{{Quote|Now I can fly and kick butt at the same time! Cool!|Stink Arms getting wrongfully enthusiastic.<ref name="Mutant Ray">''[[Dr. Animo and the Mutant Ray]]''</ref>}}
+'''Stink Arms'''{{Refn|[[:File:Mutant (2438).png]]|group = credits}}<ref name="Mutant Ray"/> is the [[Combinations (Classic)|combination]] of [[Four Arms (Classic)|Four Arms]] and [[Stinkfly (Classic)|Stinkfly]]'s DNA. He cannot be accessed unless the faceplate of the [[Omnitrix]] is broken or by using the [[Biomnitrix]].{{Refn|group = note|name = fusions|[[Diamond Matter]], [[Heat Jaws]], and Stink Arms are three combinations which were originally created by a broken, [[Omnitrix (Original)|prototype Omnitrix]]. All three combinations are possible with the [[Biomnitrix]]. However, they might differ in aspects such as appearance, powers and weaknesses as there is no evidence that the broken prototype Omnitrix creates combinations the same way as the Biomnitrix.}}
+
+==Appearance==
+Stink Arms mostly resembles [[Four Arms (Classic)|Four Arms]] with a few of [[Stinkfly (Classic)|Stinkfly's]] characteristics. Four Arms' eyes are replaced by Stinkfly's eyestalks, and he has Stinkfly's tail and wings.
+
+Stink Arms wears a shirt based on Stinkfly's suit and Four Arms' pants, and also wears the [[Omnitrix (Original)|Omnitrix]] symbol on his face much like Stinkfly.
+
+==Powers and Abilities==
+<gallery type="slideshow" position="left">
+Mutant (457).png|Enhanced Strength
+Mutant (504).png|Enhanced Jumping/Enhanced Reflexes
+Mutant (550).png|Enhanced Durability
+Mutant (694).png|Limited Flight
+</gallery>
+Being part-[[Tetramand (Classic)|Tetramand]], Stink Arms has enhanced strength, enough to send the [[Mutant Frog]] flying by hitting it with a metal alligator from an establishment.
+
+Being part-[[Lepidopterran (Classic)|Lepidopterran]], Stink Arms possesses limited flight, allowing him to hover above the ground and move quickly for a short amount of time. Stink Arms also has movable eyes that give him 360-degree vision, as well as a sharp tail.
+
+Stink Arms has enhanced durability, jumping and reflexes.
+
+==Weaknesses==
+[[File:Mutant (530).png|thumb|218x218px|Weighted Flying]]
+Stink Arms' huge mass makes it hard for him to fly properly, unable to reach high altitudes like [[Stinkfly (Classic)|Stinkfly]] and only managing to float and make small jumps.
+
+Despite his enhanced strength, Stink Arms is not as strong as [[Four Arms (Classic)|Four Arms]]. For example, he was unable to lift the [[Mutant Frog]] for more than a few seconds.
+
+==History==
+===Ben 10===
+*Stink Arms first appeared in ''[[Dr. Animo and the Mutant Ray]]'', where he battled [[Dr. Animo (Classic)|Dr. Animo]]'s [[Mutant Frog]].
+
+==Appearances==
+===Ben 10===
+====Season 2====
+*''[[Dr. Animo and the Mutant Ray]]'' <small>(first appearance)</small>
+
+===Online Games===
+====Ben 10 (2016 TV Series)====
+*''[[Super Hero Time]]''
+
+==Games==
+====Online Games====
+[[File:Stink Arms SHT.png|thumb|Stink Arms in ''Super Hero Time'']]
+=====[[Super Hero Time]]=====
+Stink Arms is a playable alien in the game.
+
+==Naming and Translations==
+{{Translation
+|german = Krakenjet
+|germand = From ''Krake'' (Four Arms' german name) and ''Minijet'' (Stinkfly's german name)
+|italian= Pungi2x2
+|italiand= from ''Pungiglione'', sting (Stinkfly's Italian name) and ''due per due'', two times two (Four Arms' Italian name)
+|portuguesebr = Insectobraços
+|portuguesebrd = From ''Insecto'', insect; and ''braço'', arm
+|russian = Силач и Жук
+|russiand = From From ''силач'', strong man and ''и'', and, and ''жук'', beetle
+|ha = Insectobrazos
+|had = From ''insecto'', insect; and ''brazo'', arm
+|turkish = Pul Kol<br>Kokuşmuş Kollar
+|polish = Muchoręki
+|polishd = From ''mucha'', fly and ''ręce'', hand
+|romanian = Stink Braţe
+|romaniand = From ''stink'', and ''braţe'', hands
+|turkishd = From ''pul kol'', stamp sleeve<br>From ''kokuşmuş'', rotten and ''kollar'', arms}}
+
+==Trivia==
+*Stink Arms is the first combination alien in the [[Ben 10 (Franchise)|franchise]].
+*Stink Arms' voice is the same as [[Stinkfly (Classic)|Stinkfly]]'s.
+*Stink Arms can be created in ''[[DNA Lab]]'', along with many other combinations. He is the only combination from the show to appear in the game.
+*Stink Arms was designed by [[Thomas N. Perkins IV]].{{Refn|[[:File:Tom Designed S3 & S4 Characters.png]]|group = TNP}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====End Credits====
+{{Reflist|group = credits}}
+===Crew Statements===
+====[[Thomas N. Perkins IV]]====
+{{Reflist|group = TNP}}
+{{Ben 10 Aliens}}
+[[de:Krakenjet]]
+[[es:Insectobrazos]]
+[[pl:Muchoręki]]
+[[pt-br:InsectoBraços]]
+[[ro:Stink Braţe]]
+[[tr:Kokuşmuş Kollar]]
+[[Category:Aliens]]
+[[Category:Tetramands]]
+[[Category:Transformations]]
+[[Category:Original Series Transformations]]
+[[Category:Hybrids]]
+[[Category:One-Time Aliens]]
+[[Category:Classic Aliens]]
+[[Category:Lepidopterrans]]
+[[Category:One-Time Transformations]]
+[[Category:Classic Transformations]]

@@ -1,0 +1,82 @@
+{
+  "id": "diamond-matter",
+  "name": "Diamond Matter",
+  "wikiTitle": "Diamond Matter",
+  "kind": "fusion",
+  "species": "Petrosapien/Galvan hybrid",
+  "homeworld": "",
+  "bodyType": "Small crystalline humanoid",
+  "debut": {
+    "episode": "Dr. Animo and the Mutant Ray",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [
+    "diamondhead",
+    "grey-matter"
+  ],
+  "abilities": [
+    "Limb shapeshifting into crystal blades",
+    "Enhanced intelligence (Galvan)",
+    "Crystal body durability (survived being slammed into a branch and swallowed by an alligator)"
+  ],
+  "weaknesses": [
+    "Strength reduced by his tiny size",
+    "Too small for physical combat, like Grey Matter"
+  ],
+  "summary": "A palm-sized Diamondhead with Grey Matter's brain: crystal skin and back spikes on a Galvan frame that slices swamp trees but can't punch anything.",
+  "traits": [
+    "Slightly bigger than Grey Matter",
+    "Half-white/half-black uniform mirroring Diamondhead's",
+    "Diamondhead's voice, higher-pitched"
+  ],
+  "notableFeats": [
+    "Battled Heatbat, survived being eaten by an alligator and cut a path through swamp trees for the airboat (Dr. Animo and the Mutant Ray)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Dr. Animo and the Mutant Ray",
+      "notableEpisodes": [
+        "Dr. Animo and the Mutant Ray"
+      ],
+      "designNotes": "Grey Matter-sized body with Diamondhead's aquamarine crystal skin, back and head spikes, and Grey Matter's eyes and mouth; uniform white with black cuffs on the left, black with white cuffs on the right; Omnitrix on the chest.",
+      "image": {
+        "file": "Diamond Matter 001.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": "Only infobox image (unlabelled); OS screenshot/render."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 3,
+    "durability": 6,
+    "speed": 3,
+    "mobility": 4,
+    "offense": 4,
+    "defense": 5,
+    "special": 4,
+    "versatility": 4,
+    "intellect": 8,
+    "energy": 2,
+    "regeneration": 3,
+    "survivability": 4,
+    "range": 2,
+    "cosmic": 0,
+    "weaknessPenalty": 3,
+    "controlPenalty": 0,
+    "rationale": "Diamondhead's toughness and blade-limbs shrunk to Galvan scale, with most of Grey Matter's brains; useful for cutting and thinking, useless in a slugfest."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Diamond_Matter"
+  ],
+  "notes": [
+    "Fusion of Diamondhead + Grey Matter (componentIds); one-episode OS accident."
+  ]
+}

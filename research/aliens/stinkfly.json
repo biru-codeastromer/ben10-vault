@@ -1,0 +1,140 @@
+{
+  "id": "stinkfly",
+  "name": "Stinkfly",
+  "wikiTitle": "Stinkfly (Classic)",
+  "kind": "standard",
+  "species": "Lepidopterran",
+  "homeworld": "Lepidopterra",
+  "bodyType": "Winged insectoid",
+  "debut": {
+    "episode": "Washington B.C.",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Flight (fast, highly agile; ~60 mph)",
+    "High-pressure slime jets from eyestalks and mouth (adhesive, immobilising or flammable variants)",
+    "Slime ensnarement / slime grappling line",
+    "Razor-sharp stinger tail that rends steel",
+    "Enhanced strength (carries heavy loads in flight)",
+    "Bulletproof exoskeleton",
+    "360-degree vision via four independent eyestalks",
+    "Enhanced hearing",
+    "Toxic / methane gas release"
+  ],
+  "weaknesses": [
+    "Cannot fly if his wings are pinned or soaked",
+    "Cannot swim (unbalanced body, thin limbs)",
+    "Strong odour ruins stealth against anything with a nose",
+    "Buglizard's fog neutralises his slime (natural predator)",
+    "Vulnerable to electricity; implied vulnerability to fire"
+  ],
+  "summary": "Ben's smelly insectoid flyer: dragonfly wings, four eyestalks and pressurised goo that glues foes down or catches falling helicopters.",
+  "traits": [
+    "Smell comes from joint-lubricating oils",
+    "Mask-like head is biological",
+    "Fusion component of Stink Arms",
+    "4-year-old 'Stinkyfly' has pupils"
+  ],
+  "notableFeats": [
+    "Saved Gwen from the Mutant Parrot and defeated Dr. Animo (Washington B.C.)",
+    "Held a crashing helicopter with slime (Tough Luck)",
+    "Freed Max and Gwen and fought the Great One's heralds (The Big Tick)",
+    "Kept flying with Vilgax hanging from him (Secrets)",
+    "Defeated Crabdozer before Buglizard beat him (Of Predators and Prey: Part 1)",
+    "Fought Terroranchula as an 11-year-old (Of Predators and Prey: Part 2)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os",
+        "ben-10k-os",
+        "ben-5"
+      ],
+      "firstEpisode": "Washington B.C.",
+      "notableEpisodes": [
+        "Washington B.C.",
+        "The Krakken",
+        "Tough Luck",
+        "They Lurk Below",
+        "Back With a Vengeance",
+        "Ben 10: Secret of the Omnitrix"
+      ],
+      "designNotes": "White sleeveless jumpsuit with black lining covering body, head and tail; black 'glove' hands; yellowish-orange eyes; translucent wings; original Omnitrix on the forehead. Ben 10,000's Stinkfly has inverted suit colours, black pupils and larger stinger.",
+      "image": {
+        "file": "Stinkfly os render.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-10-ua"
+      ],
+      "firstEpisode": "The Forge of Creation",
+      "notableEpisodes": [
+        "The Forge of Creation"
+      ],
+      "designNotes": "10-year-old Ben only: OS design with green eyes and green Omnitrix, no fingerless-glove colouring, straight teeth and pink tongue, no limb shine. (16-year-old UA Stinkfly appears only in the intro / Heroes United flashback.)",
+      "image": {
+        "file": "Stinkfly UA Kid Ben.png",
+        "label": "UA",
+        "confidence": "medium",
+        "notes": "From Stinkfly (Classic)/Gallery/Ultimate Alien; cropped screenshot of 10-year-old Stinkfly in The Forge of Creation, visually verified (green Omnitrix, UA shading, space background). No infobox UA render exists."
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-11-ov",
+        "ben-16-ov"
+      ],
+      "firstEpisode": "A Jolt From the Past",
+      "notableEpisodes": [
+        "A Jolt From the Past",
+        "Of Predators and Prey: Part 1",
+        "Of Predators and Prey: Part 2",
+        "Malefactor"
+      ],
+      "designNotes": "Bigger wings, lighter skin, larger eyes with pupils, jutting underbite, bigger body/tail and redesigned stinger; suit ends at the forehead exposing wrinkled green skin. 11-year-old suit is white with black stripes; 16-year-old's white becomes green. Omnitrix on forehead.",
+      "image": {
+        "file": "Stinkfly OV Model.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 5,
+    "speed": 6,
+    "mobility": 7,
+    "offense": 5,
+    "defense": 4,
+    "special": 5,
+    "versatility": 6,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 4,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Agile flyer with surprisingly strong lifting power and versatile slime (adhesive, flammable, grapples), but light offense and armour. Wet or pinned wings ground him, he cannot swim, and Buglizard hard-counters him."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Stinkfly_(Classic)"
+  ],
+  "notes": [
+    "Not used in Alien Force (locked). UA appearance is 10-year-old Ben in The Forge of Creation only; 16-year-old Ben never transformed on-screen in UA (intro/HU flashback only).",
+    "Also used by Kevin (Framed) - not counted. Skurd used his wings in Malgax Attacks."
+  ]
+}

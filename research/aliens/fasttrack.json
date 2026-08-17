@@ -1,0 +1,94 @@
+{
+  "id": "fasttrack",
+  "name": "Fasttrack",
+  "wikiTitle": "Fasttrack",
+  "kind": "standard",
+  "species": "Citrakayah",
+  "homeworld": "Chalybeas",
+  "bodyType": "Humanoid Feline",
+  "debut": {
+    "episode": "Basic Training",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Enhanced speed (outran Dr. Animo's missile)",
+    "Enhanced agility, reflexes and acrobatics",
+    "Enhanced strength (carried Hulka and Tack, Gwen and Kevin at speed)",
+    "Enhanced durability",
+    "High leaping while running"
+  ],
+  "weaknesses": [
+    "Opponents with sharp reflexes can clothesline him (Sir George)",
+    "Hard to stop when running too fast",
+    "Slips on ice like XLR8"
+  ],
+  "summary": "A sleek blue-and-black cat speedster introduced late in Ultimate Alien as Ben's fast alien - quick, agile, and little else.",
+  "traits": [
+    "Unlocked off-screen before Basic Training",
+    "Never spoke in his debut",
+    "Only appears in Ultimate Alien Season 3",
+    "Blade-like spikes on arms and legs"
+  ],
+  "notableFeats": [
+    "Saved Tack and Hulka from a Nuclear Fusion Grenade blast (Basic Training)",
+    "Disarmed the Forever Knights in seconds (A Knight to Remember)",
+    "Tried to steal Ascalon from Sir George (Solitary Alignment)",
+    "Escaped the Scrutins with Gwen and Kevin in tow (Enemy of My Frenemy)",
+    "Defeated the spying Esoterica (The Beginning of the End)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Basic Training",
+      "notableEpisodes": [
+        "Basic Training",
+        "A Knight to Remember",
+        "Solitary Alignment",
+        "The Eggman Cometh",
+        "Couples Retreat",
+        "The Beginning of the End"
+      ],
+      "designNotes": "Black suit-like body with blue hands, legs, chest and head, black mask-fins around green eyes, lightning-bolt chest design, arm/leg blade spikes; Ultimatrix symbol on chest.",
+      "image": {
+        "file": "FasttrackUAOfficial.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "only infobox image (unlabelled but named UA official); Fasttrack appears only in UA"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 5,
+    "speed": 8,
+    "mobility": 6,
+    "offense": 4,
+    "defense": 5,
+    "special": 3,
+    "versatility": 4,
+    "intellect": 4,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 3,
+    "range": 2,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Fast enough to outrun a missile (speed 8) and carry two people while doing it, but that is the whole kit: no ranged attack, ordinary toughness, and Sir George stopped him cold with an outstretched arm."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Fasttrack"
+  ],
+  "notes": [
+    "Never used on-screen in Omniverse (only video games / online games).",
+    "Also used by Albedo (Negative Fasttrack, dream).",
+    "UA wearer: Ultimatrix."
+  ]
+}

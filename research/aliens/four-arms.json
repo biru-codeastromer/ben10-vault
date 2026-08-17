@@ -1,0 +1,148 @@
+{
+  "id": "four-arms",
+  "name": "Four Arms",
+  "wikiTitle": "Four Arms (Classic)",
+  "kind": "standard",
+  "species": "Tetramand",
+  "homeworld": "Khoros",
+  "bodyType": "Four-armed humanoid",
+  "debut": {
+    "episode": "Washington B.C.",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Enhanced strength (12-foot, 300+ lb powerhouse)",
+    "Shock waves via punches, stomps and the four-handed 'Big Smack' clap",
+    "Enhanced durability (armour-plated skin)",
+    "Enhanced jumping (seven stories)",
+    "Enhanced reflexes (catches missiles)",
+    "Heat and cold resistance",
+    "Wall scaling by driving fingers into surfaces",
+    "Strong bite"
+  ],
+  "weaknesses": [
+    "Bulk makes him an easy target and a poor fit for small spaces",
+    "Feels tremendous pain from electricity",
+    "Sedative quills make him drowsy",
+    "A cold severely reduces his strength and stamina"
+  ],
+  "summary": "Ben's 12-foot red Tetramand strongman: four arms, armour-plated skin and enough raw muscle to swing a mammoth or shatter a Rock Monster in one punch.",
+  "traits": [
+    "12 feet tall, four eyes",
+    "Learned the sonic clap from Tini of the Galactic Enforcers",
+    "Stronger than Humungousaur at base size",
+    "OV 16-year-old has a moustache-like ridge and head spikes"
+  ],
+  "notableFeats": [
+    "Spun Dr. Animo's reanimated mammoth apart (Washington B.C.)",
+    "Defeated Kevin after Kevin absorbed his DNA (Kevin 11)",
+    "Won the wrestling tournament against the Immovable Object and others (Ready to Rumble)",
+    "Beat Captain Nemesis in a tug of war (Hero Time)",
+    "Overpowered Princess Looma, a female Tetramand (Many Happy Returns)",
+    "Threw Rex hard enough to shatter his Smack Hands (Heroes United)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os",
+        "ben-10k-os",
+        "ben-5"
+      ],
+      "firstEpisode": "Washington B.C.",
+      "notableEpisodes": [
+        "Washington B.C.",
+        "Kevin 11",
+        "Framed",
+        "Grudge Match",
+        "Ready to Rumble",
+        "Ben 10: Secret of the Omnitrix"
+      ],
+      "designNotes": "White T-shirt with a black centre stripe, black pants with foot straps, black fingerless gloves, orange-yellow eyes, no hair, original Omnitrix on the upper-left shoulder. Ben 10,000's version is bulkier with jutting incisors and the Omnitrix on his chest.",
+      "image": {
+        "file": "Four arms os render.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua",
+        "ben-10-ua"
+      ],
+      "firstEpisode": "Video Games",
+      "notableEpisodes": [
+        "Video Games",
+        "Hero Time",
+        "Map of Infinity",
+        "The Forge of Creation",
+        "Basic Training",
+        "Inspector 13"
+      ],
+      "designNotes": "16-year-old: shirtless with gold wrist/ankle bands, black briefs with gold waistband, two gold chest sashes, black ponytail, green eyes, Ultimatrix on chest. 10-year-old (Forge of Creation) is the OS design with a green Omnitrix.",
+      "image": {
+        "file": "FourArmsUAOfficial.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-11-ov",
+        "ben-16-ov"
+      ],
+      "firstEpisode": "The More Things Change: Part 1",
+      "notableEpisodes": [
+        "The More Things Change: Part 1",
+        "Trouble Helix",
+        "Many Happy Returns",
+        "The Frogs of War: Part 1",
+        "An American Benwolf in London",
+        "Universe vs. Tennyson"
+      ],
+      "designNotes": "16-year-old: three short head spikes, moustache-like ridge, second set of pectorals, black tank top with a green centre stripe, black pants, green/white Omnitrix belt, black gloves with green cuffs. 11-year-old: OS outfit with green eyes, lighter skin and a second set of pectorals.",
+      "image": {
+        "file": "Four Arms OV Model.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 8,
+    "durability": 8,
+    "speed": 4,
+    "mobility": 5,
+    "offense": 7,
+    "defense": 5,
+    "special": 4,
+    "versatility": 5,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 2,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "The strength anchor of the OS roster: swings mammoths, launches opponents over the horizon and shrugs off falls from hundreds of feet. Slow, purely melee and a big target; electricity hurts him badly."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Four_Arms_(Classic)"
+  ],
+  "notes": [
+    "Not used in Alien Force (locked; unlocked off-screen before UA's Video Games).",
+    "Also used by Kevin (Framed), Gwen (Gwen 10, non-canon) - not counted. Skurd borrowed his arms in The Final Countdown.",
+    "Fusions: Stink Arms (OS) and Fourmungousaur (OV, via Biomnitrix).",
+    "Editorial score calibration (principal pass): special 3→4, versatility 4→5, durability 7→8 — to keep the roster ladder consistent across research batches."
+  ]
+}

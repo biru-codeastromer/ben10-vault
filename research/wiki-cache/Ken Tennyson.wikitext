@@ -1,0 +1,22 @@
+{{DisambigNew
+|intro='''Ken Tennyson''' refers to different members of the [[:Category:Tennyson Family|Tennyson Family]] across the franchise.
+|backcolor = #000000
+|textcolor = #CCE8DA
+|bordercolor = #5780A5
+|OGtotalwidth=67%
+|OG1=Original
+|OG2=Gwen's Brother
+|OGimage1=Ken OV model.png
+|OGimage2=Ken Tennyson.png
+|RBtotalwidth=33%
+|RBimage=Ken Reboot.png
+}}
+[[Category:Disambiguations]]
+[[Category:Characters]]
+[[Category:Heroes]]
+[[Category:Male Heroes]]
+[[Category:Humans]]
+[[Category:Human Males]]
+
+[[Category:Tennyson Family]]
+[[Category:Males]]

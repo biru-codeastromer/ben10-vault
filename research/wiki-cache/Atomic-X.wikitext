@@ -1,0 +1,118 @@
+{{Future}}
+{{Infobox Alien
+|backcolor = 000000
+|textcolor = ffffff
+|name = Atomic-X
+|image = Atomic X Stand.png
+|species = ½ [[Celestialsapien (Classic)|Celestialsapien]]<br>½ [[Atomix's Species|Unknown]]
+|power = Mental Reality Warping<br>Teleportation<br>Black Hole Creation<br>Enhanced Strength<br>Atomokinesis<br>Nucleokinesis<br>Radiokinesis<br>Ergokinesis<br>Photokinesis<br>Unlimited Powers{{Refn|group = note|name = omnipotence|There has been much debate between fans as to if [[Alien X (Classic)|Alien X]] (and Atomic-X by extension) is to be considered omnipotent or nigh-omnipotent. [[Derrick J. Wyatt]] has stated that Atomic-X has the same powers as Alien X,{{Refn|[[:File:Atomic-X Has Alien X's Powers.PNG]]|group = DJW|name = powers}} while [[Duncan Rouleau]] stated that any combination with Celestialsapien DNA is less powerful than Alien X due to the Celestialsapien DNA being diluted.{{Refn|[[:File:Alien V Weaker Than Pure Celestialsapien.png]]|group = DR|name = diluted}} Due to this and his aforementioned weaknesses, some fans consider him to be ''nigh''-omnipotent. The discretion is left to the reader to decide which category to put Atomic-X in.}}
+|voice = [[Judd Nelson]]
+|1st-appearance = And Then There Were None
+|body = Robotic Humanoid
+}}
+'''Atomic-X'''{{Refn|[[:File:Atomic-X Concept Art.png]]|group = ca}}{{Refn|[[:File:000 B10 52 RetakeAtomicXAttacksVilgax Sheet.png]]|group = still}}<ref name="ATTWB" /> also spelled as '''Atomix X'''{{Refn| [[:File:The End of an Era Voice Credits (1).png]]|group = credits}}<ref name="ATTWB" /> is the [[Combinations (Classic)|combination]] of [[Alien X (Classic)|Alien X]] and [[Atomix]]'s DNA. He can only be accessed by using the [[Biomnitrix]].
+
+==Appearance==
+Atomic-X greatly bears the body similar to [[Alien X (Classic)|Alien X]]. His arms have large green cylinders filled with energy and orbs on his shoulders. His eyebrows take the shape of Alien X's horns. He has the basic characteristics of [[Atomix]], including his upper torso, collarbone, lower jaw, waist, thighs and feet as well as sharing the same height of Atomix.
+
+Atomic-X wears the [[Biomnitrix]] symbol on his chest.
+
+==Powers and Abilities==
+<gallery type="slideshow">
+TWB (570).png|Enhanced Strength
+TEoaE (507).png|Atomic Blasts
+TWB (566).png|Teleportation
+TWB (541).png|Black Hole Generation
+ATTWN (466).png|Enhanced Jumping
+</gallery>
+As a combination, Atomic-X circumvents the need for [[Serena]] and [[Bellicus]],{{Refn|[[:File:Atomic-X Overrides Alien X's Personalities.png]]|group = DJW}} allowing [[Ben 10,000 (Original)|Ben 10,000]] to use a [[Celestialsapien (Classic)|Celestialsapien]]'s reality warping powers without debating.{{Refn|group = DJW|name = powers}}{{Refn|group = note|name = omnipotence}}
+
+Atomic-X has an extremely high level of enhanced strength, capable of knocking [[Vilgax (Classic)|Vilgax]] into the air with a mere flick of a finger.<ref name="ATTWB">''[[And Then There Was Ben]]''</ref>
+
+Being part-Celestialsapien, Atomic-X can teleport anywhere he wishes.<ref name="ATTWB" />
+
+Similar to [[Atomix]], Atomic-X can shoot energy beams from his fists.<ref name="TEoaE">''[[The End of an Era]]''</ref>
+
+Atomic-X can create multiple orbs that appear to be combinations of light combinations and black holes without physically doing anything.<ref name="ATTWB" />
+
+Atomic-X can jump incredibly high in the air.<ref name="ATTWN">''[[And Then There Were None]]''</ref>
+
+==Weaknesses==
+<gallery type="slideshow">
+ATTWN (472).png|Vulnerability to Chronosapien Time Bomb
+TEoaE (514).png|Vulnerability to Time Rays
+</gallery>
+Atomic-X can be destroyed by a [[Chronosapien Time Bomb]].<ref name="ATTWN" />
+
+Atomic-X is vulnerable to time attacks of a [[Chronosapien]].<ref name="TEoaE" />
+
+Atomic-X is weaker than [[Alien X (Classic)|Alien X]], as his DNA is diluted due to being a combination.{{Refn|group = DR|name = diluted}}
+
+==History==
+===Omniverse===
+*Atomic-X first appeared in ''[[And Then There Were None]]'', where he tried to stop the [[Chronosapien Time Bomb]] but failed and was erased from existence.
+*In ''[[And Then There Was Ben]]'', Atomic-X was brought back to existence by [[Ben Tennyson (No Watch Timeline)|No Watch Ben]] as [[Clockwork]]. Later, Atomic-X helped the good Bens defeat [[Vilgax (Classic)|Vilgax]].
+
+===[[Original Future Timeline|Original Future]]===
+*In ''[[The End of an Era]]'', Atomic-X battled [[Maltruant]] but was defeated in order to save [[Ken Tennyson (Original)|Spanner]].
+
+==Appearances==
+===Omniverse===
+====Season 5====
+*''[[And Then There Were None]]'' <small>(first appearance; non-speaking)</small>
+*''[[And Then There Was Ben]]'' <small>(x2; first time was a cameo; second time was non-speaking)</small>
+
+====Season 8====
+*''[[The End of an Era]]''
+
+==Naming and Translations==
+{{Translation
+|german = Atomic-X
+|germand = From the original English name
+|ha = Atomic<br>Atomic-X
+|had = From ''Atomic''<br>From the original English name
+|portuguesebr = Atômico-X
+|portuguesebrd = From "Atômico", which means Atomic ("Atômico" also is Atomix's Portuguese name) and "X", from Alien X
+|russian = Атомный Икс
+|russiand = From ''атомный'', atomic and ''икс'', x
+|romanian = Atomic-X
+|romaniand = From the original English name
+|polish = Atomowy-X
+|polishd = From the original English name
+|italian = Atomic-X
+|italiand = From the original English name
+}}
+
+==Trivia==
+*Unlike [[Atomix]]{{Refn|[[:File:Atomix is mouthless.png]]|group = DJW}} and [[Alien X (Classic)|Alien X]], Atomic-X has a mouth.
+*This is the only combination in which the name does not just use parts of the aliens' names used as the basis for its composition, since neither Atomix nor Alien X have a "c" in their name.
+
+==Notes==
+{{Reflist|group = note}}
+==References==
+{{Reflist}}
+===Production Material===
+====End Credits====
+{{Reflist|group = credits}}
+====Concept Art====
+{{Reflist|group = ca}}
+====Stills====
+{{Reflist|group = still}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+{{Ben 10 Aliens}}
+[[es:Atomic-X]]
+[[pl:Atomowy-X]]
+[[pt-br:Atômico X]]
+[[ro:Atomic-X]]
+[[ru:Атомный X]]
+[[Category:Aliens]]
+[[Category:Ben 10,000's Transformations]]
+[[Category:Omniverse Transformations]]
+[[Category:Hybrids]]
+[[Category:Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]

@@ -1,0 +1,116 @@
+{
+  "id": "ultimate-swampfire",
+  "name": "Ultimate Swampfire",
+  "wikiTitle": "Ultimate Swampfire",
+  "kind": "ultimate",
+  "species": "Ultimate Methanosian",
+  "homeworld": "",
+  "bodyType": "Humanoid petrified-wood tree",
+  "debut": {
+    "episode": "The Final Battle: Part 2",
+    "series": "af",
+    "usedBy": "ben-16-af"
+  },
+  "baseFormId": "swampfire",
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Blue napalm-fire generation (ignited kerosene gel; far hotter than Swampfire's flames)",
+    "Fire bombs and cluster-bomb barrages",
+    "Jet-propelled flight via palm flames",
+    "Enhanced chlorokinesis (plant control), seed and vine generation",
+    "Regeneration and elasticity",
+    "Enhanced strength and durability",
+    "Underwater breathing and underwater fire generation"
+  ],
+  "weaknesses": [
+    "Vulnerable to electricity (e.g. Ra'ad, Ultimate Aggregor)",
+    "Body of petrified wood is still a plant: relies on regeneration to shrug off heavy damage"
+  ],
+  "summary": "The Ultimatrix's evolved Methanosian: a walking tree of petrified wood carrying blue kerosene-napalm pods that fuel searing blue fire, throwable fire bombs and jet-propelled flight. Ben's first Ultimate form.",
+  "traits": [
+    "First Ultimate form Ben ever used",
+    "Blue napalm gel shells on arms, back and face pod",
+    "Voiced by Dee Bradley Baker",
+    "Designed by Steven Choi; Derrick J. Wyatt's favourite Ultimate"
+  ],
+  "notableFeats": [
+    "Debuted against Vilgax aboard the sinking Chimeran Hammer, fighting and breathing underwater (The Final Battle: Part 2)",
+    "Led the team into Los Soledad and easily wrecked the Aggrebots (Ultimate Aggregor)",
+    "Blue flames melted through a brick wall (Ultimate Aggregor)",
+    "Forced the Plant Alien's mouth open and destroyed it with a single fire bomb (The Big Story)",
+    "Snuck up on Eon unnoticed before being aged to dust by his time ray, later restored by Ben 10,000 (Ben 10,000 Returns)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-16-af"
+      ],
+      "firstEpisode": "The Final Battle: Part 2",
+      "notableEpisodes": [
+        "The Final Battle: Part 2"
+      ],
+      "designNotes": "Dark-brown humanoid tree of petrified wood; three blue gooey kerosene shells on each arm, a large one on the back and a small pod on the chest/face through which his green eyes show; evolved (four-spiked) green Ultimatrix symbol on chest. Identical to the UA design.",
+      "image": {
+        "file": "Alien-gallery ultimate swampfire.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "Infobox render; AF and UA designs are identical (Ultimatrix era), so the same file is used for both series."
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Ultimate Aggregor",
+      "notableEpisodes": [
+        "Ultimate Aggregor",
+        "The Forge of Creation",
+        "Eye of the Beholder",
+        "The Big Story",
+        "Ben 10,000 Returns"
+      ],
+      "designNotes": "Same design as Alien Force: dark-brown petrified-wood body, blue kerosene napalm pods on arms/back/face, evolved Ultimatrix symbol on chest.",
+      "image": {
+        "file": "Alien-gallery ultimate swampfire.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "Infobox render (unlabelled on the wiki, but the design never changed between AF and UA)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 7,
+    "durability": 7,
+    "speed": 5,
+    "mobility": 6,
+    "offense": 8,
+    "defense": 6,
+    "special": 7,
+    "versatility": 7,
+    "intellect": 4,
+    "energy": 6,
+    "regeneration": 8,
+    "survivability": 7,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Blue napalm melts brick, cluster bombs cover a wide area and a single fire bomb destroyed the Plant Alien; keeps Swampfire's regeneration, vines and elasticity and adds jet flight and underwater fire. Still a plant body that electricity (Ra'ad, Ultimate Aggregor) shuts down, and Eon's time ray dusted him. Rated a clear step above Swampfire but below the true heavy hitters."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Swampfire",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "The wiki files The Final Battle under AF 'Season 2' (production numbering); by broadcast it is the AF S3 finale and Ben is 16, hence usedBy ben-16-af.",
+    "Only Ultimate form used by Ben before Ultimate Alien.",
+    "Also listed by the wiki as a dream figment cameo in 'Night of the Living Nightmare' (Albedo's dream) - not counted as a notable episode.",
+    "Only Ultimate form to be temporarily destroyed (aged to dust by Eon) and then restored (Ben 10,000 Returns).",
+    "Sentient Ultimates storyline (UA S3, 'The Ultimate Sacrifice'): the six most-used Ultimate forms (Humungousaur, Swampfire, Spidermonkey, Big Chill, Cannonbolt, Echo Echo) gained sentience inside the Ultimatrix and demanded freedom; Ben offered his life, Azmuth freed them to their own world and reworked the Ultimatrix so Ultimates are 'empty shells' again.",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt).",
+    "Video-game/comic uses (Cosmic Destruction, FusionFall, Action Pack comics) not counted as appearances."
+  ]
+}

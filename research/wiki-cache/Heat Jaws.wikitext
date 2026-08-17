@@ -1,0 +1,108 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 7B080A
+|textcolor = F4F571
+|name = Heat Jaws
+|image = Heat Jaws full.png
+|species = ½ [[Pyronite (Classic)|Pyronite]]<br>½ [[Piscciss Volann (Classic)|Piscciss Volann]]
+|nicknames = Walking Fish-Fry <small>([[Dr. Animo (Classic)|Dr. Animo]])</small><ref name="DAatMR">''[[Dr. Animo and the Mutant Ray]]''</ref>
+|power = Pyrokinesis<br>Fire/Heat Amplification<br>Enhanced Bite<br>Sharp Teeth<br>Mouth Expansion<br>Enhanced Strength<br>Enhanced Durability<br>Underwater Breathing<br>Underwater Heat Generation<br>Fire Resistance
+|voice = [[Steve Blum]]
+|1st-appearance = Dr. Animo and the Mutant Ray
+}}
+'''Heat Jaws'''{{Refn|[[:File:Mutant (2438).png]]|group = credits}}<ref name="DAatMR"/> is the [[Combinations (Classic)|combination]] of [[Heatblast (Classic)|Heatblast]] and [[Ripjaws (Classic)|Ripjaws]]' DNA. He cannot be accessed unless the faceplate of the [[Omnitrix (Original)|Omnitrix]] is broken or by using the [[Biomnitrix]].{{Refn|group = note|name = fusions|[[Diamond Matter]], Heat Jaws, and [[Stink Arms]] are three fusions which were originally created by a broken, [[Omnitrix (Original)|prototype Omnitrix]]. All three fusions are possible with the [[Biomnitrix]]. However, they might differ in aspects such as appearance, powers and weaknesses as there is no evidence that the broken prototype Omnitrix creates fusions the same way as the Biomnitrix.}}
+
+==Appearance==
+Heat Jaws has [[Ripjaws (Classic)|Ripjaws]]' torso, however his arms and legs are essentially [[Heatblast (Classic)|Heatblast]]'s. Also, the fin that Ripjaws usually has on his back is replaced with a line of fire. 
+
+==Powers and Abilities==
+<gallery type="slideshow" position="left">
+Mutant (1612).png|Fire Resistance
+Mutant (1675).png|Enhanced Strength
+Mutant (1754).png|Enhanced Durability
+Mutant (1784).png|Fire/Heat Amplification
+Mutant (2042).png|Enhanced Bite/Sharp Teeth
+Mutant (2084).png|Underwater Breathing
+Mutant (2113).png|Underwater Heat Generation
+Mutant (2241).png|Pyrokinesis
+</gallery>
+Being part-[[Pyronite (Classic)|Pyronite]], Heat Jaws possesses pyrokinesis similar to [[Heatblast (Classic)|Heatblast]]. Surprisingly, his flames actually get much stronger after Heat Jaws submerges himself in water.
+
+Being part-[[Piscciss Volann (Classic)|Piscciss Volann]], Heat Jaws' sharp teeth and jaws are as powerful as [[Ripjaws (Classic)|Ripjaws']]. He can also breathe underwater.<ref name="DAatMR"/>
+
+Heat Jaws has enhanced strength and durability and is resistant to fire attacks.
+
+==Weaknesses==
+[[File:Mutant (1805).png|thumb|Dehydration/Heat Exposure]]
+Because his [[Piscciss Volann (Classic)|Piscciss Volann]] DNA needs water to live while his [[Pyronite (Classic)|Pyronite]] half generates enormous amount of heat, Heat Jaws quickly gets dehydrated on land. Heat Jaws needs much effort to use his pyrokinesis whether inside or out of water.<ref name="DAatMR"/>
+
+==History==
+===Ben 10===
+*Heat Jaws first appeared in ''[[Dr. Animo and the Mutant Ray]]'', where he defeated [[Heatbat]], the [[Mutant Frog]] and [[Dr. Animo (Classic)|Dr. Animo]], reverted [[Max Tennyson (Classic)|Max]] back to normal, and fixed the [[Omnitrix (Original)|Omnitrix]].
+
+==Appearances==
+===Ben 10===
+====Season 2====
+*''[[Dr. Animo and the Mutant Ray]]'' <small>(first appearance)</small>
+
+===Online Games===
+====Ben 10 (2016 TV Series)====
+*''[[Super Hero Time]]''
+
+==Games==
+===Online Games===
+[[File:Heat Jaws SHT.png|thumb|Heat Jaws in ''Super Hero Time'']]
+====[[Super Hero Time]]====
+Heat Jaws is a playable alien in the game.
+
+==Naming and Translations==
+{{Translation
+|german=Infernokiefer
+|germand= From Inferno (Heat Blast's german name) and Kampfkiefer (Ripjaws' german name)
+|ha = Acuafuego
+|had = From aqua-; and ''fuego'', fire
+|portuguesebr = ChamaAquático
+|portuguesebrd = From ''chama'' flame and ''aquatico'', aquatic
+|russian = Человек Огонь и Челюсти
+|russiand = From ''человек-огонь'', fire-man ''и'' and, and ''челюсти'', jaws
+|italian = Mastinferno
+|italiand = From ''masti'', part of the word "mastica", ''chew'', and ''inferno''
+|polish = Zębferno
+|polishd = From ''zęb'', tooth and ''inferno''
+|romanian = Falcă Vie
+|romaniand = From ''falcă'', jaw, and ''vie'', live
+|turkish = Ateş Çene
+|turkishd = From ''ateş'', fire, and ''Çene'', jaw}}
+
+==Trivia==
+*Heat Jaws' voice is the same as [[Heatblast (Classic)|Heatblast]]'s in the '''[[Ben 10 (2005 TV Series)|Original Series]]'''.
+*Heat Jaws was designed by [[Thomas N. Perkins IV]],{{Refn|[[:File:Tom Designed S3 & S4 Characters.png]]|group = TNP}} but he always wanted to go back and do a take that was more uniform rather than having each body part belong to only one of the aliens.{{Refn|https://archive.is/lLhWg|group = TNP}}
+
+==Notes==
+{{Reflist|group = note}}
+==References==
+{{Reflist}}
+===Production Material===
+====End Credits====
+{{Reflist|group = credits}}
+===Crew Statements===
+====[[Thomas N. Perkins IV]]====
+{{Reflist|group = TNP}}
+{{Ben 10 Aliens}}
+[[de:Infernokiefer]]
+[[es:Acuafuego]]
+[[it:Mastinferno]]
+[[pl:Zębferno]]
+[[pt-br:Áquachama]]
+[[ro:Falcă vie]]
+[[tr:Ateş Çene (Ateş Topu ve Yüzen Çene)]]
+[[Category:Aliens]]
+[[Category:Transformations]]
+[[Category:Original Series Transformations]]
+[[Category:Hybrids]]
+[[Category:One-Time Aliens]]
+[[Category:Classic Aliens]]
+[[Category:Pyronites]]
+[[Category:One-Time Transformations]]
+[[Category:Classic Transformations]]
+[[Category:Piscciss Volanns]]

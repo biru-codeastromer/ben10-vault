@@ -1,0 +1,225 @@
+{{Original}}
+{{Infobox Alien 
+|backcolor = 000000
+|textcolor = 4395D1
+|name = Fasttrack
+|image = FasttrackUAOfficial.png
+|species = [[Citrakayah]]
+|home-planet = [[Chalybeas]]
+|body = Humanoid Feline
+|power = Enhanced Speed<br>Enhanced Agility<br>Enhanced Reflexes<br>Enhanced Strength<br>Enhanced Durability<br>Enhanced Jumping<br>Enhanced Acrobatics
+|Alternate Counterparts = [[Fastcat]]
+|spellings = Fasstrak{{Refn|[https://static.wikia.nocookie.net/ben10/images/3/3c/Solitary_Allignment_DRAFT-1.pdf ''Solitary Alignment'' Script First Draft]|group = script|name = sa script}}
+|voice = [[Dee Bradley Baker]]
+|1st-appearance = Basic Training
+}}
+
+{{Quote|Hang on! This is gonna be a bumpy ride.|Fasttrack to [[Gwen Tennyson (Classic)|Gwen]] and [[Kevin Levin (Classic)|Kevin]] as they attach to him.<ref name="EoMF">''[[Enemy of My Frenemy]]''</ref>}}
+'''Fasttrack''' is the [[Omnitrix]]'s DNA sample of a [[Citrakayah]] from the planet [[Chalybeas]].{{Refn|[[:File:Fasttrack's Name Revealed.png]]|group = PAD|name = revelation}}
+
+==Appearance==
+===Ben as Fasttrack===
+Fasttrack is a feline-like alien with a black suit-like color scheme, and his hands, legs, chest, and part of his head are colored blue. He has black mask-like fins around his green eyes, a triangle-shaped nose, a thunderbolt-like design down his chest, and a triangle one down his back. He also has spike-like blades on his arms and legs.
+
+Fasttrack wears the [[Ultimatrix (Original)|Ultimatrix]] symbol on his chest.
+
+===Albedo as Negative Fasttrack===
+[[Albedo|Negative]] Fasttrack looks just like [[Ben Tennyson (Classic)|Ben]]'s Fasttrack, but with red eyes and no Ultimatrix symbol.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Fast-never-catcher.png|[[Albedo]] as Negative Fasttrack
+</gallery>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+TEC (53).png|Enhanced Speed
+SA (75).png|Enhanced Agility/Enhanced Reflexes
+BT (197).png|Enhanced Strength
+CR (47).png|Enhanced Durability
+EoMF (103).png|Enhanced Jumping
+SA (70.5).png|Enhanced Acrobatics
+</gallery>
+Fasttrack has enhanced speed, agility and reflexes. Fasttrack is able to run fast enough to outrun a missile created by [[Dr. Animo (Classic)|Dr. Animo]], forcing Animo to increase the power of the missile in an attempt to make it outspeed Fasttrack.<ref name="TEC">''[[The Eggman Cometh]]''</ref>
+
+Fasttrack possesses enhanced strength, as he was able to carry both [[Hulka]] and [[Tack]] to safety,<ref>''[[Basic Training]]''</ref> as well as [[Gwen Tennyson (Classic)|Gwen]] and [[Kevin Levin (Classic)|Kevin]] while in [[Legerdomain]].<ref name="EoMF" />
+
+Fasttrack possesses enhanced durability.<ref name="CR">''[[Couples Retreat]]''</ref><ref name="SA">''[[Solitary Alignment]]''</ref>
+
+Fasttrack can jump to great heights while running,<ref name="EoMF" /> and is quite acrobatic, as while upside-down, he performed a handspring to avoid a swipe from [[Sir George]]; leap in the air; and realign himself before he touched the ground.<ref name="SA"/>
+
+===Non-Canon Powers and Abilities===
+====[[Ben 10: Galactic Racing|Galactic Racing]]====
+[[File:SA6EG9-4.png|thumb|Fasttrack using "Spininjutsu"]]
+Fasttrack can become intangible.{{Refn|[[:File:SA6EG9-4.png]]|group = GR|name = spin}}
+
+Fasttrack is capable of creating fast-spinning tornadoes.{{Refn|group = GR|name = spin}}
+
+Fasttrack can create fake copies of himself through "Spininjutsu".{{Refn|group = GR|name = spin}}
+
+==Weaknesses==
+<gallery type="slideshow">
+SA (62).png|Exploitable Speed
+TEC (282).png|Poor Traction
+TEC (55).png|Slippery Surfaces
+</gallery>
+Opponents with good reflexes and reaction time can counter Fasttrack's speed and land a blow on him, as seen when Fasttrack ran straight into [[Sir George]]'s outstretched arm, badly stunning him.<ref name="SA" /> 
+
+Fasttrack can have a hard time stopping if he runs too quickly.<ref name="TEC" />
+
+Being a speed-based alien, Fasttrack shares similar weaknesses with [[XLR8 (Classic)|XLR8]]. For example, he is being unable to run on certain surfaces like ice, which can make him slip very easily.<ref name="TEC" />
+
+==History==
+===Ultimate Alien===
+*Fasttrack first appeared and was unlocked off-screen in ''[[Basic Training]]'',{{Refn|''[[Ben 10 Ultimate Alien: The Wild Truth]]''; [[:File:TWT Fasttrack Data.png|file]]|group = DVD}} where he saved [[Tack]] and [[Hulka]] from an explosion caused by a [[Nuclear Fusion Grenade]].
+*In ''[[A Knight to Remember]]'', Fasttrack disarmed the [[Forever Knights]] by taking all of their weapons away.
+*In ''[[Solitary Alignment]]'', Fasttrack tried to take the sword, [[Ascalon]], from [[Sir George]], but failed and was defeated by him, forcing Fasttrack to switch into [[Humungousaur (Classic)|Humungousaur]].
+*In ''[[Enemy of My Frenemy]]'', Fasttrack was tied to [[Gwen Tennyson (Classic)|Gwen]] and [[Kevin Levin (Classic)|Kevin]] (with [[manna]]) so they could all escape from the [[Scrutin]]s together. He and [[Alien Force|the team]] then met [[Ignaceous]].
+*In ''[[The Eggman Cometh]]'', Fasttrack trained with Kevin until they were stopped by Gwen. Later, Fasttrack failed to stop [[Dr. Animo (Classic)|Dr. Animo]]'s missile from destroying a weather balloon experiment.
+*In ''[[Couples Retreat]]'', Fasttrack failed to catch [[Michael Morningstar (Classic)|Darkstar]] and stop him from going to the [[Door to Anywhere]]. He then looked around for the stolen page from Gwen's [[Gwen's Spellbook|spellbook]] before reverting.
+*In ''[[Night of the Living Nightmare]]'', Fasttrack appeared twice in a dream. Firstly, [[Albedo|Negative]] Fasttrack fled from [[Swampfire]]. Seconds later, Ben as Fasttrack chased Negative Fasttrack all the way to [[Mr. Smoothy (Classic)|Mr. Smoothy]].
+*In ''[[The Beginning of the End]]'', Fasttrack defeated the [[Esoterica]] who were spying on him, Gwen, and Kevin.
+
+==Appearances==
+{{Scroll box|
+===Ultimate Alien===
+====Season 3====
+*''[[Basic Training]]'' <small>(first appearance; non-speaking)</small>
+*''[[A Knight to Remember]]''
+*''[[Solitary Alignment]]''
+*''[[Enemy of My Frenemy]]''
+*''[[The Eggman Cometh]]'' <small>(x2; first time was an off-screen activation)</small>
+*''[[Couples Retreat]]''
+*''[[Night of the Living Nightmare]]'' <small>(x2; first time was by Albedo; both times were in a dream)</small>
+*''[[The Beginning of the End]]''
+
+===Video Games===
+====Ultimate Alien====
+*''[[Ben 10: Galactic Racing]]''
+
+===Online Games===
+====Ultimate Alien====
+*''Null Void: Escape Velocity''
+
+====Ben 10 (2016 TV Series)====
+*''[[Super Hero Time]]''
+}}
+
+==Games==
+===Video Games===
+[[File:Fasttrack GR.png|Fasttrack in ''Galactic Racing''|thumb]]
+====[[Ben 10: Galactic Racing]]====
+Fasttrack is a playable racer in the game. His attack special ability is to unleash several small tornadoes, which fly forward in a row and topple racers from behind. His defense special ability is to become intangible by flipping and dodging. 
+
+Fasttrack is able to move fast enough to get through any attack. In his own words, he becomes intangible. In addition to being able to perform a "Spinjitzu" by spinning at high speed and creating mini tornadoes that affect enemies, he can increase his speed if he stores enough kinetic energy.
+
+===Online Games===
+[[File:Fasttrack SHT.png|thumb|Fasttrack in ''Super Hero Time'']]
+====[[Super Hero Time]]====
+Fasttrack is a playable alien in the game. He can only be unlocked by earning the We Love Gumball Badge in ''Cartoon Network Game On''.
+
+==Naming and Translations==
+{{Translation
+|greek = Ταχύς
+|greekd = From ''ταχύς'', fast
+|bulgarian = Скорострел
+|bulgariand = From ''скорост/skorost'', fast, and ''стрел/strel'', arrow
+|italian = ScattoFelino
+|italiand = From ''scatto'', dash, and ''felino'', feline
+|croatian = Brzotrak
+|croatiand = From ''brzo'', fast, and ''traka'', track
+|portuguesebr = Acelerado 
+|portuguesebrd = From ''acelerado'', accelerated
+|french = Accelerator
+|frenchd = From ''AXLR'' (XLR8 in French) + rator
+|dutch = Snelspoor
+|dutchd = From ''snel'', fast and ''spoor'', track
+|polish = Raptus
+|polishd = From ''raptowny'', abrupt
+|romanian = Iuresul
+|romaniand = From ''iures'', race
+|german = Sturmjäger
+|germand = From ''sturmjäger'', stormhunter
+|ha = Fasttrack
+|had = From the original English name
+|spanish = Raudo
+|spanishd = From ''raudo'', swift
+|hungarian = Gyorsjárat
+|hungariand = From ''gyors'', fast, and ''járat'', track
+|chinese = 快脚
+|chinesed = From ''快'' <small>(Kuài)</small>, fast, and ''脚'' <small>(Jiǎo)</small>, feet
+|russian = Скорость<br>Фасттрек
+|russiand = From ''скорость'', speed<br>From the original English name
+|turkish = Fasttrack
+|turkishd = From the original English name
+}}
+
+==Etymology==
+"Fast track" is an informal phrase meaning "the quickest and most direct route to achievement of a goal", as in competing for professional advancement.
+
+==Trivia==
+*Although Fasttrack did not appear in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', he was mentioned in ''[[Have I Got a Deal for You]]'', ''[[The Ultimate Heist]]'', and ''[[Breakpoint]]''.
+**There were no plans for Fasttrack to appear during the early seasons of the show.{{Refn|[[:File:Fasttrack Not Planned For Early OV Seasons.png]]|group = DJW}}
+*Fasttrack and [[Eatle]] are the only aliens introduced in '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' to have been unlocked off-screen.
+*Fasttrack's voice sounds very similar to [[Spidermonkey (Classic)|Spidermonkey]]'s.
+*Fasttrack's name was first revealed in a ''[[Ben 10: Galactic Racing]]'' press release and confirmed by [[Peter David]], who revealed the name of Fasttrack's [[Citrakayah|species]] and [[Chalybeas|home planet]] as well.{{Refn|group = PAD|name = revelation}}
+*Fasttrack was named by Peter David, albeit spelled as "Fasstrak".{{Refn|group = script|name = sa script}}
+*Fasttrack was designed by [[Steven Choi]].{{Refn|[[:File:Steven Choi Designed Fasttrack.png]]|group = TJC}}
+*Fasttrack's working names were Blustreek,{{Refn|[https://static.wikia.nocookie.net/ben10/images/4/4a/A_Knight_to_Remember_DRAFT-1.pdf A Knight to Remember First Draft]|group = script}}{{Refn|[https://static.wikia.nocookie.net/ben10/images/c/c1/TEC_Script_Outline_Second_Draft.pdf ''The Eggman Cometh'' Script Outline Second Draft]|group = outline}} Bluestreak{{Refn|[https://static.wikia.nocookie.net/ben10/images/0/04/EoMF_Script_Outline_First_Draft.pdf ''Enemy of My Frenemy'' Script Outline First Draft]|group = outline}}{{Refn|[https://static.wikia.nocookie.net/ben10/images/4/4a/A_Knight_to_Remember_DRAFT-1.pdf A Knight to Remember First Draft]|group = script}}{{Refn|[[:File:Beginning of the End OUTLINE.pdf]]|group = outline}} and SpeedFreak.{{Refn|[https://static.wikia.nocookie.net/ben10/images/3/36/Couples_Retreat_Draft-2.pdf ''Couples Retreat'' Script Second Draft]|group = script|name = script2}} Bluestreak was previously used as [[Jetray (Classic)|Jetray]]'s working name.{{Refn|[https://static.wikia.nocookie.net/ben10/images/2/23/Hero_Generation_Series_Bible.pdf Hero Generation Series Bible]|group = HG Bible|name = bible}}
+*Fasttrack was originally not supposed to appear in:
+**''[[Basic Training]]'', with Jetray taking his role.{{Refn|[https://static.wikia.nocookie.net/ben10/images/3/31/Basic_Training_Draft-1.pdf ''Basic Training'' Script First Draft]|group = script}}
+**''[[Couples Retreat]]'', with [[XLR8 (Classic)|XLR8]] taking his role.{{Refn|[https://static.wikia.nocookie.net/ben10/images/e/ef/Couples_Retreat_Draft-1.pdf ''Couples Retreat'' Script First Draft]|group = script}}
+**The dream in ''[[Night of the Living Nightmare]]''.{{Refn|[https://web.archive.org/web/20250621100125/https://dwaynemcduffie.com/wp-content/uploads/2025/06/WEBSITE-B10UA-ep317-Night-of-the-Living-Nightmare-SCRIPT-D1.pdf ''Night of the Living Nightmare First Draft'']|group = script}}
+*The reason why Fasttrack was absent in '''Omniverse''' was because the crew was unable to figure out how to make him more interesting compared to what was shown in '''Ultimate Alien'''.{{Refn|[[:File:Fasttrack Scrapped in OV Explanation.png]]|group = DJW}}
+**Had he appeared, Fasttrack would have worn clothes, similar to many other aliens.{{Refn|[[:File:OV Fasttrack Would Have Worn Clothes.png]]|group = DJW}} [[Derrick J. Wyatt]] would have had [[Dee Bradley Baker]] reprise his role, but with some feline attributes added to his voice.{{Refn|[[:File:OV Fasttrack Voice.png]]|group = DJW}}
+*Fasttrack might be able to be controlled by people who have the ability to control cats, like [[Nyancy Chan]], depending on how prevalent his feline attributes are.{{Refn|[[:File:Fasttrack Controlled By Nyancy.png]]|group = DJW}}
+*A concept idea for Fasttrack's '''Omniverse''' design depicted him with wheeled feet inspired by the Wheelers from '''''[[Wikipedia:Return to Oz|Return to Oz]]'''''. However, it was rejected because the design made him look even more similar to [[XLR8 (Classic)|XLR8]].{{Refn|[[:File:OV Fasttrack Wheelers Inspiration.png]]|group = DJW}}
+**Derrick eventually drew a version of Fasttrack in the '''Omniverse''' art style, as well as an alternate version depicting him with sunglasses similar to [[Bullfrag]]'s, as part of a GoFundMe in 2021.{{Refn|https://www.gofundme.com/f/derrick-j-wyatt-draws-ov-fasttrack--more|group = DJW}} The alternate design was made after Derrick received several fan requests regarding Fasttrack wearing sunglasses.{{Refn|[[:File:OV Fasttrack Sunglasses Requested By Fans.png]]|group = DJW}}
+**According to him, the Omnitrix was positioned on his chest because if it were on his belt, the symbol would need to be much smaller than normal and would still cover the end of the lightning bolt printed on his clothing.{{Refn|https://archive.vn/YRosu|group = DJW|name = DJW}}
+**Derrick gave him a longer torso and thinner limbs, as he thought it would make him look more feline.{{Refn|group = DJW|name = DJW}}
+**A version of him was also made with glasses similar to Bullfrag's. Derrick jokingly explained that Fasttrack wears running glasses because he doesn't want people to think he was crying when he shows up after a run, since the high speed combined with the exposure to the wind would make him tear up.{{Refn|group = DJW|name = DJW}}
+*[[Matt Wayne]] speculates that Fasttrack is physically stronger than XLR8, stating that "Fasttrack can probably lift more".{{Refn|[[:File:Fasttrack Physically Stronger Than XLR8.PNG]]|group = MW}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====Scripts====
+{{Reflist|group = script}}
+====Script Outlines====
+{{Reflist|group = outline}}
+====Hero Generation Series Bible====
+{{Reflist|group = HG Bible}}
+===Crew Statements===
+====[[Peter David]]====
+{{Reflist|group = PAD}}
+====[[T.J. Collins]]====
+{{Reflist|group = TJC}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Matt Wayne]]====
+{{Reflist|group = MW}}
+===[[:Category:Games|Games]]===
+====[[Ben 10: Galactic Racing]]====
+{{Reflist|group = GR}}
+===[[Merchandise]]===
+====[[DVDs]]====
+{{Reflist|group = DVD}}
+
+{{Ben 10 Aliens}}
+
+[[bg:Скорострел]]
+[[de:Sturmjäger]]
+[[es:Fasttrack]]
+[[fr:Accelerator]]
+[[it:Scatto Felino]]
+[[pl:Raptus]]
+[[pt-br:Acelerado]]
+[[ro:Iureşul]]
+[[ru:Скорость]]
+[[tr:Fasttrack]]
+
+[[Category:Aliens]]
+[[Category:Transformations]]
+[[Category:Ultimate Alien Transformations]]
+[[Category:Albedo's Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]

@@ -1,0 +1,141 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 555DCC
+|textcolor = A7DBE2
+|name = Pesky Dust
+|image = Pesky Dust 2.png
+|species = [[Nemuina]]
+|home-planet = [[Nemunimos IV]]
+|power = Hypno-Koniokinesis<br>Oneirokinesis<br>Dream Observation<br>Flight
+|voice = [[Yuri Lowenthal]] <small>(''[[Outbreak]]'')</small><br>[[Tara Strong]]
+|1st-appearance = Outbreak
+|Alternate Counterparts = [[Nighty Knight]]}}
+{{quote|But let's do this in your dreams.|Pesky Dust before putting [[Charles Zenith]] to sleep.<ref name="TMDGS">''[[The Most Dangerous Game Show]]''</ref>}}
+'''Pesky Dust''' is the [[Omnitrix]]'s DNA sample of a [[Nemuina]] from the planet [[Nemunimos IV]].
+
+==Appearance==
+Pesky Dust is a short, [[Wikipedia:Fairy|fairy]]-like alien with blue skin. He has purple fairy-like wings, pink spots and blue hair that sticks straight up. Pesky Dust wears a green dress-like outfit with black zigzags, the bottommost one of which is slightly asymmetrical. His hands have three fingers with white gloves on them and his feet have two toes. His eyes are green with feminine eyelines and has pink markings on his cheeks and chin.
+
+Pesky Dust wears the [[Omnitrix (Omniverse)|Omnitrix]] symbol on his chest.
+
+==Powers and Abilities==
+<gallery type="slideshow">
+FaFBM (460).png|Sleep Dust Manipulation
+FaFBM (477).png|Oneirokinesis
+FaFBM (472).png|Dream Observation
+MDGS (716).png|Flight
+</gallery>
+Pesky Dust can release a special kind of dust that makes his victims fall asleep, which works on nearly every known species,{{Refn|[[:File:Gutrot Immune To Pesky Dust.PNG]]|group = DJW|name=gutrot}} including [[Celestialsapien (Classic)|Celestialsapiens]].{{Refn|[[:File:Celestialsapiens Sleeping Dust.PNG]]|group = DJW}}
+
+Under the effects of this dust,{{Refn|[[:File:Nemuina Victims Must Be Dusted.PNG]]|group = DJW}} Pesky Dust can enter, examine, and even manipulate the dreams of any number of beings simultaneously,{{Refn|[[:File:Pesky Dust Multi-Sleep.png]]|group = DJW}} which can be used as a form of interrogation or extracting information from a victim.<ref name="FaFBM">''[[For a Few Brains More]]''</ref> He can even cause them to have nightmares.<ref name="TMDGS" />
+
+Pesky Dust is capable of flight thanks to his fairy-like wings. He can also leave behind a green trail{{Refn|Alternate versions of Pesky Dust are shown leaving trails in different colors. For example, [[Nighty Knight]]'s trail is colored blue.<ref name="IaMBW1">''[[It's a Mad, Mad, Mad Ben World: Part 1]]''</ref>|group = note}} while flying.
+
+==Weaknesses==
+The effects of Pesky Dust's sleeping dust is temporary. Meaning, even if Pesky Dust were to douse a victim with a large amount of sleeping dust, they would not fall asleep forever, they would have to be continuously exposed to it to stay asleep over an extended period of time.{{Refn|[[:File:Nemuina Eternal Sleep.png]]|group = DJW}}
+
+There are certain beings Pesky Dust is unable to make fall asleep, such as [[Gutrot]]'s [[Gutrot's Species|species]], and his natural predator,{{Refn|group = DJW|name=gutrot}}{{Refn|[[:File:Nemuina Predator Proof.png]]|group = DJW}} who have a small secondary brain cluster which allows it to continue hunting even when the primary brain is asleep.{{Refn|[[:File:Nemuina Predator Powers.png]]|group = DJW}}
+
+Pesky Dust can still be affected by the abilities of other [[Nemuina]]s.{{Refn|[[:File:Nemuina Not Immune To Each Other.PNG]]|group = DJW}}
+
+==History==
+===Omniverse===
+*Pesky Dust first appeared in ''[[Outbreak]]'', where he was accidentally unlocked by [[Driba]] and [[Blukic]] when they tried to fix the malfunctioning [[Omnitrix (Omniverse)|Omnitrix]] before they switched him into [[Mole-Stache]].
+*In ''[[For a Few Brains More]]'', Pesky Dust put [[Khyber]] to sleep before entering his dream to find out where [[Albedo]] was taking [[Azmuth (Classic)|Azmuth]]'s brain.
+*In ''[[The Most Dangerous Game Show]]'', Pesky Dust defeated [[Charles Zenith]].
+*In ''[[A New Dawn]]'', Pesky Dust appeared for a short time when [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+==Appearances==
+===Omniverse===
+====Season 2====
+*''[[Outbreak]]'' <small>(first appearance)</small>
+====Season 4====
+*''[[For a Few Brains More]]'' <small>(selected alien was [[Way Big (Classic)|Way Big]])</small>
+====Season 8====
+*''[[The Most Dangerous Game Show]]''
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+===The Unfiltered World of Any Malu===
+====Season 1====
+*''Prova Surpresa''
+
+===Comics===
+====Super Secret Crisis War!====
+*''[[Super Secret Crisis War! Issue 4|Issue 4]]'' <small>(x2; second time was by Ben Doppelganger Robots)</small>
+
+==Crossovers==
+[[File:RBPeskyDustFly.png|thumb]]
+===The (Unfiltered) World of Any Malu===
+Pesky Dust made a short cameo in ''Surprise Test'' (locally ''Prova Surpresa''). He was used by [[Ben Tennyson (Reboot)|Reboot Ben]].
+
+==Comics==
+===Super Secret Crisis War!===
+*In ''[[Super Secret Crisis War! Issue 4|Issue 4]]'', Pesky Dust tricked [[Ben Doppelganger Robot]]s by transforming into him, before switching to [[Crashhopper]].
+
+==Naming and Translations==
+{{Translation
+|ha = Molestolvo
+|had = From ''molesto'', pesky, and ''polvo'', dust
+|portuguesebr = Pesky Dust
+|portuguesebrd = From the original English name
+|greek = Ενοχλητικόσκονη
+|greekd = From ''ενοχλητικός'', pesky, and ''σκόνη'', dust
+|chinese = 粉尘仙子
+|chinesed = From ''粉尘'' <small>(Fěn Chén)</small>, dust, and ''仙子'' <small>(Xiān Zǐ)</small>, fairy
+|italian = Polvere Fastidiosa
+|italiand = From ''polvere'', dust, and ''fastidiosa'', pesky
+|polish = Chochlik
+|polishd = From ''chochlik'', pixie
+|bulgarian = Пески Дъст
+|bulgariand = From the original English name
+|german = Elferich<br>Nervenstaub
+|germand = From ''Elferich'', dated term for a male elf<br>From ''nerven'', to annoy or nerves, and ''staub'', dust
+|russian = Эльфина <br>Фея Зануда
+|russiand = From ''эльф'', elf<br>From ''фея'', fairy, and ''зануда'', wimp
+|romanian = Pesky Dust
+|romaniand = From the original English name
+|french = Casse Pied
+|frenchd = From ''casse'', broken, and ''pied'', foot}}
+
+==Etymology==
+Pesky Dust's name is a play on the words "pesky" and "pixie dust". 
+
+==Trivia==
+*The design for Pesky Dust came from [[Lillimusha DiForestini]], drawn by [[Steven Choi]] or [[Chap Yaep]]. Meanwhile, [[Derrick J. Wyatt]] came up with his name.{{Refn|[[:File:Steven and Chap Came Up With Outbreak Aliens.png]]|group = DJW}}
+*Pesky Dust's appearance is similar to that of [[Wikipedia:Tinker Bell|Tinker Bell]]'s from ''[[Wikipedia:Peter Pan|Peter Pan]]''.
+*[[Derrick J. Wyatt]] compared Pesky Dust's powers to those of [[bulbapedia:Jigglypuff (Pokémon)|Jigglypuff]] from Pokémon, notable for putting foes to sleep with the move Sing.{{Refn|[[:File:Pesky Dust Powers Inspired by Jigglypuff.png]]|group = DJW}}
+*Pesky Dust is one of four aliens unlocked by [[Driba]] and [[Blukic]]; the other three being [[Walkatrout]], [[Mole-Stache]], and [[The Worst]].<ref name="Outbreak">''[[Outbreak]]''</ref>
+*In his first appearance, Pesky Dust shared the same voice as Ben due to the Omnitrix malfunctioning. The out-of-universe reason was because the crew originally did not envision him as a usable alien for later episodes.{{Refn|[[:File:Outbreak Alien Voices Explaination.png]]|group = DJW}}
+**Pesky Dust's voice was eventually changed to a high-pitched, trilling, feminine voice in ''For a Few Brains More'' because the crew liked how he turned out.{{Refn|[[:File:Outbreak Alien Voices Changed.png]]|group = DJW}}
+**As such, he is the only transformation besides [[Upgrade (Classic)|Upgrade]] to share the same voice actors as both versions of Ben Prime.
+*[[Khyber]] is afraid of Nemuinas like Pesky Dust<ref name="FaFBM" /> and considers the dream he was entrapped in during ''For a Few Brains More'' to be his worst nightmare.{{Refn|[[:File:Khyber's Worst Nightmare.png]]|group = DJW}}
+**While [[Kai Green|Kai]] thinks Pesky Dust is cute, [[Ben Tennyson (Classic)|Ben]] considers his Pesky Dust dangerous and considers "nobody to mess with".<ref name="TMDGS" />
+**Ben prefers Pesky Dust to Mole-Stache.<ref name="IaMBW1"/>
+*Similar to [[Astrodactyl]], Pesky Dust makes a sound when he talks. This sound is like a trill, chirp, whistle, or purr.
+*[[Albedo]] is unable to transform into Pesky Dust.{{Refn|[[:File:Albedo Does Not Have Outbreak Aliens.png]]|group = DJW}}
+**Despite this, [[Derrick J. Wyatt]] drew some art of Negative Pesky Dust in 2020, which can be found in the [[Pesky Dust/Gallery|gallery]].{{Refn|[[:File:Negative Pesky Dust Proof.png]]|group = DJW}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+{{Ben 10 Aliens}}
+{{Reboot Aliens}}
+[[bg:Pesky Dust]]
+[[de:Elferich_/_Nervenstaub]]
+[[es:Molestolvo]]
+[[fr:Casse Pied]]
+[[it:Polvere fastidiosa]]
+[[pl:Chochlik]]
+[[pt-br:Pesky Dust]]
+[[ro:Pesky Dust]]
+[[ru:Эльфина]]
+[[Category:Transformations]]
+[[Category:Aliens]]
+[[Category:Omniverse Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]

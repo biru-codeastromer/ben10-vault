@@ -1,0 +1,98 @@
+{
+  "id": "atomix",
+  "name": "Atomix",
+  "wikiTitle": "Atomix",
+  "kind": "standard",
+  "species": "Unknown",
+  "homeworld": "Unknown",
+  "bodyType": "Robotic Humanoid",
+  "debut": {
+    "episode": "For a Few Brains More",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Nucleokinesis - generates nuclear energy from his hands; the 'Nuclear Winner' blast knocks out enemies and devastates the surrounding area",
+    "Nuclear energy beams and radiokinesis (can even reproduce gamma radiation)",
+    "Ergokinesis / heat - activates arm cylinders and chest core to melt objects such as Ultimate Arachnachimp webbing",
+    "Photokinesis - 'Fusion Cuisine' orb of nuclear light that burns Ectonurites and badly harms Vladats, can persist after he reverts, and could theoretically be grown to the size of a sun",
+    "Flight via jet feet; 'Fissile Whistle' flying ram attack",
+    "Immense strength - one punch took out an Ultimate Vaxasaurian; kicked an object nearly out of a planet's atmosphere",
+    "Hard, durable body (substantial protection from physical attacks)",
+    "Focus chant ('HAA-MEE-NA HAA-MEE-NA...') substantially boosts attack power",
+    "Glows in the dark"
+  ],
+  "weaknesses": [
+    "Limited stamina - runs out of energy after heavy use and becomes exhausted (Malgax Attacks)",
+    "Boundlessly overconfident and can trigger a total meltdown",
+    "Cannot transmute matter"
+  ],
+  "summary": "A theatrical green-and-white nuclear knight who chants up atomic energy for planet-shaking punches, sun-bright light orbs and city-flattening blasts - Ben's second most powerful alien after Alien X.",
+  "traits": [
+    "Adopts a formal, anime-hero persona and names his attacks (Nuclear Winner, Fissile Whistle, Fusion Cuisine)",
+    "Chant based on Goku's Kamehameha (also sounds like Ralph Kramden's 'homina homina')",
+    "Mouthless; Galvan-style symbol on his chest does not imply Galvan ties",
+    "First mentioned in the OS episode Ken 10 as one of Ben 10,000's aliens",
+    "Accidentally unlocked and named by Azmuth"
+  ],
+  "notableFeats": [
+    "Defeated Negative Ultimate Humungousaur with a single punch and Negative Ultimate Spidermonkey with the Nuclear Winner (For a Few Brains More)",
+    "Kicked an object almost out of Galvan Prime's atmosphere (For a Few Brains More)",
+    "Burned up Zs'Skayr and badly hurt Lord Transyl with a Fusion Cuisine light orb, leaving it active as a permanent ward over Z'Castle Zs'Skayr (The Vampire Strikes Back)",
+    "Broke into the Rooters' headquarters (Weapon XI: Part 1)",
+    "Fought Malgax until his stamina ran out (Malgax Attacks)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "For a Few Brains More",
+      "notableEpisodes": [
+        "For a Few Brains More",
+        "The Vampire Strikes Back",
+        "Malgax Attacks"
+      ],
+      "designNotes": "Green-and-white robotic humanoid, large arm cylinders near the wrists filled with bubbling green energy, matching energy in his Omnitrix-shaped chest core and pointed armoured helmet, green eyes, no mouth; Omnitrix symbol on green/white belt.",
+      "image": {
+        "file": "OmniverseAtomix.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (transparent) but small at 271x408; 'Atomix official.png' (291x419) is the same art on a blue background. 'Atomix_Prototype.png' (1823x2997) is concept art, not the final design."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 8,
+    "durability": 8,
+    "speed": 6,
+    "mobility": 6,
+    "offense": 9,
+    "defense": 6,
+    "special": 8,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 9,
+    "regeneration": 1,
+    "survivability": 6,
+    "range": 7,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 1,
+    "rationale": "Offense 9 and energy 9: one-punched Ultimate Humungousaur, flattened Ultimate Spidermonkey with the Nuclear Winner, and his Fusion Cuisine burned an Ectonurite out of existence with a light orb that could scale to a star. Durability 8 with a hard body that took Malgax's hits, plus flight. Raw nuclear power rather than reality-bending (cosmic 0), he tires after sustained output, his overconfidence risks a meltdown, and Malgax outlasted him - so he sits below Ultimate Way Big and Alien X."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Atomix"
+  ],
+  "notes": [
+    "Derrick J. Wyatt calls Atomix Ben's second most powerful alien after Alien X and says his powers are largely unexplored.",
+    "OS: only mentioned in Ken 10 (Ben 10,000's roster; Ken wanted him) - no OS transformation, so no OS appearance despite the wiki category 'Ben 10,000's Transformations'.",
+    "The Omniverse Ben 10,000 used the Biomnitrix fusion Atomic-X (Atomix + Alien X) - separate record atomic-x.json.",
+    "Weapon XI: Part 1 use is an off-screen activation/cameo. Comics (Super Secret Crisis War!, The Worm That Turned) not counted.",
+    "A hypothetical Ultimate Atomix would need a containment suit like NRG's (Derrick J. Wyatt)."
+  ]
+}

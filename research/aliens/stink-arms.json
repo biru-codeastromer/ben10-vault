@@ -1,0 +1,87 @@
+{
+  "id": "stink-arms",
+  "name": "Stink Arms",
+  "wikiTitle": "Stink Arms",
+  "kind": "fusion",
+  "species": "Tetramand/Lepidopterran hybrid",
+  "homeworld": "",
+  "bodyType": "Four-armed humanoid with insect wings and eyestalks",
+  "debut": {
+    "episode": "Dr. Animo and the Mutant Ray",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [
+    "four-arms",
+    "stinkfly"
+  ],
+  "abilities": [
+    "Enhanced strength (swatted the Mutant Frog with a metal alligator statue)",
+    "Limited flight/hover for short bursts",
+    "Sharp Stinkfly tail",
+    "360-degree vision via eyestalks",
+    "Enhanced durability",
+    "Enhanced jumping and reflexes"
+  ],
+  "weaknesses": [
+    "Too heavy to fly properly - only hovers and makes small hops",
+    "Weaker than pure Four Arms (couldn't hold the Mutant Frog up for long)"
+  ],
+  "summary": "The first-ever Omnitrix fusion: Four Arms' body wearing Stinkfly's eyestalks, wings and tail, created when Dr. Animo's mutant ray scrambled the watch.",
+  "traits": [
+    "First combination alien in the franchise",
+    "Speaks with Stinkfly's voice",
+    "Omnitrix on his face like Stinkfly",
+    "Designed by Thomas N. Perkins IV"
+  ],
+  "notableFeats": [
+    "Battled Dr. Animo's Mutant Frog and sent it flying (Dr. Animo and the Mutant Ray)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Dr. Animo and the Mutant Ray",
+      "notableEpisodes": [
+        "Dr. Animo and the Mutant Ray"
+      ],
+      "designNotes": "Four Arms' red four-armed body with Stinkfly's four eyestalks, wings and stinger tail; shirt based on Stinkfly's suit with Four Arms' pants; Omnitrix on the face/forehead.",
+      "image": {
+        "file": "SA.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": "Only infobox image (unlabelled); OS render."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 6,
+    "speed": 4,
+    "mobility": 5,
+    "offense": 6,
+    "defense": 4,
+    "special": 3,
+    "versatility": 4,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 4,
+    "range": 2,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "A weaker Four Arms with a hint of Stinkfly: still strong enough to hurl a mutant frog, but he cannot really fly and lost some of the Tetramand muscle."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Stink_Arms"
+  ],
+  "notes": [
+    "Fusion of Four Arms + Stinkfly (componentIds); one-episode OS accident.",
+    "Also appears in the Reboot-era online game DNA Lab - out of scope."
+  ]
+}

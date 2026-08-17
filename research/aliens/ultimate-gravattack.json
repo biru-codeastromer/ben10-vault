@@ -1,0 +1,69 @@
+{
+  "id": "ultimate-gravattack",
+  "name": "Ultimate Gravattack",
+  "wikiTitle": "Ultimate Gravattack",
+  "kind": "ultimate",
+  "species": "Ultimate Galilean",
+  "homeworld": "",
+  "bodyType": "Legless floating planetoid",
+  "debut": {
+    "episode": "For a Few Brains More",
+    "series": "ov",
+    "usedBy": "albedo"
+  },
+  "baseFormId": "gravattack",
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Gravikinesis: alter the weight and motion of objects or slam them down",
+    "Orbitakinesis: make matter and energy orbit around him",
+    "Self-gravity manipulation for levitation/flight",
+    "Three sentient orbiting planetoids, each with its own gravikinesis",
+    "Enhanced strength and rock-hard durability",
+    "Potential to control whole celestial bodies (crew statement)"
+  ],
+  "weaknesses": [
+    "Large size makes small spaces difficult",
+    "Has no legs - must levitate via gravikinesis to move at all"
+  ],
+  "summary": "Albedo's evolved Galilean: a legless, jagged-crusted planetoid with its core in its mouth and three small living moons in orbit, wielding stronger gravity control than Gravattack.",
+  "traits": [
+    "Only ever used by Albedo",
+    "Three orbiting planetoids with faces (Koffing lookalikes)",
+    "Voiced by David Kaye"
+  ],
+  "notableFeats": [
+    "Trapped Ben in his gravity field, spinning him helplessly, and recovered Azmuth's brain (For a Few Brains More)"
+  ],
+  "appearances": [],
+  "scoring": {
+    "strength": 7,
+    "durability": 8,
+    "speed": 4,
+    "mobility": 6,
+    "offense": 7,
+    "defense": 7,
+    "special": 8,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 5,
+    "regeneration": 0,
+    "survivability": 7,
+    "range": 7,
+    "cosmic": 2,
+    "weaknessPenalty": 1,
+    "controlPenalty": 1,
+    "rationale": "Gravity control that spun Ben helplessly, orbiting mini-planetoids that each wield gravikinesis, and a rock body - a strong special/defense package with respectable range and modest space-warping flavour. One episode only, immobile without self-levitation and too big for interiors."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Gravattack",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "ALBEDO-ONLY: this form was used exclusively by Albedo via his stabilizer Ultimatrix in Omniverse (red eyes/red symbol, direct transformation without passing through the base form). No version of Ben ever used it, so 'appearances' is intentionally empty and it should be excluded from the wall while the record is kept.",
+    "Single appearance: 'For a Few Brains More' (OV S4).",
+    "Infobox image 'Ultimate Gravattack art.PNG' is Albedo's version (only art available).",
+    "Cosmic dimension given a low value for gravity/orbit manipulation; the 'control celestial bodies' claim is a Charlotte McDuffie statement, not an on-screen feat.",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

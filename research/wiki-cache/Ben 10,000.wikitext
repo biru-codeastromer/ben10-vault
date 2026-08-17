@@ -1,0 +1,29 @@
+{{DisambigNew
+|intro='''Ben 10,000''' is [[Ben Tennyson]]'s future self.
+|backcolor = #CFE7D6
+|textcolor = #299528
+|bordercolor = #4c4c4c
+|OGtotalwidth=75%
+|OG1=Original
+|OG2=Ultimate Alien
+|OG3=Episode
+|OGimage1=Ben 10k ov render.png
+|OGimage2=Ben 10,000 ua.png
+|OGimage3=B10Mil (617).png
+|RBtotalwidth=25%
+|RBimage=Ben 10k Jacket Stand.png
+}}
+__DISAMBIG__
+[[Category:Disambiguations]]
+[[Category:Characters]]
+[[Category:Heroes]]
+[[Category:Male Heroes]]
+[[Category:Human Males]]
+[[Category:Future Characters]]
+[[Category:Males]]
+[[Category:Omnitrix Wielders]]
+[[Category:Alternate Versions of Ben Tennyson]]
+[[Category:Humans]]
+[[Category:Tennyson Family]]
+[[Category:Alternate Timelines]]
+[[Category:Alternate Timeline Characters]]

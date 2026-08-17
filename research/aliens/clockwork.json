@@ -1,0 +1,121 @@
+{
+  "id": "clockwork",
+  "name": "Clockwork",
+  "wikiTitle": "Clockwork",
+  "kind": "standard",
+  "species": "Chronosapien",
+  "homeworld": "Unknown",
+  "bodyType": "Robotic (steampunk clockwork)",
+  "debut": {
+    "episode": "Catch a Falling Star",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Chronokinesis - slows, speeds up, freezes and reverses time",
+    "Time rays from hands/chest: age people or objects up or down, send targets to other times/timelines, freeze individuals",
+    "Time travel (Chronoportation)",
+    "Retrocognitive holographic projections by winding his head key",
+    "Reversed a Chronosapien Time Bomb (No Watch Ben)",
+    "Enhanced strength and durability; keeps working with parts missing",
+    "360-degree rotating head",
+    "Can be upgraded by a Galvanic Mechamorph (Techno-Bubble)"
+  ],
+  "weaknesses": [
+    "Powers useless where time does not exist (before the universe)",
+    "Aging rays do nothing to diamond/Petrosapiens",
+    "Disabled by large electromagnetic pulses (solar flares)",
+    "Every use ripples the timestream (Sotobro effect), detectable by other Chronosapiens",
+    "Bulky, slow, tires quickly, poor at dodging",
+    "Cannot travel between dimensions; can be magnetised"
+  ],
+  "summary": "A golden steampunk robot with a wind-up key who controls time itself - slowing foes, aging things away, or rewinding events - unlocked for Ben by Ben 10,000.",
+  "traits": [
+    "Unlocked by Ben 10,000 (Ben 10,000 Returns)",
+    "German accent",
+    "'Steampunk robot made by an insane watchmaker'",
+    "Ben 23 calls him Windy-Hindy"
+  ],
+  "notableFeats": [
+    "Disarmed Captain Nemesis with time rays (Catch a Falling Star)",
+    "Located the Flame Keepers' Circle by viewing the past (The Beginning of the End)",
+    "Helped fix the timestream and defeat Eon across both Ben bodies (Ben Again)",
+    "Beat a Squid Monster by slowing time (Bengeance is Mine)",
+    "Defeated Mad Diamondhead, Exo-Skull and Subdora with Techno-Bubble's upgrade (It's a Mad, Mad, Mad Ben World: Part 1)",
+    "No Watch Ben used him to reverse the Chronosapien Time Bomb (And Then There Was Ben)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Catch a Falling Star",
+      "notableEpisodes": [
+        "Catch a Falling Star",
+        "The Eggman Cometh",
+        "The Beginning of the End"
+      ],
+      "designNotes": "Golden metal body with black stripes, wind-up key on head, blank face, transparent green chest window showing gears; Ultimatrix symbol on chest. First on-screen use was by Gwen (Inspector 13); Ben's first is Catch a Falling Star.",
+      "image": {
+        "file": "Clockwork.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "infobox UA render"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "A Jolt From the Past",
+      "notableEpisodes": [
+        "A Jolt From the Past",
+        "Ben Again",
+        "Bengeance is Mine",
+        "It's a Mad, Mad, Mad Ben World: Part 1",
+        "It's a Mad, Mad, Mad Ben World: Part 2"
+      ],
+      "designNotes": "16-year-old: larger body, holed key on a restructured head, back stripe splitting around a keyhole; Omnitrix on chest. 11-year-old Clockwork (Ben Again): thinner rounder head, smiley face, white/black shirt, round chest window, slightly different colours and gears; original Omnitrix on chest.",
+      "image": {
+        "file": "20229.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render (16-year-old design; file redirects to Clocky.png)"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 6,
+    "speed": 5,
+    "mobility": 3,
+    "offense": 6,
+    "defense": 6,
+    "special": 8,
+    "versatility": 7,
+    "intellect": 4,
+    "energy": 5,
+    "regeneration": 2,
+    "survivability": 5,
+    "range": 7,
+    "cosmic": 7,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Time manipulation is a fight-ending signature power (special 8, cosmic 7): slowing time to beat monsters, aging enemies, rewinding events and even undoing a Chronosapien Time Bomb. Slow, tires quickly, is a big target and gets knocked around by physical brawlers like Looma."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Clockwork"
+  ],
+  "notes": [
+    "Clockwork was unlocked in Ben 10,000 Returns and first transformed into by Gwen (Inspector 13); Ben's first on-screen use is Catch a Falling Star, which is used as debut. Ben also used him off-screen before Inspector 13 per the wiki.",
+    "OV usedBy includes ben-11-ov for Ben Again, where the 11-year-old body (with 16-year-old Ben's mind) became 11-year-old Clockwork; also used by No Watch Ben (And Then There Was Ben) - not counted.",
+    "Ultimate Ben used Clockwork's time rays in Ben 10,000 Returns (powers only).",
+    "UA wearer: Ultimatrix; OV: new Omnitrix (11-year-old version wore the original Omnitrix)."
+  ]
+}

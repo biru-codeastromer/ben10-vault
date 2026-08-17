@@ -1,0 +1,114 @@
+{
+  "id": "buzzshock",
+  "name": "Buzzshock",
+  "wikiTitle": "Buzzshock (Classic)",
+  "kind": "standard",
+  "species": "Nosedeenian",
+  "homeworld": "Nosideen",
+  "bodyType": "Humanoid battery",
+  "debut": {
+    "episode": "Ben 10,000",
+    "series": "os",
+    "usedBy": "ben-10k-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Bio-electrokinesis - stores and fires massive electrical discharges",
+    "Absorbs external electricity (drains a city block in seconds)",
+    "Self-electromorphosis: turns into living electricity and travels through wires/pipes",
+    "Possesses and controls or fries electrical devices",
+    "Self-duplication when charged or bisected",
+    "Flight and levitation",
+    "Electricity immunity",
+    "Regeneration",
+    "Sonic scream",
+    "Surprising strength for his size"
+  ],
+  "weaknesses": [
+    "Rubber insulation stops him",
+    "Can be trapped in non-conductive containers (glass)",
+    "Energy can be drained (Conductoids); no charge means he falls asleep",
+    "Small size is a liability against big brawlers like Phil"
+  ],
+  "summary": "A hyperactive living battery: a small black Nosedeenian who zaps, absorbs, rides power lines as pure electricity and multiplies when charged.",
+  "traits": [
+    "Same species as the Megawhatts from Tourist Trap",
+    "Vitality tracks his charge - hyper when full, sleepy when empty",
+    "OV design has a battery cap on his head with the Omnitrix on it"
+  ],
+  "notableFeats": [
+    "Defeated Dr. Animo (Ben 10,000)",
+    "Recharged a Null Void Projector to send Phil back to the Null Void (Max's Monster)",
+    "Defeated SixSix (Cough It Up)",
+    "Battled Liam and Suemungousaur (The Color of Monkey)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10k-os"
+      ],
+      "firstEpisode": "Ben 10,000",
+      "notableEpisodes": [
+        "Ben 10,000",
+        "Ken 10"
+      ],
+      "designNotes": "Black rounded battery body, green eyes, white lightning-bolt stripe front and back, +/- symbols on the back, hole on the head that vents electricity, Omnitrix on the chest.",
+      "image": {
+        "file": "Buzzshock_Model_Front.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Max's Monster",
+      "notableEpisodes": [
+        "Max's Monster",
+        "Cough It Up",
+        "Rook Tales",
+        "The Color of Monkey"
+      ],
+      "designNotes": "Two bolts on each arm, lightning stripe recolored green, proper light-green battery cap on the head with the Omnitrix on top, more prominent chin, almond-shaped eyes.",
+      "image": {
+        "file": "Buzzshock official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 3,
+    "durability": 4,
+    "speed": 7,
+    "mobility": 6,
+    "offense": 6,
+    "defense": 5,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 3,
+    "energy": 7,
+    "regeneration": 4,
+    "survivability": 5,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Strong electrical offense and near-omni-mobility as living current through any wire, plus tech possession and duplication; but small, easily insulated or bottled, and switched off when drained."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Buzzshock_(Classic)"
+  ],
+  "notes": [
+    "OS use is by Ben 10,000 only (present-day Ben's first use is OV's Max's Monster). Not used in AF/UA (UA intro only).",
+    "Also used by Ken (Ken 10) and Bad Ben (And Then There Was Ben) - not counted.",
+    "Editorial score calibration (principal pass): mobility 8→6, special 7→6, energy 8→7, regeneration 6→4 — to keep the roster ladder consistent across research batches."
+  ]
+}

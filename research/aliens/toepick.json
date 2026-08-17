@@ -1,0 +1,91 @@
+{
+  "id": "toepick",
+  "name": "Toepick",
+  "wikiTitle": "Toepick",
+  "kind": "standard",
+  "species": "Unknown",
+  "homeworld": "Unknown",
+  "bodyType": "Ogre",
+  "debut": {
+    "episode": "Special Delivery",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Nightmarish face - opening his cage helmet reveals an eldritch face that taps primal fears, driving almost any being to terror, insanity or nausea (even Celestialsapien personalities)",
+    "Fear works even second-hand: photographs of his face come out blurry but still unsettle viewers",
+    "Containment helmet is extremely difficult to damage",
+    "Enhanced strength - can lift a car",
+    "Immune to nightmarish sights (multiphasic eyesight filters out unknowable horrors), so he can look at himself and his own kind"
+  ],
+  "weaknesses": [
+    "Some beings are unaffected: Ma Vreedle ('seen worse'), Dagon, and Professor Paradox (who can perceive the face clearly)",
+    "Worse-than-mediocre eyesight",
+    "One-trick alien - the face is his only real weapon and it does nothing to the blind"
+  ],
+  "summary": "A hulking greenish-yellow ogre with a locked cage on his head; open the cage and whatever is inside scares nearly anything in the universe into submission.",
+  "traits": [
+    "Ben's scariest alien and his second-least favourite (after The Worst)",
+    "First mentioned in the OS episode Ken 10 - Ken refused to use him and swapped him for Grey Matter",
+    "Face inspired by H.P. Lovecraft; design inspired by an Autry Museum art piece",
+    "Screams, wails, hisses and demonic laughter play whenever the cage opens",
+    "Replaced Way Big in the OV intro from Arc 4 onward"
+  ],
+  "notableFeats": [
+    "Terrified a Dwarf Star-powered Psyphon into begging (Special Delivery)",
+    "Scared Zombozo into wrecking his own machine, freeing the zombie clowns (Something Zombozo This Way Comes)",
+    "Frightened Psyphon and Argit so badly Argit vomited up the dehydrated Techadon Army Cube (Cough It Up)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Special Delivery",
+      "notableEpisodes": [
+        "Special Delivery",
+        "Something Zombozo This Way Comes",
+        "Cough It Up"
+      ],
+      "designNotes": "Greenish-yellow ogre with long misshapen spiky arms and pointy fingers, black briefs with a metal green waistband, chains linking waist and chest armour, dark-green metal cage helmet with two horns and a toenail-shaped crest through whose bars glowing green eyes show; Omnitrix symbol on the helmet's chest extension.",
+      "image": {
+        "file": "Toepick art.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (432x585, transparent, helmet closed). 'Toepick Face Model.png' shows the tentacled face model made for Bandai."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 4,
+    "durability": 4,
+    "speed": 2,
+    "mobility": 2,
+    "offense": 3,
+    "defense": 4,
+    "special": 7,
+    "versatility": 2,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 1,
+    "survivability": 3,
+    "range": 3,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Special 7: the fear face ended fights against a Dwarf-Star-powered Psyphon and Zombozo instantly and works on almost anything, Celestialsapiens included. Everything else is weak - slow, ordinary strength, poor eyesight, no other attacks - and a handful of beings simply shrug the face off."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Toepick"
+  ],
+  "notes": [
+    "OS: only mentioned by Ben 10,000 in Ken 10 as an alien in Ken's replica Omnitrix - never transformed into, so no OS appearance despite the wiki category 'Ben 10,000's Transformations'.",
+    "Never locked in the Omnitrix; Ben already knew how to use him in Special Delivery (Derrick J. Wyatt).",
+    "Ben 23's 'Fright Face' was revealed by Derrick after the show and is treated as non-canon by the wiki. A hypothetical Ultimate Toepick would radiate fear.",
+    "Special Delivery use is non-speaking; Something Zombozo This Way Comes was an unintentional transformation."
+  ]
+}

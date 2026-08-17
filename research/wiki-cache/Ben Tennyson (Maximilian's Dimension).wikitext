@@ -1,0 +1,84 @@
+{{Alternate Timeline Reboot|main=Ben Tennyson (Reboot)}}
+{{Disambig|main=Ben Tennyson}}
+{{Charbox
+|backcolor = 2BB04A
+|textcolor = 000000
+|image = OV Alternate Ben.png
+|name = Ben Tennyson
+|species = [[Human (Reboot)|Human]]
+|residence = [[Bellwood (Reboot)|Bellwood]], USA <small>([[Maximilian's Dimension]])</small>
+|age = 16
+|status = Deceased
+|voice = [[Yuri Lowenthal]]
+|first = Alien X-Tinction
+|occupation = Hero<br>Student
+|relative = [[Maximilian Tennyson]] <small>(grandfather)</small><br>Gwen Tennyson <small>(cousin; deceased)</small><ref>[[Maximilian Tennyson]]</ref><ref name="AXT">''[[Alien X-Tinction]]''</ref>
+|equipment = [[Omnitrix (Reboot)|Omnitrix]] <small>(formerly)</small><br>[[Omnitrix Key]] <small>(formerly)</small>
+|Alternate Counterparts = {{Scroll|[[Ben Tennyson (Reboot)|Ben Tennyson]] <small>([[Dimension 27998.3]])</small><br>[[Ben 10,000 (Reboot)|Ben Tennyson]] <small>([[Reboot Future Timeline|Reboot Future Timeline]])</small><br>[[Ben Tennyson (Dimension 12041.5)|Ben Tennyson]] <small>([[Dimension 12041.5]])</small><br>[[Ben Tennyson (Alien Force Homage Dimension)|Ben Tennyson]] <small>(Alien Force homage Dimension)</small><br>[[Ben Tennyson (Ultimate Alien Homage Dimension)|Ben Tennyson]] <small>(Ultimate Alien Homage Dimension)</small><br>[[Ben Tennyson (Original Series Homage Dimension)|Ben Tennyson]] <small>(Original Series Homage Dimension)</small><br>[[Ben Tennyson (Omniverse Homage Dimension)|Ben Tennyson]] <small>(Omniverse Homage Dimension)</small><br>[[Ben_X|Ben Tennyson]] <small>([[Ben X's Dimension]])</small>}}
+|home world = [[Earth (Reboot)|Earth]] <small>([[Maximilian's Dimension]])</small>}}
+'''Benjamin "Ben" Tennyson''' is an alternate version of [[Ben Tennyson (Reboot)|Ben Tennyson]] from [[Maximilian's Dimension]].
+
+==Appearance==
+Ben had a black shirt that has a green stripe in the middle with a white 10 and green stripes on the sides of his shirt. He wore brown cargo pants with pockets at the knees and green and white shoes. He wore the [[Omnitrix (Reboot)|Omnitrix]] on his left wrist.
+
+At age 10 he looked exactly like his [[Dimension 27998.3]] [[Ben Tennyson (Reboot)|counterpart]], as briefly seen in the photo that [[Maximilian Tennyson|Maximilian]] holds while he's traveling between dimensions.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Maximilian Young Family Photo.png|10-year old Ben
+</gallery>
+
+==Personality==
+Despite being older, Ben was still over-confident like many of his alternate dimension counterparts, which was ultimately what led to his demise, as he believed he could take on [[Alien X (Reboot)|Alien X]] alone.
+
+He seemed to have developed a high level of trust with his grandfather, calling him by his name instead of "Grandpa" (like most Ben Tennysons do).
+
+==History==
+===Background===
+On his summer vacation, Ben found the [[Omnitrix (Reboot)|Omnitrix]]. He also seemingly found the [[Omnitrix Key]] and upgraded his Omnitrix with it, as seen in the photo Maximilian holds. At some point he gained an Omnitrix that resembled the [[Omnitrix (Omniverse)|second Omnitrix]].
+
+Ben and his [[Maximilian Tennyson|grandfather]] were present when [[Alien X (Reboot)|Alien X]] invaded [[Maximilian's Dimension|their dimension]]'s [[Bellwood (Reboot)|Bellwood]]. Max, seeing how powerful Alien X was, asked Ben to warp away with him, but Ben decided to take on Alien X himself. Later, in a construction site, Ben fought Alien X as [[Four Arms (Reboot)|Four Arms]], but is knocked away by the latter's telekinesis. During their struggle, Ben's Omnitrix times out, allowing Alien X to claim both his Omnitrix and his life.
+
+===Ben 10===
+In ''[[Alien X-Tinction]]'', Maximilian told [[Team Tennyson (Reboot)|Team Tennyson]] how his Ben died, being shown in a flashback.
+
+==Powers and Abilities==
+===Equipment===
+[[File:Tinction (1005).png|thumb|Omnitrix]]
+Ben possessed the Omnitrix, which allowed him to transform into aliens and use their powers and abilities.
+
+====Aliens Used====
+*[[Four Arms (Reboot)|Four Arms]]
+
+==Appearances==
+===Season 5===
+*''[[Alien X-Tinction]]'' <small>(first appearance; flashback; death)</small>
+
+==Trivia==
+*This Ben's design is a stylized version of 16-year-old [[Ben Tennyson (Classic)|Ben Prime]]'s regular appearance in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''.
+*In the credits for ''[[Alien X-Tinction]]'', he is credited as "Future Ben".{{Refn|[[:File:Tinction (2752).png]]|group = credits}}
+
+==References==
+{{Reflist}}
+
+===End Credits===
+{{Reflist|group = credits}}
+{{Ben 10 RBC}}
+{{DISPLAYTITLE:Ben Tennyson}}
+[[pl:Ben Tennyson (nieznany wymiar)]]
+[[Es:Ben Tennyson (Dimensión de Maximilian)]]
+[[Category:Characters]]
+[[Category:Heroes]]
+[[Category:Males]]
+[[Category:Alternate Timeline Characters]]
+[[Category:Male Heroes]]
+[[Category:Omnitrix Wielders]]
+
+[[Category:Humans]]
+[[Category:Human Males]]
+[[Category:Alternate Versions of Ben Tennyson]]
+[[Category:One-Time Characters]]
+[[Category:Deceased Characters]]
+[[Category:Reboot Characters]]
+[[Category:Tennyson Family]]
+[[Category:Reboot Heroes]]
+[[Category:Minor Characters]]

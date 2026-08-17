@@ -1,0 +1,208 @@
+{{Future}}
+{{Disambig|main = Omnitrix}}
+{{Technology
+|backcolor = 004962
+|textcolor = 000000
+|name = Biomnitrix
+|image = Biomnitrix.png
+|Creator = [[Ben 10,000 (Original)|Ben 10,000]]
+|User = Ben 10,000
+|Type = [[Technology Levels|Level 20]]{{Refn|[[:File:Alternate Omnitrices Tech Level.PNG]]|group = DJW}}<br>DNA Alterer/Fuser<br>Gauntlets
+|1st = [[Ben Again]]
+|Status = Functioning
+|predecessor = [[Omnitrix (Original Future)|Omnitrix]]
+}}
+The '''Biomnitrix'''{{Refn|group = note|The name Biomnitrix was coined by [[Derrick J. Wyatt|Derrick]],{{Refn|[[:File:Biomnitrix Name Reveal.png]]|group = DJW|name = Dev}}{{Refn|[[:File:Biomnitrix is real.png]]|group = DJW}} however, the device was left unnamed in the scripts, with [[Matt Wayne|Matt]] and [[Charlotte McDuffie|Charlotte]] being unaware of the term.{{Refn|[[:File:Nemetrix Tech Level.png]]|group = MW}}{{Refn|[[:File:Biomnitrix Name Not Canon According to Matt Wayne.png]]|group = MW}}{{Refn|[[:File:Not Biomnitrix in scripts.png]]|group = CM}}}} is the dual-[[Omnitrix]] system that [[Ben 10,000 (Original)|Ben 10,000]] develops in the [[Original Future Timeline|future]],{{Refn|group = DJW|name = Dev}} that has the ability to combine DNA samples.
+
+==Appearance ==
+The Biomnitrix takes the forms of two dark green gauntlets with black and green rectangles borrowing the same hourglass symbol as the Omnitrix.
+
+==History==
+===Background===
+Years after rediscovering his childhood happiness of being a hero when [[Ben 10,000 (Episode)|he met]] his [[Ben Tennyson (Classic)|10-year-old self]],{{Refn|[[:File:DJW came up with Biomnitrix.png]]|name = idea|group = DJW}} [[Ben 10,000 (Original)|Ben 10,000]] developed the Biomnitrix,{{Refn|group = DJW|name = Dev}} with the help of his smartest aliens.{{Refn|[[:File:Ben 10,000 Smartest aliens.PNG]]|group = DJW}}
+
+==Features==
+===General===
+<gallery type="slideshow" widths="300">
+ATTWN (276).png|Active Mode/Voice Command
+TEoaE (391).png|User Transformation
+TWB (403.5).png|Time Out
+TEoaE (521.5).png|Detransformation due to user's damage/stamina
+</gallery>
+*The Biomnitrix is two Omnitricies that are linked together, thus allowing the user to perform alien [[Combinations (Classic)|combinations]] by slamming the two gauntlets together. 
+**The combinations are not stored in the Biomnitrix, rather, they are created when being transformed into.{{Refn|[[:File:Biomnitrix Fusion Process.png]]|group = DJW}}
+**By using just one gauntlet, the user can transform into normal aliens.{{Refn|[[:File:Biomnitrix Can Give Normal Aliens.png]]|group = DJW}} 
+***Each gauntlet has full access to all unlocked aliens.{{Refn|[[:File:Both Biomnitrix Gauntlets Have All Aliens.png]]|group = DJW}}
+*The Biomnitrix can transform the user without having to say the alien's name.<ref>''[[And Then There Was Ben]]''</ref><ref>''[[Let's Do the Time War Again]]''</ref><ref name="TEoaE" />
+*If the user in a transformation falls unconscious or gets hurt enough, they will detransform.<ref name="TEoaE">''[[The End of an Era]]''</ref>
+
+===Extensions===
+*The Bionitrix can add extras to lifeforms to make them safer and more usable, such as [[Humungoopsaur]]'s [[Anti-Gravity Projector (Classic)|Anti-Gravity Projector]].
+
+=== Clothing===
+*The Biomnitrix usually provided clothes to the aliens that are based on what the user is wearing.
+
+===Allocation===
+*The Biomnitrix symbol is positioned on different places for each alien whenever the user is transformed.
+
+===Voice Command===
+*The Biomnitrix can be voice-controlled.{{Refn|name = VC|group = DJW}}
+**'''Transformation Name''': Transforms the user by saying the name of the transformation.{{Refn|[[:File:Biomnitrix Voice Control Confirmed.png]]|name = VC|group = DJW}}
+
+===Malfunctions===
+<gallery type="slideshow" widths="300">
+TEoaE (347).png|Electromagnetic Pulse Vulnerability
+TEoaE (570).png|Frozen in Time (via Temporal Interference)
+</gallery>
+*The Biomnitrix can be temporarily disabled if it is exposed to a large electromagnetic pulse, such as from a solar flare.<ref name="TEoaE" />
+*The Biomnitrix may stop working when frozen in time by a [[Chronosapien]].<ref name="TEoaE" />
+
+==Alien Combinations==
+In principle, the Biomnitrix can fuse any alien with any other.{{Refn|group = DJW|[[:File:Biomnitrix can fuse any alien together.png]]}} Thus, all possible [[Combinations (Classic)|combinations]] are accessible via the Biomnitrix.
+===Accessed on-screen===
+{| border="1" style="border:1px solid black; color:white; border-color:black; border-collapse:collapse; background:#212121;" cellpadding="2"
+|- style="background:#004962;"
+!Alien!!Species 1!!Species 2
+|-
+|[[Atomic-X]]||[[Atomix's Species]]||[[Celestialsapien (Classic)|Celestialsapien]]
+|-
+|[[Big Chuck]]||[[To'kustar (Classic)|To'kustar]]||[[Gourmand]]
+|-
+|[[Crashocker]]||[[Orthopterran]]||[[Gimlinopithecus]]
+|-
+|[[Fourmungousaur]]||[[Tetramand (Classic)|Tetramand]]||[[Vaxasaurian (Classic)|Vaxasaurian]]
+|-
+|[[Humungoopsaur]]||[[Vaxasaurian (Classic)|Vaxasaurian]]||[[Polymorph (Classic)|Polymorph]]
+|-
+|[[Uprigg]]||[[Galvanic Mechamorph (Classic)|Galvanic Mechamorph]]||[[Planchaküle]]
+|}
+
+===Not accessed on-screen===
+{| border="1" style="border:1px solid black; color:white; border-color:black; border-collapse:collapse; background:#212121;" cellpadding="2"
+|- style="background:#004962;"
+!Alien!!Species 1!!Species 2
+|-
+|Diamondmutt<ref name="Ben">[[Ben Tennyson (Classic)|Ben Tennyson]]</ref><ref name="DAatMR">''[[Dr. Animo and the Mutant Ray]]''</ref>||[[Petrosapien (Classic)|Petrosapien]]||[[Vulpimancer (Classic)|Vulpimancer]]
+|-
+|[[Diamond Matter]]{{Refn|group = note|name = fusions|[[Diamond Matter]], [[Heat Jaws]] and [[Stink Arms]] are three combinations which were originally created by a broken prototype [[Omnitrix (Original)|Omnitrix]].<ref name="DAatMR" /> All three combinations are accesible with the Biomnitrix, however they may differ somewhat in their powers and weaknesses as the Biomnitrix may be creating combinations differently.}}||[[Petrosapien (Classic)|Petrosapien]]||[[Galvan (Classic)|Galvan]]
+|-
+|[[Gravadactyl]]{{Refn|[[:File:Gravadactyl and XLRG Were Drawn.png]]|group = DJW|name = link}} ||[[Galilean]]||[[Astrodactyl's Species]]
+|-
+|[[Heat Jaws]]{{Refn|group = note|name = fusions}}||[[Pyronite (Classic)|Pyronite]]||[[Piscciss Volann (Classic)|Piscciss Volann]]
+|-
+|[[Stink Arms]]{{Refn|group = note|name = fusions}}||[[Lepidopterran (Classic)|Lepidopterran]]||[[Tetramand (Classic)|Tetramand]]
+|-
+|[[XLRG]]{{Refn|group = DJW|name = link}} ||[[Kineceleran (Classic)|Kineceleran]]||[[Prypiatosian-B]]
+|-
+|XLR-Freak<ref name="Ben" /><ref name="DAatMR" />|| [[Kineceleran (Classic)|Kineceleran]]||[[Ectonurite (Classic)|Ectonurite]]
+|}
+
+===Concept Ideas===
+{| border="1" style="border:1px solid black; color:white; border-color:black; border-collapse:collapse; background:#212121;" cellpadding="2"
+|- style="background:#004962;"
+!Alien!!Species 1!!Species 2
+|-
+| Alien-BloxX{{Refn|[[:File:Alien-BloxX Proof.png]]|group = DJW}}||[[Celestialsapien (Classic)|Celestialsapien]]||[[Segmentasapien (Classic)|Segmentasapien]]
+|-
+|Alien W{{Refn|[[:File:Alien W Proof.png]]|group = DJW}}||[[Celestialsapien (Classic)|Celestialsapien]]||[[Atrocian]]
+|-
+|ArmaDitto{{Refn|[[:File:Armodrillo Ditto Fusion Concept.png]]|group = DJW}}||[[Talpaedan]]||[[Splixson]]
+|-
+|Bullmadrillo{{Refn|[[:File:Bullfrag Armodrillo Fusion Concept.png]]|group = DJW}}||[[Incursean (Classic)|Incursean]]||[[Talpaedan]]
+|-
+|ClockSquatch{{Refn|[[:File:Shocksquatch Clockwork Fusion Concept.png]]|group = DJW}}||[[Chronosapien]]|| [[Gimlinopithecus]]
+|-
+|Clocktomix{{Refn|[[:File:Clockwork Atomix Fusion Concept.png]]|group = DJW}}||[[Chronosapien]]||[[Atomix's Species]]
+|-
+|Echo Ditto Echo Ditto{{Refn|[[:File:Echo Ditto Echo Ditto Proof.png]]|group = DJW}}||[[Sonorosian]]||[[Splixson]]
+|-
+|Frankenhead{{Refn|[[:File:Frankenstrike Diamondhead Fusion Concept.png]]|group = DJW}}||[[Transylian]]||[[Petrosapien (Classic)|Petrosapien]]
+|-
+|Freak Chill{{Refn|[[:File:Freak Chill Proof.png]]|group = DJW}}||[[Ectonurite (Classic)|Ectonurite]]||[[Necrofriggian (Classic)|Necrofriggian]]
+|-
+|Gutchuck{{Refn|[[:File:Gutchuck Proof.png]]|group = DJW}}||[[Gutrot's Species]]||[[Gourmand]]
+|-
+|Gutspin{{Refn|[[:File:Gutspin and Peskymungodust Proof.png]]|group = DJW|name = link 2}} ||[[Gutrot's Species]]||[[Geochelone Aerios]]
+|-
+|HeatMix{{Refn|[[:File:HeatMix Proof.png]]|group = DJW}}||[[Pyronite (Classic)|Pyronite]]||[[Atomix's Species]]
+|-
+|Nano-Big{{Refn|[[:File:Nano-Big Size.png]]|group = DJW|name = link 3}} ||[[Microchip]]/[[Human (Classic)|Human]]||[[To'kustar (Classic)|To'kustar]]
+|-
+|Peskmungodust{{Refn|group = DJW|name = link 2}} ||[[Nemuina]]|| [[Vaxasaurian (Classic)|Vaxasaurian]]
+|-
+|Rigg Chill{{Refn|[[:File:Rigg Chill Proof.png]]|group = DJW}}||[[Planchaküle]]|| [[Necrofriggian (Classic)|Necrofriggian]]
+|-
+|Stinkfire{{Refn|[[:File:Stinkfire Proof.png]]|group = DJW}}||[[Lepidopterran (Classic)|Lepidopterran]]||[[Methanosian]]
+|-
+|Toe Dust{{Refn|[[:File:Toe Dust Proof.png]]|group = DJW}}||[[Toepick's Species]]||[[Nemuina]]
+|-
+|Upchill{{Refn|[[:File:Upchill Proof.png]]|group = DJW}}||[[Gourmand]]||[[Necrofriggian (Classic)|Necrofriggian]]
+|-
+|Worstatrout{{Refn|[[:File:Worstatrout Proof.png]]|group = DJW}}||[[Atrocian]] ||[[Ickthyperambuloid (Classic)|Ickthyperambuloid]]
+|}
+
+==Appearances==
+===Omniverse===
+====Season 3==== 
+*''[[Ben Again]]'' <small>(first appearance)</small> 
+
+====Season 5====
+*''[[And Then There Were None]]'' 
+*''[[And Then There Was Ben]]''
+
+====Season 7====
+*''[[Fight at the Museum]]''
+
+====Season 8==== 
+*''[[Let's Do the Time War Again]]''
+*''[[The End of an Era]]''
+*''[[A New Dawn]]''
+
+==Trivia==
+*The Biomnitrix represents the idea that Ben 10,000 has learned a lesson to lighten up.{{Refn|name = idea|group = DJW}}
+*Though [[Azmuth (Classic)|Azmuth]] thinks the Biomnitrix is silly, he is ultimately just relieved that Ben is having fun again.{{Refn|[[:File:Azmuth's Opinion of the Biomnitrix.png]]|group = DJW}}
+*[[Derrick J. Wyatt]] came up with the Biomnitrix,{{Refn|[[:File:Derrick Came Up with the Biomnitrix.png]]|group = DJW}} as he wanted a way to have [[Thomas N. Perkins IV]] do more combinations on the show.{{Refn|name = idea|group = DJW}}
+**The decision was made because Cartoon Network and Bandai thought the show had too many aliens and wanted more focus on existing aliens instead of adding more.{{Refn|[[:File:OV Alien Limit.png]]|group = DJW}} Therefore, the Biomnitrix serves as a loophole,{{Refn|[[:File:Biomnitrix Loophole.png]]|group = DJW}} giving Ben 10,000 unique transformations without adding new aliens.
+*Out of all the concept ideas, [[Gravadactyl]] and [[XLRG]] were the only ones that were drawn. The others were "names on the board".{{Refn|group = DJW|name = link}}
+*All Biomnitrix combinations were drawn by [[Thomas N. Perkins IV]].{{Refn|[[:File:Biomnitrix Fusions Made By Perkins Proof.png]]|group = DJW}}
+**Tom Perkins drew more combinations for the online game [[DNA Lab]]. While not canon to the show, they can be viewed [[DNA Lab/Gallery|here]].
+*When the Biomnitrix times out, the sounds of the [[Omnitrix (Omniverse)|latest]] Omnitrix'  time-out clips plays twice simultaneously.
+**When activated, the Biomnitrix has the sound of the [[Omnitrix (Original)|prototype Omnitrix]].<ref name="TEoaE"/>
+*All combinations involving [[Way Big (Classic)|Way Big]] are smaller than Way Big unless he is fused with something of the same size or bigger.{{Refn|[[:File:Way Big Fusions Smaller than Way Big.png]]|group = DJW}}
+**Nano-Big is the height of an average human.{{Refn|group = DJW|name = link 3}}
+**A combination between Way Big and [[Plantapocalypse]] would be as big as [https://godzilla.fandom.com/wiki/Biollante_(Heisei) Biollante] or [[Wikipedia:Godzilla|Godzilla]].{{Refn|[[:File:Way Big-Plantapocalypse Fusion Concept.png]]|group = TNP}}
+*Alien W has cosmically amplified pain receptors.{{Refn|[[:File:Alien X-The Worst Fusion Concept.png]]|group = DJW}}
+*Stinkfire smells like burning garbage.{{Refn|[[:File:What Stinkfire Smells Like.png]]|group = DJW}}
+*A combination between [[Echo Echo]] and [[Brainstorm]] would shoot psychic sound waves.{{Refn|group = DJW|[[:File:Echostorm Psychic Sound Waves.png]]}}
+*A combination between [[Toepick]] and [[Chromastone]] would shoot a prismatic laser beam from his single eye when people are the most terrified.{{Refn|[[:File:Toepick-Chromastone Fusion Concept.png]]|group = DJW}}
+*A combination between [[Heatblast (Classic)|Heatblast]] and [[Waterhazard]] would produce steam.{{Refn|[[:File:Heatblast-Water Hazard Fusion Concept.png]]|group = DJW}}
+*A combination between [[Grey Matter (Classic)|Grey Matter]] and [[Brainstorm]] would have as much enhanced intelligence as Grey Matter.{{Refn|[[:File:Grey Matter-Brainstorm Fusion Concept.png]]|group = DJW}}
+
+==Notes==
+{{Reflist|group = note}}
+==References==
+{{Reflist}}
+===Crew Statements===
+==== [[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Thomas N. Perkins IV]]====
+{{Reflist|group = TNP}}
+====[[Matt Wayne]]====
+{{Reflist|group = MW}}
+====[[Charlotte McDuffie]]====
+{{Reflist|group = CM}}
+{{Omnitrixes timeline}}
+[[es:Biomnitrix]]
+[[it:Biomnitrix]]
+[[pl:Biomnitrix]]
+[[pt-br:Biomnitrix]]
+[[ro:Biomnitrix]]
+[[ru:Биомнитрикс]]
+[[Category:Technology]]
+[[Category:Alien Technology]]
+[[Category:Omnitrix]]
+[[Category:Objects]]
+[[Category:Ben Tennyson's Possessions]]
+[[Category:Nanotechnology]]
+[[Category:Classic Objects]]
+[[Category:Classic Technology]]

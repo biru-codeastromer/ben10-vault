@@ -1,0 +1,409 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = C04000
+|textcolor = 000000
+|name = Brainstorm
+|image = 
+<gallery>
+56724.png|OV
+Accurate Brainstorm.png|UAF
+</gallery>
+|species = [[Cerebrocrustacean]]
+|home-planet = [[Encephalonus IV]]
+|body = Crustacean-like
+|power = {{Scroll|Enhanced Intelligence<br>Advanced Analysis<br>Advanced Calculations<br>Bio-Electrokinesis<br>Technokinesis <small>(via Bio-Electrokinesis)</small><br>Electrical Telekinesis<br>Electrical Shield<br>Force Field Generation<br>Sharp Pincers<br>Levitation<br>Enhanced Strength<br>Enhanced Durability<br>Enhanced Acrobatics<br>Enhanced Reflexes<br>Underwater Breathing<br>Cold Resistance<br>Wall Scaling<br>Web Scaling<br>Movable Cranium Plates<br>Electrical Storm Generation<br>Pulse Emission}}
+|voice = [[Dee Bradley Baker]] <small>([[Ben 10: Alien Force (TV Series)|Alien Force]] and [[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]])</small><br>[[Corey Burton]] <small>([[Ben 10: Omniverse (TV Series)|Omniverse]])</small>
+|1st-appearance = Pier Pressure
+|Alternate Counterparts = 
+|nicknames = Brain Crab <small>([[Madison (Omniverse)|Madison]])</small><ref name = "MHR">''[[Many Happy Returns]]''</ref>
+|equipment = Neck Brace
+|spellings = Brain Storm{{Refn|Some end credits of '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', as well as the story books|group = credits}}
+}}
+{{quote|Ugh, I'm not [[Jetray (Classic)|Jetray]], I'm a seafood platter. Mmm, and apparently one possessed of a highly advanced intellect. Ergo, perhaps I should assign this new life-form a more apropos nom de guerre. What say...  '''Brainstorm!'''|Brainstorm's first words.<ref name="Pier">''[[Pier Pressure]]''</ref>}}
+'''Brainstorm''' is the [[Omnitrix]]'s DNA sample of a [[Cerebrocrustacean]]<ref>[[Driba]]</ref><ref name="TFoW2">''[[The Frogs of War: Part 2]]''</ref> from the planet [[Encephalonus IV]].{{Refn|[[:File:Brainstorm Bandai Card.png]]|group = Bandai|name = Bandai1}}
+
+==Appearance==
+===Ben as Brainstorm===
+Brainstorm has a rust-colored [[Wikipedia:Crab|crab]]-like appearance with pincers for hands. He can open his skull plates at will to reveal his huge, corrugated brain, which is pink in color.
+
+In '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', Brainstorm had six legs and wore a silver and black neck brace with the [[Omnitrix (Original)|original Omnitrix]]/[[Ultimatrix (Original)|Ultimatrix]] symbol on it.
+
+In ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]'', Brainstorm looked mostly the same except his shell was a more vibrant orange and his skull plates were black.
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Brainstorm has a black loincloth with a green stripe in the center of it on the bottom of his body. He also has a black stripe in the center of his head with a green stripe running across it. He now has four legs instead of six, and each leg has a single joint instead of two, with a black stripe on each one. The spines on Brainstorm's face and forehead are now longer, and his eyes connect to a large black strip that extends around his forehead. He also has two spikes on each elbow, and he wears the [[Omnitrix (Omniverse)|Omnitrix]] symbol on a white and green neck brace.
+
+===Albedo as Negative Brainstorm===
+In '''Ultimate Alien''', [[Albedo|Negative]] Brainstorm looked just like [[Ben Tennyson (Classic)|Ben]]'s Brainstorm in '''Alien Force''' and '''Ultimate Alien''' except his eyes were recolored red and he lacked an Ultimatrix symbol.
+
+In '''Omniverse''', Negative Brainstorm looks just like Ben's Brainstorm in the same series, except his shell is recolored puce, his teeth are recolored pale yellow, his eyes and shell stripes are recolored red, and he wears a red [[Ultimatrix (Stabilizer)|Ultimatrix]] symbol on a red and white neck brace.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Brainstorm generator rex.png|Brainstorm in ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]''
+Brainstormy bedo.png|[[Albedo]] as Negative Brainstorm in '''Ultimate Alien'''
+150462.png|Albedo as Negative Brainstorm in '''Omniverse'''
+</gallery>
+
+==Personality==
+Brainstorm usually speaks with very high vocabulary, which can make it difficult for others to understand what he is talking about.<ref>''[[What Are Little Girls Made Of?]]''</ref> He can also come off as arrogant and egotistical due to his intelligence, as according to him, he has skill, not luck.<ref name="TV">''[[The Vengers]]''</ref><ref name="VoVP2">''[[Vengeance of Vilgax: Part 2]]''</ref>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+TV (331).png|Enhanced Intelligence
+TV (328).png|Advanced Analysis
+GfT (50).png|Advanced Calculations
+TV (386).png|Bio-Electrokinesis/Movable Cranium Plates
+EfA (69).png|Technokinesis (via Bio-Electrokinesis)
+TV (340).png|Electrical Telekinesis
+PPr (336).png|Force Field Generation
+TV (370).png|Sharp Pincers
+Inferno (134).png|Levitation
+TV (352).png|Enhanced Strength
+TV (344).png|Enhanced Durability
+SH (553).png|Enhanced Acrobatics
+TV (350).png|Enhanced Reflexes
+EfA (53).png|Cold Resistance
+TV (359).png|Wall Scaling
+VoV2 (203).png|Web Scaling
+WALGMO (28).png|Electrical Storm Generation
+EotB (396).png|Pulse Emission
+</gallery>
+{{Quote|Their advantage: superior numbers. My advantage: superior intelligence!|Brainstorm, analyzing the [[Vengers]].<ref name="TV" />}}
+Brainstorm's cranium holds an immense brain, giving him super-massive intelligence that is too high to be measured on a [[Human (Classic)|human]] scale.{{Refn|[[:File:Brainstorm Alien Creation Card.png]]|group = Bandai|name = Bandai2}} Technically speaking, his IQ is shown to be 10^30, or one nonillion.<ref name="TV" /> He can solve very difficult calculations mentally in roughly seconds, and can visualize equations and trajectories of objects as if they're actually there.<ref name="GfT">''[[Greetings From Techadon]]''</ref> He can even determine the mechanical values and physical properties of things by simply looking at them. In combat, Brainstorm is shown to be able to perfectly intuit and predict the mindsets, mannerisms, weaknesses, and attacks of his enemies; as well as being able to use his environment and any ordinary objects within it to win the fight with the minimal amount of moves. After defeating the [[Vengers]], Brainstorm even got the idea for Ben to briefly quit being a superhero, calculating that their individual egos would turn them against each other in a matter of months once he removed himself from the picture; though he made one miscalculation (they only lasted a few hours).<ref name="TV" />
+
+Brainstorm can produce and manipulate electricity{{Refn|Brainstorm's electricity was originally yellow in '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' before being recolored green in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''. Meanwhile, alternate versions of Brainstorm are shown generating electricity in different colors. For example, Negative Brainstorm's electricity is colored red.<ref name="AFOB" />|group=note}} by both thinking hard enough{{Refn|[https://static.wikia.nocookie.net/ben10/images/3/38/AF_Mini_Bible.pdf Alien Force Series Mini Bible]|group = AF Mini Bible|name = bible}}  and opening the exoskeleton plates on his skull. This electrical energy can be used in a variety of ways, such as electrocuting or launching enemies and disabling or destroying machinery. He can also charge up his electrical energy to produce a concentrated beam of electricity strong enough to blast [[Ship]] out of the air.<ref name="Pier" /> Additionally, he can control the voltage of his electrokinetic attacks.<ref name="TV" /> Brainstorm can also generate constructs with his electricity, as shown when [[Ultimate Kevin]] created a shield made of electricity to block [[Argit]]'s quills.<ref name="TEoME">''[[The Enemy of My Enemy]]''</ref>
+
+Brainstorm is capable of conducting his electricity throughout his body, as shown when [[Albedo|Negative]] Brainstorm did so through his closed skull plates to get [[Astrodactyl]] off of him,<ref name="AFOB">''[[A Fistful of Brains]]''</ref> and when Brainstorm fired electricity from out of his pincers.<ref name="EotB" />
+
+Brainstorm can use his electrokinesis to telekinetically move objects, the size and mass of which ranging from trains to living beings without damaging or hurting them.<ref name="Inferno">''[[Inferno]]''</ref> Brainstorm can also control machinery and other technology with his electricity, giving him a form of technokinesis.<ref name="EfA" />
+
+Brainstorm can generate pulses from his brain to block attacks and knock away enemies,<ref name="EotB">''[[Eye of the Beholder]]''</ref> generate protective force fields powerful enough to topple an [[Ultimate Arburian Pelarota]],<ref>''[[The Ultimate Sacrifice]]''</ref> and even produce electrical storms.{{Refn|group = Bandai|name = Bandai1}}
+
+Brainstorm can levitate several stories above the ground.<ref name="Inferno" /><ref name="EotB" />
+
+Brainstorm is strong enough to pin opponents against walls,<ref name="TV" /> rip off an [[Arachnachimp (Classic)|Arachnachimp]]'s webs,<ref name="VoVP2" /> or crush a refrigerator with his pinchers.{{Refn|group = Bandai|name = Bandai2}} His pincers are also sharp enough to stab through metal.<ref name="TV" />
+
+Despite having a soft body,{{Refn|group = Bandai|name = Bandai1}} Brainstorm is very durable thanks to his shell,<ref name="TV" /> which can withstand laser and gun fire.{{Refn|group = Bandai|name = Bandai2}} His exoskeleton can also act like a protective coat, which can resist the cold temperatures of places such as mountains.<ref name="EfA">''[[Escape From Aggregor]]''</ref>
+
+Brainstorm is very agile and can perform acrobatics such as somersaults and forward rolls.<ref>''[[Singlehanded]]''</ref>
+
+Brainstorm is capable of breathing underwater thanks to his gills, which he has to keep moist when he is on land.{{Refn|[[:File:Brainstorm Has Gills.PNG]]|group = DM}}
+
+Brainstorm can scale walls<ref name="TV" /> and walk on an Arachnachimp's webs.<ref name="VoVP2" />
+
+==Weaknesses==
+<gallery type="slideshow">
+Fused (416).png|Ineffective Electrokinesis
+GCBC (424).png|Concentration Interruption
+EfA (54).png|Slippery Surfaces
+</gallery>
+Brainstorm's electric attacks are ineffective against weapons that were made specifically for electrokinetic aliens, such as the [[Shock Staff]].<ref>''[[Fused]]''</ref>
+
+If Brainstorm's shell is closed when releasing electricity, it will shock and injure his brain, as demonstrated with [[Dr. Psychobos]].<ref name="TFoW2" />
+
+Because Brainstorm needs to concentrate to use his electrokinesis,{{Refn|group = AF Mini Bible|name = bible}} things that causes him headaches, such as the sonic screams of a [[Sonorosian]], can impair him.<ref>''[[Good Copy, Bad Copy]]''</ref>
+
+Being a [[Cerebrocrustacean]], Brainstorm is at a massive disadvantage against a [[Vicetopus|Vicetopus]] due to their large size and resistance to electricity.<ref>''[[Showdown: Part 1]]''</ref>
+
+Brainstorm has difficulty walking on slippery surfaces, such as snow and ice.<ref name="EfA" />
+
+==History==
+===Alien Force===
+*Brainstorm first appeared in ''[[Pier Pressure]]'', where he defeated [[Ship]] and protected [[Julie Yamamoto|Julie]] from him.
+**The same scene reoccurred on TV in ''[[Fame]]''.
+*In ''[[What Are Little Girls Made Of?]]'', Brainstorm defeated [[Kevin Levin (Classic)|Kevin]] in a play-fight.
+*In ''[[Good Copy, Bad Copy]]'', Brainstorm defeated [[Albedo|Negative]] [[Big Chill (Classic)|Big Chill]], but was defeated himself by Negative [[Echo Echo]], so he switched into [[Jetray (Classic)|Jetray]].
+*In ''[[Voided]]'', Brainstorm saved [[Manny Armstrong|Manny]] from some [[Null Guardian]] and battled [[Dr. Animo (Classic)|D'Void]] before retreating with Manny and [[Helen Wheels|Helen]]. Later, Brainstorm was defeated by D'Void.
+*In ''[[War of the Worlds: Part 2]]'', Brainstorm piloted Ship in "Battle Mode" to reach [[Augstaka]], during which he and [[Azmuth (Classic)|Azmuth]] had some banter.
+*In ''[[Vengeance of Vilgax: Part 2]]'', Brainstorm fought and recaptured the escaped [[Spidermonkey (Classic)|Spidermonkey]].
+*In ''[[Inferno]]'', Brainstorm built a pen for some [[Pyroxovore]]s out of a train and some railway tracks.
+*In ''[[Singlehanded]]'', Brainstorm battled [[Sunder]] before switching into [[Humungousaur (Classic)|Humungousaur]].
+
+===Ultimate Alien===
+*In ''[[Video Games (Episode)|Video Games]]'', Brainstorm was scanned by [[Oliver Thompson]] for the [[Stalker]] off-screen.
+*In ''[[Escape From Aggregor]]'', Brainstorm took control of a [[Yeti]], told it to attack [[Dr. Animo (Classic)|Dr. Animo]], and then freed it before capturing the latter.
+*In ''[[Fused]]'', Brainstorm was defeated and nearly killed by [[Aggregor]], but was saved by [[Ra'ad]].
+*In ''[[Eye of the Beholder]]'', Brainstorm defeated [[Strabismus]] and freed [[Baz-L]], but accidentally awoke the [[Sentinels of Monawk]] in the process.
+*In ''[[Greetings From Techadon]]'', Brainstorm got a hole in one in golf using his "mental calculations." He then switched into [[Goop (Classic)|Goop]] to fight a [[Techadon Robot]].
+*In ''[[The Ultimate Sacrifice]]'', Brainstorm defeated [[Sentient Ultimate Cannonbolt]] before switching into [[Diamondhead (Classic)|Diamondhead]].
+*In ''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]'', Brainstorm appeared as one of the many aliens when [[Ben Tennyson (Classic)|Ben]] was explaining his story to [[Rex Salazar (Generator Rex)|Rex]].
+*In ''[[Night of the Living Nightmare]]'', [[Albedo|Negative]] Brainstorm figured out that [[Ben Tennyson (Classic)|Ben]] somehow broke free from the [[Cassiopeian Dream Eater]] in a dream.
+
+===Omniverse===
+*In ''[[Malefactor]]'', a kid failed to dunk Brainstorm before the latter was successfully dunked by another kid.
+*In ''[[A Fistful of Brains]]'', [[Albedo|Negative]] Brainstorm briefly fought [[Astrodactyl]] until they both reverted.
+*In ''[[The Vengers]]'', Brainstorm defeated the [[Vengers]] and soon afterwards formulated a plan which comprised their fellowship.
+*In ''[[A New Dawn]]'', Brainstorm appeared for a short time when [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+===[[Original Future Timeline|Original Future]]=== 
+*Prior to ''[[Ken 10]]'', Brainstorm was among the intelligent aliens used by [[Ben 10,000 (Original)|Ben 10,000]] to create an [[Omnitrix (Ken's Replica)|Omnitrix]] for his [[Ken Tennyson (Original)|son]]'s 10 birthday.{{Refn|[[:File:Aliens Ben 10,000 Used to Create Ken's Omnitrix.png]]|group = pop-up|name = pop-up}}<ref name="K10">''[[Ken 10]]''</ref>
+
+==Appearances==
+{{Scroll box|
+===Alien Force===
+====Season 1====
+*''[[Pier Pressure]]'' <small>(first appearance; intended alien was [[Jetray (Classic)|Jetray]])</small>
+*''[[What Are Little Girls Made Of?]]'' <small>(off-screen activation)</small>
+*''[[Good Copy, Bad Copy]]''
+*''[[Voided]]'' <small>(x2)</small>
+*''[[War of the Worlds: Part 2]]''
+
+====Season 2====
+*''[[Vengeance of Vilgax: Part 2]]''
+*''[[Inferno]]'' <small>(selected alien was [[Humungousaur (Classic)|Humungousaur]])</small>
+*''[[Singlehanded]]''
+
+===Ultimate Alien===
+====Season 1====
+*''[[Fame]]'' <small>(first reappearance; on TV; cameo)</small>
+*''[[Video Games (Episode)|Video Games]]'' <small>(on a screen)</small>
+*''[[Escape From Aggregor]]''
+*''[[Fused]]''
+
+====Season 3====
+*''[[Eye of the Beholder]]''
+*''[[Greetings From Techadon]]''
+*''[[The Ultimate Sacrifice]]''
+*''[[Night of the Living Nightmare]]'' <small>(by Albedo; dream)</small>
+
+===Generator Rex===
+====Season 3====
+*''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]'' <small>(non-diegetic flashback; cameo)</small>
+
+===Omniverse===
+====Season 2====
+*''[[Malefactor]]'' <small>(first reappearance)</small>
+
+====Season 4====
+*''[[A Fistful of Brains]]''
+
+====Season 6====
+*''[[The Vengers]]''
+
+====Season 8====
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+===Video Games===
+====Alien Force====
+*''[[Ben 10 Alien Force: Vilgax Attacks]]''
+*''[[Ben 10 Alien Force: The Rise of Hex]]''
+
+===Online Games===
+====Alien Force====
+*''[[Alien Attack]]''
+*''[[Game Creator]]''
+*''[[Omnimatch]]''
+*''[[Toon Creator]]''
+
+====Ultimate Alien====
+*''[[Galactic Challenge]]''
+*''[[Game Creator]]''
+
+====Omniverse====
+*''[[Game Creator]]''
+*''[[Omniverse Collection]]''
+
+====Ben 10 (2016 TV Series)====
+*''[[Super Hero Time]]''
+
+===Books===
+====Chapter Books====
+=====Alien Force=====
+*''[[War of the Worlds]]''
+
+===Comics===
+====Cartoon Network Action Pack!====
+=====Alien Force=====
+*''[[The New Order]]''
+*''[[Double Trouble]]'' <small>(by Albedo)</small>
+*''[[Ship Shape]]''
+*''[[Backcountry Battleground]]''
+*''[[Benstorm]]''
+*''[[Collectible Heroes]]''
+
+=====Ultimate Alien=====
+*''[[One Man's Trash]]''
+
+====Doom Dimension====
+*''[[Doom Dimension: Volume 1|Volume 1]]''
+
+====Ultimate Alien====
+=====Volume 1=====
+*''[[Time Saver]]''
+
+====Omniverse====
+*''[[Parallel Paradox]]''
+
+====Standalone Comics====
+=====Alien Force=====
+*''[[Wanted: Kevin Levin]]'' <small>(x2; first time was a non-diegetic cameo)</small>
+}}
+
+==Games==
+===Video Games===
+[[File:Brainstorm VA.png|thumb|Brainstorm in ''Vilgax Attacks'']]
+====[[Ben 10 Alien Force: Vilgax Attacks]]====
+Brainstorm is a playable alien in the game. He can launch energy bolts and create large energy blasts. 
+
+=====Xbox 360, Nintendo Wii, PlayStation 2, and PlayStation Portable Versions=====
+Due to the [[Omnitrix (Original)|Omnitrix]] rebooting after [[Ben Tennyson (Classic)|Ben]]'s abuse of the quick-change feature during his battle with an animated [[Mr. Smoothy (Classic)|Mr. Smoothy]] mascot, Brainstorm was temporarily locked until Ben's arrival on [[Encephalonus IV]].
+
+Brainstorm is able to use his vast intellect to interact with computers for a variety of purposes, such as uploading a virus or unlocking a sealed gate. Similar to [[Chromastone (Classic)|Chromastone]], Brainstorm's unique block animation allows him to redirect focused energy beams to provide power to structures.
+
+Lightning Storm is an unlockable combo move for Brainstorm.
+
+Brainstorm is vital for progression on the [[Bellwood (Classic)|Bellwood]], Encephalonus IV, and [[MorOtesi]] levels of the game.
+
+=====Nintendo DS Version=====
+Brainstorm and [[Big Chill (Classic)|Big Chill]] are reunlocked upon [[Ben Tennyson (Classic)|Ben]]'s arrival on Encephalonus IV.
+
+Brainstorm is able to provide power to lifts scattered around Encephalonus IV.
+
+====[[Ben 10 Alien Force: The Rise of Hex]]====
+Brainstorm is a playable alien in the game.
+
+Due to the [[Omnitrix (Original)|Omnitrix]] shorting out after Ben fiddled with it, Brainstorm and [[Swampfire]] were the only aliens available on [[Ben Tennyson (Classic)|Ben]]'s arsenal at the beginning of the game.
+
+Brainstorm is able to power generators, in order to move platforms or to open sealed gates.
+
+Brainstorm's small size allows him to navigate areas that most of Ben's aliens and Ben himself are unable to access.
+
+Brainstorm is the only alien form capable of defeating [[Techadon Robot|Techadon]] [[Kevin Levin (Classic)|Kevin]].
+
+===Online Games===
+<gallery type="slideshow">
+Brainstorm UAF SHT.png|Brainstorm in ''Super Hero Time'' ('''Alien Force''' and '''Ultimate Alien''')
+Negative Brainstorm OV SHT.png|Albedo as Negative Brainstorm in ''Super Hero Time'' ('''Omniverse''')
+</gallery>
+====[[Super Hero Time]]====
+Brainstorm is a playable alien in the game.
+
+==Naming and Translations==
+{{Translation
+|ha = Cerebrón<br>Brainstorm (''[[The Vengers]]'')
+|had = From ''cerebrón'', big brain<br>From the original English name
+|norwegian = Brainstorm
+|norwegiand = From the original English name
+|dutch = Brainstorm
+|dutchd = From the original English name
+|arabic = برينستورم
+|arabicd = From the original English name
+|romanian = Encefal
+|italian = Cervellotico
+|italiand = From ''cervellotico'', mastermind
+|korean = 브레인스톰
+|koreand = From the original English name
+|portuguesebr = Artrópode
+|portuguesebrd = From ''artrópode'', arthropod
+|bulgarian = Мозъчен Щурм/Mozŭčen šturm
+|bulgariand = From ''мозък/mozŭk'', brain and ''щурм/shturm'', rush
+|croatian = Intelekus
+|croatiand = From ''intelekt'', intellect
+|serbian = Intelektus
+|serbiand = From ''intelekt'', intellect
+|german = Superhirn
+|germand = From ''Superhirn'', mastermind/ brainiac
+|greek = Εγκέφαλος
+|greekd = From εγκέφαλος, brain
+|spanish = Cerebro
+|spanishd = From ''cerebro'', brain
+|hungarian = Észlény
+|hungariand = From ''ész'', mind and ''lény'', being
+|polish = Łebkrab
+|polishd = From ''łeb'', head and ''krab'', crab
+|turkish = Fırtına Beyin
+|turkishd = From ''fırtına'', storm and ''beyin'', brain
+|swedish = Hjärnstorm
+|swedishd = From ''hjärn'', brain and storm
+|danish = Hjernestorm
+|danishd = From ''hjernestorm'', brainstorm
+|french = Méga-Méninges
+|frenchd = From ''méga'', mega and ''méninges'', brain
+|chinese = 蟹甲智多星
+|chinesed = From ''蟹甲'' <small>(Xiè Jiǎ)</small>, crab armor, and ''智多星'' <small>(Zhì Duō Xīng)</small>, sage
+|russian = Мудрый Краб<br>Краб
+|russiand = From ''мудрый'', wise and ''краб'', crab<br>From ''краб'', crab
+|hebrew = ראש גדול
+|hebrewd = From ''ראש'', head and ''גדול'', big
+|albanian = Mendjendrituri, Truri
+|albaniand = From ''mendjendritur'', bright minded and ''trur'', brain
+|romaniand = from encefal, brain}}
+
+==Etymology==
+Brainstorm's name comes from the word "brainstorm", which means a spontaneous group discussion to create new ideas and solve problems. It references how he always creates new ideas and solves problems with his IQ. It also refers to the electrical powers in his brain, as electricity is usually produced from "storm" clouds.
+
+==Trivia==
+*In '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', Brainstorm spoke with a [[Wikipedia:United Kingdom|British]] accent. As of '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Brainstorm speaks with an [[Wikipedia:Austria|Austrian]] accent.
+**The reason Brainstorm has a British accent in '''Alien Force''' and '''Ultimate Alien''' is because the British are stereotyped as being smart and royal.
+**Brainstorm's accent in '''Omniverse''' is based on that of [[Wikipedia:Ludwig Von Drake|Ludwig Von Drake]],{{Refn|[[:File:Brainstorm OV Accent.png]]|group = DJW}} who Corey Burton had voiced in numerous Disney projects.
+** Burton would exaggerate the accent and use a higher pitch as Negative Brainstorm in '''Omniverse'''.
+*Brainstorm's mouth does not move except to show emotion.
+**In ''[[War of the Worlds: Part 2]]'', his mouth opened when he accidentally vomited on [[Azmuth (Classic)|Azmuth]].
+*Brainstorm was originally one of two aliens featured in '''Ultimate Alien''' who generate yellow electricity; the other being [[Shocksquatch]].
+*Official sources have provided different explanations on how Brainstorm speaks:
+**[[Dwayne McDuffie]] stated that he electrostatically vibrates gaseous or liquid mediums.{{Refn|[[:File:DM Explanation on How Brainstorm Speaks.png]]|group = DM}}
+**[[Derrick J. Wyatt]] stated that his thoughts are projected mentally.{{Refn|[[:File:Cerebrocrustacean Telepathy and Filter Feeders.png]]|group = DJW}} 
+**Brainstorm's Alien Creation card tangentially called it a "secret mind link".{{Refn|group = Bandai|name = Bandai2}}
+*Brainstorm is one of five aliens featured in '''Omniverse''' who generate green electricity; the others being [[Upgrade (Classic)|Upgrade]], [[Buzzshock (Classic)|Buzzshock]], [[Frankenstrike]], and [[Nanomech]].
+*Brainstorm was among the three intelligent aliens used by [[Ben 10,000 (Original)|Ben 10,000]] to create [[Ken Tennyson (Original)|Ken]]'s [[Omnitrix (Ken's Replica)|Omnitrix]]. The others are [[Grey Matter (Classic)|Grey Matter]] and [[Frankenstrike]].{{Refn|group = pop-up|name = pop-up}}<ref name="K10" />
+**This has been slightly retconned in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', as Ben does not become any smarter as Frankenstrike.{{Refn|[[:File:Transylians Enhanced Intelligence Retconned.png]]|group = DJW}}
+*[[Madison (Omniverse)|Madison]] likes Brainstorm better than [[Rath (Classic)|Rath]].<ref name = "MHR"/>
+*Unlike [[Servantis]], Brainstorm is unable to tamper with the thoughts and memories of other beings.{{Refn|[[:File:Only Servantis can Alter Memories.png]]|group = DJW}}
+*Brainstorm had concept art drawn by [[Eric Canete]],{{Refn|[[:File:Eric Canete Designed Brainstorm Concepts.png]]|group = EC}} whereas his final design was created by [[Glenn Wong]], with color styling by Chris Hooten.{{Refn|https://archive.is/QjUy1|group = GW}}
+*Brainstorm was originally not supposed to appear in:
+**''[[Escape From Aggregor]]'', with his role taken by [[Ultimate Humungousaur]].{{Refn|[https://static.wikia.nocookie.net/ben10/images/6/60/EFA_Script_Outline.pdf ''Escape From Aggregor'' Script Outline]|group = outline}}
+**The dream in ''[[Night of the Living Nightmare]]''.{{Refn|[https://static.wikia.nocookie.net/ben10/images/d/d4/Night_of_the_Living_Nightmare_Script_First_Draft.pdf ''Night of the Living Nightmare'' Script First Draft]|group = script|name = first}}
+*Brainstorm was originally supposed to appear in:
+**''[[It's Not Easy Being Gwen]]'' to reverse the effects of [[Dr. Animo (Classic)|Dr. Animo]]'s transmodulator ray.{{Refn|[https://static.wikia.nocookie.net/ben10/images/b/bf/INEBG_Script_Outline.pdf ''It's Not Easy Being Gwen'' Script Outline]|group = outline}}
+**''[[Inspector 13]]'', used by [[Kevin Levin (Classic)|Kevin]].{{Refn|[https://static.wikia.nocookie.net/ben10/images/f/f1/Inspector_13_Script_DRAFT-1.pdf ''Inspector 13'' Script First Draft]|group = script|name = script}}
+*In Derrick's opinion, Brainstorm is a brain alien with some minorly electric side powers, hence why he did not appear in ''[[Max's Monster]]'' alongside the rest of Ben's electric-based aliens.{{Refn|[[:File:Brainstorm Not In Max's Monster Reason.png]]|group = DJW}}
+*Brainstorm was considered to appear in the [[Ben 10 (2016 TV Series)|Reboot]] but did not make the cut as an electric alien for [[Ben Tennyson (Reboot)|Ben]] because [[Shock Rock]] was created for plot purposes.{{Refn|[[:File:Shock Rock's Purpose.png]]|group = DR}}
+*In May 2018, a recording of the [[Toy Line/4" Collection#Defenders|Ultimate Omnitrix]] toy became a viral auditory illusion, asking whether viewers heard {{W|Yanny or Laurel#Brainstorm_/_green_needle|the phrase "Green needle" or the name "Brainstorm"}} upon Brainstorm's hologram accessory being latched onto the toy.
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====Scripts====
+{{Reflist|group = script}}
+====Script Outlines====
+{{Reflist|group = outline}}
+====Alien Force Series Mini Bible====
+{{Reflist|group = AF Mini Bible}}
+====End Credits====
+{{Reflist|group = credits}}
+===Crew Statements===
+====[[Dwayne McDuffie]]====
+{{Reflist|group = DM}}
+====[[Eric Canete]]====
+{{Reflist|group = EC}}
+====[[Glenn Wong]]====
+{{Reflist|group = GW}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+===[[Pop-Up Trivia]]===
+{{Reflist|group = pop-up}}
+===[[Merchandise]]===
+====[[Bandai]]====
+{{Reflist|group = Bandai}}
+{{Ben 10 Aliens}}
+[[de:Superhirn]]
+[[es:Cerebrón]]
+[[fr:Méga-Ménainges]]
+[[it:Cervellotico]]
+[[pl:Łebkrab]]
+[[pt-br:Artrópode]]
+[[ro:Encefal]]
+[[ru:Краб]]
+[[tr:Fırtına Beyin]]
+[[Category:Aliens]]
+[[Category:Transformations]]
+[[Category:Alien Force Transformations]]
+[[Category:Albedo's Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Ben 10,000's Transformations]]
+[[Category:Featured Articles]]
+[[Category:Classic Transformations]]

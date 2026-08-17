@@ -1,0 +1,91 @@
+{
+  "id": "mole-stache",
+  "name": "Mole-Stache",
+  "wikiTitle": "Mole-Stache",
+  "kind": "standard",
+  "species": "Unknown",
+  "homeworld": "Unknown",
+  "bodyType": "Small mole-like humanoid with a giant mustache",
+  "debut": {
+    "episode": "Outbreak",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Comakinesis - a free-forming prehensile mustache that stretches and reshapes into hands, wraps, maces and weapons",
+    "Mustache flight - twirls the mustache like helicopter rotors; also works as a parachute or catches drafts",
+    "Mustache strength - lifted a truck (Breakpoint) and a tree (A New Dawn)",
+    "Mustache regeneration if cut or shaved",
+    "Skilled mustache-based hand-to-hand combat (easily beat Fistrick)",
+    "Enhanced strength for his size (carried a Revonnahgander in flight without trouble)"
+  ],
+  "weaknesses": [
+    "Small, physically unimposing body - everything depends on the mustache",
+    "No ranged, energy or defensive powers"
+  ],
+  "summary": "A pot-bellied, buck-toothed gentleman-mole in a green jumpsuit who fights, flies and lifts trucks with a huge living mustache.",
+  "traits": [
+    "Speaks in a stereotypically posh British accent with high vocabulary (from Breakpoint onward)",
+    "Nicknamed 'Fuzzy-Wuzzy Alien Form' by Nighty Knight",
+    "Both Ben Prime and Ben 23 find him lamer than Nighty Knight",
+    "Design idea came from a crew member named Jerry"
+  ],
+  "notableFeats": [
+    "Flew Rook to safety and defeated Fistrick with mustache-fu (Breakpoint)",
+    "Defeated Yetta off-screen (No Honor Among Bros)",
+    "Flew with Nighty Knight to find Mad Rook (It's a Mad, Mad, Mad Ben World: Part 1)",
+    "Defeated a young Vilgax in 1773 with Skurd's help (A New Dawn)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Outbreak",
+      "notableEpisodes": [
+        "Outbreak",
+        "Breakpoint",
+        "It's a Mad, Mad, Mad Ben World: Part 1",
+        "A New Dawn"
+      ],
+      "designNotes": "Rodent-like alien in a green-and-black jumpsuit with his ears poking out, white gloves, big blond mustache, beaver-like teeth, slight potbelly; Omnitrix symbol on a green/white belt.",
+      "image": {
+        "file": "Mole-Stache official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (306x569, transparent); only official standing render available."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 4,
+    "speed": 3,
+    "mobility": 6,
+    "offense": 4,
+    "defense": 4,
+    "special": 4,
+    "versatility": 4,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 3,
+    "survivability": 3,
+    "range": 3,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "The mustache is a genuinely useful multi-tool - it lifts trucks, flies him and Rook, wraps foes and beat Fistrick and a young Vilgax - which earns mid mobility and modest strength. Everything else about him is small and ordinary with no ranged or defensive options."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Mole-Stache"
+  ],
+  "notes": [
+    "One of four aliens accidentally unlocked by Blukic and Driba in Outbreak; voiced by Yuri Lowenthal there, then David Kaye.",
+    "A New Dawn: 16-year-old Ben used Mole-Stache in 1773 (time travel) - still ben-16-ov. Store 23 use is a cameo among aliens shown to Ben 23.",
+    "Digging ability is comic-only (Super Secret Crisis War!) and non-canon. Albedo cannot use him. Appears in the Reboot VR game Omni-Charged (excluded)."
+  ]
+}

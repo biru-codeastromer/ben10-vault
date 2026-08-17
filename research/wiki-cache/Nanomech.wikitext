@@ -1,0 +1,244 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 4D667A
+|textcolor = 87BF3A
+|name = Nanomech
+|image = 
+<gallery>
+OmniverseNanomech.png|OV
+Nanomech Ultimate Alien.png|UA
+Nanomech AlienSwarm Render.png|AS
+</gallery>
+|species = ½ [[Human (Classic)|Human]] ½ [[Microchip]]{{Refn|name = species|group = note}}
+|body = Robotic Humanoid Insect
+|power = Bio-Electricity Generation<br>Energy Ball Generation<br>Optic Laser<br>Size Reduction<br>Small Space Maneuvering<br>Flight<br>Enhanced Reflexes<br>Electricity Resistance<br>Adaptability<br>Energy Tentacles <small>(via Adaptability)</small>
+|voice = [[Alex Winter]] <small>([[Ben 10: Alien Swarm|Alien Swarm]])</small><br>[[Dee Bradley Baker]] <small>([[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]] and [[Ben 10: Omniverse (TV Series)|Omniverse]])</small><br>[[Greg Cipes]] <small>([[Kevin Levin (Classic)|Kevin]])</small>
+|1st-appearance = Ben 10: Alien Swarm
+|dna source = [[Ben Tennyson (Classic)|Ben Tennyson]] <small>(Human DNA)</small>{{Refn|[[:File:Nanomech Bandai Card.png]]|group=Bandai|name = DNAsource}}<br>[[Microchip]]s <small>(Microchip DNA)</small>
+|Alternate Counterparts = [[Teeny-Weeny]]
+}}
+{{Quote|Well, I'm not just any drone! I'm half-drone, half-'''human'''! Drones can adapt... and humans never give up!|Nanomech to the [[Decoy Queen]].<ref name="AS">'''''[[Ben 10: Alien Swarm]]'''''</ref>}}
+'''Nanomech''' is the DNA sample of a [[Human (Classic)|Human]]/[[Microchip]] hybrid created by the [[Omnitrix]].{{Refn|Nanomech is stated to be a [[Human (Classic)|Human]]/[[Microchip]] hybrid in '''''[[Ben 10: Alien Swarm|Alien Swarm]]'''''.
+*[[Derrick J. Wyatt]] considered Nanomech to be more of an evolved form of Microchip rather than a hybrid.{{Refn|[[:File:Microchip Evolution.png]]|group = DJW}}{{Refn|[[:File:Derrick Opinion on Nanomech.png]]|group = DJW}}
+*The card included with Bandai's Nanomech action figure refers to him as both a Nanomechion from "hive" planets and a unique creation of the [[Omnitrix (Original)|Omnitrix]], fusing the bio-mechanical DNA of the Microchips with Ben.{{Refn|group = Bandai|name = DNAsource}}|group = note|name = species}}
+
+==Appearance==
+Nanomech is about a tiny creature, smaller than a human hand at full height.{{Refn|Due to inconsistency issues common to characters with unusual sizes, such as [[Way Big]], Nanomech's full size is somewhere between a few inches tall and a few centimetres depending on the episode.|group = note|name = height}} He has grey skin with a green circuit-like design on it. Nanomech possesses green wings as well as one large, green cyclopean-eye. His body is a carbon or silicon-based alloy,<ref>[[Kevin Levin (Classic)|Kevin Levin]]</ref><ref name="AS"/> and he has triangular feet. He wore the [[Omnitrix (Original)|original Omnitrix]]/[[Ultimatrix (Original)|Ultimatrix]] symbol on his chest.
+
+In ''[[Video Games (Episode)|Video Games]]'', Nanomech wore a blue motion capture suit.
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Nanomech's circuit design is gone, being replaced with one pushing more to his '''''[[Ben 10: Alien Swarm|Alien Swarm]]''''' design, and the [[Omnitrix (Omniverse)|Omnitrix]] symbol is where his eye was. He has different wings and four small eyes around the Omnitrix, similar to [[Stinkfly (Classic)|Stinkfly]]. His legs have also changed shape, and his body now emits a bright green glow that completely surrounds him.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Nanomech Mocap Suit.png|Nanomech wearing a motion capture suit in ''[[Video Games (Episode)|Video Games]]''
+</gallery>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+I13 (314).png|Bio-Electricity Generation
+TFoW1 (298).png|Energy Ball Generation
+UA (471).png|Optic Laser
+I13 (298).png|Size Reduction
+TUH (196).png|Small Space Maneuvering
+TFoW1 (289).png|Flight
+TUH (211).png|Enhanced Reflexes
+Swarm (3293).png|Electricity Resistance
+Swarm (3379).png|Adaptability/Energy Tentacles
+</gallery>
+{{Quote|Float like a butterfly, sting like a bee!|Nanomech.<ref name="UA">''[[Ultimate Aggregor (Episode)|Ultimate Aggregor]]''</ref>}}
+Despite being [[Ben Tennyson (Classic)|Ben]]'s smallest alien, Nanomech can still pack quite a punch. Nanomech can generate green energy from his hands and release it either as a raw discharge of electricity<ref name="AS" /><ref name="I13">''[[Inspector 13]]''</ref> or concentrated, explosive orbs of energy.<ref name="TFOWP1>''[[The Frogs of War: Part 1]]''</ref> Nanomech can also project this energy as lasers from his eyes which can destroy smaller technology, such as [[Aggregor]]'s [[Mind Control Headband]]s.<ref name="UA" />
+
+Much like [[Grey Matter (Classic)|Grey Matter]], Nanomech's size allows him to squeeze into small spaces.<ref name="VG">''[[Video Games (Episode)|Video Games]]''</ref><ref name="TUH">''[[The Ultimate Heist]]''</ref> Nanomech can also reduce his size at will, even to microscopic scales.<ref name="AS" /><ref name="I13" /> He can return to his original size, but cannot grow any larger.{{Refn|[[:File:Nanomech Very Small Maximum Size.png]]|group = DJW}}
+
+Nanomech is capable of flying, thanks to possessing a pair of wings.<ref name="UA" /><ref name="TFOWP1 />
+
+Despite his small stature, Nanomech has enhanced strength relative to his size, as he was able to easily lift a food cover over his head.<ref name="TUH" />
+
+Nanomech cannot be controlled by Microchip Queens; according to himself, it is because he is part [[Human (Classic)|human]], and "humans never give up". He is also resistant to electricity.<ref name="AS" /> 
+
+Nanomech is capable of adaptation, allowing him to copy certain abilities of his opponents after being hit by their attacks, as shown when Nanomech copied the [[Decoy Queen]]'s tentacles.<ref name="AS" />
+
+===Non-Canon Powers and Abilities===
+====[[Science Friction]]====
+As a form of technopathy, Nanomech's body can emit electricity to communicate with surrounding machines.
+
+==Weaknesses==
+[[File:I13 (324).png|thumb|Small Size]]
+Nanomech's minuscule size can be a problem if fighting larger opponents, as he was smooshed with a spell book<ref>[[Absolute Power: Part 1|''Absolute Power: Part 1'']]</ref> and when he was incapacitated by a fly swatter.<ref name="I13" /> 
+
+==History==
+===Alien Force===
+*Nanomech first appeared in '''''[[Ben 10: Alien Swarm]]''''', where he was created by the [[Omnitrix (Original)|Omnitrix]] scanning the [[Microchip]]s and entered [[Dr. Victor Valadis|Victor]]'s brain to fight the [[Decoy Queen]]. After a grueling battle, Nanomech destroyed the Queen and thus the entirety of the chips, freeing everybody from their control.
+
+===Ultimate Alien===
+*In ''[[Video Games (Episode)|Video Games]]'', Nanomech was used for the video game scan but was regarded as too small, so he switched into [[Jetray (Classic)|Jetray]]. Later, Nanomech disabled and defeated the [[Stalker]].
+*In ''[[Ultimate Aggregor (Episode)|Ultimate Aggregor]]'', Nanomech destroyed the headbands that were controlling [[Ra'ad]] and [[P'Andor]]. As [[Alien Force|the team]] confronted [[Aggregor]], Nanomech switched into [[Humungousaur (Classic)|Humungousaur]].
+*In ''[[Absolute Power: Part 1]]'', Nanomech was squashed in [[Gwen Tennyson (Classic)|Gwen]]'s [[Gwen's Spellbook|spellbook]], forcing him to switch into [[Way Big (Classic)|Way Big]].
+*In ''[[Inspector 13]]'', [[Kevin Levin (Classic)|Kevin]] as Nanomech snuck into the [[Techadon Factory]] and was defeated by [[Thirteen]].
+
+===Omniverse===
+*In ''[[Have I Got a Deal for You]]'', Nanomech briefly appeared in an accidental transformation chain before it finally ended when he switched into [[Bloxx (Classic)|Bloxx]].
+*In ''[[The Frogs of War: Part 1]]'', Nanomech defeated some [[Incursean (Classic)|Incursean]]s by blowing up their guns, knocking them out.
+*In ''[[The Ultimate Heist]]'', Nanomech escaped his [[Plumber Headquarters|Plumber HQ]] cell and avoided [[Blukic]] and [[Driba]] as much as possible.
+*In ''[[It's a Mad, Mad, Mad Ben World: Part 2]]'', Nanomech defeated [[Mad Ben|Mad]] Way Big.
+*In ''[[A New Dawn]]'', Nanomech appeared for a short time when [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+==Appearances==
+{{Scroll box|
+===Alien Force===
+====Movies====
+*'''''[[Ben 10: Alien Swarm]]''''' <small>(first appearance)</small>
+
+===Ultimate Alien===
+====Season 1====
+*''[[Video Games (Episode)|Video Games]]'' <small>(first reappearance; x2)</small>
+*''[[Ultimate Aggregor (Episode)|Ultimate Aggregor]]''
+
+====Season 2====
+*''[[Absolute Power: Part 1]]'' <small>(off-screen activation)</small>
+
+====Season 3====
+*''[[Inspector 13]]'' <small>(by Kevin)</small>
+
+===Omniverse===
+====Season 1====
+*''[[Have I Got a Deal for You]]'' <small>(first reappearance; accidental transformation; cameo)</small>
+
+====Season 3====
+*''[[The Frogs of War: Part 1]]'' <small>(intended alien was [[Humungousaur (Classic)|Humungousaur]])</small>
+
+====Season 4====
+*''[[The Ultimate Heist]]''
+
+====Season 7====
+*''[[It's a Mad, Mad, Mad Ben World: Part 2]]'' <small>(non-speaking)</small>
+
+====Season 8====
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+===Video Games===
+====Ultimate Alien====
+*''[[Ben 10: Ultimate Alien (Video Game)|Ben 10: Ultimate Alien]]''
+
+===Online Games===
+====Alien Force====
+*''[[Alien Attack]]''
+
+===Books===
+====Short Books====
+====Ultimate Alien====
+*''[[Science Friction]]''
+
+===Comics===
+====Cartoon Network Action Pack!====
+=====Ultimate Alien=====
+*''[[The Monster at the End of This Book]]''
+}}
+
+==Comics==
+===Cartoon Network Action Pack!===
+====Ultimate Alien====
+*In ''[[The Monster at the End of This Book]]'', Nanomech fixed the Green Alien's ship.
+
+==Etymology==
+Nanomech is short for "nano-mechanical".
+
+==Naming and Translations==
+{{Translation
+|russian = Наномеханизм
+|russiand = From ''наномеханизм'', nanomechanism
+|bulgarian = Наномех
+|bulgariand = From the original English name
+|polish = NanoBen
+|polishd = A combination of ''nano'' and ''Ben''
+|dutch = Nanomech
+|dutchd = From the original English name
+|hungarian = Picuri
+|hungariand = From ''pici'', small
+|spanish = Nanomec
+|spanishd = From the original English name without the letter ''h''
+|ha = Nanomech
+|had = From the original name
+|portuguesebr = Nanomech
+|portuguesebrd = From the original English name
+|german = Nanomech
+|germand = From the original English name
+|greek = Νανομηχανισμός
+|greekd = From ''νανομηχανισμός'', nanomechanism
+|swedish = Nanomek
+|swedishd = From the original name including the letter ''k''
+|turkish = Nanomek
+|turkishd = From ''nanomek'', Turkish translation of original name
+|french = Nanomech
+|frenchd = From the original English name
+|chinese = 极微人
+|chinesed = From ''极微'' <small>(Jí Wēi)</small>, minimum, and ''人'' <small>(Rén)</small>, man
+|romanian = Nanomecanicul
+|romaniand = from nanomecanic, nanomech
+|italian = Nanomech
+|italiand = From the original English name}}
+
+==Trivia==
+*Nanomech is [[Ben Tennyson (Classic)|Ben]]'s smallest alien, smaller than even [[Grey Matter (Classic)|Grey Matter]].<ref>''[[Have I Got a Deal for You]]''</ref>
+*Due to Nanomech not really being a typical alien from any sort of planet, scanning machines have trouble identifying him.
+**The [[Techadon Factory]]'s computer refers to him as an "unknown biomechanical organism".<ref name="I13" />
+**The [[Plumbers (Classic)|Plumbers]]' security scanners designate him an "unidentified nano-based lifeform".<ref name="TUH" />
+*Along with [[Rath (Classic)|Rath]], Nanomech is [[Ashley Johnson]]'s favorite alien.{{Refn|https://youtu.be/4s8v7XQYpzs|group = AJ}}
+*Throughout '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', Nanomech was always transformed into via the quick-change feature. He was not directly transformed into by Ben in his [[Human (Classic)|human]] form.
+*[[Kevin Levin (Classic)|Kevin]] finds it hard to take Ben as Nanomech seriously due to his squeaky voice.<ref name="UA" /> Because of his minuscule size, Kevin also thinks Nanomech is really lame.<ref name="VG" />
+*Nanomech is the only known [[Omnitrix]] alien that is part-human, as well as the only hybrid/combination transformation that can be accessed without the Omnitrix either being broken or upgraded into a [[Biomnitrix]].
+*During the Birthday Bash in ''[[FusionFall]]'', players could get a Nanomech helmet modeled after his '''''[[Ben 10: Alien Swarm|Alien Swarm]]''''' design. However, after '''Ultimate Alien''' premiered, it was changed to match the animated version. This item was re-released as a code item.
+*Nanomech is one of five aliens to debut in a movie or special; the others being [[Eye Guy]], [[Way Big (Classic)|Way Big]], [[Eon (Transformation)|Eon]], and [[Shocksquatch]].
+*Nanomech is one of five aliens featured in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''' who generate green electricity; the others being [[Upgrade (Classic)|Upgrade]], [[Buzzshock (Classic)|Buzzshock]], Frankenstrike, and [[Brainstorm]].
+*Nanomech's '''Ultimate Alien''' appearance was designed by [[Glenn Wong]], with color styling by Chris Hooten.{{Refn|[[:File:Nanomech by Hooten.png]]|group = GW}}
+*Benchip was Nanomech's working name.{{Refn|[[:File:Nanomech Concept Art 1.png]]|group = ca}}
+**Consequently, this makes Nanomech the fourth alien whose working name had Ben's name in it; the first three being [[Blitzwolfer]], [[Snare-Oh]], and [[Frankenstrike]].
+**Of the four, he is the only one who neither debuted in the '''[[Ben 10 (2005 TV Series)|Original Series]]''' nor hailed from the [[Anur System]].
+*If Nanomech had appeared in the [[Ben 10 (2016 TV Series)|Reboot]], he would still be a hybrid rather than a different species.{{Refn|[[:File:Duncan Opinion on Nanomech.png]]|group = DR|name = duncan}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====Concept Art====
+{{Reflist|group = ca}}
+===Crew Statements===
+====[[Ashley Johnson]]====
+{{Reflist|group = AJ}}
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Glenn Wong]]====
+{{Reflist|group = GW}}
+
+===[[Merchandise]]===
+====[[Bandai]]====
+{{Reflist|group = Bandai}}
+
+{{Ben 10 Aliens}}
+
+[[bg:Наномех]]
+[[de:Nanomech]]
+[[es:Nanomech]]
+[[fr:Nanomech]]
+[[it:Nanomech]]
+[[pl:NanoBen]]
+[[pt-br:Nanomech]]
+[[ro:Nanomecanicul]]
+[[ru:Наномеханизм]]
+[[tr:Nanomek]]
+
+[[Category:Live-Action Transformations]]
+[[Category:Transformations]]
+[[Category:Alien Force Transformations]]
+[[Category:Hybrids]]
+[[Category:Aliens]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]
+[[Category:Humans]]
+[[Category:Technology]]
+[[Category:Alien Technology]]
+[[Category:Classic Technology]]

@@ -1,0 +1,103 @@
+{
+  "id": "bloxx",
+  "name": "Bloxx",
+  "wikiTitle": "Bloxx (Classic)",
+  "kind": "standard",
+  "species": "Segmentasapien",
+  "homeworld": "Polyominus",
+  "bodyType": "Gorilla made of building blocks",
+  "debut": {
+    "episode": "The More Things Change: Part 1",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Touvlokinesis / block-body shapeshifting - rearranges his own blocks into walls, catapults, slides, domes, railway bridges and water reserves",
+    "Unlimited block generation and regeneration - regrows lost limbs and head, detaches or reabsorbs blocks at will",
+    "Bloxx-Lobbers - turns his hands into cannons that fire explosive blocks (also painful to step on)",
+    "Arm extension without adding blocks - crosses gaps and vaults over buildings",
+    "Size alteration - can grow several stories tall",
+    "Body encasing - traps foes or shields allies inside his blocks (protected Rook during atmospheric re-entry)",
+    "Sphere form - rolls at speed like Cannonbolt",
+    "Enhanced strength (punched through a Dimension 12 robot, ground-slam shock wave, carried Fistrick)",
+    "Enhanced durability (survived repeated shots, Negative Ultimate Humungousaur, being crushed by Ma Vreedle)",
+    "Space survivability, heat resistance and radiation immunity"
+  ],
+  "weaknesses": [
+    "Vulnerable to acidic substances, liquid or gaseous (Have I Got a Deal for You)",
+    "Blocks can be pulled apart or crushed by very strong opponents (beaten by Ma Vreedle, Negative Ultimate Humungousaur, Kundo)"
+  ],
+  "summary": "A gorilla-shaped Segmentasapien built from red, yellow and blue interlocking bricks that Ben can rearrange into almost anything - bridges, walls, domes or block-firing cannons.",
+  "traits": [
+    "Organosilicon lifeform with segmented quasi-organic polymer skin",
+    "Blocks resemble LEGO bricks (a 240,000-brick Bloxx statue set a Guinness World Record in 2012)",
+    "Created by Dwayne McDuffie; working name 'Blox'",
+    "Catchphrase: 'Did somebody say block party?'"
+  ],
+  "notableFeats": [
+    "Saved Mr. Baumann's shop from destruction with Rook in his debut (The More Things Change: Part 1)",
+    "Became a bridge to save a runaway train, then contained the Screegit (Have I Got a Deal for You)",
+    "Stopped a Tetramand warship from attacking his team (Many Happy Returns)",
+    "Took Azmuth's brain back from Ultimate Albedo (For a Few Brains More)",
+    "Encased Rook to save him from burning up in Earth's atmosphere (Breakpoint)",
+    "Punched down Dimension 12 robots while de-aged to 11 (Arrested Development)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "The More Things Change: Part 1",
+      "notableEpisodes": [
+        "The More Things Change: Part 1",
+        "Have I Got a Deal for You",
+        "Many Happy Returns",
+        "Arrested Development",
+        "O Mother, Where Art Thou?",
+        "For a Few Brains More",
+        "Breakpoint"
+      ],
+      "designNotes": "Gorilla body of mostly red and yellow bricks with some blue, black seam lines and studs, stubby feet, oversized hands; Omnitrix symbol on chest.",
+      "image": {
+        "file": "Bloxx.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (1705x1657, transparent). Alternate: 'Bloxx omniverse official.png' (1625x1808)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 7,
+    "speed": 4,
+    "mobility": 6,
+    "offense": 5,
+    "defense": 7,
+    "special": 6,
+    "versatility": 7,
+    "intellect": 3,
+    "energy": 1,
+    "regeneration": 7,
+    "survivability": 7,
+    "range": 4,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Versatility 7: he has been a bridge, catapult, wall, dome, cannon and life-support pod. Regeneration 7 (regrows limbs and head, reforms after being scattered) and defense 7 (encasing, domes) make him a great utility/tank pick, and he survives space and re-entry. Only moderate hitting power, and acid dissolves his blocks."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Bloxx_(Classic)"
+  ],
+  "notes": [
+    "Arrested Development use is wiki-labelled 'by 11-year-old Ben' - present-day Ben de-aged by Billy Billions' ray, not a flashback; recorded as ben-11-ov per the wiki label.",
+    "Despite debuting in the first episode, Derrick J. Wyatt states Bloxx (like the other new OV aliens) was never actually locked in the Omnitrix.",
+    "Season 8 uses in Stuck on You, Let's Do the Time War Again, Third Time's a Charm and Malgax Attacks were Skurd lending Bloxx-Lobbers to other aliens - not transformations.",
+    "Ben 23 counterpart: Build-A-Guy. Reboot has a separate Bloxx (excluded).",
+    "Video games (Omniverse, Omniverse 2), online/mobile games and comics not counted."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "shocksquatch",
+  "name": "Shocksquatch",
+  "wikiTitle": "Shocksquatch",
+  "kind": "standard",
+  "species": "Gimlinopithecus",
+  "homeworld": "Pattersonea",
+  "bodyType": "Yeti (Heroes United) / Sasquatch (Omniverse)",
+  "debut": {
+    "episode": "Ben 10/Generator Rex: Heroes United",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Bio-electrokinesis - high-voltage bolts from body bolts or mouth, beams that travel along the ground",
+    "Static charge-up for a massive discharge on touch (can transfer charge to allies like Cannonbolt)",
+    "Electrical telekinesis",
+    "Electric force fields that fire beams in all directions",
+    "Enhanced strength (punched Buglizard through the ground into the subway)",
+    "Enhanced durability, jumping and speed (keeps pace with a car; runs on all fours)",
+    "Cold immunity via thick fur",
+    "Temporary shielding from cosmic radiation"
+  ],
+  "weaknesses": [
+    "Useless against insulated/electricity-impermeable materials (Fistrick's boots)",
+    "Helpless when insulated (foam)",
+    "Harmed by external electricity",
+    "Drained by electricity absorbers (Phil)",
+    "Cosmic radiation eventually lethal"
+  ],
+  "summary": "An electric yeti who spits and punches lightning; introduced in the Generator Rex crossover and redesigned as a yellow sasquatch for Omniverse.",
+  "traits": [
+    "Canadian accent, ends sentences with 'eh'",
+    "Debuted in Ben 10/Generator Rex: Heroes United",
+    "Unlocked accidentally by Rex trying to 'cure' Ben",
+    "Redesigned from white yeti to yellow-and-black sasquatch"
+  ],
+  "notableFeats": [
+    "Fought Alpha as Alpha-Arms in his debut (Ben 10/Generator Rex: Heroes United)",
+    "Defeated Buglizard (The More Things Change: Part 2)",
+    "Defeated Sunder (Have I Got a Deal for You)",
+    "Fought Argost's Frankencryptids with the Secret Saturdays (T.G.I.S.)",
+    "Defeated Negative Ultimate Echo Echo (The Ultimate Heist)",
+    "Stopped the Orange Offenders (Store 23)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Ben 10/Generator Rex: Heroes United",
+      "notableEpisodes": [
+        "Ben 10/Generator Rex: Heroes United"
+      ],
+      "designNotes": "Thick muscular yeti with white/grey/blue fur, reddish-pink face with pointed brows, green eyes with pupils, metal bolts on the backs of his hands and lower jaw; Ultimatrix symbol on chest. Only UA-era appearance is the Generator Rex crossover.",
+      "image": {
+        "file": "Shocksquatch hu render.png",
+        "label": "HU",
+        "confidence": "high",
+        "notes": "Transparent full-body render of the Heroes United (UA-era) design from the HU online game; low resolution (206×310) but clean and correct. Verified 2026-08-17."
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "The More Things Change: Part 2",
+      "notableEpisodes": [
+        "The More Things Change: Part 2",
+        "Have I Got a Deal for You",
+        "T.G.I.S.",
+        "The Ultimate Heist",
+        "The Most Dangerous Game Show"
+      ],
+      "designNotes": "Slimmer yellow-and-black sasquatch, grey four-fingered hands and toes, bolts on the sides of his wrists, yellow lightning-bolt horns, green eyes; green/white belt with the Omnitrix on it.",
+      "image": {
+        "file": "Shocksquatch omniverse official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 6,
+    "speed": 5,
+    "mobility": 5,
+    "offense": 6,
+    "defense": 6,
+    "special": 5,
+    "versatility": 5,
+    "intellect": 3,
+    "energy": 6,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Solid mid-tier: strong enough to punch Buglizard through a street, with electric bolts, ground-travelling beams and shielding fields that beat Sunder and Negative Ultimate Echo Echo. Insulation, foam and energy-drainers switch him off, and he loses to heavier hitters (Looma, Way Bad)."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Shocksquatch"
+  ],
+  "notes": [
+    "Debut is the Generator Rex crossover Heroes United (Generator Rex season 3), a UA-era story with the Ultimatrix; treated as series 'ua'.",
+    "UA wearer: Ultimatrix; OV: new Omnitrix."
+  ]
+}

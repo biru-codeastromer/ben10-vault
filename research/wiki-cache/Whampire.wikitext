@@ -1,0 +1,225 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 000008 
+|textcolor = 2BB04A
+|name = Whampire
+|image = Whampire facebook profileT.png
+|species = [[Vladat]]
+|home-planet = [[Anur Transyl]]
+|dna source = [[Lord Transyl]]
+|body = Vampire
+|power = {{Scroll|Hypnosis<br>[[Corruptura]] Projectiles<br>Corruptura Size Alteration<br>Life Force Draining<br>Sonic Explosions<br>Flight<br>X-Ray Vision<br>Night Vision<br>Sharp Fangs<br>Sharp Claws<br>Prehensile Feet<br>Enhanced Strength<br>Enhanced Durability<br>Enhanced Agility<br>Enhanced Reflexes<br>Enhanced Speed <small>(via Flight and/or Quadrupedalism)</small><br>Enhanced Stamina<br>Enhanced Jumping<br>Enhanced Smelling<br>Enhanced Hearing<br>Space Survivability<br>Quadrupedalism<br>Bat Transformation<br>'''Via Corrupturas:'''<br>Object Possession<br>Undead Possession}}
+|voice = [[John DiMaggio]]
+|1st-appearance = The Vampire Strikes Back
+}}
+{{Quote|What do you know? Ordering henchmen around is kind of fun.|Whampire.<ref name="TVSB">''[[The Vampire Strikes Back]]''</ref>}}
+'''Whampire''' is the [[Omnitrix]]'s DNA sample of a [[Vladat]]{{Refn|group = note|The [[Vladat]]s' existence was revealed in [[Pop-Up Trivia|pop-up trivia]] for ''[[The Return]]'',{{Refn|[[:File:The Return Pop-up (22).png]]|group = pop-up|name = image}} and their page was created by user [[User:Demonic Knight|Demonic Knight]] on April 26, 2008. Some of the original pop-ups were soon lost and on October 17, 2020, lists of pop-up trivia summarized by another fansite, united-heroes.wikifoundry.com (now defunct), including that from ''The Return'', were uploaded to the Wiki. The website erroneously referred to Vladats as "Vladites",{{Refn|[[:File:The Return Pop-ups.png]]|group = UH}} perhaps due to the same mispelling in [[Michael Morningstar (Classic)|Darkstar]]'s [[Bandai]] card.{{Refn|[[:File:Darkstar Card.png]]|group = Bandai|name = darkstar}} Thus temporarily, "Vladat" was assumed to be a misnomer accidentally canonized in the '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''' episode ''[[The Vampire Strikes Back]]''. However, on December 2, 2024, VHS recordings of the pop-up trivia marathon surfaced online, revealing the original spelling to be correct.{{Refn|[[Ben 10 Planet:Longstanding Misinformation]]|group = BTP|name = misinfo}}}} from the planet [[Anur Transyl]] in the [[Anur System]].
+
+==Appearance==
+Whampire is a [[Wikipedia:Vampire|vampire]]-like alien with pale skin, green eyes, and sharp yellow teeth. He wears a black jumpsuit with a green chest and markings, black gloves with green fingers that possess sharp claws, and a green mask with spikes on it. His head is rather large and features green eyes, and his head spikes are part of his suit and they do not cover any part of his body. Whampire also has green flaps under his arms, which resemble the wings of a bat.
+
+Whampire wears the [[Omnitrix (Omniverse)|Omnitrix]] symbol on his stomach.
+
+Whampire's [[Corruptura]]s are crystalline entities,{{Refn|[[:File:Corruptura Crystalline Entity.PNG]]|group = DJW}} they are small, dark green, diamond-shaped objects with light green eyes, little horns, and black bat-like wings.
+
+In his bat form, Whampire becomes a small black ball with wings of the same color and size. A miniature version of his face is on the front of his body.
+
+While burning in sunlight, Whampire's clothes seem to burn off first, leaving his skin, which would be completely grey due to the sun, exposed before he himself burns.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Whampire bat.png|Whampire in bat form
+Sunburnt Whampire.png|Whampire in the sunlight
+Whampire with Armodrillo drill.png|Whampire with [[Armodrillo]]'s drill
+Whampire with Bloxx-lobbers.png|Whampire with [[Bloxx (Classic)|Bloxx]]'s Bloxx-lobbers
+Whampire with Feedback hands.png|Whampire with [[Feedback]]'s hands
+Whampire with Diamondhead armor.png|Whampire with [[Diamondhead (Classic)|Diamondhead]]'s arm, sword, shield, and helmet
+</gallery>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+TEoaE (641).png|Hypnosis
+TVSB182.PNG|Corruptura Projectiles
+TVSB216.PNG|Sonic Explosions
+BaDGtA51 (448).png|Bat Transformation
+TEoaE (637).png|Flight/Enhanced Speed
+MA (520).png|Enhanced Strength
+MA (420).png|Enhanced Durability
+MA (466).png|Enhanced Reflexes
+TVSB175.PNG|X-Ray Vision
+TVSB230.PNG|Prehensile Feet
+BaDGtA51 (440).png|Quadrupedalism
+</gallery>
+{{Quote|Okay, big, bad and brooding. Time for a little mind control!|Whampire to [[Exo-Skull|Exo-Skull]].<ref name="TEoaE">''[[The End of an Era]]''</ref>}}
+Whampire's species are masters of controlling other beings. This gives him both the ability to hypnotize other beings through eye contact, and the ability to control beings by shooting [[Corruptura]]s at their foreheads. He can produce these small creatures from his mouth and can generate ones of different sizes to suit the size of his victim.{{Refn|[[:File:Corruptura Size Changing.png]]|group = DJW|name = size}}
+
+Whampire's Corrupturas are effective on other races of the Anur System, such as [[Transylian]]s, [[Thep Khufan]]s, [[Loboan (Classic)|Loboan]]s, and tangible [[Ectonurite (Classic)|Ectonurite]]s.<ref name="TVSB"/>
+
+Other races known to be affected by Corrupturas include [[Revonnahgander]]s;<ref name="TVSB" /> [[Merlinisapien]]s;<ref name="TEoaE" /> [[Splixson]]s;{{Refn|[[:File:Ditto Clones Independent.PNG]]|group = DJW|name = Splixson}} [[Crystalsapien (Classic)|Crystalsapien]]s;{{Refn|[[:File:Corruptura Crystalline Entity.PNG]]|group = DJW}} [[To'kustar (Classic)|To'kustar]]s;{{Refn|[[:File:Whampire Can Control a To'kustar.PNG]]|group = DJW}} [[Sonorosian]]s;{{Refn|[[:File:Echo Echo Can Be Controlled By a Vladat.PNG]]|group = DJW}} [[Galvan (Classic)|Galvan]]s;{{Refn|group = DJW|name = size}} [[Galvanic Mechamorph (Classic)|Galvanic Mechamorph]]s;{{Refn|[[:File:Whampire Can Control Mechamorphs.png]]|group = DJW}} [[Piscciss Premann (Classic)|Piscciss Premann]]s;{{Refn|[[:File:Kraab Weaknesses.png]]|group = DJW}} and [[Arburian Pelarota (Classic)|Arburian Pelarota]]s.{{Refn|[[:File:Cannonbolt Can Be Affected by Corruptura.PNG]]|group = DJW}}
+
+Whampire can absorb and feed off the energy of living beings by sucking on them. He can even drain the life force of a [[Celestialsapien (Classic)|Celestialsapien]].{{Refn|[[:File:Whampire Celestialsapien.PNG]]|group = DJW}} If Whampire were to completely drain his victims of their energy, they would look similar to [[Michael Morningstar (Classic)|Darkstar]]'s victims.{{Refn|[[:File:Vladat Drain Life Energy.PNG]]|group = DJW}}
+
+Whampire has the ability to fly and is highly agile while in flight.
+
+Whampire has a certain level of enhanced strength, being able to hold his own against a mob of [[Anur Transyl]] citizens before eventually being overrun,<ref name="TVSB" /> get [[Max Tennyson (Classic)|Max]] out of [[Malware Armor|Mal]][[Vilgax (Classic)|gax]]'s clutches, and flip the latter over afterwards.<ref name="MA">''[[Malgax Attacks]]''</ref>
+
+Whampire possesses enhanced durability, as shown when he was able to withstand being thrown against a wall by Malgax.<ref name="MA" />
+
+Whampire can hang upside down like bats and real vampires using his prehensile feet. According to himself, he does his best thinking while he is upside down.<ref name="TVSB" />
+
+Whampire can turn into a bat-like creature.<ref name="BaDGtA51">''[[Blukic and Driba Go to Area 51]]''</ref>{{Refn|[[:File:Whampire's Bat Form.PNG]]|group = DJW|name = chibi}}
+
+Whampire can see the internal structure, like the nerves and energy of his victims using his X-Ray vision.<ref name="TVSB" />
+
+Whampire can withstand other [[Vladat]]s hypnotizing him depending on his willpower,{{Refn|[[:File:Whampire Willpower.png]]|name = Vladat Willpower|group = DJW}} as demonstrated in Lord Transyl's failed attempt to control him.<ref name="TVSB" />
+
+Whampire can create a huge sonic explosion as a last-resort means of self-defense that was powerful enough to send [[Rook Blonko]], [[Scout]], [[Rad Dudesman]], and a mob of Anur Transyl citizens flying in every direction.<ref name="TVSB" />
+
+Whampire can survive in the vacuum of space.{{Refn|[[:File:Vladats Space Survivability.PNG]]|group = DJW}}
+
+Like all [[Anur System]] aliens, Whampire can see in the dark.{{Refn|[[:File:All Anur System Aliens Can See in the Dark.png]]|group = DJW}}
+
+Whampire can control undead aliens, such as [[Benzarro]]'s transformations{{Refn|[[:File:Corrupturas & Zombies.png]]|group = DJW}} and inanimate objects that are supernaturally possessed, using his Corrupturas. In the case of the latter, the object would have to contain the possessor's consciousness.{{Refn|[[:File:Whampire Can Control Chucky.png]]|group = DJW|name = Chucky}}
+
+Whampire can use Corrupturas as projectile weapons.{{Refn|[[:File:Corrupturas as Projectile Weapons.png]]|group = DJW}}   
+
+Whampire possesses enhanced smelling and enhanced hearing.{{Refn|[[:File:Whampire enchanced hearing and smelling.png]]|group = DJW}}
+
+==Weaknesses==
+<gallery type="slideshow">
+BaDGtA51 (451).png|Vulnerability to Sunlight
+TVSB173.PNG|Life Force Drainage Urge
+TEoaE (643).png|Ineffective Hypnosis/Corrupturas
+VSB (349).png|Corrupturas Destroyed Upon Detransformation
+</gallery>
+{{Quote|Whampire? In the daytime?! '''In the desert?!'''|Whampire.<ref name="BaDGtA51" />}}
+Whampire, like all Vladats, can be harmed by sunlight and cannot stay in such an environment for more than a short period of time.<ref name="BaDGtA51" /> He can also be harmed by intense heat such as that generated by [[Pyronite (Classic)|Pyronites]],{{Refn|[[:File:Corruptura Can Be Burned Off.PNG]]|group = DJW}} [[Prypiatosian-B]]s,{{Refn|[[:File:NRG Corruptura Immunity.png]]|group = DJW}} and members of [[Atomix]]'s [[Atomix's Species|species]].<ref name="TVSB" /> As shown with Lord Transyl, it will also destroy his Corrupturas and free his victims.
+
+Whampire's explosion ability will not only blow away his opponents, it will also blow away his allies, causing a chance of accidental collateral damage.
+
+When the [[Omnitrix (Omniverse)|Omnitrix]] times out, Whampire's Corrupturas will break apart, freeing his victims from their control and returning control of the victims' bodies.<ref name="TVSB" />
+
+Whampire's Corrupturas are not very durable, as they can easily be destroyed by species with as much or more strength than a [[Transylian]], as demonstrated by Lord Transyl.<ref name="TVSB" />
+
+Whampire must resist the urge to drain the energy of other lifeforms, especially intelligent beings, making him potentially dangerous to his teammates and other civilians.
+
+Whampire's Corrupturas cannot attach to beings with wet, slimy, or slippery skin, such as [[Ickthyperambuloid]]s{{Refn|[[:File:Corruptura Walkatrout.PNG]]|group = DJW}} and members of [[Hobble]]'s [[Hobble's Species|species]].<ref name="TVSB" />
+
+Whampire's Corrupturas also cannot attach to beings that are intangible, though they can attach to said species if they are caught off guard and are tangible when the Corruptura is shot at them.<ref name="TVSB" /> Additionally, the Corrupturas are ineffective on [[Dagon]].{{Refn|[[:File:Dagon Corruptura Immunity.png]]|group = DJW}}
+
+Whampire is unable to control an entire set of [[Splixson]] clones using his Corrupturas because each clone is an independent being.{{Refn|[[:File:Ditto Clones Independent.PNG]]|group = DJW}} Furthermore, the Corrupturas will not be copied across said clones.{{Refn|[[:File:Ditto Clones and Corrupturas.png]]|group = DJW}}
+
+Whampire will not receive a cosmic power boost from feeding off a Celetialsapien because he would feel like he just slammed an energy drink.{{Refn|[[:File:Whampire's Taste of Celestialsapiens.png]]|group = DJW}}
+
+There are certain beings that both Whampire's hypnosis and Corrupturas are ineffective against, such as other Vladats if their willpower is strong enough,<ref name="TVSB" />{{Refn|name = Vladat Willpower|group = DJW}} and cyborgs like [[Exo-Skull|Exo-Skull]].<ref name="TEoaE" />
+
+Whampire cannot absorb the life energy of certain beings, such as Ectonurites because they have none in the conventional sense.<ref>[[Ghostfreak]]</ref><ref>''[[Mystery, Incorporeal]]''</ref> Similarly, he cannot absorb the life energy of [[Human (Classic)|human]] zombies because they have no life force left.{{Refn|[[:File:Whampire Cannot Drain Zombies.png]]|group = DJW}}
+
+Unlike [[Ghostfreak]], Whampire is not immune to [[Michael Morningstar (Classic)|Darkstar]]'s energy absorption ability.{{Refn|[[:File:Darkstar Can Feed Off Whampire.png]]|group = DJW}}
+
+Whampire's Corrupturas are weak against acid.{{Refn|[[:File:Corrupturas Are Weak Against Acid.png]]|group = DJW}}
+
+Whampire can be scared by [[Toepick]]'s [[Toepick's Species|species]].{{Refn|[[:File:Toepick Can Scare Anur System Aliens.png]]|group = DJW}}
+
+Whampire is possibly allergic to garlic.{{Refn|[[:File:Whampire Allergic to Garlic.png]]|group = DJW}}
+
+==History==
+===Omniverse===
+*Whampire first appeared in ''[[The Vampire Strikes Back]]'', where his DNA was obtained by scanning [[Lord Transyl]] and he took control of [[Dr. Viktor]], [[Kuphulu]], and [[Crüjo]]. Afterward, Whampire used the [[Lovely Duck]] to break into [[Z'Castle Zs'Skayr]] and battle Lord Transyl and [[Zs'Skayr]].
+*In ''[[Blukic and Driba Go to Area 51]]'', Whampire was selected by mistake and almost burned to death until [[Max Tennyson (Classic)|Max]] hit his [[Omnitrix (Omniverse)|Omnitrix]] symbol and switched him into [[Four Arms (Classic)|Four Arms]].
+*In ''[[Malgax Attacks]]'', Whampire battled [[Malware Armor|Mal]][[Vilgax (Classic)|gax]] and, with the help of [[Skurd]], defeated him.
+*In ''[[The End of an Era]]'', Whampire defeated [[Exo-Skull|Exo-Skull]] and [[Subdora]].
+*In ''[[A New Dawn]]'', Whampire appeared for a short time when [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+==Appearances==
+=== Omniverse===
+====Season 5====
+*''[[The Vampire Strikes Back]]'' <small>(first appearance)</small>
+====Season 6 ====
+* ''[[Blukic and Driba Go to Area 51]]'' <small>(accidental transformation)</small>
+====Season 8====
+*''[[Malgax Attacks]]''
+*''[[The End of an Era]]''
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+==Naming and Translations==
+{{Translation
+|bulgarian = Уампайър
+|bulgariand = From the original English name
+|ha = Whampire
+|had = From the original English name
+|chinese = 吸血鬼
+|chinesed = From ''吸血鬼'' <small>(Xī Xuè Guǐ)</small>, vampire
+|french = Vlanpire
+|frenchd = From the onomatopoeia ''vlan'', bang, and ''vampire'', vampire
+|polish = Fangampir
+|polishd = From the English ''fang'', and the Polish ''wampir'', vampire
+|german = Vampir<br>Whampir
+|germand = From ''Vampir'', vampire<br>From the English ''wham'' and the German ''Vampir'', vampire
+|hebrew = ערפדי
+|hebrewd = From ''ערפדי'' Vampiric
+|hungarian = Vámpír
+|hungariand = From ''vámpír'', vampire
+|italian = Vampiro
+|italiand = from ''vampiro'', vampire
+|portuguesebr = Vompiro
+|portuguesebrd = From ''vampiro'', vampire
+|turkish = Vampir
+|turkishd = From ''vampir'', vampire
+|russian = Вампиро
+|russiand = From ''вампир'', vampire
+|romanian = Vampirul
+|romaniand = from vampir, vampire
+}}
+
+== Etymology==
+Whampire's name is a portmanteau of "wham", which is onomatopoeic, coming from hitting something very hard as well as the name of the band ''[[wikipedia:Wham!|Wham!]]'',{{Refn|[[:File:Whampire name origin.png]]|group = DJW}} and "vampire", referencing his appearance.
+
+His name is also a reference to Count Wampyr, the original name [[Wikipedia:Bram Stoker|Bram Stoker]] conceived for [[Wikipedia:Count Dracula|Count Dracula]].
+
+The name also sounds like the word "vampire" spoken in a stereotypical Transylvanian or Eastern European accent, which vampires are traditionally given in media.
+
+==Trivia==
+*Whampire is the final alien introduced in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', as well as in the Classic Continuity as a whole.
+*Whampire speaks with a [[wikipedia:Hungary|Hungarian]] accent, in reference to actor [https://en.wikipedia.org/wiki/Bela_Lugosi Bela Lugosi], who had portrayed [https://en.wikipedia.org/wiki/Count_Dracula Count Dracula] in the 1931 horror classic [https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film) ''Dracula''].
+*As the [[Vladat]]s are a functionally extinct race, Whampire and [[Lord Transyl]] are the only remaining Vladats in the [[Universe (Classic)|universe]].
+*Whampire is the only alien introduced in '''Omniverse''' who was unlocked through obtaining a DNA sample. However, unlike most other aliens that were unlocked through this procedure, Whampire's DNA sample was acquired in extraordinary circumstances: Lord Transyl was brought back to life by [[Zs'Skayr]] using the immense [[Magic (Classic)|magical]] power he stole from the [[Alpha Rune]].<ref name="TVSB" />
+*Whampire's ability to turn into a chibi-fied bat is an actual power and not just for comedic effect.{{Refn|group = DJW|name = chibi}} [[Derrick J. Wyatt]] drew how his bat form would look like normally long after the show ended.{{Refn|[[:File:Whampire Bat Halloween DJW.png]]|group = DJW}}
+* [[Albedo]] is unable to transform into Whampire.{{Refn|[[:File:Albedo Cannot Add More Aliens.png]]|group = DJW}}
+*Derrick J. Wyatt came up with Whampire{{Refn|[[:File:Derrick Came Up With Whampire.png]]|group = DJW}} and designed his appearance, which were based on his roughs, alongside Steven Choi.{{Refn|[[:File:Whampire designers.png]]|group = DJW}}
+**Whampire is modeled after the [[Wikipedia:Marvel Comics|Marvel Comics]] character [[wikipedia:Baron Blood|Baron Blood]].{{Refn|[[:File:Whampire Inspiration.png]]|group = DJW}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Man of Action]]====
+{{Reflist|group = MoA}}
+===[[Pop-Up Trivia]]===
+{{Reflist|group = pop-up}}
+===[[Merchandise]]===
+====[[Bandai]]====
+{{Reflist|group = Bandai}}
+===Other===
+====United Heroes====
+{{Reflist|group = UH}}
+===Ben 10 Planet===
+{{Reflist|group = BTP}}
+{{Ben 10 Aliens}}
+[[bg:Уампир]]
+[[de:Vampir]]
+[[es:Whampire]]
+[[fr:Vlanpire]]
+[[pl:Fangampir]]
+[[pt-br:Vompiro]]
+[[ro:Vampirul]]
+[[ru:Вампирро]]
+[[Category:Transformations]]
+[[Category:Omniverse Transformations]]
+[[Category:Aliens]]
+[[Category:Anur System]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]

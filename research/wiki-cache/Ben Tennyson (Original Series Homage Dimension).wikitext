@@ -1,0 +1,87 @@
+{{Alternate Timeline Reboot|main=Ben Tennyson (Reboot)}}
+{{Disambig|main=Ben Tennyson}}
+{{Charbox
+|backcolor = F4F4F2
+|textcolor = 000000
+|image = OS Ben RB.png
+|name = Ben Tennyson
+|species = [[Human (Reboot)|Human]]
+|home world = [[Earth (Reboot)|Earth]] <small>(Alternate Dimension)</small>
+|residence = [[Bellwood (Reboot)|Bellwood]] <small>(Alternate Dimension)</small>
+|voice = [[Tara Strong]] 
+|age = 10
+|status = Alive
+|first = Alien X-Tinction
+|affiliation = [[Team Tennyson (Reboot)|Team Tennyson]]
+|occupation = Student<br>Hero
+|relative = Gwen Tennyson <small>(cousin)</small>
+|alias = Ben 10
+|equipment = [[Omnitrix (Reboot)|Omnitrix]]
+|Alternate Counterparts = {{Scroll|[[Ben Tennyson (Reboot)|Ben Tennyson]] <small>([[Dimension 27998.3]])</small><br>[[Ben 10,000 (Reboot)|Ben Tennyson]] <small>([[Reboot Future Timeline|Reboot Future Timeline]])</small><br>[[Ben Tennyson (Dimension 12041.5)|Ben Tennyson]] <small>([[Dimension 12041.5]])</small><br>[[Ben Tennyson (Maximilian's Dimension)|Ben Tennyson]] <small>([[Maximilian's Dimension]]; deceased)</small><br>[[Ben Tennyson (Alien Force Homage Dimension)|Ben Tennyson]] <small>(Alien Force homage Dimension)</small><br>[[Ben Tennyson (Ultimate Alien Homage Dimension)|Ben Tennyson]] <small>(Ultimate Alien Homage Dimension)</small><br>[[Ben Tennyson (Omniverse Homage Dimension)|Ben Tennyson]] <small>(Omniverse Homage Dimension)</small><br>[[Ben_X|Ben Tennyson]] <small>([[Ben X's Dimension]])</small>}}}}
+'''Benjamin "Ben" Kirby Tennyson''', also known as '''Original Series Ben''',{{Refn|[[:File:Tinction (2752).png]]|group = credits}} is an alternate version of [[Ben Tennyson (Reboot)|Ben]]. He is a representation of 10-year-old [[Ben Tennyson (Classic)|Ben Tennyson]] from the '''[[Ben 10 (2005 TV Series)|Original Series]]'''.
+
+==Appearance==
+He has a short brown hair and a green eyes. His outfit consists of a black-striped, white shirt with short sleeves, military green cargo pants with side pockets with a black belt hidden under his shirt, and black and white sneakers with black stripes. Ben wears the Omnitrix on his left wrist.
+
+==Personality==
+Being the same age, Original Series Ben is the most similar to his Reboot Counterpart of the alternate Bens, and is thus a bit immature. He is shown to be overconfident, and arrogant (E.g. He said to Evil Ben to get ready for Alien X-Tinction). However like Reboot Ben he is still a good and heroic person at heart. 
+
+==History==
+=== Background===
+At the age of 10, Original Series Ben found the [[Omnitrix (Reboot)|Omnitrix]] and became a hero, along with his cousin Gwen, who discovered how to cast [[Magic (Reboot)|magic]] [[Spells (Reboot)|spells]] and became a superhero known as "Lucky Girl".
+
+===Ben 10===
+Original Series Ben first appears in ''[[Alien X-Tinction]]'', where he is brought to [[Reboot Timeline|Dimension 27998.3]] by [[Ben Tennyson (Reboot)|Ben]] and [[Maximilian Tennyson|Maximilian]] to help fight [[Alien X (Reboot)|Alien X]]. Original Series Ben transforms into [[Heatblast (Reboot)|Heatblast]] to help Maximilian protect the others from raining boulders before [[Ben Tennyson (Omniverse Homage Dimension)|'''Omniverse''' Ben]] turns into [[Bloxx (Reboot)|Bloxx]] to shield everyone.
+
+Ben eventually convinces everyone to fight Alien X at the time. As Heatblast, Original Series Ben is able to synchronize his powers with his counterparts and remove the alternate Omnitrix from the upper left side of Alien X's chest. After Alien X is defeated, Original Series Ben imitates an explosion when it is revealed that their enemy is [[Ben_X|an evil adult Ben]]. As Maximilian takes Ben X elsewhere, Ben thanks the others, stating that he could not have beaten Alien X without them. Original Series Ben is last seen telling Ben he will "smell [him] later" before returning to his home dimension.
+
+==Powers and Abilities==
+===Equipment===
+[[File:Tinction (2093.1).png|thumb|Omnitrix]]
+Ben possesses the [[Omnitrix (Reboot)|Omnitrix]]. Through it, he can transform into various aliens and utilize their respective powers.
+====Aliens Used:====
+*[[Heatblast (Reboot)|Heatblast]]
+
+==Weaknesses==
+Whenever the Omnitrix times out, Ben is left powerless until he switches to a new alien form.
+
+==Appearances==
+===Ben 10===
+====Season 5====
+*''[[Alien X-Tinction]]'' <small>(first appearance)</small>
+
+==Trivia==
+*This Ben's design is a stylized version of 10/11-year-old [[Ben Tennyson (Classic)|Ben Prime]]'s regular appearance in the '''Original Series''' and [[Ben 10: Omniverse (TV Series)|'''Omniverse''']] flashbacks.
+*Original Series Ben's last on-screen line, "Guess I'll smell ya later", quotes a similar line from ''[[Goodbye and Good Riddance]]''.
+*The reason why Original Series Ben used only Heatblast during ''Alien X-Tinction'' was due to time constraints and design costs.{{Refn|[[:File:Alternate Bens Limited Aliens Explanation.png]]|group = DR}}
+*[[Duncan Rouleau]] originally stated that the four alternate Bens featured in ''Alien X-Tinction'' are the same as [[Ben Tennyson (Classic)|Ben Prime]] from the previous four series.{{Refn|group=DR|[[:File:All Alternate Bens are Classic Ben.png]]}} However, he later rescinded that statement, stating that they are from alternate timelines.{{Refn|[[:File:AXT Bens are not Prime.png]]|group = DR}}
+**[[Cartoon Network]] already indicated this, when it said in the description of a video that [[Ben Tennyson (Alien Force Homage Dimension)|'''Alien Force''' Ben]] and [[Ben Tennyson (Ultimate Alien Homage Dimension)|'''Ultimate Alien''' Ben]] are from different dimensions.{{Refn|https://youtu.be/6aZT9D1S5Oc|group = CN}}
+
+==References==
+{{Reflist}}
+===[[Cartoon Network]]===
+{{Reflist|group = CN}}
+===Crew Statements===
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+===Production Material===
+====End Credits====
+{{Reflist|group = credits}}
+{{Ben 10 RBC}}
+{{DISPLAYTITLE:Ben Tennyson}}
+[[Category:Characters]]
+[[Category:Heroes]]
+[[Category:Males]]
+[[Category:Alternate Timeline Characters]]
+[[Category:Male Heroes]]
+[[Category:Omnitrix Wielders]]
+
+[[Category:Humans]]
+[[Category:Human Males]]
+[[Category:Alternate Versions of Ben Tennyson]]
+[[Category:One-Time Characters]]
+[[Category:Reboot Characters]]
+[[pl:Ben Tennyson (wymiar oryginalnej serii)]]
+[[Category:Tennyson Family]]
+[[Category:Reboot Heroes]]
+[[Category:Supporting Characters]]

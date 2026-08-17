@@ -1,0 +1,103 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 82B18C
+|textcolor = 000000
+|name = Diamond Matter
+|image = Diamond Matter 001.png
+|species = ½ [[Petrosapien (Classic)|Petrosapien]]<br>½ [[Galvan (Classic)|Galvan]]
+|body = Crystalline Humanoid
+|power = Enhanced Intelligence<br>Shapeshifting<br>Weapon Manifestation <small>(via Shapeshifting)</small><br>Enhanced Durability
+|voice = [[Jim Ward]]
+|1st-appearance = Dr. Animo and the Mutant Ray
+}}
+{{Quote|Oh, man! [[Diamondhead (Classic)|Diamondhead]] and [[Grey Matter (Classic)|Grey Matter]]? I'm a razor-sharp hood ornament.|Diamond Matter.<ref name="Mutant Ray">''[[Dr. Animo and the Mutant Ray]]''</ref>}}
+'''Diamond Matter'''{{Refn|[[:File:Mutant (2438).png]]|name = subtitles|group = credits}}<ref name="Mutant Ray"/> is the [[Combinations (Classic)|combination]] of [[Diamondhead (Classic)|Diamondhead]] and [[Grey Matter (Classic)|Grey Matter]]'s DNA. He cannot be accessed unless the faceplate of the [[Omnitrix (Original)|Omnitrix]] is broken or by using the [[Biomnitrix]].{{Refn|group = note|name = fusions|Diamond Matter, [[Heat Jaws]], and [[Stink Arms]] are three fusions which were originally created by a broken, [[Omnitrix (Original)|prototype Omnitrix]]. All three fusions are possible with the [[Biomnitrix]]. However, they might differ in aspects such as appearance, powers and weaknesses as there is no evidence that the broken prototype Omnitrix creates fusions the same way as the Biomnitrix.}}
+
+==Appearance==
+Diamond Matter is slightly bigger than [[Grey Matter (Classic)|Grey Matter]]. He has [[Diamondhead (Classic)|Diamondhead]]'s crystalline skin, as well as the spikes on his back and head, and Grey Matter's eyes and mouth.
+
+Diamond Matter wears a uniform that is white with black cuffs on the left and black with white cuffs on the right, and wore the [[Omnitrix (Original)|Omnitrix]] symbol on his chest.
+
+==Powers and Abilities==
+<gallery type="slideshow">
+Mutant (955).png|Shapeshifting
+Mutant (1056).png|Enhanced Durability
+Mutant (1156).png|Weapon Manifestation (via Shapeshifting)
+</gallery>
+Being part-[[Petrosapien (Classic)|Petrosapien]], Diamond Matter can alter the shape of his limbs like [[Diamondhead (Classic)|Diamondhead]].
+
+Being part-[[Galvan (Classic)|Galvan]], Diamond Matter has enhanced intelligence.
+
+Diamond Matter has enhanced durability, as he was able to withstand being slammed into a branch by [[Heatbat]].
+
+==Weaknesses==
+[[File:Mutant (943).png|thumb|218x218px|Small Size]]
+Diamond Matter's enhanced strength is reduced due to his size.
+
+Like [[Grey Matter (Classic)|Grey Matter]], Diamond Matter's small size makes him unsuitable for physical battle.
+
+==History==
+===Ben 10===
+*Diamond Matter first appeared in ''[[Dr. Animo and the Mutant Ray]]'', where he battled [[Heatbat]] and briefly got eaten, then thrown up by an alligator. He then sliced his way through some swamp trees to clear the [[Team Tennyson (Classic)|gang's]] airboat's path until he reverted.
+
+==Appearances==
+===Ben 10===
+====Season 2====
+*''[[Dr. Animo and the Mutant Ray]]'' <small>(first appearance)</small>
+
+===Online Games===
+====Ben 10 (2016 TV Series)====
+*''[[Super Hero Time]]''
+
+==Games==
+===Online Games===
+[[File:Diamond Matter SHT.png|thumb|Diamond Matter in ''Super Hero Time'']]
+====[[Super Hero Time]]====
+Diamond Matter is a playable alien in the game. By inviting a friend, both the player and their friend will have temporary access to him for 12 hours before needing to reunlock him with the same method.
+
+==Naming and Translations==
+{{Translation
+|german = Stahlzwerg
+|germand = From ''Stahlschädel'' (Diamondhead's german name) and ''Zwerg'', dwarf
+|ha = Diamante Gris
+|had = From ''gris'', grey; and ''diamante'', diamond
+|russian = Алмаз и Гуманоид
+|russiand = From ''алмаз'', diamond and ''и'' and, ''гуманоид'', humanoid
+|portuguesebr = Diamante Cinzento
+|portuguesebrd = From ''diamante'', diamond and ''cinzento'', grey
+|polish = Szary Diament
+|polishd = From ''szary'', grey and ''diament'', diamond
+|romanian = Cap de Cerebel
+|romaniand = ''Head of Cerebellum''|croatiand=From ''Made of Crystal'' (Diamondhead's croatian name) and ''tvar'', matter|croatian=Kristalna tvar|italian=Diamante Grigio|turkish=Elmas Madde|turkishd=From ''elmas'', diamond; and ''madde'', matter}}
+
+==Trivia==
+*Diamond Matter's voice is similar to [[Diamondhead (Classic)|Diamondhead]]'s in the '''[[Ben 10 (2005 TV Series)|Original Series]]''' but higher-pitched.
+*Diamond Matter was designed by [[Thomas N. Perkins IV]].{{Refn|[[:File:Tom Designed S3 & S4 Characters.png]]|group = TNP}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====End Credits====
+{{Reflist|group = credits}}
+===Crew Statements===
+====[[Thomas N. Perkins IV]]====
+{{Reflist|group = TNP}}
+{{Ben 10 Aliens}}
+[[es:Diamante Gris]]
+[[pl:Szary Diament]]
+[[pt-br:Diamante Cinzento]]
+[[ro:Cap de Cerebel]]
+[[Category:Aliens]]
+[[Category:Transformations]]
+[[Category:Original Series Transformations]]
+
+[[Category:Hybrids]]
+[[Category:Petrosapiens]]
+[[Category:One-Time Aliens]]
+[[Category:Classic Aliens]]
+[[Category:One-Time Transformations]]
+[[Category:Classic Transformations]]
+[[Category:Galvans]]

@@ -1,0 +1,221 @@
+{{Original|rb=Buzzshock (Reboot)}}
+{{Infobox Alien
+|textcolor = 299528
+|backcolor = 000000
+|name = Buzzshock
+|image = 
+<gallery>
+Buzzshock official.png|OV
+Buzzshock_Model_Front.png|OS
+</gallery>
+|species = [[Nosedeenian (Classic)|Nosedeenian]]
+|home-planet = [[Nosideen]]
+|body = Humanoid Battery
+|power = {{Scroll|Bio-Electrokinesis<br>Energy Absorption<br>Electricity Conductivity<br>Self-Electromorphosis<br>Electroporation <small>(via Self-Electromorphosis)</small><br>Electrical Possession <small>(via Self-Electromorphosis)</small><br>Technokinesis <small>(via Electrical Possession)</small><br>Technological Destruction <small>(via Electrical Possession)</small><br>Self-Duplication<br>Flight<br>Levitation<br>Regeneration<br>Enhanced Strength<br>Enhanced Speed <small>(via Flight)</small><br>Enhanced Reflexes<br>Electricity Immunity<br>Sonic Screams}}
+|voice = [[Tara Strong]] <small>([[Ben 10 (2005 TV Series)|Original Series]])</small><br>[[Eric Bauza]] <small>([[Ben 10: Omniverse (TV Series)|Omniverse]])</small>
+|1st-appearance = Ben 10,000 (Episode){{!}}Ben 10,000 
+}}
+{{Quote|Tall order, but I'm sure we can come to an agreement. Will that be cash - '''or charge?!'''|[[Ben Tennyson (Classic)|Ben]] to the [[Sir Enoch|Black Knight]], right before transforming into Buzzshock.{{Refn|group = AP|''[[Black Knight's Flight]]''}}}}
+'''Buzzshock''' is the [[Omnitrix]]'s DNA sample of a [[Nosedeenian (Classic)|Nosedeenian]]{{Refn|The name [[Nosedeenian]] comes from '''Nosedeen Quasar''', which is a misspelling of [[Nosideen]] quasar, the home place for the species as revealed in [[Pop-Up Trivia|pop-up trivia]] for ''[[Ben 10,000 (Episode)|Ben 10,000]]''.{{Refn|[[:File:Nosideen Quasar Proof.png]]|group = pop-up|name=quasar}} On October 18, 2009, the Nosedeen Quasar page was created by user [[User:The Ultimate Necrofriggian|The Ultimate Necrofriggian]], with the spelling error being neglected for years. Eventually, in the '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''' episode ''[[A Jolt From the Past]]'' the species was referred to as Nosedeenians, thereby canonizing the name with a misspelling.{{Refn|[[Ben 10 Planet:Longstanding Misinformation]]|group = BTP}}|group = note}} from the [[Nosideen]] quasar.{{Refn|group = pop-up|name = quasar}}<ref name="B10k">''[[Ben 10,000 (Episode)|Ben 10,000]]''</ref>
+
+==Appearance==
+===Ben 10,000 as Buzzshock===
+Buzzshock's appearance is similar to an [[Earth (Classic)|Earth]] dry cell battery, albeit rounded out. He is black with green eyes, a large lightning bolt-like stripe spanning from his neck starts to his waist on his front and back sides, and positive (+) and negative (-) symbols on his back.
+
+In the '''[[Ben 10 (2005 TV Series)|Original Series]]''', Buzzshock's lightning bolt stripe was white, he had a hole on his head that could release electricity. The [[Omnitrix (Original Future)|Omnitrix]] symbol is located on his chest.
+
+===Ben as Buzzshock===
+In the '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' [[Ben 10: Ultimate Alien (TV Series)/Theme Song|intro]], Buzzshock looked mostly the same as he did in the '''Original Series''', except the hole on his head was filled in with a flat grey spot and his [[Ultimatrix (Original)|Ultimatrix]] symbol was recolored green.
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Buzzshock has two bolts on each arm, the lightning bolt stripe is recolored green, and the top of his head features a proper battery cap, colored light green. His head is now more prominent, as his chin actually sticks out rather than being a part of a long, one-piece body, and his eyes are now almond-shaped instead of being circular. He wears the [[Omnitrix (Omniverse)|Omnitrix]] symbol on the top of his head cap.
+
+===Ken as Buzzshock===
+[[Ken Tennyson (Original)|Ken]]'s Buzzshock looked the same as [[Ben 10,000 (Original)|Ben 10,000]]'s Buzzshock in the '''Original Series'''.
+
+===Bad Ben as Bad Buzzshock===
+[[Bad Ben]] as Buzzshock looks identical to [[Ben Tennyson (Classic)|Ben Prime]]'s Buzzshock in '''Omniverse''', save for all the green parts being recolored mint green.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Buzzshock UA1.png|Buzzshock in the '''Ultimate Alien''' intro
+Badshock.png|[[Bad Ben]] as Bad Buzzshock
+</gallery>
+
+==Personality==
+Like all [[Nosedeenian (Classic)|Nosedeenians]], Buzzshock is prone to mischievousness or amusement. He always laughs whenever he moves around or fights.<ref name="TCoM">''[[The Color of Monkey]]''</ref>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+CIU (344).png|Bio-Electrokinesis
+MaxMonster253.png|Energy Absorption
+TCoM (61).png|Electricity Conductivity/Electricity Immunity
+MaxMonster243.1.png|Self-Electromorphosis/Electroporation
+TWB (478).png|Flight/Enhanced Speed
+TWB (489).png|Levitation
+MaxMonster232.1.png|Enhanced Reflexes
+</gallery>
+Buzzshock is like a living battery, able to store and release massive amounts of electricity within his body. The amount stored corresponds with his vitality; he gets energetic and hyper when full of electricity<ref name="TT">''[[Tourist Trap]]''</ref><ref>''[[Cough It Up]]''</ref><ref name="TCoM"/> and sleepy when deprived of it.<ref name="AJftP" />
+
+Buzzshock can both project the electricity stored inside his body outward and absorb external electricity inward, primarily by using his hands.<ref name="B10k" /> He also has electrokinesis, and is able to control any electricity around him, allowing him to draw in electricity from far away or link himself to other [[Nosedeenian (Classic)|Nosedeenian]]s on a chain of lightning.<ref name="TT"/> He can absorb all the energy from a city block in a matter of seconds,<ref name="AJftP" /> and as a result of absorbing, his electric attacks become more powerful.<ref name="MM">''[[Max's Monster]]''</ref>
+
+Not only is Buzzshock immune to electricity,<ref name="TCoM" /> he can convert parts of his body or his entire body into pure electricity, and travel across certain things, such as phone lines and pipes.<ref name="TT" /><ref name="MM" /> Using this ability, Buzzshock can inhabit electrical devices, controlling them from the inside, and in some cases powering them. He can also cause electrical technology to malfunction and fry when he passes through them.<ref name="TT" />
+
+If Buzzshock absorbs enough energy, he can duplicate himself one or many times, as demonstrated by other Nosedeenians.<ref name="TT" /><ref name="AJftP" />{{Refn|[[:File:Buzzshock Must Learn To Duplicate.png]]|group = MW}} He can also duplicate if he is forcibly bisected, in which his two parts will regenerate and become two whole Nosedeenians.<ref name="TT" />
+
+Buzzshock can naturally fly and levitate, and can also do so by turning his entire body or parts of it into electricity.<ref name="ATTWB">''[[And Then There Was Ben]]''</ref><ref name="TCoM" />
+
+Buzzshock is surprisingly strong for his size, as a Nosedeenian was able to lift an adult [[Human (Classic)|human]] several feet above the ground by their underwear.<ref name="TT" />
+
+Buzzshock has enhanced reflexes, as shown when he quickly reacted and jumped over [[Phil Billings (Classic)|Phil]]'s hand when he attacked him.<ref name="MM" />
+
+Buzzshock can emit a sonic scream capable of shattering glass, as demonstrated by other Nosedeenians.<ref name="TT" />
+
+==Weaknesses==
+[[File:MaxMonster258.png|thumb|Small Size]]
+Buzzshock can be insulated with rubber-sheeted blankets, as demonstrated with other [[Nosedeenian (Classic)|Nosedeenian]]s.<ref name="AJftP" />
+
+Buzzshock can be trapped in something made of a non-conductive material, such as glass, as demonstrated with other Nosedeenians.<ref name="TT" />
+
+Buzzshock's energy can be absorbed by a species such as [[Conductoid]]s, as demonstrated with other Nosedeenians.<ref name="AJftP">''[[A Jolt From the Past]]''</ref> If Buzzshock runs out of energy, he will be unable to stay awake.<ref name="AJftP"/>
+
+Buzzshock's small size can be a disadvantage against a bigger, stronger opponent like Phil.<ref name="MM" />
+
+==History==
+===Omniverse=== 
+*In ''[[Max's Monster]]'', Buzzshock was unlocked by [[Phil Billings (Classic)|Phil]] so he could feed off him. He then recharged a [[Null Void Projector]] to defeat Phil by sending him back to the [[Null Void (Classic)|Null Void]].
+*In ''[[Cough It Up]]'', Buzzshock defeated [[SixSix (Classic)|SixSix]], but was defeated by [[SevenSeven]].
+*In ''[[Rook Tales]]'', Buzzshock failed to take off [[Rook Ben|Young One]]'s tail.
+*In ''[[The Color of Monkey]]'', Buzzshock battled [[Liam]] and [[Suemungousaur]].
+
+===[[Original Future Timeline|Original Future]]===
+*Buzzshock first appeared in ''[[Ben 10,000 (Episode)|Ben 10,000]]'', where he defeated [[Dr. Animo (Original Future)|Dr. Animo]].
+*In ''[[Ken 10]]'', [[Ken Tennyson (Original)|Ken]] as Buzzshock attempted to fight [[Mot Snikrep]] before the latter was frozen by [[Ben 10,000 (Original)|Ben 10,000]] as [[Arctiguana]]. Later, Ken as Buzzshock briefly battled [[Kevin 11,000]] before the former reverted.
+
+===Bad Ben's Timeline=== 
+*In ''[[And Then There Was Ben]]'', [[Bad Ben|Bad]] Buzzshock chased an Omnitrixless [[Ben Tennyson (Classic)|Ben Prime]] only to be sent back to his own timeline by [[Ben Tennyson (No Watch Timeline)|No Watch Ben]] as [[Clockwork]].
+
+==Appearances==
+===Ben 10===
+====Season 3====
+*''[[Ben 10,000 (Episode)|Ben 10,000]]'' <small>(first appearance; by Ben 10,000; cameo)</small>
+
+====Season 4====
+*''[[Ken 10]]'' <small>(x2; by Ken; first time was an off-screen activation; second time was a cameo)</small>
+
+===Omniverse===
+====Season 4====
+*''[[Max's Monster]]'' <small>(first reappearance; intended alien was [[Feedback]])</small>
+
+====Season 5====
+*''[[And Then There Was Ben]]'' <small>(by Bad Ben; cameo)</small>
+
+====Season 6====
+*''[[Cough It Up]]''
+
+====Season 7====
+*''[[Rook Tales]]'' <small>(cameo)</small>
+*''[[The Color of Monkey]]''
+
+===Online Games===
+====Ben 10 (2016 TV Serues)====
+*''[[Super Hero Time]]''
+
+===Comics===
+====Cartoon Network Action Pack!====
+=====Ultimate Alien=====
+*''[[Black Knight's Flight]]''
+
+==Games==
+===Online Games===
+<gallery type="slideshow">
+Buzzshock SHT.png|Buzzshock in ''Super Hero Time'' ('''Original Series''')
+Buzzshock UA SHT.png|Buzzshock in ''Super Hero Time'' ('''Ultimate Alien''')
+Buzzshock OV SHT.png|Buzzshock in ''Super Hero Time'' ('''Omniverse''')
+</gallery>
+====[[Super Hero Time]]====
+Buzzshock is a playable alien in the game.
+
+==Comics==
+===Cartoon Network Action Pack!===
+====Ultimate Alien====
+*In ''[[Black Knight's Flight]]'', Buzzshock weakened [[Sir Enoch|the Black Knight]].
+
+==Naming and Translations==
+{{Translation
+|greek = Βομβοσόκ
+|greekd = From ''βόμβος'', buzz and ''σοκ'', shock
+|portuguesebr = Chocante
+|portuguesebrd = From ''chocante'', shocking
+|ha = Buzzshock<br>Bátorex <small>(''[[Cough It Up]]'')</small><br>Bátore <small>('''[[Ben 10: Omniverse (TV Series)|Omniverse]]''')</small>
+|had = From the original English name<br>From ''batería'', battery<br>From ''batería'', battery and ''atorar'', stuck
+|romanian = Buzzshock
+|romaniand = From the original English name
+|german = Grillschock
+|germand = From ''Grillen'', grilling and ''Schock'', shock/jolt
+|french = Onde de Choc
+|frenchd = From ''onde de choc'', shock wave
+|spanish = Chispazo
+|spanishd = From ''chispazo'', Spark
+|hungarian = Megawatt
+|hungariand = From ''megawatt'', megawatt
+|chinese = 那个光 (former)<br>多瓦特 (current)
+|chinesed = From ''那个'' <small>(Nà Gè)</small>, the, and ''光'' <small>(Guāng)</small>, light<br>From ''多'' <small>(Duō)</small>, mega, and ''瓦特'' <small>(Wǎ Tè)</small>, Watt
+|polish = Iskierka
+|polishd = From ''iskra'', spark
+|bulgarian = Бъзшок
+|bulgariand = From the original English name
+|russian = Базшок
+|russiand = From the original English name
+|italian = Buzzshock
+|italiand = From the original English name
+}}
+
+==Trivia== 
+*Despite appearing in the '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' intro, Buzzshock was unavailable for [[Ben Tennyson (Classic)|Ben]] until ''[[Max's Monster]]''.
+**Before this, Buzzshock appeared in the non-canon '''Ultimate Alien''' comic ''[[Black Knight's Flight]]''.
+***'''Ultimate Alien''' Buzzshock also appears in [[Super Hero Time|''Super Hero Time'']].
+**Buzzshock and [[Rath (Classic)|Rath]] are the only aliens to have been unlocked by electromagnetic interference.
+*Like [[Frankenstrike]], [[Snare-Oh]], Murk [[Upchuck]], and [[Arctiguana]], Buzzshock appeared in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', but he did not appear in ''[[A New Dawn]]''.
+*Buzzshock is one of five aliens featured in '''Omniverse''' who generate green electricity; the others being [[Upgrade (Classic)|Upgrade]], Frankenstrike, [[Brainstorm]], and [[Nanomech]].
+*Buzzshock is the only one of the three aliens originally exclusive to [[Ben 10,000 (Original)|Ben 10,000]] that is not repurposed from Perk Upchuck's concept art.
+*Buzzshock was designed by [[Dave Johnson]] in the '''[[Ben 10 (2005 TV Series)|Original Series]]'''.{{Refn|[[:File:Dave Designed Upgrade and Buzzshock.png]]|group = TNP}} Buzzshock's '''Omniverse''' design originally had a more rotund physique as well as a positive (+) or negative (-) symbol on either his chest or forehead.{{Refn|[[:File:Buzzshock Concept Art by Derrick J. Wyatt.png]]|group = ca}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====Concept Art====
+{{Reflist|group = ca}}
+===Crew Statements===
+====[[Matt Wayne]]====
+{{Reflist|group = MW}}
+====[[Thomas N. Perkins IV]]====
+{{Reflist|group = TNP}}
+===[[Pop-Up Trivia]]===
+{{Reflist|group = pop-up}}
+===[[Merchandise]]===
+====Cartoon Network Action Pack!====
+{{Reflist|group = AP}}
+===Ben 10 Planet===
+{{Reflist|group = BTP}}
+{{Ben 10 Aliens}}
+{{DISPLAYTITLE:Buzzshock}}
+
+[[bg:Бъзшок]]
+[[de:Blitzschock]]
+[[es:Bátore]]
+[[fr:Onde de Choc]]
+[[it:Buzzshock]]
+[[pl:Iskierka]]
+[[pt-br:Chocante]]
+[[ro:Buzzshock]]
+[[ru:Базшок]]
+[[tr:Buzzshock]]
+
+[[Category:Transformations]]
+[[Category:Aliens]]
+[[Category:Original Series Transformations]]
+[[Category:Ben 10,000's Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]

@@ -1,0 +1,84 @@
+{
+  "id": "heat-jaws",
+  "name": "Heat Jaws",
+  "wikiTitle": "Heat Jaws",
+  "kind": "fusion",
+  "species": "Pyronite/Piscciss Volann hybrid",
+  "homeworld": "",
+  "bodyType": "Anglerfish torso on a fiery Pyronite frame",
+  "debut": {
+    "episode": "Dr. Animo and the Mutant Ray",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [
+    "heatblast",
+    "ripjaws"
+  ],
+  "abilities": [
+    "Pyrokinesis - flames that grow stronger after he submerges in water",
+    "Ripjaws' steel-shearing jaws and unhinging mouth",
+    "Underwater breathing and underwater heat generation",
+    "Enhanced strength and durability",
+    "Fire resistance"
+  ],
+  "weaknesses": [
+    "Dehydrates on land extremely fast (Piscciss Volann half needs water while the Pyronite half radiates heat)",
+    "Pyrokinesis takes great effort in or out of water"
+  ],
+  "summary": "Ripjaws' torso on Heatblast's burning limbs - a fish that breathes fire underwater, and the fusion that ended Animo's mutant-ray mess.",
+  "traits": [
+    "Ripjaws' back fin replaced by a line of fire",
+    "Speaks with Heatblast's OS voice",
+    "Designer Thomas N. Perkins IV wanted a more blended take"
+  ],
+  "notableFeats": [
+    "Defeated Heatbat, the Mutant Frog and Dr. Animo, restored Max and fixed the Omnitrix (Dr. Animo and the Mutant Ray)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Dr. Animo and the Mutant Ray",
+      "notableEpisodes": [
+        "Dr. Animo and the Mutant Ray"
+      ],
+      "designNotes": "Ripjaws' grey anglerfish torso and head with Heatblast's rocky, flaming arms and legs; a line of fire replaces the dorsal fin.",
+      "image": {
+        "file": "Heat Jaws full.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": "Only infobox image (unlabelled); OS render."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 6,
+    "speed": 5,
+    "mobility": 5,
+    "offense": 7,
+    "defense": 4,
+    "special": 6,
+    "versatility": 5,
+    "intellect": 3,
+    "energy": 6,
+    "regeneration": 1,
+    "survivability": 5,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 4,
+    "controlPenalty": 0,
+    "rationale": "Combines Heatblast's fire (boosted underwater) with Ripjaws' bite and swimming, and he single-handedly beat every Animo mutant in his episode; but he dries out even faster than Ripjaws and his fire is hard to sustain."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Heat_Jaws"
+  ],
+  "notes": [
+    "Fusion of Heatblast + Ripjaws (componentIds); one-episode OS accident."
+  ]
+}

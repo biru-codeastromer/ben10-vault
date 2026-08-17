@@ -1,0 +1,110 @@
+/* ------------------------------------------------------------------
+   Ben 10 Vault — design tokens
+   Global palette + per-era identities. Eras are applied with [data-era].
+------------------------------------------------------------------- */
+:root {
+  /* base surfaces */
+  --bg-0: #050607;
+  --bg-1: #0a0d0e;
+  --bg-2: #11161a;
+  --bg-3: #1a2126;
+  --line: rgba(255, 255, 255, 0.08);
+  --line-strong: rgba(255, 255, 255, 0.16);
+  --ink: #eef2ee;
+  --ink-dim: #a3ada6;
+  --ink-mute: #6c756f;
+
+  /* the franchise green */
+  --omni: #5ad72a;
+  --omni-2: #9cff5c;
+  --omni-deep: #1c6c12;
+  --omni-glow: rgba(90, 215, 42, 0.55);
+
+  /* fonts (bundled in /public/fonts) */
+  --font-body: 'Barlow', system-ui, sans-serif;
+  --font-ui: 'Barlow Condensed', 'Barlow', system-ui, sans-serif;
+  --font-classic: 'Titan One', 'Barlow Condensed', sans-serif;
+  --font-af: 'Michroma', 'Orbitron', sans-serif;
+  --font-ua: 'Orbitron', 'Michroma', sans-serif;
+  --font-ov: 'Bungee', 'Barlow Condensed', sans-serif;
+
+  /* default era = franchise */
+  --era: var(--omni);
+  --era-2: var(--omni-2);
+  --era-deep: var(--omni-deep);
+  --era-glow: var(--omni-glow);
+  --era-ink: #eef2ee;
+  --era-font: var(--font-classic);
+  --era-radius: 18px;
+
+  /* motion */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-fast: 160ms;
+  --dur: 320ms;
+  --dur-slow: 700ms;
+
+  /* layout */
+  --page-max: 1440px;
+  --gutter: clamp(16px, 4vw, 48px);
+  --card-w: 300px;
+  --header-h: 64px;
+
+  color-scheme: dark;
+}
+
+/* --- Era: Ben 10 (2005) — raw prototype energy, chunky, black/green/white --- */
+[data-era='os'] {
+  --era: #62d92a;
+  --era-2: #b6ff6b;
+  --era-deep: #14500b;
+  --era-glow: rgba(98, 217, 42, 0.6);
+  --era-ink: #f4f7f0;
+  --era-font: var(--font-classic);
+  --era-radius: 22px;
+  --era-bg-a: #06110a;
+  --era-bg-b: #0d1f10;
+  --era-paper: #f4f7f0;
+}
+
+/* --- Era: Alien Force — mature, sharper, darker, cleaner --- */
+[data-era='af'] {
+  --era: #3fdc3f;
+  --era-2: #93f59a;
+  --era-deep: #0f4a19;
+  --era-glow: rgba(63, 220, 63, 0.5);
+  --era-ink: #e9efe9;
+  --era-font: var(--font-af);
+  --era-radius: 10px;
+  --era-bg-a: #06090b;
+  --era-bg-b: #0b1418;
+  --era-paper: #d9e0dc;
+}
+
+/* --- Era: Ultimate Alien — Ultimatrix, dangerous, evolved --- */
+[data-era='ua'] {
+  --era: #37e15a;
+  --era-2: #a8ffb8;
+  --era-deep: #0d4d21;
+  --era-glow: rgba(55, 225, 90, 0.55);
+  --era-ink: #eaf3ec;
+  --era-font: var(--font-ua);
+  --era-radius: 12px;
+  --era-bg-a: #07090a;
+  --era-bg-b: #101416;
+  --era-paper: #cfd6d1;
+}
+
+/* --- Era: Omniverse — completed Omnitrix, white + green, energetic --- */
+[data-era='ov'] {
+  --era: #3ee63e;
+  --era-2: #b8ff8a;
+  --era-deep: #167a1f;
+  --era-glow: rgba(62, 230, 62, 0.55);
+  --era-ink: #f7fbf5;
+  --era-font: var(--font-ov);
+  --era-radius: 14px;
+  --era-bg-a: #0a0f0a;
+  --era-bg-b: #142014;
+  --era-paper: #f2f6ef;
+}

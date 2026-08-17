@@ -1,0 +1,120 @@
+{
+  "id": "jetray",
+  "name": "Jetray",
+  "wikiTitle": "Jetray (Classic)",
+  "kind": "standard",
+  "species": "Aerophibian",
+  "homeworld": "Aeropela",
+  "bodyType": "Humanoid Manta Ray",
+  "debut": {
+    "episode": "Everybody Talks About the Weather",
+    "series": "af",
+    "usedBy": "ben-15-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Supersonic flight (several times the speed of sound; hyperspace-capable)",
+    "Neuroshock blasts from eyes and tail (shut down nervous systems, blow holes in engine blocks)",
+    "Space and underwater survivability (breathes and swims fast underwater)",
+    "Immunity to fire/heat, radiation and electricity",
+    "Enhanced strength (caught the Rustbucket 3 mid-air)",
+    "Durability (took multiple blows from Vilgax, jet gunfire)",
+    "Prehensile tail and feet"
+  ],
+  "weaknesses": [
+    "Neuroshock blasts useless against robots and Talpaedans",
+    "Deflected neuroshocks can hurt himself",
+    "Argit's quills make him drowsy",
+    "Cannot fly in Legerdomain"
+  ],
+  "summary": "Ben's fastest flier in Alien Force and Ultimate Alien: a red manta-ray alien that breaks the sound barrier and fires neuroshock beams from its eyes and tail.",
+  "traits": [
+    "Ben's fastest flying alien",
+    "Shoots from both eyes AND tail",
+    "Slower than XLR8 on the ground",
+    "Never used on-screen in Omniverse"
+  ],
+  "notableFeats": [
+    "Discovered the Highbreed crop circles while dogfighting Alan (Everybody Talks About the Weather)",
+    "Flew Reinrassig III from Augstaka to Earth via hyperspace (If All Else Fails)",
+    "Battled Air Force jets and saved a pilot (Fame)",
+    "Destroyed the Hand of Armageddon, defeating Eon (Ben 10,000 Returns)",
+    "Evolved the pterodactyls back into chickens with the evolution ray (The Eggman Cometh)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af",
+        "ben-16-af"
+      ],
+      "firstEpisode": "Everybody Talks About the Weather",
+      "notableEpisodes": [
+        "Everybody Talks About the Weather",
+        "Pier Pressure",
+        "War of the Worlds: Part 1",
+        "If All Else Fails",
+        "The Final Battle: Part 1"
+      ],
+      "designNotes": "Red manta-ray humanoid, yellow horns and patagia, green eyes, gills under arms, black lightning-bolt stripes running to the recalibrated Omnitrix symbol on chest.",
+      "image": {
+        "file": "JetrayProfilePicture.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "only infobox image (unlabelled); Jetray had a single design shared by AF and UA - visually verified: red manta body, Omnitrix on chest"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Fame",
+      "notableEpisodes": [
+        "Fame",
+        "Video Games",
+        "Fused",
+        "The Enemy of My Enemy",
+        "Ben 10,000 Returns",
+        "The Eggman Cometh"
+      ],
+      "designNotes": "Identical to Alien Force with the Ultimatrix symbol on chest. Heroes United (non-diegetic cameo) drew the stripes straight instead of lightning-bolted.",
+      "image": {
+        "file": "JetrayProfilePicture.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "same shared AF/UA render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 6,
+    "speed": 9,
+    "mobility": 8,
+    "offense": 6,
+    "defense": 5,
+    "special": 5,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 5,
+    "regeneration": 0,
+    "survivability": 8,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Supersonic, hyperspace-capable flight (9) that works in air, water and space, with neuroshock beams that dropped a Pyronite and an Amperi and destroyed the Hand of Armageddon. Broad immunities (fire, radiation, electricity). Beams do nothing to robots and he is a mid-tier brawler at best."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Jetray_(Classic)"
+  ],
+  "notes": [
+    "IMPORTANT: Jetray was NOT used on-screen in Omniverse - only photos in Jimmy's room (Return to Forever) and mentions; the wiki trivia states he is the only regular AF/UA alien not used in OV. No OV appearance created despite the brief's assumption. 'OV Jetray Full Design.png' / 'OV Flashbacks Jetray.png' in the gallery are 2020 GoFundMe drawings by Derrick J. Wyatt, not on-screen.",
+    "Also used by Albedo (Good Copy, Bad Copy) and Kevin (Inspector 13).",
+    "Ultimate Ben used Jetray's powers in Ben 10,000 Returns (not a transformation).",
+    "AF S1 (wiki) = ben-15-af, AF S2 = ben-16-af."
+  ]
+}

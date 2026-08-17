@@ -1,0 +1,88 @@
+{{Future}}
+{{Infobox Alien
+|backcolor = 911a31
+|textcolor = b4666a
+|name = Fourmungousaur
+|image = 94731.png
+|species = ½ [[Tetramand (Classic)|Tetramand]]<br>½ [[Vaxasaurian (Classic)|Vaxasaurian]]
+|power = Enhanced Strength<br>Enhanced Durability<br>Shock Waves<br>Size Alteration
+|voice = 
+|1st-appearance = And Then There Were None
+|body = Four-Armed Dinosaur
+}}
+'''Fourmungousaur''' is the [[Combinations (Classic)|combination]] of [[Four Arms (Classic)|Four Arms]] & [[Humungousaur (Classic)|Humungousaur]]'s DNA. He can only be accessed by using the [[Biomnitrix]].
+
+==Appearance==
+Fourmungousaur has the body of [[Humungousaur (Classic)|Humungousaur]] with the features of [[Four Arms (Classic)|Four Arms]]. His skin is two-toned like Humungousaur's, but the darker tan is replaced by Four Arms' red. He has four Humungousaur arms with Four Arms' gloves on the hands. On his arms and head, he has Four Arms' spikes.
+
+He has Humungousaur's white belt with a green stripe, along with Four Arms' pants that go above the belt. His feet are Four Arms' with Humungousaur's toenails. His head is shaped like Four Arms' with his facial features and Humungousaur's nose.
+
+The [[Biomnitrix]] symbol is located on his sash.
+
+==Powers and Abilities==
+<gallery type="slideshow">
+ATTWN (335).png|Enhanced Strength
+ATTWN (279).png|Shock Waves
+ATTWN (440).png|Enhanced Durability
+</gallery>
+Fourmungousaur has the combined strength of both [[Four Arms (Classic)|Four Arms]] & [[Humungousaur (Classic)|Humungousaur]],{{Refn|[[:File:Fourmungousaur Strength.png]]|group = DJW}} being able to overpower an [[Appoplexian (Classic)|Appoplexian]] and break free from a [[Thep Khufan]]'s bandages.<ref name="ATTWN">''[[And Then There Were None]]''</ref>
+
+Being part-[[Vaxasaurian (Classic)|Vaxasaurian]], Fourmungousaur has the power to increase or decrease his own body size and mass like Humungousaur.{{Refn|[[:File:Humungousaur Fusions Size Alteration.png]]|group = DJW}}{{Refn|[[:File:Fourmungousaur has combined strength and size alteration.png]]|group = CM}}
+
+==History==
+===Omniverse===
+*Fourmungousaur first appeared in ''[[And Then There Were None]]'', where he battled [[Rath (Classic)|Mad Rath]] and [[Benzarro]] as [[Snare-Oh]].
+*In ''[[And Then There Was Ben]]'', Fourmungousaur defeated [[Eon]].
+
+==Appearances==
+===Omniverse===
+====Season 5====
+
+*''[[And Then There Were None]]'' <small>(first appearance; non-speaking)</small>
+*''[[And Then There Was Ben]]'' <small>(cameo)</small>
+
+==Naming and Translations==
+{{Translation
+|french = Quadnormosaure
+|frenchd =  from ''Quad'', Fourarms and ''Énormosaure'', Humungousaur
+|german = Krakosaurus
+|germand = From ''Krake'', (Four Arms' german name) and ''Gigantosaurus'', (Humungousaur's german name)
+|italian = 2x2sauro
+|italiand = From ''2x2'',Fourarms and ''Omosauro'', Humungousaur
+|portuguesebr = Quatronormossauro
+|portuguesebrd = From ''quatro'', four, ''enorme'', enormous, and ''-sauro'', dinosaur suffix
+|russian = Четырёхрукий Гумангозавр
+|russiand = From ''четырёхрукий'', four-armed and ''гумангозавр'', Humungousaur
+|ha = Humungosaurio
+|had = From ''Humungousaur''
+|romanian = Patrumungozaur
+|romaniand = From ''patru'', four, and ''Humungousaur''
+|polish = Czterogantozaur
+|polishd = From ''cztero'', four and ''Gigantozaur'', Polish name for Humungousaur
+}}
+
+==Trivia==
+*Fourmungousaur is the only combination alien to have never spoken.
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Charlotte McDuffie]]====
+{{Reflist|group = CM}}
+{{Ben 10 Aliens}}
+[[es:Fourmungousaur]]
+[[pl:Czterogantozaur]]
+[[pt-br:Quatronormossauro]]
+[[ro:Patrumungozaur]]
+[[ru:Четырехрукий Гумангозавр]]
+[[Category:Ben 10,000's Transformations]]
+[[Category:Omniverse Transformations]]
+[[Category:Tetramands]]
+[[Category:Hybrids]]
+[[Category:Transformations]]
+[[Category:Vaxasaurians]]
+[[Category:Classic Aliens]]
+[[Category:Aliens]]
+[[Category:Classic Transformations]]

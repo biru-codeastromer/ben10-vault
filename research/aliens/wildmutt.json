@@ -1,0 +1,146 @@
+{
+  "id": "wildmutt",
+  "name": "Wildmutt",
+  "wikiTitle": "Wildmutt",
+  "kind": "standard",
+  "species": "Vulpimancer",
+  "homeworld": "Vulpin",
+  "bodyType": "Animalistic (eyeless orange quadruped)",
+  "debut": {
+    "episode": "And Then There Were 10",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": "ultimate-wildmutt",
+  "componentIds": [],
+  "abilities": [
+    "Sightless sensing (360-degree scent/sound 'radar')",
+    "Enhanced smell, hearing and taste; expert tracking",
+    "Sharp teeth and enhanced bite force",
+    "Sharp claws; wall scaling and digging",
+    "Enhanced strength and durability",
+    "Enhanced speed and agility (faster than a cheetah)",
+    "Cold immunity",
+    "Prehensile forefeet"
+  ],
+  "weaknesses": [
+    "Cannot speak - only growls",
+    "High-frequency sounds (dog whistles) overwhelm his hearing",
+    "Sensitive to strong smells",
+    "A cold blocks his neck nostrils and leaves him effectively blind",
+    "Implied vulnerability to fire"
+  ],
+  "summary": "A blind, orange, ape-gaited beast that 'sees' by scent and sound; Ben's go-to for tracking, brawling and clawing up walls.",
+  "traits": [
+    "No eyes, ears or nose - gill-like nostrils on the neck",
+    "Body spines act as tactile whiskers",
+    "Only Ben alien that cannot talk",
+    "Ultimate Wildmutt can speak"
+  ],
+  "notableFeats": [
+    "Defeated one of Vilgax's Mechadroids in his first outing (And Then There Were 10)",
+    "Sniffed out and beat the Limax impersonating Max (Permanent Retirement)",
+    "Threw Eon out of the timeline (Ben 10: Race Against Time)",
+    "Held his own against Buglizard (Of Predators and Prey: Part 1)",
+    "Defeated the Twin Knights at the Highbreed pulse generator (Return to Forever)",
+    "Went Ultimate against Prisoner 775 and the Esoterica (UA)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os",
+        "ben-10k-os",
+        "ben-5"
+      ],
+      "firstEpisode": "And Then There Were 10",
+      "notableEpisodes": [
+        "And Then There Were 10",
+        "Permanent Retirement",
+        "Truth",
+        "Ben 10: Secret of the Omnitrix",
+        "Ben 10: Race Against Time"
+      ],
+      "designNotes": "Vivid orange fur, black lips and claws, black-and-white shoulder brace holding the original Omnitrix on the left shoulder. Ben 10,000's Wildmutt is larger, striped, has a tail and wears the Omnitrix on his forehead; 4-year-old 'Wildpup' is a small version.",
+      "image": {
+        "file": "Wildmutt OS.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-10-ua",
+        "ben-16-ua"
+      ],
+      "firstEpisode": "The Forge of Creation",
+      "notableEpisodes": [
+        "The Forge of Creation",
+        "Prisoner Number 775 is Missing",
+        "Inspector 13",
+        "The Ultimate Enemy: Part 2"
+      ],
+      "designNotes": "16-year-old: lighter skin, lips coloured like the fur, Ultimatrix on the chest (no brace). 10-year-old (Forge of Creation): OS look with all-black brace and green Omnitrix.",
+      "image": {
+        "file": "Wildmutt UA Season 2-12.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "Infobox image labelled UA (episode screenshot rather than a render)."
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "Have I Got a Deal for You",
+      "notableEpisodes": [
+        "Have I Got a Deal for You",
+        "Of Predators and Prey: Part 1",
+        "Evil's Encore",
+        "Return to Forever",
+        "And Then There Were None",
+        "Fight at the Museum"
+      ],
+      "designNotes": "Black lips return, bigger forearms; 16-year-old wears a green-and-white collar with the Omnitrix. 11-year-old keeps the OS black-and-white shoulder brace with a green Omnitrix.",
+      "image": {
+        "file": "Wildmutt OV.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 6,
+    "speed": 6,
+    "mobility": 6,
+    "offense": 5,
+    "defense": 4,
+    "special": 5,
+    "versatility": 4,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 4,
+    "range": 1,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 1,
+    "rationale": "Solid melee bruiser with cheetah-plus speed and unbeatable tracking senses, but purely close-range and unable to communicate. Sonic whistles and strong smells shut his senses down; his beastly form makes finesse tasks hard."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Wildmutt"
+  ],
+  "notes": [
+    "Alien Force: locked in Ben 10 Returns; wiki History says re-unlocked by the Master Control in War of the Worlds: Part 1 but he is NOT listed among AF on-screen appearances - no AF record.",
+    "UA 'Fame' appearance is only footage on TV (10-year-old); Viktor: The Spoils is a hologram cameo; first real 16-year-old UA use is Prisoner Number 775 is Missing.",
+    "Also used by Kevin (Inspector 13, via Ultimatrix), Carl (Destroy All Aliens) and No Watch Ben (And Then There Was Ben) - not counted.",
+    "Ultimate Wildmutt (UA) is the Ultimatrix evolution."
+  ]
+}

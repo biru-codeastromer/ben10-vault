@@ -1,0 +1,88 @@
+{
+  "id": "ultimate-wildmutt",
+  "name": "Ultimate Wildmutt",
+  "wikiTitle": "Ultimate Wildmutt",
+  "kind": "ultimate",
+  "species": "Ultimate Vulpimancer",
+  "homeworld": "",
+  "bodyType": "Large quadrupedal/bipedal beast",
+  "debut": {
+    "episode": "Prisoner Number 775 is Missing",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": "wildmutt",
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Can speak (unlike Wildmutt)",
+    "Enhanced strength (pinned Prisoner 775 with ease)",
+    "Enhanced bite force (lifted and twisted an Esoterica with his jaws)",
+    "Sharp claws and teeth; scorpion-like spiked tail",
+    "Sightless sensing with enhanced smell and hearing",
+    "Bipedal as well as quadrupedal movement"
+  ],
+  "weaknesses": [
+    "No dedicated weakness section on the wiki; still eyeless (relies on smell/hearing) and has no ranged attack"
+  ],
+  "summary": "The evolved Vulpimancer: a bigger, crimson, spine-backed Wildmutt with a stinger tail who can stand upright - and, unlike his base form, actually talk.",
+  "traits": [
+    "Last Ultimate form Ben ever used",
+    "'ULTIMATE WILDMUTT!' - 'I was gonna do that for you.'",
+    "Originally scripted to be chihuahua-sized and mute",
+    "Voiced by Dee Bradley Baker"
+  ],
+  "notableFeats": [
+    "Held down and defeated the invisible Prisoner 775 (Prisoner Number 775 is Missing)",
+    "Defeated the Esoterica, lifting one into the air with his jaws alone (The Ultimate Enemy: Part 2)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Prisoner Number 775 is Missing",
+      "notableEpisodes": [
+        "Prisoner Number 775 is Missing",
+        "The Ultimate Enemy: Part 2"
+      ],
+      "designNotes": "Significantly larger and more muscular than Wildmutt; crimson fur; huge overlapping grey/white spikes running from a shark-like fin at the head in an arc down the back; long tail with a curved horned stinger tip; black lips; white claws; evolved Ultimatrix symbol on chest.",
+      "image": {
+        "file": "UltimateWildmuttOfficial.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "Infobox official render."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 7,
+    "durability": 7,
+    "speed": 6,
+    "mobility": 6,
+    "offense": 6,
+    "defense": 5,
+    "special": 4,
+    "versatility": 5,
+    "intellect": 4,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 2,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Bigger, stronger and armed with a stinger tail and crushing bite (pinned Prisoner 775, hoisted an Esoterica by jaw), plus he can talk - a real upgrade on Wildmutt, but still a melee-only tracker with two short outings and no ranged or special power to speak of."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Wildmutt",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "UA-only (two episodes). The OV crew never discussed giving Albedo this form; it was in an early 'Tangled Web: Part 2' outline but dropped.",
+    "Not among the sentient Ultimates in 'The Ultimate Sacrifice' despite the synopsis saying 'all' Ultimates wanted freedom.",
+    "Wiki lists no Weaknesses section; the weakness above is an inference for QA.",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

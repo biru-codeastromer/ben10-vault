@@ -1,0 +1,132 @@
+{
+  "id": "ripjaws",
+  "name": "Ripjaws",
+  "wikiTitle": "Ripjaws (Classic)",
+  "kind": "standard",
+  "species": "Piscciss Volann",
+  "homeworld": "Piscciss",
+  "bodyType": "Humanoid anglerfish",
+  "debut": {
+    "episode": "The Krakken",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Steel-shearing jaws and unhinging mouth",
+    "Legs-to-fishtail transformation for high-speed swimming",
+    "Underwater vortex generation",
+    "Sharp claws",
+    "Enhanced strength (punches through docks, tears open Perplexahedron doors)",
+    "Underwater breathing and deep-sea pressure tolerance",
+    "Glowing anglerfish lure and glowing eyes",
+    "Enhanced durability"
+  ],
+  "weaknesses": [
+    "Dehydrates on land and can die without water; heat speeds this up",
+    "Vulnerable to electricity"
+  ],
+  "summary": "Ben's aquatic ace: a grey anglerfish-man with a merman tail, crushing jaws and a lure light, unstoppable in water but gasping on land.",
+  "traits": [
+    "Can swap between legs and a fish tail",
+    "Bioluminescent head lure",
+    "Loincloth is the retracted tail",
+    "OV design is hunched with a big dorsal fin"
+  ],
+  "notableFeats": [
+    "Helped the Krakken defeat Jonah Melville and recover her eggs (The Krakken)",
+    "Defeated a Havoc Beast (Truth)",
+    "Broke himself and Kevin out of a flooding Perplexahedron room (Perplexahedron)",
+    "Beat two Mechaneers underwater with Patelliday (Gone Fishin)",
+    "Defeated Vulkanus (The Ballad of Mr. Baumann)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "The Krakken",
+      "notableEpisodes": [
+        "The Krakken",
+        "Secrets",
+        "Truth",
+        "They Lurk Below",
+        "Back With a Vengeance"
+      ],
+      "designNotes": "Pale grey body, purplish-grey eyes, yellow claws, swamp-green fins, gills down neck and torso, black patch on the left pectoral holding the original Omnitrix; loincloth when tail is retracted.",
+      "image": {
+        "file": "Ripjaws.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Perplexahedron",
+      "notableEpisodes": [
+        "Perplexahedron"
+      ],
+      "designNotes": "Catfish-like face with two whiskers, green eyes with pupils, white torso with Humungousaur-like chest plates, three-fingered black-clawed hands, green lure and lips, grey tail, Ultimatrix on chest.",
+      "image": {
+        "file": "Ripjaws ua.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Gone Fishin",
+      "notableEpisodes": [
+        "Gone Fishin",
+        "The Ballad of Mr. Baumann"
+      ],
+      "designNotes": "Closer to the OS look but green eyes, arm and neck braces, green lure light, large dorsal fin, longer arm fins, hunched posture, black claws, bigger dragging tail, Omnitrix on a belt.",
+      "image": {
+        "file": "Ripjaws ov official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 5,
+    "speed": 6,
+    "mobility": 5,
+    "offense": 6,
+    "defense": 3,
+    "special": 4,
+    "versatility": 3,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 1,
+    "cosmic": 0,
+    "weaknessPenalty": 3,
+    "controlPenalty": 0,
+    "rationale": "A monster in water - fast, strong, steel-biting - but almost helpless on dry land where he dehydrates within minutes, which is a crippling situational weakness."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ripjaws_(Classic)"
+  ],
+  "notes": [
+    "Not used in Alien Force (locked; unlocked off-screen in UA's Deep when the Ultimatrix scanned Piscciss Volann).",
+    "Also used by Kevin (Framed, photo only) - not counted.",
+    "Wiki describes an 11-year-old OV design (OS look with green eyes/Omnitrix) but Appearances lists no 11-year-old use; The Ballad of Mr. Baumann use is 16-year-old Ben.",
+    "Fusion component of Heat Jaws (OS).",
+    "Editorial score calibration (principal pass): weaknessPenalty 4→3 — to keep the roster ladder consistent across research batches."
+  ]
+}

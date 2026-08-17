@@ -1,0 +1,145 @@
+{
+  "id": "humungousaur",
+  "name": "Humungousaur",
+  "wikiTitle": "Humungousaur (Classic)",
+  "kind": "standard",
+  "species": "Vaxasaurian",
+  "homeworld": "Terradino",
+  "bodyType": "Humanoid Dinosaur",
+  "debut": {
+    "episode": "Ben 10 Returns: Part 2",
+    "series": "af",
+    "usedBy": "ben-15-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": "ultimate-humungousaur",
+  "componentIds": [],
+  "abilities": [
+    "Immense strength (throws heavy objects into near-orbit)",
+    "Size alteration (grows to ~60 ft, gaining strength and stegosaur-like plates/tail spikes)",
+    "Thick armored hide (survives truck hits, high falls, missile blasts)",
+    "Shock waves via clapping; earthquake generation",
+    "Enhanced jumping and agility for his size",
+    "Powerful tail strikes",
+    "Limited space survivability; heat resistance",
+    "Powerful roar",
+    "Quadrupedal charge"
+  ],
+  "weaknesses": [
+    "Huge size makes him an easy target and unable to fit small spaces",
+    "Cannot swim; sinks and cannot breathe underwater",
+    "Vulnerable to electricity, acid and neuroshock blasts",
+    "Weak against Kaosseffexx Ultimasauria (natural predator webbing)",
+    "Strength and stamina drop severely when sick"
+  ],
+  "summary": "Ben's 12-foot dinosaur bruiser who can grow to 60 feet; the muscle of the Alien Force team and one of Ben's most-used forms across three series.",
+  "traits": [
+    "12 feet tall at base, up to ~60 feet",
+    "Grows stegosaur plates and tail spikes when enlarged",
+    "Ben's most-used Ultimate Alien form",
+    "Says 'toughest guy in the galaxy'"
+  ],
+  "notableFeats": [
+    "Destroyed a Highbreed Cruiser's laser cannon to save Bellwood (Ben 10 Returns: Part 2)",
+    "Held up a collapsing highway overpass (All That Glitters)",
+    "Broke Azmuth, Gwen and Kevin out of an Augstaka prison and confronted the Highbreed High Council (War of the Worlds: Part 2)",
+    "Beat Captain Nemesis in a train-throwing contest (Hero Time)",
+    "Battled Malware and saved a school bus (Malefactor)",
+    "Defeated Khyber as Tyrannopede with Skurd's help (Stuck on You)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af",
+        "ben-16-af"
+      ],
+      "firstEpisode": "Ben 10 Returns: Part 2",
+      "notableEpisodes": [
+        "Ben 10 Returns: Part 2",
+        "All That Glitters",
+        "War of the Worlds: Part 2",
+        "Ben 10: Alien Swarm",
+        "The Final Battle: Part 1"
+      ],
+      "designNotes": "Brown-and-cream armoured dinosaur, long arms/short legs, recalibrated Omnitrix symbol on chest. Alien Swarm gave him slit pupils.",
+      "image": {
+        "file": "Humungousaur_UAF_Model.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF model (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Fame",
+      "notableEpisodes": [
+        "Fame",
+        "Hero Time",
+        "Map of Infinity",
+        "The Enemy of My Enemy",
+        "Ben 10/Generator Rex: Heroes United",
+        "The Ultimate Enemy: Part 1"
+      ],
+      "designNotes": "Same design as Alien Force with Ultimatrix symbol on chest. Heroes United variant had spiked chest plates and brow spikes.",
+      "image": {
+        "file": "Humungousaur_UAF_Model.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF model (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Of Predators and Prey: Part 2",
+      "notableEpisodes": [
+        "Of Predators and Prey: Part 2",
+        "Malefactor",
+        "Showdown: Part 2",
+        "An American Benwolf in London",
+        "Stuck on You"
+      ],
+      "designNotes": "Shorter build, black briefs with white waistband, green/black bandolier holding the Omnitrix symbol, grey nails, green eyes, nose moved up to forehead, bigger chin.",
+      "image": {
+        "file": "Humungousaur omniverse official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 9,
+    "durability": 8,
+    "speed": 5,
+    "mobility": 5,
+    "offense": 8,
+    "defense": 6,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 6,
+    "range": 4,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Pure powerhouse: throws trains and ships, grows to 60 ft where he out-muscles Tetramands, and shrugs off truck impacts and missile blasts. Little ranged ability beyond shock-wave claps, slow, and a giant target that sinks in water and is weak to electricity."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Humungousaur_(Classic)"
+  ],
+  "notes": [
+    "Also used by Albedo (Negative Humungousaur, AF/OV), Azmuth (Primus), the Naljian Destructor, Vilgax's Bioids, Gwen (Inspector 13) and a Plant Clone Ben (The Big Story) - none add appearances.",
+    "Alien Swarm counts as AF-era (Ben 16).",
+    "Heroes United (UA-era) transformation folded into the UA appearance.",
+    "AF S1 (wiki) = ben-15-af, AF S2 = ben-16-af."
+  ]
+}

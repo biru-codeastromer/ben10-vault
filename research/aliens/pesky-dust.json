@@ -1,0 +1,90 @@
+{
+  "id": "pesky-dust",
+  "name": "Pesky Dust",
+  "wikiTitle": "Pesky Dust",
+  "kind": "standard",
+  "species": "Nemuina",
+  "homeworld": "Nemunimos IV",
+  "bodyType": "Small fairy-like humanoid",
+  "debut": {
+    "episode": "Outbreak",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Sleep dust (hypno-koniokinesis) - puts nearly any species to sleep, even Celestialsapiens",
+    "Dream entry and observation - reads a sleeping victim's dreams (used to interrogate Khyber)",
+    "Dream manipulation (oneirokinesis) - reshapes dreams or induces nightmares",
+    "Can enter and control the dreams of any number of sleepers simultaneously",
+    "Flight on fairy-like wings, leaving a green trail"
+  ],
+  "weaknesses": [
+    "Sleep effect is temporary - victims must be re-dosed to stay under",
+    "Some beings are immune: Gutrot's species and the Nemuina's natural predator (secondary brain cluster)",
+    "Still affected by other Nemuinas' dust",
+    "Physically tiny and frail with no direct attacks"
+  ],
+  "summary": "A blue Tinker Bell-like sprite whose sleeping dust drops almost anyone, after which Ben can walk into and rewrite their dreams.",
+  "traits": [
+    "Trills, chirps and purrs when he talks (after his voice changed from Ben's in his second appearance)",
+    "Design from Lillimusha DiForestini; powers compared by Derrick J. Wyatt to Jigglypuff's Sing",
+    "Khyber is terrified of Nemuinas and considers his Pesky Dust dream his worst nightmare",
+    "Kai finds him cute; Ben considers him 'nobody to mess with'"
+  ],
+  "notableFeats": [
+    "Put Khyber to sleep and pulled Albedo's destination out of his dream (For a Few Brains More)",
+    "Defeated Charles Zenith by trapping him in nightmares (The Most Dangerous Game Show)",
+    "Escaped Liam after being accidentally unlocked (Outbreak)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Outbreak",
+      "notableEpisodes": [
+        "Outbreak",
+        "For a Few Brains More",
+        "The Most Dangerous Game Show"
+      ],
+      "designNotes": "Short blue-skinned fairy with purple wings, pink spots and cheek markings, upright blue hair, green dress-like outfit with black zigzags, white gloves, three fingers and two toes; Omnitrix symbol on chest.",
+      "image": {
+        "file": "Pesky Dust 2.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (399x824, transparent)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 2,
+    "durability": 3,
+    "speed": 4,
+    "mobility": 7,
+    "offense": 3,
+    "defense": 3,
+    "special": 6,
+    "versatility": 4,
+    "intellect": 4,
+    "energy": 1,
+    "regeneration": 1,
+    "survivability": 3,
+    "range": 4,
+    "cosmic": 1,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Special 6: sleep dust that works on almost everything (Celestialsapiens included) plus dream reading and nightmare torture - it beat Charles Zenith and cracked Khyber. Flight gives real mobility, but he is tiny and fragile with no proper attack, the sleep wears off, and a few species are immune."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Pesky_Dust"
+  ],
+  "notes": [
+    "One of four aliens accidentally unlocked by Blukic and Driba in Outbreak (with Walkatrout, Mole-Stache and The Worst); voiced by Yuri Lowenthal in Outbreak, then Tara Strong.",
+    "Ben 23 counterpart: Nighty Knight. Albedo cannot transform into Pesky Dust.",
+    "A cameo by Reboot Ben in the Brazilian crossover 'The Unfiltered World of Any Malu' and comic uses (Super Secret Crisis War!) are excluded."
+  ]
+}

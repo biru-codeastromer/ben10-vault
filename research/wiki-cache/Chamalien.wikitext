@@ -1,0 +1,151 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 8988AD
+|textcolor = 42365A
+|name = Chamalien
+|image = UltimateAlienChamAlien.png
+|species = [[Merlinisapien]]
+|home-planet = Unknown
+|body = Humanoid Salamander
+|dna source = <!--Do not add Prisoner 775 here. -->
+|power = {{Scroll|Camouflage<br>Sharp Teeth<br>Sharp Claws<br>Retractable Tail Stinger<br>Enhanced Strength<br>Enhanced Durability<br>Enhanced Jumping<br>Enhanced Acrobatics<br>Enhanced Speed<br>Wall Scaling<br>Slippery Body<br>Quadrupedalism}}
+|equipment = Helmet
+|spellings = ChamAlien{{Refn|[[:File:Chamalien FB Reveal.png]]|group = FB|name = page}}
+|voice = [[Dee Bradley Baker]]
+|1st-appearance = Prisoner Number 775 is Missing
+}}
+{{Quote|OVERKILL! Well? Well?|Chamalien trying out his test name.<ref name="PN775IM">''[[Prisoner Number 775 is Missing]]''</ref>}}
+'''Chamalien'''<ref>'''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' end credits and subtitles</ref> is the [[Omnitrix]]'s DNA sample of a [[Merlinisapien]]<ref>[[Ultimatrix (Original)|Ultimatrix]] AI</ref><ref name="PN775IM" /> from an unknown planet.
+
+==Appearance==
+===Ben as Chamalien===
+Chamalien has a slim body that resembles a large purple salamander with darker purple camo-esque spots all over his body and a short tail. He wears a black helmet{{Refn|[[:File:Chamalien Helmet Proof.png]]|group = DJW}} with three triangular colored lenses, the left one being blue, the right red and the middle green, which hide his three eyes. The helmet also has spike-shaped fin on the back of his head. He has four-fingered hands and three toes on his frog-like feet. He also has a wide mouth with sharp teeth.
+
+Chamalien wears the [[Ultimatrix (Original)|Ultimatrix]] symbol on his chest.
+
+===Albedo as Negative Chamalien===
+[[Albedo|Negative]] Chamalien looks just like [[Ben Tennyson (Classic)|Ben]]'s Chamalien, except all of his eyes are red and he lacks an Ultimatrix symbol.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Negative ChamAlien.png|[[Albedo]] as Negative Chamalien
+</gallery>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+TFKC (131).png|Enhanced Speed/Quadrupedalism
+TFKC (148).png|Camouflage
+Chamalien Enhanced Strength.png|Enhanced Strength
+</gallery>
+Chamalien's main ability is his camouflage, as he is capable of blending in with the color of his surroundings with such effectiveness that he appears invisible.
+
+Chamalien is very agile, quick, flexible, and can climb walls and crawl on the ground with ease.<ref>''[[The Flame Keepers' Circle]]''</ref> He also has teeth and claws which are sharp enough to damage [[Exo-Skull|Exo-Skull]]'s armor, as demonstrated by [[Subdora]].<ref name="TEoaE">''[[The End of an Era]]''</ref>
+
+Chamalien has a long, retractable black stinger that can come out of the tip of his tail; this feat was exclusively demonstrated by [[Prisoner 775]].<ref name="PN775IM" />
+
+Chamalien has enhanced strength, enough to push a car and a huge truck several yards away and defeat a [[Vulpimancer (Classic)|Vulpimancer]] in battle. He is also durable enough to withstand being thrown against a car; both of these feats were also only demonstrated by Prisoner 775.<ref name="PN775IM" />
+
+Chamalien's body is highly slippery and smooth, making him very difficult to grab.<ref name="PN775IM" />
+
+==Weaknesses==
+[[File:NotLN (319).png|thumb|Trackable Footprints]]
+Although Chamalien appears to turn invisible when he camouflages himself, he actually just changes his color. Consequently, his shadow can still be seen, and any place filled with too many bright lights can be a disadvantage, as demonstrated with Prisoner 775.<ref name="PN775IM" />
+
+Chamalien can easily be tracked by [[Vulpimancer (Classic)|Vulpimancer]]s using their enhanced senses, as demonstrated with [[Prisoner 775]]<ref name="PN775IM" /> and [[Subdora]].<ref name="FatM">''[[Fight at the Museum]]''</ref> He can also be tracked by [[Anodite|Anodites]] through his [[manna]].<ref name="NotLN">''[[Night of the Living Nightmare]]''</ref>
+
+Chamalien's camouflage can also be rendered useless if he is either carrying something or coated in another material such as powder<ref name="FatM" /> or oil,<ref name="LDtTWA">''[[Let's Do the Time War Again]]''</ref> as demonstrated with [[Subdora]].
+
+Chamalien can be controlled and hypnotized by [[Vladat]]s via their [[Corruptura]]s, as also demonstrated with Subdora.<ref name="TEoaE" />
+
+==History==
+===Ultimate Alien===
+*Chamalien first appeared in ''[[Prisoner Number 775 is Missing]]'', where he was obtained by scanning [[Prisoner 775]]'s DNA and tried out by [[Ben Tennyson (Classic)|Ben]].
+*In ''[[The Flame Keepers' Circle]]'', Chamalien snuck into a building controlled by the [[Flame Keepers' Circle]].
+*In ''[[Night of the Living Nightmare]]'', Chamalien appeared twice in a dream. Firstly, Ben as Chamalien ran away from [[Gwen Tennyson (Classic)|Gwen]] and [[Kevin Levin (Classic)|Kevin]] and hid in the woods until he reverted. Later, [[Albedo|Negative]] Chamalien ambushed Ben before switching into Negative [[Big Chill (Classic)|Big Chill]].
+
+==Appearances==
+===Ultimate Alien===
+====Season 3====
+*''[[Prisoner Number 775 is Missing]]'' <small>(first appearance)</small>
+*''[[The Flame Keepers' Circle]]'' <small>(off-screen activation; non-speaking)</small>
+*''[[Night of the Living Nightmare]]'' <small>(x2; second time was by Albedo; both times were in a dream)</small>
+
+==Naming and Translations==
+{{Translation
+|greek = Εξωγήινος Χαμελέοντας
+|greekd = From ''εξωγήινος'', alien and ''χαμελέοντας'', chameleon
+|ha = Camaleón
+|had = From ''camaleón'', chameleon
+|russian = Хамелеон
+|russiand = From ''хамелеон'', chameleon
+|french = Caméleon<br>Éxagérator
+|frenchd = From ''caméléon'', chameleon<br>From ''exagérer'', exaggerate and ''-ator''
+|polish = Przeginka
+|polishd = From Overkill
+|portuguesebr = Chamalien
+|portuguesebrd = From the original English name
+|romanian = Cameleonul
+|romaniand = From ''cameleon'', chameleon
+|german = Chamäleon
+|germand = From ''chamäleon'', chameleon
+|italian = Camaleontide
+|italiand = From ''camaleonte'' and ''-ide'', chameleon-like
+|hebrew = חייזר זיקית
+|hebrewd = From ''חייזר'' alien and ''זיקית'', chameleon
+|hungarian = Kaméleon
+|hungariand = From ''kaméleon'', chameleon
+|chinese = 小题大做
+|chinesed = From ''小题大做'' <small>(Xiǎo Tí Dà Zuò)</small>, "make a fuss"
+|bulgarian = Хамеловък
+|bulgariand = From ''хамеловък'', chameleon}}
+
+==Etymology==
+Chamalien's name is portmanteau of "[[Wikipedia:Chameleon|chameleon]]", an animal capable of changing its color, which alludes to his ability to camouflage himself, and "[[Wikipedia:Extraterrestrial life|alien]]", a reference to Chamalien being an extraterrestrial life form, as well as a transformation.
+
+==Trivia==
+*Chamalien speaks with a light [[Wikipedia:Germany|German]] accent.
+*When [[Ben Tennyson (Classic)|Ben]] first transformed into Chamalien, he named the form Overkill as a joke.<ref name="PN775IM" /> In ''[[Night of the Living Nightmare]]'', his name Chamalien was first mentioned, albeit in [[Albedo]]'s nightmare, meaning his real name has never been acknowledged by Ben himself.
+*When asked what kinds of features Chamalien's helmet has, [[Derrick J. Wyatt]] compared the spectrum-wide visions to those found in helmets worn by [[Wikipedia:Predator (fictional species)|Yautja]].{{Refn|[[:File:Chamalien Helmet Features.png]]|group = DJW}}
+*Chamalien was revealed in a picture released on the [http://www.facebook.com/ben10 '''Ben 10''' Facebook page] on April 17, 2011, as a reward for hitting 1,000,000 fans.{{Refn|group = FB|name = page}}
+*Chamalien had concept art drawn by [[Glen Murakami]]. His final design was created by [[Glenn Wong]], with color styling by Chris Hooten.{{Refn|https://archive.is/hySfU|group = GW}}
+*Chamalien was not originally supposed to appear in:
+**In ''[[The Flame Keepers' Circle]]'' with Ben sneaking in the the [[Flame Keepers' Circle]] headquarters in human form.{{Refn|[https://static.wikia.nocookie.net/ben10/images/6/66/TFKC_Script_First_Draft.pdf ''Keepers of the Flame'' Script First Draft]|group = script|name = script 1}}{{Refn|[https://static.wikia.nocookie.net/ben10/images/4/4c/TFKC_Script_Second_Draft.pdf ''Keepers of the Flame'' Script Second Draft]|group = script|name = script 2}}{{Refn|[https://static.wikia.nocookie.net/ben10/images/f/f9/TFKC_Script_Third_Draft.pdf ''Keepers of the Flame'' Script Third Draft]|group = script}}
+**The dream in ''[[Night of the Living Nightmare]]'', used by Ben and Albedo.{{Refn|[https://web.archive.org/web/20250621100125/https://dwaynemcduffie.com/wp-content/uploads/2025/06/WEBSITE-B10UA-ep317-Night-of-the-Living-Nightmare-SCRIPT-D1.pdf ''Night of the Living Nightmare'' Script First Draft]|group = script}}
+*In ''[[Universe vs. Tennyson]]'', it was initially planned that Ben would use Chamalien to spy on [[Chadzmuth]],{{Refn|[[:File:Chamalien's dropped scene in 058.PNG]]|group = DJW}} but the whole scene was eventually dropped as the story was changed.{{Refn|[[:File:Story was changed in 058.PNG]]|group = DJW}}
+**As a result of this, Chamalien and [[Fasttrack]] are the only regular aliens introduced in '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' who do not appear in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''.
+**Additionally, Chamalien and [[Spitter]] are the only regular aliens to not get a verbal mention throughout '''Omniverse'''.
+**Had Chamalien appeared in '''Omniverse''', Derrick would have chosen [[Dee Bradley Baker]] to reprise his role.{{Refn|[[:File:OV Spitter & Chamalien Voices.png]]|group = DJW}}
+*There were no plans to feature Chamalien in the [[Ben 10 (2016 TV Series)|Reboot]].{{Refn|[[:File:RB No Spitter or Chamalien.png]]|group = DR}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====Scripts====
+{{Reflist|group = script}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Glenn Wong]]====
+{{Reflist|group = GW}}
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+===Other===
+====Official Ben 10 Facebook Page====
+{{Reflist|group = FB}}
+
+{{Ben 10 Aliens}}
+
+[[de:Chamäleon]]
+[[es:Camaleón]]
+[[fr:Caméléon]]
+[[it:Camaleontide]]
+[[pl:Przeginka]]
+[[pt-br:ChamAlien]]
+[[ro:Cameleonul]]
+[[ru:Хамелеон]]
+
+[[Category:Transformations]]
+[[Category:Aliens]]
+[[Category:Ultimate Alien Transformations]]
+[[Category:Albedo's Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "os",
+    "name": "Ben 10",
+    "shortName": "Classic",
+    "years": "2005–2008",
+    "order": 1,
+    "omnitrixId": "omnitrix-prototype",
+    "tagline": "It started with a watch that fell from the sky.",
+    "synopsis": "Ten-year-old Ben Tennyson finds the prototype Omnitrix on a summer road trip with Grandpa Max and cousin Gwen. Ten aliens, one Rust Bucket, and a galaxy of trouble."
+  },
+  {
+    "id": "af",
+    "name": "Ben 10: Alien Force",
+    "shortName": "Alien Force",
+    "years": "2008–2010",
+    "order": 2,
+    "omnitrixId": "omnitrix-recalibrated",
+    "tagline": "Five years later. The Omnitrix recalibrates.",
+    "synopsis": "Fifteen-year-old Ben puts the Omnitrix back on to find Grandpa Max, uncovering the Highbreed invasion with Gwen and a reformed Kevin Levin. The recalibrated Omnitrix unlocks a new roster."
+  },
+  {
+    "id": "ua",
+    "name": "Ben 10: Ultimate Alien",
+    "shortName": "Ultimate Alien",
+    "years": "2010–2012",
+    "order": 3,
+    "omnitrixId": "ultimatrix",
+    "tagline": "Ben's secret is out — and now he can go Ultimate.",
+    "synopsis": "Wearing the Ultimatrix, a world-famous sixteen-year-old Ben faces Aggregor, the Forever Knights, Vilgax and Dagon, evolving his aliens into their Ultimate forms."
+  },
+  {
+    "id": "ov",
+    "name": "Ben 10: Omniverse",
+    "shortName": "Omniverse",
+    "years": "2012–2014",
+    "order": 4,
+    "omnitrixId": "omnitrix-omniverse",
+    "tagline": "A new Omnitrix, a new partner, and every alien ever.",
+    "synopsis": "With the completed Omnitrix and Plumber partner Rook Blonko, Ben protects Undertown and Bellwood, while flashbacks revisit eleven-year-old Ben and the rise of Malware."
+  }
+]

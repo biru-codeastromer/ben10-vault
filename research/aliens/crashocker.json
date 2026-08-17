@@ -1,0 +1,85 @@
+{
+  "id": "crashocker",
+  "name": "Crashocker",
+  "wikiTitle": "Crashocker",
+  "kind": "fusion",
+  "species": "Orthopterran/Gimlinopithecus hybrid",
+  "homeworld": "",
+  "bodyType": "Humanoid grasshopper",
+  "debut": {
+    "episode": "Let's Do the Time War Again",
+    "series": "ov",
+    "usedBy": "ben-10k-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [
+    "crashhopper",
+    "shocksquatch"
+  ],
+  "abilities": [
+    "Enormous leaps on Crashhopper-style legs",
+    "Electrokinesis: releases electric shock waves on landing",
+    "Horned skull used as a battering ram",
+    "Enhanced strength (handled Exo-Skull with ease)"
+  ],
+  "weaknesses": [
+    "No weaknesses documented on the wiki",
+    "Attacks are close-range and momentum-based (jump, ram, land)"
+  ],
+  "summary": "Ben 10,000's Biomnitrix fusion of Crashhopper and Shocksquatch: a brownish-green electric grasshopper-sasquatch that leaps in, head-butts, and discharges lightning on landing.",
+  "traits": [
+    "'That's just the way the bug bounces.'",
+    "Voice is Crashhopper's (Dee Bradley Baker)",
+    "Bolts on neck and feet"
+  ],
+  "notableFeats": [
+    "Battled and defeated Exo-Skull (Let's Do the Time War Again)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-10k-ov"
+      ],
+      "firstEpisode": "Let's Do the Time War Again",
+      "notableEpisodes": [
+        "Let's Do the Time War Again"
+      ],
+      "designNotes": "Shocksquatch's chest, torso and arm structure recoloured brownish-green; Crashhopper's upper head and horn with Shocksquatch's chin; Crashhopper's legs with two bolts on each foot; Crashhopper's green clothing and abdomen; three bolts on the neck; Biomnitrix symbol on the stomach.",
+      "image": {
+        "file": "Crashocker.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 7,
+    "durability": 6,
+    "speed": 6,
+    "mobility": 6,
+    "offense": 6,
+    "defense": 4,
+    "special": 5,
+    "versatility": 5,
+    "intellect": 3,
+    "energy": 5,
+    "regeneration": 0,
+    "survivability": 4,
+    "range": 4,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Crashhopper's leaping and ram head plus Shocksquatch's electricity delivered as landing shock waves, and enough muscle to beat Exo-Skull easily. A capable mid-tier fighter with one appearance and short-range, momentum-dependent attacks."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Crashocker",
+    "https://ben10.fandom.com/wiki/Biomnitrix"
+  ],
+  "notes": [
+    "One-time form used only by the Omniverse Ben 10,000 via the Biomnitrix (Let's Do the Time War Again, OV S8).",
+    "Biomnitrix context: the Omniverse Ben 10,000 (Original Future timeline, re-established as Ben Prime's true future) wears two linked Omnitrix gauntlets; slamming them together fuses two aliens on the fly (combinations are generated at transformation time, not stored). Each gauntlet alone gives normal aliens; it is voice-controlled and can be knocked out by a large EMP or Chronosapien time-freeze. All on-screen fusions were drawn by Thomas N. Perkins IV; the device name was coined by Derrick J. Wyatt (unnamed in scripts)."
+  ]
+}

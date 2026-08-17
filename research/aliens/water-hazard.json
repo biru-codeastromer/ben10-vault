@@ -1,0 +1,116 @@
+{
+  "id": "water-hazard",
+  "name": "Water Hazard",
+  "wikiTitle": "Waterhazard",
+  "kind": "standard",
+  "species": "Orishan",
+  "homeworld": "Kiusana",
+  "bodyType": "Humanoid Mollusk",
+  "debut": {
+    "episode": "Too Hot to Handle",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Hydrokinesis - controls ambient water, makes water whips and cushions",
+    "Pressurised water blasts from hand portholes (fire-hose force; smashes walls, launches foes)",
+    "Water/moisture absorption from the air (creates water from hydrogen and oxygen)",
+    "Nigh-invulnerable armoured exoskeleton",
+    "Enhanced strength (threw Buglizard, cratered concrete)",
+    "Water-jet propulsion and high jumps",
+    "Underwater breathing; radiation immunity",
+    "Technological aptitude of his species"
+  ],
+  "weaknesses": [
+    "Vulnerable to intense heat (Prypiatosian-B radiation)",
+    "Vulnerable to electricity"
+  ],
+  "summary": "One of the Andromeda Five aliens, a red armoured mollusk who fires fire-hose water blasts from his palms and pulls moisture out of thin air.",
+  "traits": [
+    "DNA sampled from Bivalvan (Andromeda galaxy)",
+    "Mouth does not move when he speaks",
+    "Retractable visor under his hood",
+    "Four slitted eyes in Omniverse"
+  ],
+  "notableFeats": [
+    "Impersonated Bivalvan to try to talk P'Andor down (Too Hot to Handle)",
+    "Defeated Overlord by absorbing moisture from the air (Hero Time)",
+    "Beat Swamps before being frozen by Fridge (Double or Nothing)",
+    "Battled Buglizard with Rook (The More Things Change: Part 2)",
+    "Defeated Ultimate Panuncian (For a Few Brains More)",
+    "Flooded Pakmar's shop fighting Sir Morton (Bengeance is Mine)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Too Hot to Handle",
+      "notableEpisodes": [
+        "Too Hot to Handle",
+        "Hero Time",
+        "Revenge of the Swarm",
+        "Double or Nothing"
+      ],
+      "designNotes": "Red mollusk armour with grey lower torso, black spots on shoulders/legs, grey mouth that does not move, two green eyes, hand portholes; Ultimatrix symbol on chest.",
+      "image": {
+        "file": "Waterguy.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "infobox UA render"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "The More Things Change: Part 2",
+      "notableEpisodes": [
+        "The More Things Change: Part 2",
+        "Hot Stretch",
+        "Tummy Trouble",
+        "The Frogs of War: Part 1",
+        "Bengeance is Mine"
+      ],
+      "designNotes": "Taller, thinner and darker maroon with violet greys; four slitted eyes, eye-like chest markings and rib-like crab features on the stomach, barnacle portholes on shoulders/arms/legs/hands, rougher hexagonal hood, dactyl-like sharp fingers; Omnitrix on chest.",
+      "image": {
+        "file": "46880c.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render (file redirects to Water_hazard_ov_crop.png)"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 8,
+    "speed": 4,
+    "mobility": 5,
+    "offense": 6,
+    "defense": 7,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 5,
+    "energy": 3,
+    "regeneration": 0,
+    "survivability": 6,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Tough armoured shell (durability 8) with fire-hose water blasts that knocked out Overlord and Ultimate Panuncian and hydrokinesis for whips and cushions; breathes underwater and shrugs off radiation. Slow, limited range, and heat/electricity get through."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Waterhazard"
+  ],
+  "notes": [
+    "Wiki title is 'Waterhazard'; project name is 'Water Hazard'.",
+    "UA 'Night of the Living Nightmare' entry was a figment in a dream (cameo), not a transformation.",
+    "UA wearer: Ultimatrix; OV: new Omnitrix."
+  ]
+}

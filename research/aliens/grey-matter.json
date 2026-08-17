@@ -1,0 +1,119 @@
+{
+  "id": "grey-matter",
+  "name": "Grey Matter",
+  "wikiTitle": "Grey Matter (Classic)",
+  "kind": "standard",
+  "species": "Galvan",
+  "homeworld": "Galvan Prime",
+  "bodyType": "Humanoid frog (six inches tall)",
+  "debut": {
+    "episode": "Washington B.C.",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Genius-level intellect and technological expertise",
+    "Understands and repairs alien tech at a glance (incl. the Omnitrix)",
+    "Small-space manoeuvring",
+    "Wall scaling via microscopic skin pads",
+    "Sharp teeth (painful bite)",
+    "Long prehensile tongue",
+    "Underwater breathing (gills)",
+    "Enhanced jumping and reflexes"
+  ],
+  "weaknesses": [
+    "Six-inch size makes him useless in a physical fight",
+    "Animals may treat him as prey or a chew toy",
+    "Massive disadvantage against an Omnivoracious (Nemetrix predator)",
+    "Vulnerable to electricity"
+  ],
+  "summary": "A six-inch Galvan brain-box: physically helpless but able to out-think any problem and rebuild alien machinery from spare parts.",
+  "traits": [
+    "Same species as Azmuth",
+    "Grey skin, rectangular pupils",
+    "Omnitrix worn on his back in OS and OV",
+    "Ben's smallest OS alien"
+  ],
+  "notableFeats": [
+    "Beat Kraab and SixSix by outsmarting them (Hunted)",
+    "Sent Phil into the Null Void and stopped a Null Guardian (Truth)",
+    "Built a Sun Gun to fight Zs'Skayr and Dr. Viktor (Be Afraid of the Dark)",
+    "Disabled the alien prisoners' shock implants aboard the Megacruiser (Grudge Match)",
+    "Defeated Tyrannopede (Of Predators and Prey: Part 2)",
+    "Repaired Rad Dudesman's ship (Rad)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Washington B.C.",
+      "notableEpisodes": [
+        "Washington B.C.",
+        "Hunted",
+        "A Small Problem",
+        "Truth",
+        "Be Afraid of the Dark",
+        "Ben 10: Race Against Time"
+      ],
+      "designNotes": "White jumpsuit with a thin vertical black stripe, yellowish-green eyes, larger stripe on the forehead, original Omnitrix on his back.",
+      "image": {
+        "file": "Grey Matter OS.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "So Long, and Thanks for All the Smoothies",
+      "notableEpisodes": [
+        "So Long, and Thanks for All the Smoothies",
+        "Of Predators and Prey: Part 2",
+        "Rad",
+        "It's a Mad, Mad, Mad Ben World: Part 2"
+      ],
+      "designNotes": "Green jumpsuit with black belt and collar, black fingerless gloves with green squares, no head stripe, longer neck, Omnitrix on his back. 11-year-old version (design only) is the OS look with black collar and green eyes.",
+      "image": {
+        "file": "OmniverseGreyMatter.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 1,
+    "durability": 2,
+    "speed": 3,
+    "mobility": 5,
+    "offense": 1,
+    "defense": 2,
+    "special": 4,
+    "versatility": 5,
+    "intellect": 9,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 3,
+    "range": 0,
+    "cosmic": 0,
+    "weaknessPenalty": 3,
+    "controlPenalty": 0,
+    "rationale": "Genius intellect (understands and repairs the Omnitrix, builds a Sun Gun from junk) is his whole game; at six inches tall he cannot fight, lift or take a hit and needs to be hidden from pets."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Grey_Matter_(Classic)"
+  ],
+  "notes": [
+    "Not used in Alien Force (locked) or Ultimate Alien (only in the UA intro; re-unlocked in Ben 10,000 Returns).",
+    "Also used by Ken (Ken 10), Gwen (Gwen 10, non-canon) and No Watch Ben (And Then There Was Ben) - not counted.",
+    "11-year-old OV design is described on the wiki but no 11-year-old on-screen use is listed in Appearances."
+  ]
+}

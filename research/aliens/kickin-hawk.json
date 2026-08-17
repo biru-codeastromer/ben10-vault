@@ -1,0 +1,102 @@
+{
+  "id": "kickin-hawk",
+  "name": "Kickin' Hawk",
+  "wikiTitle": "Kickin' Hawk",
+  "kind": "standard",
+  "species": "Unknown",
+  "homeworld": "Unknown",
+  "bodyType": "Humanoid rooster/hawk",
+  "debut": {
+    "episode": "Outbreak",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Master hand-to-hand (and foot-to-head) fighter - Ben's best close-range brawler",
+    "Sharp, extendable talons on his arms and clawed hands and feet",
+    "Powerful kicks (sent Fistrick across a room; hurt Kevin's metal form)",
+    "Enhanced strength and durability (withstood a heavy metal mallet)",
+    "Enhanced jumping - extreme height and distance",
+    "Enhanced speed and agility (runs fast enough to leave a dust trail)",
+    "Enhanced acrobatics, flexibility and reflexes",
+    "Prehensile feet",
+    "Limited space survivability - can withstand vacuum while holding his breath"
+  ],
+  "weaknesses": [
+    "Vulnerable to electricity",
+    "Collapses and falls asleep if his neck is rubbed",
+    "Easily distracted by bird seed",
+    "Still needs to breathe - no oxygen supply means holding his breath in space"
+  ],
+  "summary": "A brown-feathered rooster-hawk brawler in a green mask and harness whose spinning kicks and arm talons make him Ben's go-to martial artist.",
+  "traits": [
+    "Screeches like a red-tailed hawk when he talks or kicks",
+    "Same species as Liam, but Liam is not the DNA donor",
+    "Working names included Ka-Chickin, Chi-Kickin and KiChicken",
+    "Mask resembles Hawkman; outfit resembles 1980s Marvel Hercules",
+    "Spinning kick resembles Street Fighter's Tatsumaki Senpukyaku"
+  ],
+  "notableFeats": [
+    "Defeated Liam in his debut (Outbreak)",
+    "Beat Fistrick and his Muroid army (Bros in Space)",
+    "Kicked the Vreedle Brothers' TNT away before it exploded (O Mother, Where Art Thou?)",
+    "Fought Kevin to cover his team's escape from Rooter HQ (Weapon XI: Part 1)",
+    "Tricked and defeated Charmcaster with Skurd's help, kicking her into her own bag (Third Time's a Charm)",
+    "Escaped the Null Void with the game-show contestants (The Most Dangerous Game Show)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Outbreak",
+      "notableEpisodes": [
+        "Outbreak",
+        "Bros in Space",
+        "Tummy Trouble",
+        "Weapon XI: Part 1",
+        "Rook Tales",
+        "Third Time's a Charm"
+      ],
+      "designNotes": "Brown feathers with white-brown mohawk and belly, short yellow beak, green eyes, black claws, two large talons jutting from the forearms, green mask, green strap vest and green/white belt, black briefs; Omnitrix symbol on the vest hook.",
+      "image": {
+        "file": "Kicken Hawk Omniverse official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (469x738, transparent). Note the file name spells 'Kicken'."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 6,
+    "speed": 6,
+    "mobility": 5,
+    "offense": 7,
+    "defense": 4,
+    "special": 3,
+    "versatility": 4,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 1,
+    "survivability": 4,
+    "range": 1,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "A pure martial artist: kicks that launch Fistrick and dent metal Kevin, mallet-proof toughness, big leaps and dust-trail speed. No ranged, energy or special abilities, and he lost to Kevin, Kundo and the Krakken; electricity, a neck rub or bird seed can take him out."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Kickin%27_Hawk"
+  ],
+  "notes": [
+    "Unlocked in Outbreak when the malfunctioning Omnitrix 'sampled' Liam; the wiki notes Liam cannot be the true DNA donor because the DNA was already catalogued.",
+    "Alternate spelling 'Kickin Hawk' in some credits and on Bandai packaging.",
+    "Albedo cannot transform into Kickin' Hawk (Derrick J. Wyatt).",
+    "Games (Wrath of Psychobos, Cavern Run, Slammers) and comics not counted."
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "xlr8",
+  "name": "XLR8",
+  "wikiTitle": "XLR8 (Classic)",
+  "kind": "standard",
+  "species": "Kineceleran",
+  "homeworld": "Kinet",
+  "bodyType": "Humanoid velociraptor",
+  "debut": {
+    "episode": "And Then There Were 10",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Enhanced speed (500+ mph; time appears to stop)",
+    "Accelerated thinking and reflexes",
+    "Wall and water running (friction manipulation)",
+    "Vortex generation by running in circles",
+    "Rapid speed-kicks and scissor-claw strikes",
+    "Sharp claws",
+    "Prehensile tail",
+    "Retractable biological visor",
+    "Wind resistance"
+  ],
+  "weaknesses": [
+    "Magnets and charged pulses throw him off course",
+    "Slips on ice; sticks to adhesive surfaces (Sploot's goo)",
+    "Fast-reacting foes (Transylians, Tetramands, Vulpimancers) can counter him",
+    "Vulnerable to electricity"
+  ],
+  "summary": "Ben's blue speedster: a visored raptor-like Kineceleran who moves so fast the world seems frozen and can run up walls and across water.",
+  "traits": [
+    "Ball-like wheels on his feet",
+    "Slide-down face visor is biological, not mechanical",
+    "Ben 10,000's XLR8 could circle the globe in seconds",
+    "Faster on the ground than Jetray"
+  ],
+  "notableFeats": [
+    "Beat Hex in a museum in his first real fight (Lucky Girl)",
+    "Chased down and defeated the storm entity S.A.M. (Monster Weather)",
+    "Ben 10,000's XLR8 defeated Exo-Skull (Ben 10,000)",
+    "Cycled every combination to disarm SevenSeven's bomb on Ben 23 (Store 23)",
+    "Knocked over a Way Bad (The Frogs of War: Part 2)",
+    "Saved Dr. Holiday from Alpha (Heroes United)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os",
+        "ben-10k-os"
+      ],
+      "firstEpisode": "And Then There Were 10",
+      "notableEpisodes": [
+        "And Then There Were 10",
+        "Lucky Girl",
+        "Monster Weather",
+        "Ben 10,000",
+        "Perfect Day",
+        "Ken 10"
+      ],
+      "designNotes": "Black bodysuit with a white centre stripe, black cone helmet with visor, blue face with green eyes, black tail with five blue stripes, original Omnitrix on chest. Ben 10,000's XLR8 is taller with white stripes, longer sleeves and a scanner visor.",
+      "image": {
+        "file": "XLR8 OS.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Ben 10/Generator Rex: Heroes United",
+      "notableEpisodes": [
+        "Ben 10/Generator Rex: Heroes United"
+      ],
+      "designNotes": "Same as the Original Series but slightly darker skin and more muscular, drawn in Generator Rex's style; Ultimatrix on chest.",
+      "image": {
+        "file": "HU (736).png",
+        "label": "HU",
+        "confidence": "high",
+        "notes": "Heroes United frame with XLR8 alone (previous frame included another character). No UA/HU render exists on the wiki. Verified 2026-08-17."
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-11-ov",
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Trouble Helix",
+      "notableEpisodes": [
+        "Hot Stretch",
+        "Malefactor",
+        "Store 23",
+        "The Frogs of War: Part 2",
+        "Bengeance is Mine",
+        "A New Dawn"
+      ],
+      "designNotes": "Taller; the white on the shirt becomes green and covers the neck; four tail stripes; bigger foot-balls; darker visor. 11-year-old keeps a white shirt and has three tail stripes.",
+      "image": {
+        "file": "XLR8 OV2.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 4,
+    "durability": 5,
+    "speed": 9,
+    "mobility": 7,
+    "offense": 5,
+    "defense": 6,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 5,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 4,
+    "range": 3,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Supersonic runner who effectively stops time, runs on walls and water and whips up lifting vortexes; hits hard for his size but is a light-weight melee fighter. Magnets, ice and sticky surfaces neutralise him."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/XLR8_(Classic)"
+  ],
+  "notes": [
+    "UA record rests solely on the Heroes United crossover (a Generator Rex episode; wiki lists it under 'Generator Rex'); XLR8 was re-unlocked in Ben 10,000 Returns but never used in a UA episode proper - flag for QA if crossovers should be excluded.",
+    "Not used in Alien Force (locked).",
+    "Also used by Ken (Ken 10) and Gwen 10 (And Then There Was Ben) - not counted."
+  ]
+}

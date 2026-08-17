@@ -1,0 +1,101 @@
+{
+  "id": "ultimate-spidermonkey",
+  "name": "Ultimate Spidermonkey",
+  "wikiTitle": "Ultimate Spidermonkey",
+  "kind": "ultimate",
+  "species": "Ultimate Arachnachimp",
+  "homeworld": "",
+  "bodyType": "Gorilla-like humanoid with spider legs",
+  "debut": {
+    "episode": "Fame",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": "spidermonkey",
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Web spitting from a splitting lower jaw (far more webbing than Spidermonkey)",
+    "Web ensnarement, web nets and web cushions",
+    "Two pairs of retractable, sharp spider legs from the waist (UA design)",
+    "Enhanced strength (overpowers a Tetramand)",
+    "Enhanced durability, radiation and heat resistance (survived atmospheric re-entry)",
+    "Enhanced jumping, agility and wall scaling; prehensile feet"
+  ],
+  "weaknesses": [
+    "Webs can be torn by Anodites or dissolved by Atomix's nuclear energy",
+    "Put to sleep by Argit's sedative quills",
+    "Ears vulnerable to Ultimate Sonorosian sonics",
+    "Loses Spidermonkey's small size and tail-based agility"
+  ],
+  "summary": "The evolved Arachnachimp: a hulking purple gorilla with six eyes and four retractable spider legs who spits heavy webbing from a splitting jaw. Trades Spidermonkey's nimbleness for raw muscle.",
+  "traits": [
+    "First Ultimate form used in Ultimate Alien",
+    "Six eyes, jaw splits to spit webs",
+    "Alien of the Month February 2011",
+    "Voiced by Dee Bradley Baker (UA), Paul Eiding (OV)"
+  ],
+  "notableFeats": [
+    "Defeated Bivalvan on debut (Fame)",
+    "Defeated Sir Driscoll, spider legs piercing concrete (The Purge)",
+    "Defeated Mizaru (Simian Says) and Hugh (Double or Nothing)",
+    "Fell from space through the atmosphere completely unharmed after fighting the Vreedles (The Mother of All Vreedles)",
+    "As Albedo: overpowered Four Arms and survived Atomix's Nuclear Winner (The Ultimate Heist; For a Few Brains More)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Fame",
+      "notableEpisodes": [
+        "Fame",
+        "Reflected Glory",
+        "The Transmogrification of Eunice",
+        "The Purge",
+        "Simian Says",
+        "Double or Nothing",
+        "The Mother of All Vreedles"
+      ],
+      "designNotes": "Large gorilla-like body with purple skin and black fur, three pairs of green eyes, no tail or extra arms; two pairs of long purple spider legs that fold into the waist; lower jaw splits to shoot webs; green evolved Ultimatrix symbol on chest. (Albedo's OV redesign instead has six gorilla arms, yellow fangs and the symbol on the stomach.)",
+      "image": {
+        "file": "UA_UltimateSpidermonkey.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "Infobox render labelled UA; verified green symbol, spider legs extended. Retracted-legs alternative: 'Ult Spidermonkey legs retracted.png'."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 7,
+    "durability": 7,
+    "speed": 6,
+    "mobility": 7,
+    "offense": 6,
+    "defense": 6,
+    "special": 5,
+    "versatility": 5,
+    "intellect": 4,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 6,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Strong enough to overpower Four Arms, tough enough to survive re-entry and Atomix's Nuclear Winner, and his webbing holds Vaxasaurians - a solid step above Spidermonkey. Little ranged threat beyond webs, which Anodites tear and nuclear energy dissolves, and Argit's quills put him to sleep."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Spidermonkey",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "OMNIVERSE: only Albedo used Ultimate Spidermonkey (The Ultimate Heist, A Fistful of Brains, For a Few Brains More, And Then There Were None, Malgax Attacks) - complete redesign with eight limbs. No Ben used it in OV, so no OV appearance; infobox OV image 'Negative ultimate spidermonkey official.png' is Albedo's.",
+    "'Double or Nothing' has two uses; the second reverted when passing through a force field.",
+    "Dream appearance in 'Night of the Living Nightmare' (defeated by Vilgax) not counted.",
+    "Retractable/sharp spider legs are a UA-only feature; DJW said Ben's OV version would also have six arms.",
+    "Sentient Ultimates storyline (UA S3, 'The Ultimate Sacrifice'): the six most-used Ultimate forms (Humungousaur, Swampfire, Spidermonkey, Big Chill, Cannonbolt, Echo Echo) gained sentience inside the Ultimatrix and demanded freedom; Ben offered his life, Azmuth freed them to their own world and reworked the Ultimatrix so Ultimates are 'empty shells' again.",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

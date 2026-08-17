@@ -1,0 +1,70 @@
+{
+  "id": "ultimate-rath",
+  "name": "Ultimate Rath",
+  "wikiTitle": "Ultimate Rath",
+  "kind": "ultimate",
+  "species": "Ultimate Appoplexian",
+  "homeworld": "",
+  "bodyType": "Clawed humanoid tiger",
+  "debut": {
+    "episode": "Malgax Attacks",
+    "series": "ov",
+    "usedBy": "albedo"
+  },
+  "baseFormId": "rath",
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Enhanced strength (carried a large, bulky blaster one-handed)",
+    "Enhanced durability (shrugged off Luhley's Plumber blaster)",
+    "Enhanced jumping (leapt out of Azmuth's lab through the roof)",
+    "Two giant wrist claws, elbow claws and smaller claws on fingers and toes",
+    "Quadrupedal bounding"
+  ],
+  "weaknesses": [
+    "No dedicated weakness section on the wiki",
+    "Rath's hot-headed personality is unchanged (Albedo's intellect keeps it in check; Ben likely would not)"
+  ],
+  "summary": "Albedo's evolved Appoplexian: a white-furred, red-striped Rath in a hooded coat with enormous wrist and elbow claws, stronger and tougher than the original in every respect.",
+  "traits": [
+    "Final Ultimate form (and final Albedo alien) seen in the Classic continuity",
+    "Wolverine/Sabretooth/Kraven-inspired look",
+    "Would say 'Let me tell ya FIVE things!' if Ben used him",
+    "Voiced by John DiMaggio"
+  ],
+  "notableFeats": [
+    "Seemingly killed Azmuth (later restored) and chased down an enraged Luhley, tanking her blaster fire (Malgax Attacks)",
+    "Leapt clean out of Azmuth's laboratory through a hole in the roof (Malgax Attacks)"
+  ],
+  "appearances": [],
+  "scoring": {
+    "strength": 8,
+    "durability": 8,
+    "speed": 6,
+    "mobility": 6,
+    "offense": 7,
+    "defense": 5,
+    "special": 3,
+    "versatility": 4,
+    "intellect": 2,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 2,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 2,
+    "rationale": "All of Rath's abilities enhanced: hefts a heavy blaster, shrugs off Plumber blaster fire, jumps out of a building; still a pure melee brawler with claws, no ranged options and the Appoplexian temper as a control liability. Only one appearance."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Rath",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "ALBEDO-ONLY: this form was used exclusively by Albedo via his stabilizer Ultimatrix in Omniverse (red eyes/red symbol, direct transformation without passing through the base form). No version of Ben ever used it, so 'appearances' is intentionally empty and it should be excluded from the wall while the record is kept.",
+    "Single appearance: 'Malgax Attacks' (OV S8).",
+    "Infobox image 'Ultimate Rath OV.png' is Albedo's version (only art available).",
+    "In the comic 'One Man's Trash' Ben tries and fails to go Ultimate Rath (non-canon joke).",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

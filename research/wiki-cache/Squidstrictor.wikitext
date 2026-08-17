@@ -1,0 +1,92 @@
+{{Questioned}}
+{{Infobox Alien
+|backcolor = FCBF40
+|textcolor = 854829
+|name = Squidstrictor
+|image = Squidstrictor in stage.png
+|species = [[Cephalod-ae]]
+|home-planet = [[Molluskus]]
+|power = [[Manna]] Detection<br>Tentacles<br>Ink Shooting<br>Camouflage<br>Small Space Maneuvering<br>Enhanced Strength<br>Underwater Survivability
+|1st-appearance = Ben 10 Live: Power of the Omnitrix
+}}
+'''Squidstrictor''' is the [[Omnitrix (Omniverse)|Omnitrix]]'s DNA sample of a [[Cephalod-ae]] from the planet [[Molluskus]].{{Refn|''link unavailable''|group = Net|name = site}}
+
+==Appearance==
+Squidstrictor is an orange animalistic alien, with a large head and a shell on top, which runs down his back. He has two eyes on opposite sides of his head, and a mouth full of what appears to be white teeth or baleens. He has nine tentacles, which he can use like arms or legs. At least four of these tentacles end in 'clubs', with suckers on the bottom ends, just like a [[Wikipedia:Squid|squid]] has. He has dark orange grooves on the top of his clubs and the top of his shell. The [[Omnitrix (Original)|Omnitrix]] is located on his torso that connects the tentacles.
+
+==Powers and Abilities==
+From the many suckers on his tentacles, Squidstrictor has the ability to "feel" and detect the [[manna]] in every living thing he comes into contact with.{{Refn|group = Net|name = site}}
+
+Squidstrictor has a powerful grip and incredible crushing abilities with his tentacles.{{Refn|group = Net|name = site}}
+
+Squidstrictor can contort his body to fit into small spaces.{{Refn|group = Net|name = site}}
+
+Squidstrictor can change the color of his skin to camouflage.{{Refn|group = Net|name = site}}
+
+Squidstrictor is able to shoot a sticky jet stream of ink that can blind or slow down enemies.{{Refn|group = Net|name = site}}
+
+==Weaknesses==
+Squidstrictor has an aversion to strong light.{{Refn|group = Net|name = site}}
+
+Squidstrictor can get his tentacles tangled easily.{{Refn|group = Net|name = site}}
+
+Squidstrictor cannot stay out of water for longer than 20 minutes.{{Refn|group = Net|name = site}}
+
+==Appearances==
+===Plays===
+*''[[Ben 10 Live: Power of the Omnitrix]]''
+*''[[Ben 10 Live: The Rise of VilEon]]''
+
+==Naming and Translations==
+{{Translation
+|ha = Squidstrictor
+|had = From the original English name
+|italian = Squidstrictor
+|italiand = From the original English name
+|polish = Squidstrictor
+|polishd = From the original English name
+|portuguesebr = Lula Cósmica
+|portuguesebrd = From ''lula'', squid and ''cósmica'', cosmic
+|romanian = Squidstrictor
+|romaniand = From the original English name
+|russian = Сквидстриктор
+|russiand = From the original English name
+|turkish = Squidstrictor
+|turkishd = From the original English name}}
+
+==Etymology==
+Squidstrictor's name is a portmanteau of "squid" and "constrictor", referencing his appearance and strength.
+
+==Trivia==
+[[File:SquidstrictorPose.png|thumb|2D promotional art of Squidstrictor]]
+*In the ''Power of the Omnitrix'' play, Squidstrictor's [[Omnitrix (Original)|Omnitrix]] symbol is positioned sideways, similar to [[Jetray (MAD)|Jetray]] in ''[[Ben 10 Franklin]]''.
+**The idea of Omnitrix symbols being positioned sideways would later include those of the [[Omni-Kix Armors]].
+*Although some crew members think Squidstrictor is not canon,{{Refn|[[:File:Rocks and Squidstrictor Originally Non-Canon.PNG]]|group = DM}}{{Refn|[[:File:Rocks and Squidstrictor Originally Non-Canon 2.PNG]]|group = MW}} [[Derrick J. Wyatt]] believed Squidstrictor is canon{{Refn|[[:File:Rocks and Squidstrictor Canon.png]]|group = DJW}} and was unlocked off-screen prior to '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''.{{Refn|[[:File:Rocks and Squidstrictor Unlocked Before OV.png]]|group = DJW}}
+**Had the network allowed the crew to include more aliens into '''Omniverse''', Derrick would have incorporated Squidstrictor.{{Refn|[[:File:Derrick Wanted to Add Rocks and Squidstrictor Into OV.png]]|group = DJW}}{{Refn|[[:File:Derrick was not aware of Total Access aliens during production.png]]|group = DJW}}
+**Had he appeared on-screen, Squidstrictor would have been fairly large and accompanied by the sound of wet noodles.{{Refn|[[:File:Ventrilosquid Size.png]]|group = DJW}}{{Refn|[[:File:DJW Alien Sound Effects.png]]|group = DJW}}
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Dwayne McDuffie]]====
+{{Reflist|group = DM}}
+====[[Matt Wayne]]====
+{{Reflist|group = MW}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+===[[Cartoon Network]]===
+====Ben 10.Net====
+{{Reflist|group = Net}}
+{{Non-Canon Aliens}}
+[[es:Squidstrictor]]
+[[it:Squidstrictor]]
+[[pl:Squidstrictor]]
+[[pt-br:Lula Cósmica]]
+[[ro:Squidstrictor]]
+[[ru:Сквидстриктор]]
+[[tr:Squidstrictor]]
+[[Category:Transformations]]
+[[Category:Aliens]]
+[[Category:Live-Action Transformations]]
+[[Category:Non-Canon Aliens]]
+[[Category:Non-Canon Transformations]]

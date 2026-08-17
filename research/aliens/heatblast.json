@@ -1,0 +1,149 @@
+{
+  "id": "heatblast",
+  "name": "Heatblast",
+  "wikiTitle": "Heatblast (Classic)",
+  "kind": "standard",
+  "species": "Pyronite",
+  "homeworld": "Pyros",
+  "bodyType": "Magma-rock humanoid (plasma body under volcanic rock plates)",
+  "debut": {
+    "episode": "And Then There Were 10",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Pyrokinesis (fire streams, fireballs, fire bombs, fire lasers)",
+    "Fire/heat absorption and immunity",
+    "Fire constructs (fire moons, daggers, disks)",
+    "Pyrokinetic flight / fire-board surfing",
+    "Terrakinesis (levitating rock platforms)",
+    "Fire vortex generation",
+    "Enhanced strength and durability",
+    "Underwater survivability",
+    "Enhanced jumping and reflexes"
+  ],
+  "weaknesses": [
+    "Fire is useless against fireproof or heat-empowered foes (Crabdozer, Tetramands, Petrosapiens, Vaxasaurians)",
+    "Flames can be extinguished by water, wind or fire-suppressants (usually reignites quickly)",
+    "Burns whatever he touches; can accidentally spread fires",
+    "Cannot survive the vacuum of space",
+    "A cold virus inverts his powers to cryokinesis (Side Effects)"
+  ],
+  "summary": "Ben's very first transformation: a seven-foot Pyronite whose plasma body radiates and hurls fire, and who later learns to fly on flame and rock.",
+  "traits": [
+    "7 feet tall",
+    "Only Ben alien with eyes that were never green",
+    "Fiery 'hair' aura on his head",
+    "Fire-based yet can breathe underwater"
+  ],
+  "notableFeats": [
+    "Melted Vilgax's Mechadroids and buried Vilgax in asphalt (Secrets)",
+    "Destroyed the Nosedeenians' planetarium with a fire bomb (Tourist Trap)",
+    "Vaporized S.A.M.'s water form by circling on a fire-board (Monster Weather)",
+    "As a 4-year-old, flash-vaporized the Fountain of Youth (Don't Drink the Water)",
+    "Defeated King Viktor (Viktor: The Spoils) and Ultimate Vilgax alongside Sir George (The Ultimate Enemy: Part 1)",
+    "Melted free of Sentient Ultimate Big Chill's ice (The Ultimate Sacrifice)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os",
+        "ben-10k-os",
+        "ben-5"
+      ],
+      "firstEpisode": "And Then There Were 10",
+      "notableEpisodes": [
+        "And Then There Were 10",
+        "Kevin 11",
+        "Secrets",
+        "Side Effects",
+        "Don't Drink the Water",
+        "Ben 10: Race Against Time"
+      ],
+      "designNotes": "Dark reddish-brown volcanic rock over an orange plasma body; two-toed feet; original Omnitrix on chest; fiery aura connected to the eyes. Ben 10,000's version adds two shoulder volcanoes; 4-year-old 'Heatbrat' is tiny with an oversized head. Race Against Time (alt timeline) live-action version has more exposed plasma with yellow-glow cracks.",
+      "image": {
+        "file": "Heatblast OS.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-10-ua",
+        "ben-16-ua"
+      ],
+      "firstEpisode": "The Forge of Creation",
+      "notableEpisodes": [
+        "The Forge of Creation",
+        "Viktor: The Spoils",
+        "The Ultimate Sacrifice",
+        "The Ultimate Enemy: Part 1"
+      ],
+      "designNotes": "16-year-old design resembles Alan Albright: burnt-black charcoal rocks with red edge markings, lighter yellow plasma, eyes no longer connected to the head fire, Ultimatrix on chest. 10-year-old Heatblast (Forge of Creation) mixes the UA build with OS colours and a green Omnitrix.",
+      "image": {
+        "file": "HeatblastUAFOfficial.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov",
+        "ben-10-ov"
+      ],
+      "firstEpisode": "A Jolt From the Past",
+      "notableEpisodes": [
+        "A Jolt From the Past",
+        "Trouble Helix",
+        "Of Predators and Prey: Part 1",
+        "Store 23",
+        "And Then There Was Ben",
+        "Stuck on You"
+      ],
+      "designNotes": "UA-style rocks but eyes reconnected to the head fire, taller and more muscular, tilted shoulder plates, redesigned feet. 16/11/10-year-old versions share the design; only the Omnitrix ring colour differs (white for 16, silver for 11).",
+      "image": {
+        "file": "Heatblast omniverse official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 6,
+    "speed": 5,
+    "mobility": 7,
+    "offense": 8,
+    "defense": 4,
+    "special": 6,
+    "versatility": 7,
+    "intellect": 4,
+    "energy": 7,
+    "regeneration": 2,
+    "survivability": 6,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 1,
+    "rationale": "Strong ranged pyrokinetic: melts tanks and warship hulls, planetarium-levelling fire bombs, and later true flight via fire/rock propulsion. Not top-tier physically and useless against fireproof foes (Crabdozer, Diamondhead) and easily doused; collateral fire risk costs a control point."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Heatblast_(Classic)"
+  ],
+  "notes": [
+    "Not used in Alien Force: locked by the Omnitrix recalibration; only a hologram appears (Vengeance of Vilgax: Part 1, Busy Box).",
+    "Race Against Time appearance is the alternate 'Race Against Time' timeline (live-action design).",
+    "Also used by Kevin (Framed), Gwen (Gwen 10, non-canon) and Sandra (Destroy All Aliens) - not counted as Ben appearances.",
+    "Heroes United (Generator Rex crossover) cameo only in a non-diegetic flashback; UA appearance stands on the UA episodes."
+  ]
+}

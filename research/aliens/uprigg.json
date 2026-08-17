@@ -1,0 +1,89 @@
+{
+  "id": "uprigg",
+  "name": "Uprigg",
+  "wikiTitle": "Uprigg",
+  "kind": "fusion",
+  "species": "Planchakule/Galvanic Mechamorph hybrid",
+  "homeworld": "",
+  "bodyType": "Technological gremlin",
+  "debut": {
+    "episode": "Let's Do the Time War Again",
+    "series": "ov",
+    "usedBy": "ben-10k-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [
+    "jury-rigg",
+    "upgrade"
+  ],
+  "abilities": [
+    "Disassembles and reassembles technology at manic speed (Juryrigg)",
+    "Modifies and improves technology (Upgrade) - built working Time Cycles from wreckage",
+    "Elastic, long-reaching limbs",
+    "Enhanced technical intelligence"
+  ],
+  "weaknesses": [
+    "No weaknesses documented on the wiki",
+    "Physically small and weak; a builder rather than a fighter",
+    "Juryrigg's manic 'fix, fix, fix!' personality"
+  ],
+  "summary": "Ben 10,000's Biomnitrix fusion of Juryrigg and Upgrade: a circuit-patterned gremlin who giggles his way through building time-travelling motorcycles out of scrap and a Chroniton particle.",
+  "traits": [
+    "'Fix, fix, fix!'",
+    "Plug-tipped tail like Feedback's",
+    "Biomnitrix symbol on his eye ring",
+    "Voiced by Bumper Robinson"
+  ],
+  "notableFeats": [
+    "Built two Time Cycles for Ben and Rook from a Chroniton Particle and the wreckage of the Proto-TRUK and Tenn-Speed (Let's Do the Time War Again)",
+    "Built a second pair of Time Cycles off-screen so Ben and Rook could return to their own time (Let's Do the Time War Again)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-10k-ov"
+      ],
+      "firstEpisode": "Let's Do the Time War Again",
+      "notableEpisodes": [
+        "Let's Do the Time War Again"
+      ],
+      "designNotes": "Juryrigg's body overlaid with Upgrade's green circuit pattern; slightly rounder arms, legs and stomach; a plug on the tail tip instead of a devil point; longer, pointier ears and nose; Biomnitrix symbol on the ring of his single eye (Upgrade's symbol spot).",
+      "image": {
+        "file": "UpRigg.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 3,
+    "durability": 4,
+    "speed": 4,
+    "mobility": 5,
+    "offense": 4,
+    "defense": 4,
+    "special": 8,
+    "versatility": 7,
+    "intellect": 8,
+    "energy": 4,
+    "regeneration": 2,
+    "survivability": 4,
+    "range": 4,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 1,
+    "rationale": "A support specialist: Juryrigg's dismantling instinct plus Upgrade's tech-enhancement let him build functioning time machines from scrap, backed by stretchy reach. Almost no combat value shown, small and fragile, with a manic streak."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Uprigg",
+    "https://ben10.fandom.com/wiki/Biomnitrix"
+  ],
+  "notes": [
+    "One-time form used only by the Omniverse Ben 10,000 via the Biomnitrix (Let's Do the Time War Again, OV S8); second use was off-screen.",
+    "componentIds use 'jury-rigg' for the wiki page 'Juryrigg' per project id convention - verify against the base research file.",
+    "Biomnitrix context: the Omniverse Ben 10,000 (Original Future timeline, re-established as Ben Prime's true future) wears two linked Omnitrix gauntlets; slamming them together fuses two aliens on the fly (combinations are generated at transformation time, not stored). Each gauntlet alone gives normal aliens; it is voice-controlled and can be knocked out by a large EMP or Chronosapien time-freeze. All on-screen fusions were drawn by Thomas N. Perkins IV; the device name was coined by Derrick J. Wyatt (unnamed in scripts)."
+  ]
+}

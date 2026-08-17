@@ -1,0 +1,165 @@
+{
+  "id": "way-big",
+  "name": "Way Big",
+  "wikiTitle": "Way Big (Classic)",
+  "kind": "standard",
+  "species": "To'kustar",
+  "homeworld": "",
+  "bodyType": "Giant humanoid (~100 ft)",
+  "debut": {
+    "episode": "Ken 10",
+    "series": "os",
+    "usedBy": "ben-10k-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": "ultimate-way-big",
+  "componentIds": [],
+  "abilities": [
+    "Cosmic ray fired from crossed arms (can disintegrate a small planet)",
+    "Planetary-class strength (threw a giant Vilgax into orbit, lifted the Hyperspace Jump Gate)",
+    "Immense durability against kaiju-scale foes",
+    "Shock waves / 7.0-scale tremors by stomping",
+    "Enhanced speed (vortex that hurled the Trash Monster into the sun)",
+    "Enhanced jumping and reflexes",
+    "Space survivability",
+    "Heat and cold immunity"
+  ],
+  "weaknesses": [
+    "Head frill is his critical weak point - a hit there stuns him",
+    "Size causes clumsiness and collateral damage",
+    "Tiny attackers (Nanomech) can get inside him",
+    "Powerful electrical discharges hurt him",
+    "Sedative quills or Corrupturas can subdue him"
+  ],
+  "summary": "Ben's 100-foot To'kustar giant: an Ultraman-style titan whose crossed-arm cosmic ray and sheer mass made him Ben's strongest alien before Alien X.",
+  "traits": [
+    "To'kustars have no home planet - they are born in cosmic storms",
+    "First appeared used by Ben 10,000 in Ken 10",
+    "Considered Ben's most powerful alien pre-Alien X",
+    "Has an Ultimate form (Ultimate Way Big)"
+  ],
+  "notableFeats": [
+    "Destroyed Vilgax's army and threw Vilgax into space (Ben 10: Secret of the Omnitrix)",
+    "Punched Kevin 11,000 into the ground (Ken 10)",
+    "Defeated a giant Vilgax on Primus (Primus)",
+    "Threw the Trash Monster into the sun with a vortex (The Widening Gyre)",
+    "Fought Malware and the Way Bads, destroying Milleous's ship (Showdown: Part 2 / The Frogs of War: Part 2)",
+    "Went Ultimate against Dagon (The Ultimate Enemy: Part 2)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10k-os",
+        "ben-10-os"
+      ],
+      "firstEpisode": "Ken 10",
+      "notableEpisodes": [
+        "Ken 10",
+        "Ben 10: Secret of the Omnitrix",
+        "Ben 10: Destroy All Aliens"
+      ],
+      "designNotes": "White body with red arms bearing three black stripes, red feet with black sandal-like coverings, head frill black in front and red beneath, shoulder blades and waist spikes, yellow eyes with two extra cheek eyes, Omnitrix on chest. Ben 10,000's version is near-identical.",
+      "image": {
+        "file": "Waybig Model.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af",
+        "ben-16-af"
+      ],
+      "firstEpisode": "War of the Worlds: Part 1",
+      "notableEpisodes": [
+        "War of the Worlds: Part 1",
+        "Vengeance of Vilgax: Part 2",
+        "Simple",
+        "Primus"
+      ],
+      "designNotes": "Slightly bigger; frill red in front and black beneath, white arms with red fins, black neck and wrists, green eyes, no cheek eyes, arm stripes, shoulder blades or waist spikes; red boot-like feet; Omnitrix on chest (shared AF/UA design).",
+      "image": {
+        "file": "UAF WayBig.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Video Games",
+      "notableEpisodes": [
+        "Video Games",
+        "Absolute Power: Part 1",
+        "Ben 10,000 Returns",
+        "The Ultimate Sacrifice",
+        "The Widening Gyre",
+        "The Ultimate Enemy: Part 2"
+      ],
+      "designNotes": "Same UAF design as Alien Force with the Ultimatrix on his chest; cosmic ray fired in an 'L' arm cross and coloured pale blue.",
+      "image": {
+        "file": "UAF WayBig.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "Blukic and Driba Go to Mr. Smoothy's",
+      "notableEpisodes": [
+        "Blukic and Driba Go to Mr. Smoothy's",
+        "Showdown: Part 2",
+        "Special Delivery",
+        "The Frogs of War: Part 2",
+        "Universe vs. Tennyson",
+        "From Hedorium to Eternity"
+      ],
+      "designNotes": "More muscular, two red neck lines, red shoulder/waist blades return, black fingerless gloves, cheek eyes back (metallic), longer arm fins, arm/leg stripes and wristband growths return; cosmic ray fired in an 'X' cross and coloured green. 16/11-year-old share the design; Omnitrix ring white (16) or silver (11).",
+      "image": {
+        "file": "Way Big OV Artwork.PNG",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 10,
+    "durability": 9,
+    "speed": 5,
+    "mobility": 4,
+    "offense": 9,
+    "defense": 7,
+    "special": 7,
+    "versatility": 5,
+    "intellect": 3,
+    "energy": 8,
+    "regeneration": 0,
+    "survivability": 8,
+    "range": 8,
+    "cosmic": 1,
+    "weaknessPenalty": 2,
+    "controlPenalty": 2,
+    "rationale": "Planet-scale strength and a cosmic ray that can disintegrate a small planet put him at the top of the roster; he shrugs off giant Vilgax, Malware and Way Bads. His frill is a glaring weak point, tiny foes get inside him, and his size makes him unusable in cities."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Way_Big_(Classic)"
+  ],
+  "notes": [
+    "Wiki lists first appearance as Ken 10 (by Ben 10,000); by air date Secret of the Omnitrix (Aug 2007) was the first release and Ben's own first use - debut usedBy follows the wiki (ben-10k-os).",
+    "Homeworld left blank: To'kustars have no home planet (born in cosmic storms).",
+    "AF: War of the Worlds: Part 1 is wiki S1 (Ben 15); Vengeance of Vilgax: Part 2, Simple, Primus are wiki S2 (Ben 16).",
+    "Also used by Kevin (Inspector 13, via Ultimatrix), Azmuth as Evil Way Big (Destroy All Aliens) and Mad Ben (OV) - not counted."
+  ]
+}

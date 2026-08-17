@@ -1,0 +1,104 @@
+{
+  "id": "ultimate-humungousaur",
+  "name": "Ultimate Humungousaur",
+  "wikiTitle": "Ultimate Humungousaur",
+  "kind": "ultimate",
+  "species": "Ultimate Vaxasaurian",
+  "homeworld": "",
+  "bodyType": "Armoured humanoid dinosaur",
+  "debut": {
+    "episode": "The Final Battle: Part 1",
+    "series": "af",
+    "usedBy": "albedo"
+  },
+  "baseFormId": "humungousaur",
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Hands transform into bio-gatling missile launchers (missiles or bullet-sized pellets)",
+    "Enhanced strength (stated ten times Humungousaur's)",
+    "Ground-rupturing punches and shock waves",
+    "Heavily armoured, highly durable body",
+    "Spiked mace tail",
+    "Enhanced speed, agility and reflexes for his size",
+    "Fire/heat resistance"
+  ],
+  "weaknesses": [
+    "Vulnerable to electricity (e.g. Feedback / Conductoids)",
+    "Huge size makes tight spaces difficult",
+    "Cannot change size like Humungousaur (per Dwayne McDuffie)"
+  ],
+  "summary": "The evolved Vaxasaurian: an ankylosaur-armoured, mace-tailed powerhouse whose knuckles unfold into missile launchers. Ben's go-to Ultimate brawler in Ultimate Alien.",
+  "traits": [
+    "First Ultimate form ever seen on-screen (used by Albedo)",
+    "Only Ultimate to appear in three Classic shows",
+    "Voiced by Dee Bradley Baker (AF/UA), John DiMaggio (OV, Albedo)"
+  ],
+  "notableFeats": [
+    "Ben's first use: briefly fought P'Andor, Buzz, Surgeon and Hammer, collapsing a cave (Too Hot to Handle)",
+    "Knocked Overlord (Captain Nemesis) around with his tail (Hero Time)",
+    "Battled Ultimate Kevin, though he lost (The Enemy of My Enemy)",
+    "Defeated Antonio, easily dodging his attacks (Girl Trouble)",
+    "Fought Sir George to a standstill before making an agreement about Dagon (Solitary Alignment)",
+    "As Albedo: withstood Atomix's Nuclear Punch and an atomic blast (For a Few Brains More); Albedo's version also beat an army of Humungousaur Bioids only by weight of numbers (The Final Battle: Part 2)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Too Hot to Handle",
+      "notableEpisodes": [
+        "Too Hot to Handle",
+        "Hero Time",
+        "Where the Magic Happens",
+        "The Enemy of My Enemy",
+        "Girl Trouble",
+        "The Ultimate Sacrifice",
+        "Solitary Alignment",
+        "Couples Retreat"
+      ],
+      "designNotes": "Burly humanoid dinosaur with camo-green skin and dark-blue ankylosaur-style armour on head, back, chest and torso; helmet with three silver spikes and two black side horns; silver knuckle barrels that unfold into four-barrel missile launchers; black claws; blue spiked mace tail; green eyes and green evolved Ultimatrix symbol on chest (Albedo's AF version is identical but with red eyes/symbol).",
+      "image": {
+        "file": "UHUA.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "Infobox image labelled UA; visually verified green eyes and green Ultimatrix symbol (Ben's version)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 9,
+    "durability": 9,
+    "speed": 5,
+    "mobility": 5,
+    "offense": 8,
+    "defense": 7,
+    "special": 7,
+    "versatility": 5,
+    "intellect": 4,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 6,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 1,
+    "rationale": "Ten times Humungousaur's strength (DVD data), missile barrages that knock out a Petrosapien, and armour that (as Albedo) tanked Atomix's nuclear punch and blast; the sentient version lifted and threw Way Big. Loses to Ultimate Kevin, is grounded by electricity, cannot grow, and his bulk is a liability indoors."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Humungousaur",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "ALIEN FORCE: only Albedo used Ultimate Humungousaur (The Final Battle: Parts 1-2, red eyes/red Ultimatrix symbol) - no AF appearance record for Ben. The infobox AF image 'Ultimate Humongousaur 1.PNG' is Albedo's (verified red symbol) and must NOT be used for Ben.",
+    "OMNIVERSE: only Albedo (Negative Ultimate Humungousaur, techno-organic redesign) used it - The Ultimate Heist, A Fistful of Brains, For a Few Brains More, And Then There Were None (non-speaking). No Ben used it in OV, so no OV appearance. Infobox OV image 'Negative Ultimate Humungousaur.png' is Albedo's.",
+    "In 'Ben 10,000 Returns' Ultimate Ben channelled Ultimate Humungousaur's strength (his body bulked up) without transforming; the wiki lists it under 'Ben 10,000's Transformations' but it is not counted here as a separate appearance.",
+    "Ben's first on-screen use is 'Too Hot to Handle' (UA S1); debut field records the wiki first appearance (Albedo, AF).",
+    "Wiki lists a dream-figment cameo in 'Night of the Living Nightmare' (Albedo's dream) - not counted.",
+    "In UA the missiles were described as kinetically unstable bone fragments; the OV redesign made them look like conventional missiles.",
+    "Sentient Ultimates storyline (UA S3, 'The Ultimate Sacrifice'): the six most-used Ultimate forms (Humungousaur, Swampfire, Spidermonkey, Big Chill, Cannonbolt, Echo Echo) gained sentience inside the Ultimatrix and demanded freedom; Ben offered his life, Azmuth freed them to their own world and reworked the Ultimatrix so Ultimates are 'empty shells' again.",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

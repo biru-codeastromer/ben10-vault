@@ -1,0 +1,94 @@
+{
+  "id": "gutrot",
+  "name": "Gutrot",
+  "wikiTitle": "Gutrot",
+  "kind": "standard",
+  "species": "Unknown",
+  "homeworld": "Unknown",
+  "bodyType": "Humanoid",
+  "debut": {
+    "episode": "Animo Crackers",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Chemokinesis - a walking chemical lab that mixes and vents almost any gas from body nozzles: sulphur dioxide tear gas, nitrous oxide laughing gas, sevoflurane knockout gas (with memory loss), hydrogen chloride acid gas",
+    "Potentially lethal gases (mustard gas, hydrogen cyanide) and sleeping gas - never used on-screen",
+    "Species-targeted pheromones - lured two Way Bads to Rooter HQ (Weapon XI: Part 2)",
+    "Gas absorption through his nozzles and neutralization of unwanted gases",
+    "Immunity to poisonous and acidic gases and to Nemuina sleep dust",
+    "Enhanced intelligence and vast chemistry/biology knowledge",
+    "Enhanced jumping (cleared the buildings of Los Soledad)",
+    "Space survivability"
+  ],
+  "weaknesses": [
+    "His gas clouds drift with the wind and can endanger allies and bystanders (Animo Crackers)",
+    "Cannot absorb an Ectonurite in wisp form",
+    "Cannot replicate the Fountain of Youth's water as steam",
+    "Not immune to gases as cold as liquid nitrogen"
+  ],
+  "summary": "A gas-masked, mechanical-looking humanoid whose belly window shows the swirling chemicals he brews and sprays - tear gas, laughing gas, knockout gas or acid on demand.",
+  "traits": [
+    "Brooklyn 'wise guy' accent modelled on Peter Falk's Columbo, complete with squint",
+    "Modelled after Koffing, Derrick J. Wyatt's favourite Pokemon; working name Rotgut",
+    "Name was technically revealed by the future Dr. Animo",
+    "Chemistry is one of Ben's weakest subjects, yet Gutrot is an expert",
+    "Omnitrix symbol sits on a gas-mask piece over his mouth"
+  ],
+  "notableFeats": [
+    "Defeated both Dr. Animo and his future self, gassing them into submission (Animo Crackers)",
+    "Lured two Way Bads to the Rooters' headquarters with a To'kustar pheromone (Weapon XI: Part 2)",
+    "Prepared a sleeping gas for the Krakken before Sceles Vreedle stopped it (Vreedlemania)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Animo Crackers",
+      "notableEpisodes": [
+        "Animo Crackers",
+        "Weapon XI: Part 2",
+        "Vreedlemania"
+      ],
+      "designNotes": "Mechanical-looking humanoid in green and white with a bluish-purple black-spotted head and shoulders, green eyes, white four-fingered gloves with vambraces and black sleeves, gas nozzles on forearms, shoulders, collar, head, back and rear, green belt with white stripes and a transparent stomach window; Omnitrix symbol on the mask over his mouth.",
+      "image": {
+        "file": "Gutrot official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (451x552, transparent)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 4,
+    "durability": 5,
+    "speed": 3,
+    "mobility": 5,
+    "offense": 6,
+    "defense": 5,
+    "special": 6,
+    "versatility": 7,
+    "intellect": 7,
+    "energy": 1,
+    "regeneration": 1,
+    "survivability": 7,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Intellect 7 and versatility 7: an on-board chemist who can brew practically any gas - tear, laughing, knockout, acid, species-specific pheromones - which beat two Animos and herded Way Bads. Gas immunity and space survivability help him survive. Physically unremarkable and his clouds blow back on allies."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Gutrot"
+  ],
+  "notes": [
+    "Nega Ben used Nega Gutrot in And Then There Were None / And Then There Was Ben - not counted in usedBy.",
+    "Never locked in the Omnitrix (Derrick J. Wyatt).",
+    "Derrick J. Wyatt: could make a sterilizing gas but not a vaccine; possibly Kraab's freezing spray; immune to Pesky Dust."
+  ]
+}

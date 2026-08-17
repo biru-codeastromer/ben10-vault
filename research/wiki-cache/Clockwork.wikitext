@@ -1,0 +1,244 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 9C7010
+|textcolor = 000000
+|name = Clockwork
+|image = 
+<gallery>
+20229.png|OV
+Clockwork.png|UA
+</gallery>
+|species = [[Chronosapien]]
+|home-planet = Unknown
+|body = Robotic
+|Alternate Counterparts = [[Windy-Hindy]]
+|power = {{Scroll|Chronokinesis<br>Chrono-Dynakinesis<br>Time Acceleration<br>Time Reduction<br>Time Freezing<br>Time Reversal<br>Time Rays<br>Age Acceleration <small>(via Time Rays)</small><br>Age Reversal <small>(via Time Rays)</small><br>Individual Time Reversal <small>(via Time Rays)</small><br>Individual Time Freezing <small>(via Time Rays)</small><br>Individual Timeline Relocation <small>(via Time Rays)</small><br>Chronoportation<br>Temporal Duplication<br>Enhanced Strength<br>Enhanced Durability<br>360° Rotating Head<br>360° Rotating Head Key<br>Retrocognitive Projections<br>'''[[Galvanic Mechamorph (Classic)|Galvanic Mechamorph]] Enhancements:'''<br>Chronosapien Detection<br>Strength Enhancement<br>Enhanced Jumping<br>Enhanced Agility<br>Missile Launchers<br>Drill Manifestation<br>Enhanced Digging <small>(via Drill Manifestation)</small><br>Speed Rotation}}
+|voice = [[Dee Bradley Baker]]<br>[[Ashley Johnson]] <small>([[Gwen Tennyson (Classic)|Gwen]])</small>
+|1st-appearance = Inspector 13{{!}}Inspector #13
+}}
+{{quote|Your time is up.|Clockwork.<ref name="CaFS">''[[Catch a Falling Star]]''</ref>}}
+'''Clockwork''' is the [[Omnitrix]]'s DNA sample of a [[Chronosapien]]<ref>[[Rook Blonko]]</ref><ref name="AJftP">''[[A Jolt From the Past]]''</ref> from an unknown planet.
+
+==Appearance==
+Described as a "steampunk robot made by an insane watchmaker",{{Refn|[https://static.wikia.nocookie.net/ben10/images/8/89/Ben_10k_Returns_DRAFT-1.pdf ''Ben 10,000 Returns'' Script First Draft]|group = script}} Clockwork is a robot-like alien with skin that is made of golden metal, with black stripes and a key on top of his head. His face has a blank expression, and he has a transparent piece of green glass-like material on his chest, revealing the gears inside of him.
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', 16-year-old Clockwork has a larger body and holes on the key on his somewhat restructured head. There is a black stripe on his back that splits into two stripes with a keyhole between them.
+
+11-year-old Clockwork has a thinner and rounder head, a white and black shirt, a smiley face, and a circular piece of glass-like material similar to his original appearance. His color scheme and gears are a little different too.
+
+Clockwork wears the [[Ultimatrix (Original)|Ultimatrix]]/[[Omnitrix (Omniverse)|Omnitrix]]/[[Omnitrix (Original)|original Omnitrix]] symbol on his chest.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+OfficialYoungClockwork.png|11-year-old Clockwork in '''Omniverse'''
+Techno-Bubbled Clockwork.png|16-year-old Clockwork fused with [[Techno-Bubble]]
+</gallery>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+BIM (348).png|Chronokinesis/Time Reduction
+TWB (393).png|Chrono-Dynakinesis
+IaMBW1 (504).png|Time Rays
+CaFS (190).png|Age Acceleration (via Time Rays)
+IaMBW1 (510).png|Individual Time Freezing/Individual Time Reversal (via Time Rays)
+TWB (491).png|Individual Timeline Relocation (via Time Rays)
+BIM (366).png|Enhanced Strength
+TWB (385).png|360° Rotating Head Key
+TBotE (124).png|Retrocognitive Projections
+IaMBW1 (553).png|Chronosapien Detection (via Mechamorph Enhancement)
+IaMBW1 (578).png|Strength Enhancement (via Mechamorph Enhancement)
+IaMBW1 (537).png|Enhanced Jumping (via Mechamorph Enhancement)
+IaMBW1 (544).png|Enhanced Agility (via Mechamorph Enhancement)
+IaMBW1 (589).png|Missile Launchers (via Mechamorph Enhancement)
+IaMBW1 (548).png|Drill Manifestation/Enhanced Digging (via Mechamorph Enhancement)
+IaMBW1 (538).png|Speed Rotation (via Mechamorph Enhancement)
+</gallery>
+{{Quote|Clockwork. He's got time powers. Speed up, slow down, forward, back.|[[Ben 10,000 (Original)|Ben 10,000]] explaining Clockwork's powers to [[Ben Tennyson (No Watch Timeline)|No Watch Ben]].<ref name="ATTWB">''[[And Then There Was Ben]]''</ref>}}
+Clockwork possesses chronokinesis, which gives him the control over time itself; Clockwork can reduce the time around him, making it look as if he is moving extremely fast to bystanders.<ref name="BIM">''[[Bengeance is Mine]]''</ref> Furthermore, Clockwork can speed up and reverse time.<ref name="B10K">[[Ben 10,000 (Original)|Ben 10,000]]</ref><ref name="ATTWB" /> 
+
+Clockwork has the ability to travel through time,<ref name="UB">[[Ben 10,000 (Ultimate Alien)|'''Ultimate Alien''' Ben 10,000]]</ref><ref name="B10KR" /> a technique that was used by Maltruant to recruit Subdora decades before his body was reconstructed in the present day.{{Refn|[[:File:Subdora Backstory.png]]|group = DJW}}
+
+Clockwork can fire time rays from his hands or chest, which have various effects like sending people back in time,<ref name="B10KR">''[[Ben 10,000 Returns]]''</ref> manipulating the age of a person or object,<<ref name="CaFS" /><ref name="IaMMMBW1">''[[It's a Mad, Mad, Mad Ben World: Part 1]]''</ref> reversing the effects of a [[Chronosapien Time Bomb]], sending people into a [[Multiverse|different timeline]],<ref name="ATTWB">''[[And Then There Was Ben]]''</ref> and reverting them to a previous state while also immobilizing them.<ref name="IaMMMBW1" />
+
+Clockwork possesses a degree of enhanced strength, as he was able to throw a pipe hard enough it became embedded into a wall.<ref name="BIM" /> Clockwork also possesses enhanced durability, shown when [[Looma Red Wind|Looma]] threw him at a wall at full force.<ref name="MHR">''[[Many Happy Returns]]''</ref>
+
+Clockwork can rotate his head 360 degrees.{{Refn|[[:File:Clockwork Can Rotate His Head.png]]|group = DJW}} Additionally, by rotating the key on his head, he can create hologram-like projections of what happened in the past.<ref>''[[The Eggman Cometh]]''</ref><ref>''[[The Beginning of the End]]''</ref>
+
+Because he is a technological being, it is possible for a [[Galvanic Mechamorph (Classic)|Galvanic Mechamorph]] to merge with Clockwork.<ref name="IaMMMBW1" />
+
+Clockwork can still function if he loses some of his parts.<ref name="IaMMMBW1" />
+
+==Weaknesses==
+[[File:SacudidaPasado (291).png|thumb|Below Average Stamina]]
+{{Quote|For a guy with time powers, he runs crazy slow!|[[Ben 23]] about Clockwork/[[Windy-Hindy|Windy-Hindy]].<ref name="IaMMMBW1"/>}}
+Clockwork's time powers are completely useless in a place where there is no time at all, such as before the birth of a [[Universe (Classic)|universe]], as demonstrated with [[Maltruant]].<ref name="AND">''[[A New Dawn]]''</ref>
+
+Clockwork's aging time rays are ineffective against anything diamond-related such as [[Petrosapien (Classic)|Petrosapiens]], since they take millions or even billions of years to age.<ref name="UB" /><ref name="B10KR" />
+
+Clockwork can be temporarily disabled if he is exposed to a large electromagnetic pulse, such as that from a solar flare.<ref name="B10K" /><ref name="TEoaE">''[[The End of an Era]]''</ref>
+
+The use of Clockwork's time powers creates a Sotobro effect, which is a ripple in the timestream that can be sensed or reversed by another [[Chronosapien]].<ref name="ATTWB" />
+
+Clockwork's bulky body makes him relatively slower than other opponents and makes him an easy target for enemy attacks, as he admits that he "is not good for dodging".<ref name="BIM" /> Similarly, because of his large body and short legs, Clockwork cannot run very fast and will tire out quickly.<ref name="AJftP" />
+
+Unlike Maltruant, Clockwork is unable to travel through dimensions, even when he is upgraded by a [[Galvanic Mechamorph (Classic)|Galvanic Mechamorph]].{{Refn|[[:File:Clockwork Cannot Travel Through Dimensions.png]]|group = DJW}}<ref name="IaMMMBW2">''[[It's a Mad, Mad, Mad Ben World: Part 2]]''</ref>
+
+Because he is a mechanical-based being, Clockwork can be magnetized by a [[Biotsavartian]].{{Refn|[[:File:Chronosapiens Can Be Magnetized.PNG]]|group = DJW}}
+
+Clockwork can be affected by a [[Nemuina]]'s sleeping dust.{{Refn|[[:File:Pesky Dust Works On Chronosapiens and Ectonurites.png]]|group = DJW}}
+
+==History==
+===Five Years Prior to Omniverse===
+*In ''[[Ben Again]]'', 16-year-old [[Ben Tennyson (Classic)|Ben]] as 11-year-old Clockwork helped fix the time stream and defeat [[Eon]].
+
+===Ultimate Alien===
+*In ''[[Ben 10,000 Returns]]'', Clockwork was unlocked by [[Ben 10,000 (Ultimate Alien)|Ben 10,000]].
+*Clockwork was first used by Ben off-screen prior to ''[[Inspector 13]]''.{{Refn|[[:File:Clockwork Offscreen Adventure.PNG]]|group = GT}}
+*In ''Inspector 13'', [[Gwen Tennyson (Classic)|Gwen]] turned into Clockwork during a car ride to the [[Techadon Factory]].
+*In ''[[Catch a Falling Star]]'', Clockwork disarmed [[Captain Nemesis]], but was caught off guard and defeated by [[Jennifer Nocturne]].
+*In ''[[The Eggman Cometh]]'', Clockwork found out what happened in [[Natalie Tennyson|Natalie]]'s kitchen and realized [[Dr. Animo (Classic)|Dr. Animo]] was up to no good again.
+*In ''[[The Beginning of the End]]'', Clockwork found out where the [[Flame Keepers' Circle]] had gone.
+
+===Omniverse=== 
+*In ''[[A Jolt From the Past]]'', Clockwork chased some [[Nosedeenian (Classic)|Megawhatts]] to [[Fistrick]]'s lair until he grew too tired.
+*In ''[[Many Happy Returns]]'', Clockwork was defeated by [[Looma Red Wind|Princess Looma]].
+*In ''[[Ben Again]]'', 11-year-old [[Ben Tennyson (Classic)|Ben]] as 16-year-old Clockwork helped fix the time stream and defeat [[Eon]].
+*In ''[[Bengeance is Mine]]'', Clockwork defeated a [[Squid Monster]] by slowing down time.
+*In ''[[And Then There Was Ben]]'', [[Ben Tennyson (No Watch Timeline)|No Watch Ben]] as Clockwork learned about his abilities from [[Ben 10,000 (Original)|Ben 10,000]]. Later, No Watch Ben as Clockwork reversed the effects of the [[Chronosapien Time Bomb]] and sent [[Albedo|Negative]] [[Ultimate Echo Echo]], [[Mad Ben]], [[Bad Ben|Bad]] [[Buzzshock (Classic)|Buzzshock]], [[Benzarro]]'s [[Frankenstrike]], [[Nega Ben]], and [[Eon]] back to their respective timelines.
+* In ''[[It's a Mad, Mad, Mad Ben World: Part 1]]'', Clockwork defeated [[Mad Ben|Mad]] [[Diamondhead (Classic)|Diamondhead]] before having his powers enhanced by [[Techno-Bubble]]. He then defeated [[Exo-Skull|Exo-Skull]] and [[Subdora]] but was defeated himself by [[Maltruant]].
+* In ''[[It's a Mad, Mad, Mad Ben World: Part 2]]'', Clockwork fused with Techno-Bubble again in a failed attempt to leave Mad Ben's [[Mad World|home dimension]] and return to their [[Prime Timeline|respective]] [[Dimension 23|timelines]].
+*In ''[[A New Dawn]]'', Clockwork appeared for a short time as [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+===[[Ultimate Alien Future Timeline|Ultimate Alien Future]]===
+*In ''[[Ben 10,000 Returns]]'', [[Ultimate Ben]] used his time rays to send [[Eon]] into the past. Later, Ultimate Ben used Clockwork's time rays again in a failed attempt to destroy the [[Hands of Armageddon]] with the help of present-day [[Ben Tennyson (Classic)|Ben]] as [[Way Big (Classic)|Way Big]].
+
+==Appearances==
+{{Scroll box|
+===Ultimate Alien===
+====Season 3====
+*''[[Inspector 13]]'' <small>(first appearance; by Gwen)</small>
+*''[[Catch a Falling Star]]'' <small>(first appearance by Ben)</small>
+*''[[The Eggman Cometh]]''
+*''[[The Beginning of the End]]''
+
+===Omniverse===
+====Season 1====
+*''[[A Jolt From the Past]]'' <small>(first reappearance; intended alien was [[XLR8 (Classic)|XLR8]])</small>
+
+====Season 2====
+*''[[Many Happy Returns]]'' <small>(intended alien was [[Cannonbolt (Classic)|Cannonbolt]])</small>
+
+====Season 3====
+*''[[Ben Again]]'' <small>(x2; by 16-year-old and 11-year-old Ben in each other's bodies)</small>
+
+====Season 5====
+*''[[Bengeance is Mine]]''
+*''[[And Then There Was Ben]]'' <small>(by No Watch Ben; x2)</small>
+
+====Season 7====
+*''[[It's a Mad, Mad, Mad Ben World: Part 1]]''
+*''[[It's a Mad, Mad, Mad Ben World: Part 2]]''
+
+====Season 8====
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+===Online Games===
+====Ultimate Alien====
+*''[[TKO]]''
+====Omniverse====
+*''[[Danger from Dimension 12]]''
+
+===Parks and Attractions===
+====Omniverse====
+*[[IMG Worlds of Adventure]]
+**''[[Ben 10: 5D Hero Time]]''
+}}
+
+==Naming and Translations==
+{{Translation
+|croatian = Vremenski
+|croatiand = From ''vrijeme'', time, the time one
+|bulgarian = Времебоец
+|bulgariand = From ''време/vreme'', time and ''боец/boets'', warrior
+|portuguesebr = Ampulheta<br>Contra Tempo
+|portuguesebrd = From ''ampulheta'', hourglass<br>From ''contra tempo'', contretemps
+|ha = Clockwork
+|had = From the original English name
+|turkish = Klokvork
+|turkishd = From the original English name
+|spanish = Crono
+|spanishd = Crono from ''cronológico'', chronological
+|russian = Машина Времени<br>Часы<br>Часовой Механизм
+|russiand = From ''машина времени'', time machine<br>From ''часы'', clock<br>From ''часовой механизм'', clockwork
+|polish = Mechaniczny<br>Zegar
+|polishd = From ''mechaniczny'', mechanical<br>From ''zegar'', clock
+|romanian = Ceasornicul
+|romaniand = From ''ceasornic'', clock
+|german = Uhrwerk
+|germand = From ''uhrwerk'', clockwork
+|italian = Raggiotempo
+|italiand = From ''raggio'', ray and ''tempo'', time
+|dutch = Uurwerk
+|dutchd = From ''uurwerk'', clockwork
+|french = Temposaure
+|frenchd = From ''temps'', time and ''-saure'', -saur
+|hungarian = Időgép
+|hungariand = From ''időgép'', time machine
+|hebrew = המכני
+|hebrewd = From ''המכני'', mechanical
+|chinese = 时钟王
+|chinesed = From ''时钟'' <small>(Shí Zhōng)</small>, clock and ''王'' <small>(Wáng)</small>, king
+}}
+
+==Etymology==
+The term "clockwork" refers to a mechanism with a spring and toothed gearwheels, used to drive a mechanical clock and other types of devices; this refers to Clockwork being a mechanical alien with gears and time-based powers.
+
+==Trivia==
+[[File:Haywire Clockwork No Box.png|thumb|The Haywire Clockwork toy]]  
+*Clockwork's appearance when he is fused with [[Techno-Bubble]] bears a strong resemblance to the [[Haywire]] Clockwork action figure, which has [[Eatle]]'s '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' color scheme.
+*Clockwork makes gear sounds when he moves, which is similar to [[Armodrillo]] when he moves his arms.
+**In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Clockwork ticks like a clock for the entirety of his transformation sequence, and there is a sound similar to the tolling of [[Big Ben (Classic)|Big Ben]] that sometimes appears at the end.
+**The tolling clock sound also occurs when Clockwork's time rays strike their target or when he is struck on his head key.
+*Clockwork speaks with a thick German accent because [[Wikipedia:Germany|Germany]] is known for inventing the watch, a portable timepiece that could tell time no matter wherever someone was in the world. Whenever Clockwork speaks in '''Omniverse''', the reverb in his voice would make a cuckoo clock sound.
+*Clockwork's '''Ultimate Alien''' design, as well as 11-year-old Clockwork's design in '''Omniverse''', were created by [[Steven Choi]].{{Refn|[[:File:Steven Choi Designed UA Clockwork.png]]|group = TJC}}{{Refn|[[:File:Steven choi designed 11yo Clockwork.png]]|group = DJW}}
+**Clockwork is the only alien used by 11-year-old Ben whose [[Omnitrix (Original)|Omnitrix]] symbol has a gold rim, rather than a silver one like his other aliens.
+*Clockwork was originally not supposed to appear in ''[[Inspector 13]]'', with [[Heatblast (Classic)|Heatblast]] taking her role.{{Refn|[https://static.wikia.nocookie.net/ben10/images/f/f1/Inspector_13_Script_DRAFT-1.pdf ''Inspector 13'' Script First Draft]|group = script|name = script1}}
+*In the first draft of the script for ''[[Catch a Falling Star]]'', Clockwork bled black oil after being grievously damaged.{{Refn|[https://static.wikia.nocookie.net/ben10/images/3/3c/Catch_a_Falling_Star_DRAFT-1_October_22_2010.pdf ''Catch A Falling Star'' Script First Draft]|group = script|name = script2}}
+*[[Derrick J. Wyatt]] thought that 11-year-old Ben kept Clockwork after the events of ''[[Ben Again]]'', but [[Matt Youngberg]] believed he did not.{{Refn|[[:File:Young Ben Did Not Keep Clockwork.png]]|group = DJW}}
+**Concept art of 12-year old [[Kevin Levin (Classic)|Kevin's]] [[Weapon XI (Flashback)|'''Omniverse''' Flashback Mutation]] featured Clockwork's key on the sides of his head.{{Refn|[[:File:Kevin OV Mutation Prototypes 2.png]]|group = ca}}{{Refn|[[:File:Kevin OV Mutation Prototypes 3.png]]|group = ca}} However, this was removed in the final version.
+*In Derrick's opinion, [[Ben Tennyson (Classic)|Ben]] doesn't have enough experience with Clockwork's abilities to fix [[Billy Billions (Classic)|Billy]]'s temporal condition.{{Refn|[[:File:Clockwork Can Fix Billy.png]]|group = DJW}}
+*Clockwork was the final alien used by [[Ben Tennyson (No Watch Timeline)|No Watch Ben]].
+
+==References==
+{{Reflist}}
+===Production Material===
+====Concept Art====
+{{Reflist|group = ca}}
+====Scripts====
+{{Reflist|group = script}}
+===Crew Statements===
+====[[Geoffrey Thorne]]====
+{{Reflist|group = GT}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[T.J. Collins]]====
+{{Reflist|group = TJC}}
+{{Ben 10 Aliens}}
+
+[[bg:Времебоец]]
+[[de:Uhrwerk]]
+[[es:Clockwork]]
+[[fr:Temposaure]]
+[[it:Raggiotempo]]
+[[pl:Mechaniczny]]
+[[pt-br:Contra-Tempo]]
+[[ro:Ceasornicul]]
+[[ru:Часы]]
+[[tr:Clockwork]]
+
+[[Category:Ben 10,000's Transformations]]
+[[Category:Transformations]]
+[[Category:Time Travelers]]
+[[Category:Aliens]]
+[[Category:Ultimate Alien Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]

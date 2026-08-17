@@ -1,0 +1,285 @@
+{{Original|rb=Ampfibian (Reboot)}}
+{{Infobox Alien
+|backcolor = 65BEFF
+|textcolor = ffffff
+|name = Ampfibian
+|image = 
+<gallery>
+OV AmpFibian.png|OV
+Ns457Wv.png|UA
+</gallery>
+|species = [[Amperi (Classic)|Amperi]]
+|home-planet = [[Tesslos]]
+|dna source = [[Ra'ad]]
+|body = Humanoid Jellyfish
+|Alternate Counterparts =
+|power = {{Scroll|Bio-Electrokinesis<br>Electricity Waves<br>Electrical Telekinesis<br>Energy Absorption<br>Energy Redirection <small>(via Energy Absorption)</small><br>Force Field Generation<br>Electroporation<br>Intangibility<br>Flight<br>Levitation<br>Elasticity<br>Small Space Maneuvering<br>Enhanced Strength<br>Enhanced Durability<br>Enhanced Speed <small>(via Flight)</small><br>Enhanced Reflexes<br>Enhanced Dexterity<br>Underwater Breathing<br>Speed Swimming<br>Electrical Telepathy<br>Electrical Possession<br>Technological Manipulation<br>Technological Destruction}}
+|voice = [[Yuri Lowenthal]] <small>(''[[Fused]]'' and [[Ben 10: Omniverse (TV Series)|Omniverse]])</small><br>[[Dee Bradley Baker]] <small>([[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]])</small><br>[[Greg Cipes]] <small>([[Kevin Levin (Classic)|Kevin]])</small>
+|1st-appearance = Fused
+|spellings = AmpFibian{{Refn|[https://static.wikia.nocookie.net/ben10/images/6/61/Night_of_the_Living_Nightmare_DRAFT-2.pdf ''Night of the Living Nightmare'' Script Second Draft]|group = script|name = second}}{{Refn|Some end credits of '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]'''|group = credits}}
+}}
+{{Quote|Ready for a shock to your system?|Ampfibian to [[Sir Morton]].<ref>''[[Return to Forever]]''</ref>}}
+'''Ampfibian''' is the [[Omnitrix]]'s DNA sample of an [[Amperi (Classic)|Amperi]] from the planet [[Tesslos]]{{Refn|Issue #57; [[:File:AmpFibianPlanetProof.png|file]]|group = AP|name = link}} in the [[Andromeda (Classic)|Andromeda Galaxy]].
+
+==Appearance==
+Ampfibian is a blue [[Wikipedia:Jellyfish|jellyfish]]-like alien with white swipes on his body resembling lightning streaks, a main body with three-segmented skirt-like parts for his head, chest and abdomen, and six long tentacles that function as two pairs of arms and a pair of legs.
+
+In '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', Ampfibian had pupil-less eyes and wore the [[Ultimatrix (Original)|Ultimatrix]] symbol on his chest. His eyes were colored blue in ''[[Fused]]'' due to being fused with [[Ra'ad]], but were changed to green for the rest of his appearances.
+
+In ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]'', Ampfibian looked mostly the same as in '''Ultimate Alien''' except most of the white swipes on his body were missing while the ones that remained were slightly darker and shaped differently.
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Ampfibian looks almost the same as before, except the lightning streak swipes on his body have been altered, his tentacles are now pointed instead of curved, and his green eyes are larger with the black outlining in them becoming much more prominent. He wears the [[Omnitrix (Omniverse)|Omnitrix]] symbol on his mouth.
+
+<!-- Do not put icons/holograms or the version that's in the infobox here. DO NOT REMOVE THIS WARNING. -->
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Bluefibian.png|Ampfibian in ''[[Fused]]''
+AmpFibian HU.png|Ampfibian in ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]''
+</gallery>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+MaxMonster188.png|Bio-Electrokinesis
+RadEp (133).png|Electricity Waves
+Deep (311).png|Energy Absorption
+Deep (313).png|Energy Redirection (via Energy Absorption)
+I13 (353).png|Intangibility/Technological Destruction
+MaxMonster180.png|Flight/Enhanced Speed
+SD (420).png|Levitation
+MaxMonster181.2.png|Elasticity/Enhanced Strength
+RoAE (456).png|Enhanced Durability
+SD (417).png|Enhanced Reflexes
+HIGaDfY (249).png|Enhanced Dexterity
+Deep (306).png|Underwater Breathing/Speed Swimming
+</gallery>
+Ampfibian can manipulate and produce electricity that is able to stun, paralyze, or kill.{{Refn|group = AP|name = link}} Ampfibian is also able to absorb electrical energy such as lightning and the [[Piscciss Volann (Classic)|Piscciss Volann]] guards' energy nets. That energy then can be launched out of his tentacles as attacks.<ref name="Deep">''[[Deep]]''</ref> Ampfibian is also able to use his electrokinesis to telekinetically move objects, as demonstrated by Ra'ad.<ref name="Fused" />
+
+Ampfibian can generate a protective force field around himself; this feat was exclusively demonstrated by [[Ultimate Aggregor]] during his visit to the [[Perplexahedron]].<ref>''[[Perplexahedron (Episode)|Perplexahedron]]''</ref> 
+
+Similar to [[Upgrade (Classic)|Upgrade]] and [[Buzzshock (Classic)|Buzzshock]], Ampfibian can become pure energy in order to enter electrical cables and control technology. Ampfibian can also generate a large energy blast that surrounds him, as demonstrated by Ra'ad.<ref name="Fused" />
+
+Similar to [[Ghostfreak]] and [[Big Chill (Classic)|Big Chill]], Ampfibian can make himself intangible.<ref name="Fused">''[[Fused]]''</ref> Correlating with this, he is capable of electrically shocking any objects and beings he phases through.<ref>''[[Inspector 13]]''</ref>
+
+Ampfibian can fly and is agile enough to dodge attacks while flying.<ref name="Special Delivery">''[[Special Delivery]]''</ref>
+
+Ampfibian's tentacles can extend multiple times their length.<ref>''[[Night of the Living Nightmare]]''</ref><ref name="Special Delivery" /> Ampfibian also has some degree of enhanced strength, enough to restrain [[Phil Billings (Classic)|Phil]] with his tentacles.<ref name="Max's Monster">''[[Max's Monster]]''</ref>
+
+Due to being boneless, Ampfibian is able to squeeze through small and tight spaces.{{Refn|''[[Ben 10 Ultimate Alien: Power Struggle]]''; [[:File:PS DVD Ampfibian Data.png|file]]|group = DVD}}
+
+Ampfibian is durable enough to withstand being thrown against a wall by [[Solid Plugg]]<ref name="Have I Got a Deal for You">''[[Have I Got a Deal for You]]''</ref> and getting hit by an [[Aerophibian (Classic)|Aerophibian]]'s neuroshock blasts.<ref name="The Rooters of All Evil">''[[The Rooters of All Evil]]''</ref>
+
+Ampfibian can breathe underwater, as well as being able to swim at superhuman speeds. He can also safely produce and discharge electricity underwater.{{Refn|[[:File:Ampfibian Can Safely Discharge Electricity Completely Underwater.PNG]]|group = DM}}<ref name="Deep" />
+
+Ampfibian can read the thoughts of other life forms by sensing the electrical pulses of their minds;{{Refn|[[:File:AmpFibian Can Read Minds.PNG]]|group = DM}}{{Refn|''[[Ben 10 Omniverse: Aliens at War]]''; [[:File:OV AAW DVD Ampfibian Data.png|file]]|group = DVD}}{{Refn|group = AP|name = link}} this feat was only demonstrated by Ra'ad.<ref name="Fused" />
+
+==Weaknesses==
+<gallery type="slideshow">
+HIGaDfY (233).png|Ineffective Electrokinesis
+MaxMonster192.png|Electricity Absorption Vulnerability
+RoAE (457).png|Neuroshock Blast Vulnerability
+</gallery>
+Ampfibian is weak against enemies who can drain electricity, like [[Phil Billings (Classic)|Phil]].<ref name="Max's Monster" /> Furthermore, Ampfibian's electric attacks are useless against [[Solid Plugg]]<ref name="Have I Got a Deal for You" /> because he is made out of super dense rubber.{{Refn|[[:File:Solid Plugg Made of Rubber.png]]|group = DJW}}
+
+Ampfibian can be harmed by an [[Aerophibian (Classic)|Aerophibian]]'s neuroshock blasts.<ref name="The Rooters of All Evil" />
+
+Despite being able to use his electricity underwater, Ampfibian can accidentally shock himself if he is entering or partially in water, as demonstrated with [[Ra'ad]].<ref name="Fused" />
+
+Ampfibian's intangibility is useless against other beings that can also become intangible, as it will cancel out their abilities to do so.<ref>''[[Map of Infinity (Episode)|Map of Infinity]]''</ref>
+
+Ampfibian cannot survive in the vacuum of space as implied by Ra'ad.<ref>''[[Ra'ad]]''</ref><ref>''[[Escape From Aggregor]]''</ref>
+
+==History==
+===Ultimate Alien===
+*Ampfibian first appeared in ''[[Fused]]'', where his DNA was sampled and put in the [[Codon Stream]] when the [[Ultimatrix (Original)|Ultimatrix]] scanned [[Ra'ad]]'s DNA. [[Ben Tennyson (Classic)|Ben]] remained stuck as Ampfibian due to Ra'ad being trapped in the Ultimatrix until [[Kevin Levin (Classic)|Kevin]] eventually put the Ultimatrix in Reset Mode.
+*In ''[[Deep]]'', Ampfibian swam to [[Piscciss]]' core, along with [[Alien Force|the team]] and [[Pyke]].
+*In ''[[Viktor: The Spoils]]'', an unconscious Ampfibian's telepathic abilities were forcibly used to put [[King Xarion]]'s mind in [[Dr. Viktor]]'s body.{{Refn|[https://static.wikia.nocookie.net/ben10/images/5/53/VTS_Script_Final_Draft.pdf ''Viktor: The Spoils'' Script Final Draft]|group = script|name = final}}
+*In ''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]'', Ampfibian appeared as one of the many aliens when Ben was explaining his story to [[Rex Salazar (Generator Rex)|Rex]].
+*In ''[[Inspector 13]]'', [[Kevin Levin (Classic)|Kevin]] as Ampfibian battled several incomplete [[Techadon Robot]]s.
+*In ''[[Night of the Living Nightmare]]'', Ampfibian defeated [[Ultimate Kevin]] in a dream.
+
+===Omniverse===
+
+*In ''[[Have I Got a Deal for You]]'', Ampfibian electrocuted [[Pax]], [[Blarney T. Hokestar]], fought [[Solid Plugg]] and saved the [[Screegit]].
+*In ''[[Special Delivery]]'', Ampfibian defeated [[Seebik]] and the [[Kraaho]].
+*In ''[[Rad]]'', Ampfibian caught Pax.
+*In ''[[Max's Monster]]'', Ampfibian was defeated by [[Phil Billings (Classic)|Phil]].
+*In ''[[Return to Forever]]'', Ampfibian tried to fight the [[Forever Knights]], but was reverted by their [[DNA Scanner]].
+*In ''[[The Rooters of All Evil]]'', Ampfibian was defeated by [[Swift]].
+*In ''[[A New Dawn]]'', Ampfibian appeared for a short time when [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+==Appearances==
+{{Scroll box|
+===Ultimate Alien===
+====Season 1====
+*''[[Fused]]'' <small>(first appearance; fused with [[Ra'ad]])</small>
+
+====Season 2====
+*''[[Deep]]''
+
+====Season 3====
+*''[[Viktor: The Spoils]]'' <small>(non-speaking)</small>
+*''[[Inspector 13]]'' <small>(by Kevin)</small>
+*''[[Night of the Living Nightmare]]'' <small>(dream)</small>
+
+===Generator Rex===
+====Season 3====
+*''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]'' <small>(non-diegetic flashback; cameo)</small>
+
+===Omniverse===
+====Season 1====
+*''[[Have I Got a Deal for You]]'' <small>(first reappearance)</small>
+
+====Season 3====
+*''[[Special Delivery]]''
+*''[[Rad]]''
+
+====Season 4====
+*''[[Max's Monster]]'' <small>(accidental transformation)</small>
+*''[[Return to Forever]]'' <small>(cameo)</small>
+
+====Season 6====
+*''[[The Rooters of All Evil]]''
+
+====Season 8====
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+===Video Games===
+====Ultimate Alien====
+*''[[Ben 10 Ultimate Alien: Cosmic Destruction]]''
+*''[[Punch Time Explosion]]''
+*''[[Ben 10: Galactic Racing]]'' <small>(consoles)</small>
+*''[[Punch Time Explosion XL]]''
+
+===Mobile Games===
+====Ultimate Alien====
+*''[[Xenodrome Plus]]''
+
+===Comics===
+====Standalone Comics====
+=====Ultimate Alien=====
+*''[[A Woman Scorned]]''
+
+===Commercials===
+====Ultimate Alien====
+*''[[Alien of the Month]]''
+}}
+
+==Games==
+===Video Games===
+<gallery type="slideshow">
+Ampfibian CD.png|Ampfibian in ''Cosmic Destruction''
+631699_20110912_640screen001.png|Ampfibian in ''Galactic Racing''
+</gallery>
+
+====[[Ben 10 Ultimate Alien: Cosmic Destruction]]====
+Ampfibian is one of the [[Andromeda (Classic)|Andromeda Galaxy]] aliens playable in the game.
+
+Ampfibian is vital for progression on The Great Wall and The Amazon levels of the game. He is also the default optional alien for the Eiffel Tower level.
+
+====[[Ben 10: Galactic Racing]]====
+Ampfibian is a playable alien racer in the game on the console and 3DS version.
+
+====[[Punch Time Explosion]] and [[Punch Time Explosion XL|XL]]====
+Ampfibian is one of the aliens used by [[Ben Tennyson (Classic)|Ben]] as a special attack.
+
+===Online Games===
+====[[FusionFall]]====
+[[File:Nano ampfibian.png|thumb|AmpFibian Nano in ''FusionFall'']]
+The '''Ampfibian Nano''' is a miniature version of Ampfibian that supports the player in [[FusionFall]]. It can be found in a containment unit within DexLabs along with the Flapjack and Sym-Bionic Titan Nanos.
+
+On July 27, 2011, [[Ampfibian (Classic)|Ampfibian]] was released (as the second form of the Unstable Nano) along with Rigby, Gumball, Chowder, Zak Saturday, Titan, and full Nano Johnny Test. On September 14, 2011, his full Nano was released along with the Rath Nano, and Van Kleiss (taking his place as the Unstable Nano).
+
+=====Powers and Abilities=====
+*Blackout (Sleep - Cone) - Ampfibian will put out your enemies' lights.
+*Circuit Breaker (Drain - Area) - Fry your foes' synapses with Ampfibian's electric attack!
+*Surge Protector (Guard) - Protect your batteries (and your potions) with the Surge Protector!
+
+==Naming and Translations==
+{{Translation
+|croatian = Ampfibijan
+|croatiand = From the original English name
+|bulgarian = Водна Мълния
+|arabic = أمبفيبيان
+|arabicd = From the original English name
+|greek = Αμφίβιο
+|greekd = From ''αμφίβιο'', amphibian
+|hebrew = דו-חי
+|hebrewd = From ''דו-חי'', amphibian
+|hungarian = Medúza
+|hungariand = From ''medúza'', jellyfish
+|turkish = AmFibiyan
+|turkishd = From ''amfibiyan'', Turkish pronunciation of the original name
+|italian = Anfibio Fulminante
+|italiand = From ''anfibio'', amphibian, and "fulminante", fulminant
+|polish = Ampfibian
+|polishd = From the original English name
+|portuguesebr = Anfíbio
+|portuguesebrd = From "Anfíbio", amphibian
+|ha = Ampfibio
+|had = From ''ampfibio'', amphibian
+|spanish = Electrofibio
+|spanishd = A portmanteau of ''electricidad'', electricity, and ''anfibio'', amphibian
+|swedish = Amfibien
+|swedishd = From ''amfibien'', amphibian
+|french = Amphibien
+|frenchd = From ''amphibien'', amphibian
+|russian = Амфибия
+|russiand = From ''амфибия'', amphibian
+|german = Ampfibian
+|germand = From the original English name 
+|romanian = Amfibianul
+|romaniand = From '' amfibian'', amphibian
+|chinese = 通灵天人
+|chinesed = From ''通灵'' <small>(Tōng Líng)</small>, psychic, and ''天人'' <small>(Tiān Rén)</small>, heaven man
+|bulgariand = From ''водна'', water, and мълния, lightning}}
+
+==Etymology==
+Ampfibian's name is a portmanteau of the words "amp(ere)" and "[[Wikipedia:Amphibian|amphibian]]" (with the "ph" changed to a "pf"). It is also a pun of the word "amplify" ("amp" for short), which means to charge and increase energy, referencing Ampfibian's abilities to absorb, generate, and redirect electrical energy. The word "amphibian" is also used since most are either adapted to water, or generate their own electricity.
+
+==Trivia==
+*Ampfibian was the [[Alien of the Month]] in September 2011.
+*Ampfibian and the other [[Andromeda (Classic)|Andromeda]] aliens have powers linked to a certain element; for Ampfibian, it is electricity.
+*Ampfibian is the only Andromeda alien that [[Ben Tennyson (Classic)|Ben]] used in the same episode he was scanned in.<ref name="Fused" />
+*Ampfibian and [[Armodrillo]] are the only Andromeda aliens in '''Ultimate Alien''' to receive a unique transformation sequence. 
+*As of '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Ampfibian and [[Feedback]] are the only aliens who generate blue electricity.
+*Ampfibian was designed by [[Steven Choi]] or [[Chap Yaep]],{{Refn|[[:File:Steven and Chap Andromeda.png]]|group = DJW}} and was named by [[Len Wein]].{{Refn|[[:File:Len Wein Named Ampfibian.png]]|group = MW}}
+*[[Ben 23]] has an alternate counterpart of Ampfibian.{{Refn|[[:File:Ben 23 Andromeda Aliens.png]]|group = DJW}}
+**Years after '''Omniverse''' ended, [[Derrick J. Wyatt]] revealed that [[Ben 23]]'s Amperi transformation was named JellyFritz.{{Refn|[[:File:JellyFritz Proof.png]]|group = DJW}} However, he declined to specify whether it was conceived during or after production.{{Refn|[[:File:Ben 23 Alien Names Revealed After Production.png]]|group = DJW}} Thus, the wiki considers the name non-canon and unofficial.
+*Ampfibian was originally not supposed to appear in the dream in ''[[Night of the Living Nightmare]]''.{{Refn|[https://static.wikia.nocookie.net/ben10/images/d/d4/Night_of_the_Living_Nightmare_Script_First_Draft.pdf ''Night of the Living Nightmare'' Script First Draft]|group = script|name = first}}
+*Similar to how [[Jetray (Classic)|Jetray]]'s "Jeffery" nickname originated as a joke amongst the crew, Ampfibian was jokingly referred to as "Aunt Vivian".{{Refn|[[:File:Jeffrey and Aunt Vivian.PNG]]|group = DJW}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====Scripts====
+{{Reflist|group = script}}
+====End Credits====
+{{Reflist|group = credits}}
+===Crew Statements===
+====[[Dwayne McDuffie]]====
+{{Reflist|group = DM}}
+====[[Matt Wayne]]====
+{{Reflist|group = MW}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+===[[Merchandise]]===
+====Cartoon Network Action Pack!====
+{{Reflist|group = AP}}
+====[[DVDs]]====
+{{Reflist|group = DVD}}
+{{Ben 10 Aliens}}
+{{DISPLAYTITLE:Ampfibian}}
+[[de:Ampfibian]]
+[[es:AmpFibio]]
+[[fr:Amphibien]]
+[[it:Anfibio Fulminante]]
+[[pl:Amfibian]]
+[[pt-br:Anfíbio]]
+[[ro:Amfibianul]]
+[[ru:Амфибия]]
+[[tr:Amperfiyan]]
+[[Category:Aliens]]
+[[Category:Transformations]]
+[[Category:Andromeda Galaxy Aliens]]
+[[Category:Ultimate Alien Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]

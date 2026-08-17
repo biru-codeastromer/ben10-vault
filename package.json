@@ -1,0 +1,39 @@
+{
+  "name": "ben10-vault",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "lint": "oxlint",
+    "typecheck": "tsc -b",
+    "wiki:fetch": "python3 scripts/fetch-wiki.py",
+    "episodes:fetch": "python3 scripts/fetch-episodes.py",
+    "assets:fetch": "tsx scripts/fetch-assets.ts",
+    "data:build": "tsx scripts/build-data.ts",
+    "qa:sheets": "tsx scripts/contact-sheets.ts",
+    "qa:shots": "tsx scripts/qa-screenshots.ts"
+  },
+  "dependencies": {
+    "framer-motion": "^13.1.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.4",
+    "oxlint": "^1.75.0",
+    "playwright": "^1.62.1",
+    "sharp": "^0.35.3",
+    "tsx": "^4.23.12",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.0",
+    "zod": "^4.4.3"
+  },
+  "description": "Ben 10 Vault \u2014 a local-only digital Omnitrix museum and collectible alien-card collection (classic continuity)."
+}

@@ -1,0 +1,89 @@
+{
+  "id": "walkatrout",
+  "name": "Walkatrout",
+  "wikiTitle": "Walkatrout",
+  "kind": "standard",
+  "species": "Ickthyperambuloid",
+  "homeworld": "Gilli-Perambulous Promenade",
+  "bodyType": "Small walking fish",
+  "debut": {
+    "episode": "Outbreak",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Slippery body - very hard to grab and slides across floors",
+    "Can squeeze through cramped spaces such as toilet pipes",
+    "Underwater breathing through gills",
+    "Enhanced durability for his size (knocked to the ground with Speedyquick without serious harm)",
+    "Enhanced acrobatics (cartwheels)"
+  ],
+  "weaknesses": [
+    "Tiny - only as tall as a Vaxasaurian's foot - and generally unsuited for combat",
+    "No offensive abilities at all"
+  ],
+  "summary": "A small blue fish on spindly legs whose only real trick is being too slippery to hold - Ben's most reliably useless accidental transformation.",
+  "traits": [
+    "Named by Driba; Ben only starts using the name in An American Benwolf in London",
+    "One of four aliens accidentally unlocked by Blukic and Driba in Outbreak",
+    "The only Outbreak alien still voiced by Yuri Lowenthal after his debut",
+    "Running gag: Ben gets him at the worst possible moments"
+  ],
+  "notableFeats": [
+    "Slid away from Liam across the Plumber HQ floor (Outbreak)",
+    "Reached Bellwood with Speedyquick carrying him (It's a Mad, Mad, Mad Ben World: Part 1)",
+    "Got into the locked Plumber HQ through the toilet (The Final Countdown)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Outbreak",
+      "notableEpisodes": [
+        "Outbreak",
+        "Fight at the Museum",
+        "It's a Mad, Mad, Mad Ben World: Part 1",
+        "The Final Countdown"
+      ],
+      "designNotes": "Small blue fish body with stubby fin arms, shark-like dorsal fin, thin spindly legs, wide underbite mouth, cheek gills and bulging green eyes; green belt strap with the Omnitrix symbol at the front.",
+      "image": {
+        "file": "Walky.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (1040x1071). The infobox references 'File:20211.png', which is a redirect to 'File:Walky.png' - use the target file name."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 2,
+    "durability": 4,
+    "speed": 3,
+    "mobility": 4,
+    "offense": 1,
+    "defense": 3,
+    "special": 2,
+    "versatility": 2,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 1,
+    "survivability": 4,
+    "range": 0,
+    "cosmic": 0,
+    "weaknessPenalty": 3,
+    "controlPenalty": 1,
+    "rationale": "Practically no combat value: he cannot attack, is the size of a foot, and his one asset is being slippery enough to escape a grip or slide through a pipe. Gills give him a little environmental range. Nearly every use was accidental."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Walkatrout"
+  ],
+  "notes": [
+    "Albedo cannot transform into Walkatrout (Derrick J. Wyatt), although Derrick drew a Negative Walkatrout in 2020.",
+    "Whampire's Corrupturas cannot attach to Ickthyperambuloids because of their slippery skin.",
+    "Only game appearance is the Reboot-era online game Super Hero Time (excluded)."
+  ]
+}

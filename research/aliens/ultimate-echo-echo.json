@@ -1,0 +1,107 @@
+{
+  "id": "ultimate-echo-echo",
+  "name": "Ultimate Echo Echo",
+  "wikiTitle": "Ultimate Echo Echo",
+  "kind": "ultimate",
+  "species": "Ultimate Sonorosian",
+  "homeworld": "",
+  "bodyType": "Tall metallic humanoid with sonic discs",
+  "debut": {
+    "episode": "Map of Infinity",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": "echo-echo",
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Fifteen detachable Sonic Discs that fly, multiply and fire sonic blasts",
+    "'Sonic Doom': discs surround a target and fire in unison (subdued Ultimate Kevin)",
+    "Sonic waves powerful enough to shatter steel and destroy a tank",
+    "Sonic force fields (blocked Petrosapien crystal shards)",
+    "Sonic screams",
+    "Audiokinetic flight and levitation",
+    "Space survivability and cold immunity",
+    "Enhanced strength and durability"
+  ],
+  "weaknesses": [
+    "Vulnerable to electricity (e.g. Shocksquatch / Gimlinopithecus)",
+    "Feels pain when his Sonic Discs are damaged",
+    "Metallic skin can be magnetised (Biotsavartians)",
+    "Can be suffocated by matter entering his lungs (Elena's microchips)",
+    "Cannot self-duplicate like Echo Echo (per Dwayne McDuffie)",
+    "Sonic vibrations can hurt teammates' ears"
+  ],
+  "summary": "The evolved Sonorosian: a tall blue metallic body studded with flying Sonic Discs that can be launched, multiplied and focused into the devastating 'Sonic Doom'. Trades Echo Echo's cloning for raw sonic firepower and flight.",
+  "traits": [
+    "'Sonic... DOOM!'",
+    "Cassette-tape marking on his back",
+    "Kevin thinks he should be 'Ultimate Echo Ultimate Echo'",
+    "Voiced by Dee Bradley Baker"
+  ],
+  "notableFeats": [
+    "Defeated Necrofriggians and Cerberus in the temple on Mikd'lty (Map of Infinity)",
+    "Contained the blast of a Nuclear Fusion Grenade to save the Plumbers' Academy (The Enemy of My Enemy)",
+    "Threw Ultimate Kevin through several buildings and subdued him with Sonic Doom (Absolute Power: Part 2)",
+    "Shot down missiles aimed at the Rustbucket 3 (Viktor: The Spoils)",
+    "Fought a silver Techadon Robot and worked out how to stop it (Greetings From Techadon)",
+    "Defeated Albedo's Negative Rath (Double or Nothing)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Map of Infinity",
+      "notableEpisodes": [
+        "Map of Infinity",
+        "The Enemy of My Enemy",
+        "Absolute Power: Part 2",
+        "Viktor: The Spoils",
+        "Greetings From Techadon",
+        "Double or Nothing",
+        "The Perfect Girlfriend"
+      ],
+      "designNotes": "Tall rounded blue body with black stripes, long arms and legs and stumpy feet; fifteen removable blue speaker-like Sonic Discs on head, shoulders, arms and legs; cassette-tape marking on the back; green evolved Ultimatrix symbol on chest (Albedo's OV redesign has red discs/cables and a wide angular head).",
+      "image": {
+        "file": "Ultimate EchoEcho.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "Infobox image labelled UA; verified green Ultimatrix symbol (Ben's version)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 6,
+    "speed": 6,
+    "mobility": 7,
+    "offense": 8,
+    "defense": 7,
+    "special": 8,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 5,
+    "regeneration": 0,
+    "survivability": 7,
+    "range": 7,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Sonic Doom took down Ultimate Kevin, his discs destroy tanks and contained a nuclear grenade, and he can raise sonic shields, fly and operate in space - a big offensive/special jump over Echo Echo. Pays for it with a long weakness list: electricity, magnetism, disc pain, suffocation and no self-duplication."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Echo_Echo",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "OMNIVERSE: only Albedo used Ultimate Echo Echo (Negative Ultimate Echo Echo: 'The Ultimate Heist' cameo, 'And Then There Was Ben' non-speaking) - no Ben used it in OV, so no OV appearance. Infobox OV image 'Ultimate Echo Echo omniverse official.png' is Albedo's version.",
+    "Wiki first appearance is technically the non-canon comic 'Fashion Victim'; on-screen debut is 'Map of Infinity'.",
+    "When Echo Echo goes Ultimate, active clones become Sonic Discs (The Enemy of My Enemy) or merge if all go Ultimate together (Greetings From Techadon).",
+    "Crew statements conflict on self-duplication (McDuffie: no; Wyatt: yes in OV); wiki treats it as unable to duplicate.",
+    "Dream-figment cameo in 'Night of the Living Nightmare' not counted.",
+    "Sentient Ultimates storyline (UA S3, 'The Ultimate Sacrifice'): the six most-used Ultimate forms (Humungousaur, Swampfire, Spidermonkey, Big Chill, Cannonbolt, Echo Echo) gained sentience inside the Ultimatrix and demanded freedom; Ben offered his life, Azmuth freed them to their own world and reworked the Ultimatrix so Ultimates are 'empty shells' again.",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

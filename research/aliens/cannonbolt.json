@@ -1,0 +1,167 @@
+{
+  "id": "cannonbolt",
+  "name": "Cannonbolt",
+  "wikiTitle": "Cannonbolt (Classic)",
+  "kind": "standard",
+  "species": "Arburian Pelarota",
+  "homeworld": "Arburia (destroyed)",
+  "bodyType": "Pillbug-like humanoid",
+  "debut": {
+    "episode": "The Big Tick",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": "ultimate-cannonbolt",
+  "componentIds": [],
+  "abilities": [
+    "Sphere transformation with nigh-invulnerable plating",
+    "High-speed rolling, ricocheting and slamming attacks",
+    "Energy/laser deflection and electricity conduction via shell",
+    "Enhanced strength",
+    "Enhanced durability",
+    "Digging while rolled",
+    "Acid, lava, cold and reentry-heat resistance",
+    "Limited space survivability",
+    "Sightless sensing via fur when rolled",
+    "Can carry passengers inside his shell"
+  ],
+  "weaknesses": [
+    "Top-heavy and clumsy on two legs",
+    "Cannot roll on slippery surfaces (Gourmand slime) or through strong adhesives",
+    "Vulnerable to electricity and extreme heat when uncurled",
+    "Too big for tight spaces"
+  ],
+  "summary": "The yellow-plated pillbug that saved the world from the Great One: rolls into a near-indestructible cannonball and bowls through anything.",
+  "traits": [
+    "First alien Ben unlocked after the original ten",
+    "Species used the ball form only for defence until Ben weaponised it",
+    "Home planet Arburia was destroyed by the Great One",
+    "Has an Ultimate form"
+  ],
+  "notableFeats": [
+    "Destroyed the Great One when every other alien failed (The Big Tick)",
+    "Defeated Kevin 11 on the Megacruiser (Grudge Match)",
+    "Survived reentry from space with Max and Gwen inside (Be Afraid of the Dark)",
+    "Kicked Vilgax into the Codon Stream (Primus)",
+    "Reverted DNAliens to humans by the dozen (War of the Worlds: Part 1)",
+    "Defeated General Attea, SixSix, SevenSeven and EightEight (Vilgax Must Croak)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os",
+        "ben-10k-os"
+      ],
+      "firstEpisode": "The Big Tick",
+      "notableEpisodes": [
+        "The Big Tick",
+        "Grudge Match",
+        "Ben 10,000",
+        "Benwolf",
+        "Be Afraid of the Dark",
+        "Ben 10: Secret of the Omnitrix"
+      ],
+      "designNotes": "White-and-black body with yellow exo-plates, sharp teeth, yellow eyes, original Omnitrix on the forehead. Ben 10,000's version has black 'pants' colouring, longer grey-lined claws and the Omnitrix on top of the head.",
+      "image": {
+        "file": "Cannonbolt.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af",
+        "ben-16-af"
+      ],
+      "firstEpisode": "War of the Worlds: Part 1",
+      "notableEpisodes": [
+        "War of the Worlds: Part 1",
+        "Vengeance of Vilgax: Part 1",
+        "Primus"
+      ],
+      "designNotes": "Fuller human-like teeth, no chest stripe, green eyes, Omnitrix on chest (shared AF/UA 'UAF' design).",
+      "image": {
+        "file": "Updated Cannonbolt.PNG",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Duped",
+      "notableEpisodes": [
+        "Duped",
+        "Video Games",
+        "Too Hot to Handle",
+        "Perplexahedron",
+        "The Transmogrification of Eunice",
+        "Ben 10/Generator Rex: Heroes United"
+      ],
+      "designNotes": "Same UAF design as Alien Force with the Ultimatrix on his chest; goes Ultimate several times.",
+      "image": {
+        "file": "Updated Cannonbolt.PNG",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "The More Things Change: Part 1",
+      "notableEpisodes": [
+        "The More Things Change: Part 1",
+        "Trouble Helix",
+        "Vilgax Must Croak",
+        "For a Few Brains More",
+        "The Vengers",
+        "The Final Countdown"
+      ],
+      "designNotes": "OS chest stripe returns and extends to the belly, hexagonal yellow bolts, three back plates, flat palms, eyes no longer touching the shoulders. 16-year-old wears the Omnitrix on his chest; 11-year-old wears a green Omnitrix on his forehead.",
+      "image": {
+        "file": "Cannonbolt true colors.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 8,
+    "speed": 6,
+    "mobility": 6,
+    "offense": 6,
+    "defense": 8,
+    "special": 4,
+    "versatility": 4,
+    "intellect": 3,
+    "energy": 1,
+    "regeneration": 0,
+    "survivability": 7,
+    "range": 2,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 1,
+    "rationale": "Rolled up he is nearly invulnerable - survives atmospheric reentry, deflects lasers - and hits like a wrecking ball at speed. Clumsy on his feet, one-note tactically, and slippery or sticky floors stop him cold."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Cannonbolt_(Classic)"
+  ],
+  "notes": [
+    "AF: War of the Worlds: Part 1 (wiki S1, Ben 15) then Vengeance of Vilgax: Part 1 and Primus (wiki S2, Ben 16).",
+    "UA 'Fame' is a TV-footage cameo; first real UA use is Duped (by 'Sensitive Ben', a personality-split Ben).",
+    "Also used by Gwen in Ben's body (A Change of Face), a Plant Clone Ben (The Big Story), No Watch Ben and Gwen 10 (And Then There Was Ben) - not counted."
+  ]
+}

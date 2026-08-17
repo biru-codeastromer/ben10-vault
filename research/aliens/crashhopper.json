@@ -1,0 +1,99 @@
+{
+  "id": "crashhopper",
+  "name": "Crashhopper",
+  "wikiTitle": "Crashhopper",
+  "kind": "standard",
+  "species": "Orthopterran",
+  "homeworld": "Unknown",
+  "bodyType": "Grasshopper/mantis-like insectoid",
+  "debut": {
+    "episode": "It Was Them",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Enhanced jumping - leaps extremely long distances on his oversized hind legs",
+    "Landing shock waves - strong enough to crack concrete and scatter a swarm of Mutant Ants",
+    "Steel-hard head full of shock-absorbing viscous matter - used as a battering ram",
+    "Powerful kicks for close-quarters combat",
+    "Enhanced strength (lifted and threw a Muroid; bounced Milleous around)",
+    "Wall-jump propulsion and wall climbing with his claws",
+    "Enhanced agility, reflexes and acrobatics"
+  ],
+  "weaknesses": [
+    "Natural prey of Mucilator's species - gets stuck in its sticky goo sacs and cannot escape alone (It Was Them; Of Predators and Prey: Part 2)",
+    "Not as shielded as he looks - a Contumelia missile hit left him reeling and Princess Looma's punches hurt him",
+    "If his legs are struck correctly he reflexively springs backward (Weapon XI: Part 2)"
+  ],
+  "summary": "A lanky green grasshopper-mantis alien whose huge hind legs launch him across city blocks and land him hard enough to crack pavement.",
+  "traits": [
+    "Cricket-like chirp when he jumps or speaks",
+    "Ben genuinely enjoys jumping as Crashhopper",
+    "Species name (Orthopterran) comes from a DVD, not the show",
+    "Designed by Derrick J. Wyatt and Chap Yaep",
+    "Replaced in the intro's group shot by Toepick from Arc 4 (with Way Big)"
+  ],
+  "notableFeats": [
+    "Fought off Dr. Animo's Mutant Ants and Mucilator in his debut (It Was Them)",
+    "Destroyed Contumelia missiles about to strike Earth (So Long, and Thanks for All the Smoothies)",
+    "Defeated the Krakken (Gone Fishin')",
+    "Beat Psyphon and his gang from inside a Plumber tank (Mud is Thicker Than Water)",
+    "Defeated Kuphulu (Rad Monster Party) and Liam (Clyde 5)",
+    "Fought Fistrick, Corvo, Liam and Solid Plugg together (Breakpoint)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "It Was Them",
+      "notableEpisodes": [
+        "It Was Them",
+        "So Long, and Thanks for All the Smoothies",
+        "Of Predators and Prey: Part 2",
+        "Gone Fishin'",
+        "Mud is Thicker Than Water",
+        "Rad Monster Party",
+        "Breakpoint"
+      ],
+      "designNotes": "Green grasshopper/mantis body with three-jointed hind legs and translucent green leg cuticle, segmented head horn plus two smaller side horns, spikes on forearms and legs, green overalls-style suit with three black stripes; Omnitrix symbol on a green hexagonal patch on the stomach.",
+      "image": {
+        "file": "OV_Crashhopper.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render, final design (only 200x474). Hi-res gallery poses 'Crashhopper Pose.png' (1624x2983) and 'Crashhopper pose oficial.png' (1312x3080) are filed as concept art and show an earlier white/grey collar colouring."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 5,
+    "speed": 6,
+    "mobility": 7,
+    "offense": 5,
+    "defense": 3,
+    "special": 4,
+    "versatility": 4,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 1,
+    "survivability": 3,
+    "range": 3,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Mobility 7 from building-clearing leaps, wall-jumping and climbing; his landings crack concrete and his ram head and kicks beat the Krakken, Kuphulu and Psyphon's gang. Otherwise a light hitter with ordinary toughness (missiles and Looma's punches hurt), no ranged or special powers, and a predator that neutralises him."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Crashhopper"
+  ],
+  "notes": [
+    "Wiki files Crashhopper under 'Ben 10,000's Transformations' because the Omniverse Ben 10,000 used him as half of the Biomnitrix fusion Crashocker (Let's Do the Time War Again) - fusion has its own record (crashocker.json); no direct Ben 10,000 Crashhopper transformation.",
+    "Never locked in the Omnitrix despite first being used in It Was Them (Derrick J. Wyatt).",
+    "Games (Omniverse DS/3DS, Omniverse 2, Cavern Run) and comics (Ghost Ship, Super Secret Crisis War!) not counted."
+  ]
+}

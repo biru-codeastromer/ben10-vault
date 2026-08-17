@@ -1,0 +1,501 @@
+{{Original}}
+{{Disambig|main = Omnitrix}}
+{{Technology
+|backcolor = c2d4c8
+|textcolor = 009216
+|name = Omnitrix
+|image = 
+<gallery>
+OV Complete Omnitrix.png|OV
+Omnitrix 1.png|UA
+</gallery>
+|Creator = [[Azmuth (Classic)|Azmuth]]
+|User = [[Ben Tennyson (Classic)|Ben Tennyson]]<br>[[Ben Tennyson (No Watch Timeline)|No Watch Ben]] <small>(temporarily)</small><br>[[Skurd]] <small>(formerly)</small><br>'''Future:'''<br>[[Ben 10,000 (Original)|Ben 10,000]] <small>(formerly)</small><br>[[Ken Tennyson (Original)|Ken Tennyson]] <small>(temporarily)</small>
+|Type = [[Technology Levels|Level 20]]<br>DNA Alterer<br>Extinct Species Reviver
+|1st = [[The Ultimate Enemy: Part 2]]
+|voice = [[Yuri Lowenthal]]
+|Status = Functioning
+|alternate counterparts =[[Omnitrix (Bad Ben's Timeline)|Bad Ben's Omnitrix]]<br>[[Negatrix]]<br>[[Power Watch]]<br>[[Zombitrix]]<br>[[Argitrix]]
+|predecessor = [[Ultimatrix (Original)|Ultimatrix]]
+|successor = [[Omnitrix (Original Future)|Omnitrix]]
+}}
+{{Quote|"An Omnitrix?!"<br>"THE Omnitrix. An improved version I've been working on ever since you were given the [[Omnitrix (Original)|prototype]] [[And Then There Were 10|six years ago.]]"|[[Ben Tennyson (Classic)|Ben]] and [[Azmuth (Classic)|Azmuth]].<ref name="TUE2">''[[The Ultimate Enemy: Part 2]]''</ref>}}
+The '''Omnitrix''' is the device that '''[[Ben 10: Omniverse (TV Series)|Ben 10: Omniverse]]''' revolved around. It is the finished version of the original [[Omnitrix (Original)|Omnitrix]].
+
+==Appearance==
+The Omnitrix resembles a digital wristwatch. Its faceplate is now square rather than round and has a white, green, and black color scheme. The faceplate is black with two green stripes forming an outline for the hourglass of the Galvan tech logo. When the faceplate is slid back, the Omnitrix's core is revealed, resembling the original Omnitrix's faceplate. When selecting an alien, a holographic circle floats and rotates to allow the user to select an alien.
+
+===Original Future Timeline===
+The Omnitrix in the [[Original Future Timeline]] looks almost identical, with the only difference being that the side stripes are colored black instead of green.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+OV Omnitrix replica.png|The Omnitrix in the [[Original Future Timeline]]
+</gallery>
+
+==History ==
+===Background===
+According to Azmuth, he started working on this Omnitrix ever since [[Ben Tennyson (Classic)|Ben]] got the [[Omnitrix (Original)|prototype]] during the events of ''[[And Then There Were 10]]''. He has spent approximately six years constructing it.
+
+===Ultimate Alien===
+This Omnitrix was first mentioned by Azmuth in ''[[Map of Infinity (Episode)|Map of Infinity]]''. He was planning on giving it to Ben, but stated that it was not complete. He also mentioned that Ben's maturity needed to increase before he would be allowed to use it.
+
+Towards the end of '''Ultimate Alien''', Azmuth had completed this Omnitrix. In ''[[The Ultimate Enemy: Part 2]]'', Azmuth finally gave it to Ben because he deemed him worthy of wielding it shortly after removing the Ultimatrix from the latter's wrist. When Ben asked Azmuth if he would give him the Master Control, Azmuth stated he would likely activate the Master Control on his 18th birthday. 
+
+Ben has worn this Omnitrix ever since.  
+
+===Omniverse ===
+In ''[[And Then There Were None]]'', [[Ben Tennyson (No Watch Timeline)|No Watch Ben]] temporarily wore the Omnitrix after Ben Prime was erased from existence by the [[Chronosapien Time Bomb]].
+
+In ''[[And Then There Was Ben]]'', No Watch Ben returned the Omnitrix to Ben Prime after the latter was restored by the former as [[Clockwork]] alongside all of his other counterparts.
+
+===[[Original Future Timeline]]===
+Many years later, [[Ben 10,000 (Original)|Ben]] gave the Omnitrix to his son, [[Ken Tennyson (Original)|Ken]]. However, Ken went on a mission he was not allowed to go on at some point after this, and got in over his head, prompting Ben to take his Omnitrix from him.{{Refn|[[:File:Why Ken Lost His Omnitrix.png]]|group = DJW}}
+
+In ''[[The End of an Era]]'', Ken is shown handing over the Omnitrix to his [[Kai Tennyson|mother]] when it is brought up.
+
+==Known Users==
+{| border="1" style="border:1px solid black; color:white; border-color:black; border-collapse:collapse; background:#313131;" cellpadding="4"
+|- style="background: green"
+!User
+!Put On
+!Removal
+|-
+| rowspan="2" |[[Ben Tennyson (Classic)|Ben Tennyson]]
+|In ''[[The Ultimate Enemy: Part 2]]'', Ben received the Omnitrix from [[Azmuth (Classic)|Azmuth]].
+|In ''[[And Then There Were None]]'', Ben Prime gave the Omnitrix to No Watch version before being erased.
+|-
+|In ''[[And Then There Was Ben]]'', No Watch Ben returned the Omnitrix to Ben Prime after restoring the [[timestream]].
+|-
+|[[Ben Tennyson (No Watch Timeline)|No Watch Ben]]
+|In ''[[And Then There Were None]]'', No Watch Ben received the Omnitrix from Ben.
+|In ''[[And Then There Was Ben]]'', No Watch Ben returned the Omnitrix to Ben.
+|-
+| rowspan="2" |[[Skurd]]
+|In ''[[Stuck on You]]'', Skurd attached himself to the Omnitrix, beginning to feed on the DNAs and create mutations.
+| In ''[[Malgax Attacks]]'', Skurd was removed from the Omnitrix by Azmuth.
+|-
+| In ''[[Malgax Attacks]]'', Skurd reconnected to the Omnitrix.
+|In ''[[A New Dawn]]'', Skurd left Omnitrix to reunite with his ancestors.
+|-
+|[[Ken Tennyson (Original)|Ken Tennyson]]
+|At some point in the [[Original Future Timeline|future]], Ken received the Omnitrix
+|Before ''[[The End of an Era]]'', Ken had his Omnitrix removed from [[Ben 10,000 (Original)|Ben 10,000]] as punishment.
+|}
+
+==Modes==
+<tabber>
+|-|Active=[[File:Omniverseomnitrixactive.png|thumb|200px|left|Active Mode]]
+Active Mode is the Omnitrix's default mode when idle. In this mode, the user can select the transformation they want to become; initiate the process of transforming; and stay in said transformation for 15 minutes at a time.<ref>''[[Hot Stretch]]''</ref> However, different factors and actions performed by the user can severely diminish the available usage time: most commonly if the user, while transformed, changes to another form.{{Refn|https://archive.md/A42xJ|group = MW|name = Archive1}} If the user slams the core, this can affect the time limit of a transformation,<ref name="Azmuth" /><ref name="FaFBM">''[[For a Few Brains More]]''</ref> as the user could stay transformed for hours.<ref>''[[No Honor Among Bros]]''</ref>{{Refn|[[:File:NHAB Extended Time Limit.png]]|group = DJW}}
+
+|-|Recharge=[[File:DepreyPresa1P309.png|thumb|200px|left|Recharge Mode]]
+When the Omnitrix's usage time is fully depleted (i.e. "times out"), it goes into Recharge Mode: firstly warning of the timing out; then detransforming the user and locking all functions of Active Mode while the Omnitrix recharges.
+[[File:AND (223).png|thumb|200px|right|Time Out]]
+The Omnitrix is capable of detecting when it's host is in any sort of life-threatening distress. Specifically, it can instantly recharge to protect the user from a direct physical threat. This was shown when Ben was instantly turned into [[Feedback]] to contain the energy of [[Maltruant]]'s [[Annihilarrgh]].<ref name="AND">''[[A New Dawn]]''</ref>
+
+If the user is knocked out or hurt enough, the Omnitrix will revert them to their normal form.
+
+|-|Collect/Capture=[[File:TVSB51.PNG|thumb|200px|left|Collect Mode]]
+When a new DNA sample has been unlocked,<ref>''[[Outbreak]]''</ref> or when the Omnitrix captures new DNA not present in the catalog,<ref name = TVSB>''[[The Vampire Strikes Back]]''</ref>  Collect Mode is activated. However, if the Omnitrix is far away from the detected sample, the Omnitrix's other functions will be disabled until the alien is scanned.<ref name = TVSB/>
+[[File:OB (663).png|200px|right|The Omnitrix symbol shooting green ray]]
+When in alien form, the Omnitrix shoots out a green ray from the dial.
+
+It scans to match the species, then moves the identified species to the active playlist. If it seen the species before, it does it passively, without Ben actively scanning.<ref name = TVSB/>
+
+When the Omnitrix scans the DNA of an alien it doesn't have, it won't always be immediately unlocked in the arsenal.{{Refn|[[:File:When the Omnitrix scans new DNA.png]]|group = DJW}}
+
+|-|Self-Destruct=[[File:IaMBW2 (430).png|thumb|200px|right|Self-Destruct]]
+The Omnitrix has a self-destruction mode. In this mode, the Omnitrix will begin a countdown, beeping as a warning that the mode has been activated. It can be enabled if settings are changed, and can be disabled if settings are changed again.<ref>''[[It's a Mad, Mad, Mad Ben World: Part 2]]''</ref>{{Refn|[[Derrick J. Wyatt]] states that the Omnitrix does not have a self-destruction mode, and that Ben has never encountered one.{{Refn|[[:File:No Self Destruction in OV Omnitrix.png]]|group = DJW}} This however is against the ''[[It's a Mad, Mad, Mad Ben World: Part 2]]'' episode.{{Refn|[[Ben 10 Planet:Policies/Canon Hierarchy|Canon Hierarchy]]|group = BTP|name = hierarchy}}|group = note}}
+
+|-|Randomizer=[[File:TFoW1 (83).png|thumb|200px|right|Randomizer]]
+The Omnitrix has a randomizer function that works in one of two ways: either the user will continuously change between different aliens every few minutes before timing out, or they will turn into one random alien for an inconsistently short period of time before changing back.<ref name="TFoW1" />
+</tabber>
+
+==Features ==
+<gallery type="slideshow" widths="300">
+SacudidaPasado (431).png|User Transformation
+BIM (380).png|Selection Mode
+Omntrix actived.png|Activation
+OB (671).png|DNA Repair/DNA Reversion
+TWB (378).png|Self-Activation
+DepreyPresa1P392.png|Quick Change
+ATTWN (493).png|Slide Off Function
+IMBW1 (117).png|Syncronization
+Malefactor (615).png|Manual Time Out
+SD2 (145).png|Detransformation due to user's damage/stamina
+TVSB128.PNG|DNA Tracking/Passive Scan
+TFoW1 (281).png|Instant Recharge
+IaMBW1 (65).png|Image Projection
+</gallery>
+===General===
+*Just like the original Omnitrix and the Ultimatrix, the Omnitrix mainly allows for the user to alter their DNA at will and transform into a numerous variety of alien species that are each with their own unique powers and abilities (along with their weaknesses) and in a selection of alien DNA that is in groups of 10.    
+**Ben compares the feeling of transforming to a "good stretch".<ref name="BiS">''[[Bros in Space]]''</ref>
+*The Omnitrix has a quick-change feature that allows for the user to transform between alien forms while already transformed with or without touching the Omnitrix symbol. It also allows the user to transform back into normal when they are done using their transformation, causing it not to time out and allowing the user to transform again far quicker.
+*Like the original Omnitrix, the Omnitrix has a Master Control mode.
+**It can be unlocked by via a special code,<ref name="BWaV">''[[Back With a Vengeance]]''</ref> or voice command by [[Azmuth (Classic)|Azmuth]].<ref name="WoW1">''[[War of the Worlds: Part 1]]''</ref>
+**It would most likely be activated upon Ben's 18th birthday.<ref name="Azmuth">[[Azmuth (Classic)|Azmuth]]</ref><ref name="TUE2" />
+*The Omnitrix can synchronize with another Omnitrix if activated at the same time.<ref>[[Professor Paradox]]</ref><ref name="BA" />
+**It is because of this feature that the Omnitrix's [[Hero Watch|counterpart]] from [[Dimension 23]] has unlocked aliens that it did not have previously.{{Refn|[[:File:Ben 23 Murk Upchuck.png]]|group = DJW}}
+*The Omnitrix does not rely on the [[Codon Stream]] for transformations. Instead, the DNA is stored within itself in a computerized form.{{Refn|[[:File:Omnitrix Nemetrix contain digitized genetic code.png]]|group = DJW}}
+*The Omnitrix can change the user's gender to adapt to another species.{{Refn|[[:File:Omnitrix Can Change User's Gender.PNG]]|group = DJW|name = gender}}
+*The Omnitrix can automatically activate itself to match the user's will. The Omnitrix also has a Slide Off mode for dangerous situations.<ref>''[[And Then There Was Ben]]''</ref>
+
+===Extensions===
+<gallery type="slideshow" widths="300">
+S23 (79).png|Call Mode
+IaMBW1 (61).png|Communicator
+Malefactor (221).png|Communicator (transformed)
+IaMBW1 (56).png|Shock
+TFoW2 (302).png|Hidden Symbol/Life-Form Lock
+TFoW2 (326).png|Help Signal
+AD (345).png|Voice Command/Security Lock
+AND (505.1).png|Anti-Death Fail-Safe
+MI (188).png|Energy Shockwave Generation 
+S23 (313).png|Voicemall
+AABiL (106).png|Flashlight
+SoDS (77).png|Universal Translator
+SoDS (480).png|Universal Translator (transformed)
+AND (447).png|Skurd Mutations (formerly)
+</gallery> 
+*The Omnitrix has a call mode which is used to communicate with the user using the device.
+**The Omnitrix can also record messages, similar to voicemail.<ref name="S23">''[[Store 23]]''</ref>
+**The Omnitrix has an "emergency mode" for important messages, giving the user a warning shock. The Omnitrix can also block messages (which is overridden by emergency mode).<ref name="MM">''[[It's a Mad, Mad, Mad Ben World: Part 1]]''</ref>
+*The Omnitrix has the functionalities of a regular digital watch.{{Refn|http://archive.is/Dqqkr|group = DJW}} 
+*The Omnitrix has a function that allows the user to stay transformed for an extended period of time without timing out. Ben only knows the lock code for [[Incursean (Classic)|Incursean]] DNA.<ref name="TFoW2" />
+*The Omnitrix has a built-in [[Universal Translator]] and could also translate other Earth languages.<ref name="STDS">''[[The Secret of Dos Santos]]''</ref>
+*The Omnitrix had defense mechanisms to protect the host:
+**The Omnitrix can generate a blast of Omni-Energy as a defense.<ref name="MI">''[[Mystery, Incorporeal]]''</ref>
+**The Omnitrix has a distress signal function and homing device, as Azmuth was able to find and rescue Ben when he was trapped inside the Incursean Exile Pod.<ref name="TFoW2">''[[The Frogs of War: Part 2]]''</ref>
+**The Omnitrix has a failsafe that triggers in the event that the user's life is in jeopardy. This feature turns them into the needed alien to survive.<ref name="AND" />
+*The Omnitrix has a security lock system so that it can only be used by an authorized user, as well as an alternate identification program if changes by outside forces occur to said user.<ref name="AD">''[[Arrested Development]]''</ref>
+*The Omnitrix has failsafes installed by Azmuth that prevent [[Galvanic Mechamorph (Classic)|Galvanic Mechamorphs]] from tampering with the device.{{Refn|[[:File:Anti-Mechamorph Failsafes.png]]|group = DJW}}
+*The Omnitrix can add extras to lifeforms to make them safer and more usable, such as [[Goop (Classic)|Goop]]'s [[Anti-Gravity Projector (Classic)|Anti-Gravity Projector]] and [[NRG]]'s [[Prypiatosian-B Containment Suit|containment suit]].
+*With genetic parasites such as [[Skurd]], he can duplicate the DNA of the Omnitrix's aliens and shapeshift their body parts into others'. He can also create armor out of an alien's DNA.
+*The Omnitrix can project a flashlight for illumination.<ref name="MM" /><ref>''[[An American Benwolf in London]]''</ref>
+
+===Clothing===    
+* The Omnitrix usually provides clothes to the aliens that are adapted on what the user is wearing.{{Refn|https://archive.is/Es5k8|group = DJW}} 
+**The type and presence or absence of clothing are aspects determined according to the culture of each species.{{Refn|[[:File:Clothes in the Omnitrix are cultural.png]]|group = DJW}}{{Refn|[[:File:Species Who Do Not Wear Clothes.png]]|group = DJW}}
+
+===Allocation===    
+*The Omnitrix symbol is positioned on different places for each alien whenever the user is transformed.
+
+===Voice Command===  
+*The Omnitrix can be controlled by Voice Command.  
+**'''Omnitrix User Access Voice Recognition Mode''': Makes the Omnitrix recognize Ben.<ref name="AD" />
+**'''Command Code 1010 Tennyson Benjamin Disengage Life-Form Lock''': Disengages Life-Form lock for [[Incursean (Classic)|Incursean]] DNA.<ref name="TFoW2" />
+
+===Malfunctions=== 
+<gallery type="slideshow" widths="300">
+RtF (367).png|Affected by Forever Knights DNA Scanner/Forced Time Out
+NHAB (185).png|Undetermined Extended Transformation Time Limit
+RtF (393).png|Overloaded due to Quick Changing
+It Was Them (322).png|Naked Aliens (formerly)
+TVSB50.PNG|Unable to transform (While in Collect Mode)
+CS (503).png|Mistransformations
+MI (194).png|Magic Interference Vulnerability
+CF (92).png|No Mind Control Protection
+CHS (256).png|Alien's Biology Overriding the User's
+SD2 (142).png|Vulnerability to Nanite Takeover
+The More Things Change, Part 2 (457).png|Transformation damage transferring to user
+OB (167).png|Turn others into Aliens (via Core Removed)
+MHR (21).png|Alien's Genetics Changing the User's Personality
+WXI2 (358).png|Vulnerability to Energy Absoption
+WXI2 (382).png|Shutdown (via Energy absorption)
+MaxMonster158.png|Limited Transformations (via Electromagnetic Interference)
+MDGS (600).png|Limited Communicator
+Ben10OVbenagain (33).png|Vulnerability to Temporal Interference
+IaMBW1 (656).png|Frozen in Time (via Temporal Interference)
+IaMBW2 (428).png|Unable to transform (due to Self-Destruction Mode)
+AD (331).png|Forced disconnection due to deaging
+ATTWN (491).png|Anti-Death Fail-Safe limit
+</gallery> 
+*If the Omnitrix does mis-transform, it is because of the user slamming on the Omnitrix's core{{Refn|http://archive.is/qBK7L|group = DJW}} too hard and (inadvertently) the scroll pad.{{Refn|Azmuth warned Ben not to bang so hard on the Omnitrix core when transforming, as the impact will send the timeout function to a random selection.<ref name="FaFBM"/> This is considered the main on-screen reason why Ben often did not get the alien form he wanted. However, in ''[[The More Things Change: Part 2]]'' and a ''[[A Jolt From the Past]]'', Ben wanted to turn into [[Humungousaur (Classic)|Humungousaur]] and [[XLR8 (Classic)|XLR8]], selected Humungousaur and turned into [[Waterhazard]] and [[Clockwork]] in both the aforementioned episodes.|group = note}}
+*Much like the [[Ultimatrix (Original)|original Ultimatrix]],<ref>''[[Inspector 13]]''</ref> the Omnitrix is not hack proof.{{Refn|http://archive.is/fSpWt|group = DJW}}
+*Like the previous models,<ref>'''''[[Ben 10: Destroy All Aliens]]'''''</ref><ref name="TUE2" /> the Omnitrix does not have a failsafe against [[Magic (Classic)|magic]].{{Refn|[[:File:No Failsafes Against Magic.png]]|group = DJW}} 
+**If the Omnitrix symbol is bitten by magic creatures, such as [[Rock Monster|rock monsters]], the device will send a shockwave, detransform the user and will select only one alien.<ref name="MI" />
+*Like the original Omnitrix, any occasional damage the user sustains is retained when said user times out.
+*The DNA Scanner of the Omnitrix will attempt to scan any new DNA in the vicinity. If the DNA sample is too far away, then the Omnitrix will shut down all its other functions until it scans the new sample.<ref name="TVSB" />
+*The user can be prevented from transforming by the [[Forever Knights]] [[DNA Scanner]] which would scan the transformations' DNA before reverting the user.<ref name="RtF">''[[Return to Forever]]''</ref> 
+* Too many transformations and reversals will wear out the Omnitrix, causing it to go into a cooldown cycle.<ref name="RtF" />
+*The Omnitrix has no mind control protection.<ref>''[[Catfight]]''</ref>
+*The Omnitrix may stop working when frozen in time by a [[Chronosapien]].<ref name="MM" />
+*The Omnitrix communicator does not connect to the [[Null Void (Classic)|Null Void]].<ref>''[[The Most Dangerous Game Show]]''</ref>
+*Upon activating the Randomizer Function, the user will constantly switch transformations at the most inopportune times, thereby putting them into potentially dangerous situations.<ref name="TFoW1">''[[The Frogs of War: Part 1]]''</ref> 
+*When exposed to electromagnetic interference from beings like [[Phil Billings (Classic)|Phil]], it can make the Omnitrix transform the user into electrical aliens even when they select a different alien.<ref>''[[Max's Monster]]''</ref>
+*Due to a programming error, Rath had been running around naked for most of the series, until [[Skurd]] corrected the error and gave Rath a Luchador costume.<ref name="STDS" />{{Refn|[[:File:Rath Clothed Permanent.png]]|group = DJW}}{{Refn|[[:File:Rath Clothed Permanent 2.png]]|group = DJW}}
+*The genetics of some species can alter the user's personality, as it occurs with [[Rath (Classic)|Rath]].{{Refn|[[:File:Aliens' genetics affect Ben's personality.png]]|group = CM}}
+*If tampered with by Temporal interference such as from [[Eon]], the Omnitrix can transfer the user's mind in cross-time to a younger version.<ref name="BA">''[[Ben Again]]''</ref>
+*The Omnitrix is vulnerable to devices that operate at a sub-quantum level that can destroy it, such as the [[Non-Baryonic Disruptor Chamber]].<ref>[[Alan Albright]]</ref><ref>''[[Weapon XI: Part 2]]''</ref>
+*The Omnitrix disconnects from the user if the user is de-aged, requiring the use of other recognition methods to reconnect with the user.<ref>''[[Arrested Development]]''</ref>
+*The anti-death failsafe is limited and can allow the user to die depending on the circumstances.<ref>''[[And Then There Were None]]''</ref>
+
+== Known Aliens==
+{{Quote|"Why only Ben 10?"<br>"It used to be 10, now I have more than 70!"|[[Ben 23]] and [[Ben Tennyson (Classic)|Ben Prime]].<ref name="S23">''[[Store 23]]''</ref>}}
+The Omnitrix initially had a total of at least 1,000,910<ref>[[Ultimatrix (Original)|Ultimatrix]]</ref> DNA samples, but over the course of '''[[Omniverse]]''', the Omnitrix reacquired [[Feedback]] in ''[[Showdown: Part 2]]'' and acquired [[Whampire]] in ''[[The Vampire Strikes Back]]'', thus having a total of at least 1,000,912 of DNA samples, of which over 70 are unlocked.<ref name="S23" /> Of these aliens, only 63 are named; 59 of which are used at least once.
+
+===Unlocked Aliens===
+{| border="1" style="border:1px solid black; color:white; border-color:black; border-collapse:collapse; background:#212121;" cellpadding="2"
+|- style="background:green"
+!Alien!!Species!!When It Was Unlocked/Obtained/First Used
+|-
+|[[Alien X (Classic)|Alien X]]||[[Celestialsapien (Classic)|Celestialsapien]]||
+|-
+|[[Ampfibian (Classic)|Ampfibian]]||[[Amperi (Classic)|Amperi]]||
+|-
+|[[Arctiguana]]||[[Polar Manzardill]]||
+|-
+|[[Armodrillo]] ||[[Talpaedan]]||
+|-
+|[[Astrodactyl]]||[[Astrodactyl's Species|Unknown]]||First used in ''[[While You Were Away]]''
+|-
+|[[Atomix]]|| [[Atomix's Species|Unknown]]||Unlocked by [[Azmuth (Classic)|Azmuth]] in ''[[For a Few Brains More]]''
+|-
+|[[Ball Weevil]]|| [[Ball Weevil's Species|Unknown]]||First used in ''[[Of Predators and Prey: Part 1]]''
+|-
+|[[Big Chill (Classic)|Big Chill]]||[[Necrofriggian (Classic)|Necrofriggian]]||
+|-
+|[[Blitzwolfer]] ||[[Loboan (Classic)|Loboan]]||
+|-
+|[[Bloxx (Classic)|Bloxx]]||[[Segmentasapien (Classic)|Segmentasapien]]||First used in ''[[The More Things Change: Part 1]]''
+|-
+|[[Brainstorm]] ||[[Cerebrocrustacean]]||
+|-
+|[[Bullfrag]]||[[Incursean (Classic)|Incursean]]||Unlocked by Azmuth in ''[[The Frogs of War: Part 2]]''
+|-
+|[[Buzzshock (Classic)|Buzzshock]]||[[Nosedeenian (Classic)|Nosedeenian]]||Unlocked by [[Phil Billings (Classic)|Phil]]'s electromagnetic interference in ''[[Max's Monster]]''
+|-
+|[[Cannonbolt (Classic)|Cannonbolt]]||[[Arburian Pelarota (Classic)|Arburian Pelarota]]||
+|-
+|[[Chamalien]]||[[Merlinisapien]]||
+|-
+|[[Chromastone (Classic)|Chromastone]]||[[Crystalsapien (Classic)|Crystalsapien]]||
+|-
+|[[Clockwork]]||[[Chronosapien]]||
+|-
+|[[Crashhopper]]||[[Orthopterran]]||First used in ''[[It Was Them]]''
+|-
+|[[Diamondhead (Classic)|Diamondhead]]||[[Petrosapien (Classic)|Petrosapien]]||
+|-
+|[[Ditto]]||[[Splixson]] ||
+|-
+|[[Eatle]]||[[Oryctini]]||
+|-
+|[[Echo Echo]]||[[Sonorosian]]||
+|-
+|[[Eye Guy]]||[[Opticoid (Classic)|Opticoid]]||
+|-
+|[[Fasttrack]]|| [[Citrakayah]]||
+|-
+|[[Feedback]]||[[Conductoid]]||Reobtained from [[Malware]]'s body in ''[[Showdown: Part 2]]''
+|-
+|[[Four Arms (Classic)|Four Arms]]||[[Tetramand (Classic)|Tetramand]]||
+|-
+|[[Frankenstrike]]||[[Transylian]]||
+|-
+|[[Ghostfreak]]||[[Ectonurite (Classic)|Ectonurite]]||
+|-
+|[[Goop (Classic)|Goop]]||[[Polymorph (Classic)|Polymorph]]||
+|-
+|[[Gravattack]]||[[Galilean]]||First used in ''[[A Jolt From the Past]]''
+|-
+|[[Grey Matter (Classic)|Grey Matter]]||[[Galvan (Classic)|Galvan]]||
+|-
+|[[Gutrot]]||[[Gutrot's Species|Unknown]]||First used in ''[[Animo Crackers]]''
+|-
+|[[Heatblast (Classic)|Heatblast]]||[[Pyronite (Classic)|Pyronite]]||
+|-
+|[[Humungousaur (Classic)|Humungousaur]]||[[Vaxasaurian (Classic)|Vaxasaurian]]||
+|-
+|[[Jetray (Classic)|Jetray]]||[[Aerophibian (Classic)|Aerophibian]]||
+|-
+|[[Juryrigg]]||[[Planchaküle]]||
+|-
+|[[Kickin' Hawk]]||[[Kickin' Hawk's Species|Unknown]]||Unlocked by scanning [[Liam]] in ''[[Outbreak]]''
+|-
+|[[Lodestar]]||[[Biotsavartian]]||
+|-
+|[[Mole-Stache]]||[[Mole-Stache's Species|Unknown]]||Unlocked by [[Blukic]] and [[Driba]] in ''[[Outbreak]]''
+|-
+|[[Nanomech]]||[[Human (Classic)|Human]]/[[Microchip]]||
+|-
+|[[NRG]]||[[Prypiatosian-B]]||
+|-
+|[[Pesky Dust]]||[[Nemuina]]||Unlocked by Blukic and Driba in ''[[Outbreak]]''
+|-
+|[[Rath (Classic)|Rath]]||[[Appoplexian (Classic)|Appoplexian]]||
+|-
+|[[Ripjaws (Classic)|Ripjaws]]||[[Piscciss Volann (Classic)|Piscciss Volann]]||
+|-
+|[[Shocksquatch]]||[[Gimlinopithecus]]||
+|-
+|[[Snare-Oh]] ||[[Thep Khufan]]||
+|-
+|[[Spidermonkey (Classic)|Spidermonkey]]||[[Arachnachimp (Classic)|Arachnachimp]]||
+|-
+|[[Stinkfly (Classic)|Stinkfly]]||[[Lepidopterran (Classic)|Lepidopterran]]||
+|-
+|[[Swampfire]]||[[Methanosian]]||
+|-
+|[[Terraspin]]||[[Geochelone Aerios]]||
+|-
+|[[Toepick]]||[[Toepick's Species|Unknown]]||First used prior to ''[[Special Delivery]]''
+|-
+|[[The Worst]]||[[Atrocian]]||Unlocked by Blukic and Driba in ''[[Outbreak]]''
+|-
+|Perk [[Upchuck]]||Perk [[Gourmand]]||
+|-
+|Murk [[Upchuck]]||Murk [[Gourmand]]||
+|-
+|[[Upgrade (Classic)|Upgrade]]||[[Galvanic Mechamorph (Classic)|Galvanic Mechamorph]]||
+|-
+|[[Walkatrout]]||[[Ickthyperambuloid (Classic)|Ickthyperambuloid]]||Unlocked by Blukic and Driba in ''[[Outbreak]]''
+|-
+|[[Waterhazard]]||[[Orishan]]||
+|-
+|[[Way Big (Classic)|Way Big]]||[[To'kustar (Classic)|To'kustar]]||
+|-
+|[[Whampire]]||[[Vladat]]||Obtained by scanning [[Lord Transyl]] in ''[[The Vampire Strikes Back]]''
+|-
+|[[Wildmutt]]||[[Vulpimancer (Classic)|Vulpimancer]]||
+|-
+|[[Wildvine (Classic)|Wildvine]]||[[Florauna (Classic)|Florauna]]||
+|-
+|[[XLR8 (Classic)|XLR8]]||[[Kineceleran (Classic)|Kineceleran]]||
+|}
+
+==Appearances==
+===Ultimate Alien===
+====Season 3====  
+*''[[The Ultimate Enemy: Part 2]]'' <small>(first appearance)</small>
+
+===Omniverse===   
+*''[[Ben 10: Omniverse (TV Series)/Episodes|All episodes]]'' except ''[[From Hedorium to Eternity]]''.
+
+===Video Games===
+====Omniverse====
+*''[[Ben 10: Omniverse (Video Game)|Ben 10: Omniverse]]''
+*''[[Ben 10: Omniverse 2]]''
+
+===Comics===
+====Omniverse====
+*[[Ben 10: Omniverse (Graphic Novels)#Graphic Novels|All graphic novels]].
+
+====Ben 10====
+*[[Ben 10 (2013 Comics)#Issues|All issues]].
+
+====Super Secret Crisis War!====
+*[[Super Secret Crisis War!#Issues!|All main issues]].
+
+====Standalone Comics====
+=====Omniverse=====
+*''[[The Worm That Turned]]''
+
+===Commercials===
+====Omniverse====
+*''[[Ben 10 R&B]]''
+*''[[Harlem Shake]]''
+*''[[Ben 10: Time Wars]]''
+
+===Parks and Attractions===
+====Omniverse====
+*[[IMG Worlds of Adventure]]
+**''[[Ben 10: 5D Hero Time]]''
+
+==Naming and Translations==
+{{Translation
+|ha = Omnitrix
+|had = From the original English name; pronounced /'omnɪtrɪks/ (normally) and /omnɪ'trɪks/ (by [[Alan Albright]] in [[Weapon XI: Part 2]]).
+|spanish = Omnitrix
+|spanishd = From the original English name; pronounced /omnɪ'trɪks/.
+}}
+
+==Trivia== 
+*Unlike the [[Omnitrix (Original)|original Omnitrix]] and the [[Ultimatrix (Original)|Ultimatrix]], the Omnitrix has a digitalized feminine voice, rather than the digitalized version of Ben's voice.
+*In addition to the ones listed above, the Omnitrix has hundreds of other features Ben does not know about.{{Refn|[[:File:Omnitrix Other Features.png]]|group = DJW}} For example, he does not know how to access the settings that changes the user's gender to adapt to another species.{{Refn|group = DJW|name = gender}}
+**[[Derrick J. Wyatt|Derrick]] believed that the Omnitrix has all the features of the [[Omnitrix (Original)|original]].{{Refn|[[:File:OV Omnitrix has all the features of the original.png]]|group = DJW}}
+*Unlike the [[Ultimatrix (Original)|Ultimatrix]], the Omnitrix does not have an evolutionary feature.{{Refn|[[:File:OV Omnitrix No Evolutionary Function.png]]|group = DJW}} Also, a [[Polymorphic Crystal]] cannot transform the Omnitrix itself into an Ultimatrix.{{Refn|[[:File:Polymorphic Crystal Will Not Turn Omnitrix Into Ultimatrix.png]]|group = DJW}}
+**Because of these factors, Ben will never regain the ability to transform into [[Ultimate Forms]].{{Refn|[[:File:Ben Will Never Regain Ultimate Forms.png]]|group = DJW}}
+*It is implied that aliens such as [[Astrodactyl]], [[Ball Weevil]], [[Bloxx (Classic)|Bloxx]], [[Crashhopper]], [[Gutrot]], and [[Toepick]] were never locked in the Omnitrix.{{Refn|[[:File:New Aliens in OV Weren't Locked.png]]|group = DJW}}  
+**In regard to [[Gravattack]], it is implied that he was unlocked sometime before ''[[Double or Nothing]]''. This is because Albedo is able to transform into Negative Gravattack, and his powers only allow him to turn into all the aliens Ben has unlocked prior to that episode, though Derrick later stated he was wrong about said claim due to Negative Gravattack.{{Refn|[[:File:Derrick Retracted Double or Nothing Statement.png]]|group=DJW}}
+**In regard to [[Feedback]], [[Matt Youngberg]], [[Derrick J. Wyatt]], and [[Kevin Rubio]] believe that Ben reabsorbed Feedback's DNA when he was floating inside Malware because Malware absorbed both the transformation and a little bit of Ben's genetic code when he destroyed Feedback. Thus, part of him really was missing.{{Refn|[[:File:Kevin Rubio's Explanation on Feedback.png]]|group = KR}}{{Refn|[[:File:Matt Youngberg's Explanation on Feedback 2.png]]|group = MY}}{{Refn|[[:File:Malware Absorbed Feedback's Genetic Fragments.png]]|group = DJW}}
+*During '''Omniverse'''<nowiki>'</nowiki>s early run, [[Matt Wayne]] believed that [[Ben Tennyson (Classic)|Ben]] had not unlocked [[Spitter]] as of ''[[The Frogs of War: Part 2]]''.{{Refn|[[:File:Spitter Not Unlocked in OV.png]]|group = MW}} Later during the show's run, Derrick stated that Spitter was unlocked off-screen after '''''[[Ben 10: Destroy All Aliens]]''''' and is available to Ben in present day.{{Refn|[[:File:OV Spitter Unlocked During Flashbacks.PNG]]|group = DJW}}
+**Correlating with this, when asked if [[Benzarro]] has access to Spitter, Derrick stated "It seems like he has access to most of what Ben does".{{Refn|[[:File:Benzarro Spitter.PNG]]|group = DJW}}
+*The Omnitrix contains interdimensional white lab mouse DNA, though Ben is not aware of this.{{Refn|http://archive.is/D1Ss9|group = DJW}}{{Refn|[[:File:Ben Is Unaware of White Lab Mouse DNA.png]]|group = DJW}}      
+**The Omnitrix also contains dolphin DNA.{{Refn|[[:File:Dolphin DNA in Omnitrix Proof.png]]|group = DJW}}
+**This is a reference to ''The Hitchhiker's Guide to the Galaxy'', a book series by Douglas Adams. In the series, it is mentioned humanity is the third most intelligent species on Earth, behind white mice and dolphins.
+*[[Unitaur]] and [[Slapstrike]] are not actual aliens/transformations and were created just for '''[[The Ben Ten Show]]''' (although not by Deefus himself).{{Refn|[[:File:Slapstrike and Unitaur Fake.png]]|group = DJW}}
+*When explaining why he was unable to turn into [[Juryrigg]], [[Ben Tennyson (Classic)|Ben]] states that he turned into aliens "he never knew he had" before eventually turning into [[Eatle]] off-screen prior to the chronological start of the episode ''[[Let's Do the Time War Again]]''.
+**[[Derrick J. Wyatt]] once stated that the unproduced alien [[Ventrilosquid]] was one of those aliens.{{Refn|[[:File:Ventrilosquid LDTTWA.PNG]]|group = DJW}} However, years later, he stated that he was joking.{{Refn|[[:File:Ventrilosquid LDTTWA Joke.png]]|group = DJW}}
+*Derrick believed that non-canon aliens [[Rocks]] and [[Squidstrictor]] are available in the Omnitrix,{{Refn|[[:File:Rocks and Squidstrictor Canon.png]]|group = DJW}} having been unlocked off-screen prior to ''[[The More Things Change: Part 1]]''.{{Refn|[[:File:Rocks and Squidstrictor Unlocked Before OV.png]]|group = DJW}} This is because he wanted to incorporate those aliens into the show before the network intervened.{{Refn|[[:File:Derrick Wanted to Add Rocks and Squidstrictor Into OV.png]]|group = DJW}}
+*Scrapped Omnitrix transformations conceptualized by Derrick prior to working on '''Omniverse''' were that of an unnamed stretchy alien likened to [[wikipedia:Mister Fantastic|Mister Fantastic]] that was shaped like a flatworm,{{Refn|[[:File:Stretchy Alien like a Flatworm.png]]|group=DJW}} a six-legged alien likened to [[w:c:hanna-barbera:Tundro|Tundro]] from '''[[wikipedia:The Herculoids|The Herculoids]]''', and a "golem-stone [[wikipedia:Frankenstein's monster|Frankenstein]]".{{Refn|[[:File:Turd Burglar Proof.PNG]]|group = DJW}}
+*The crew came up with a bunch of names for aliens available to Ben at age 16, including The Zilch, Pyxl-Loaf, Crocduster, Overround, The Sledge, Splatterator, Dropsies, Tranquenstine, Tanker Bell (named after Senator Howell Tankerbell from '''[[Wikipedia:Mr. Show with Bob and David|Mr. Show with Bob and David]]'''),{{Refn|[[:File:Tanker Bell Etymology.png]]|group = DJW}} Mister Sister, THUUG, The Walking Dread, Polywhirl, Tool Bucket, Murphybed, Turdberry, and Brundlefoot.{{Refn|[[:File:DJW Joke Aliens.png]]|group = DJW}}{{Refn|[[:File:Ben 23 Joke Aliens.png]]|group = DJW}}{{Refn|https://ask.fm/DerrickJWyatt/answers/121382560884|group = DJW}}  
+**Mister Sister is inspired by [https://mazinger.fandom.com/wiki/Baron_Ashura/TV Baron Ashura] from [https://en.wikipedia.org/wiki/Mazinger_Z Mazinger Z] and would have had a split personality.{{Refn|[[:File:Mister Sister is based on Baron Ashura.png]]|group = DJW}}{{Refn|[[:File:Mister Sister has a split personality.png]]|group = DJW}} 
+**Pyxl-Loaf would have had pixel and bread-related powers.{{Refn|[[:File:Pyxl Loaf Powers.png]]|group = DJW}}
+**Crocduster swoops over people and gasses them.{{Refn|[[:File:Crocduster Powers.png]]|group = DJW}}
+*There were technical glitches in the original Omnitrix and Ultimatrix that limited the positioning of the symbol during transformations that caused interferences such as unclothed appearances. Azmuth reformatted and corrected these errors in the current Omnitrix.{{Refn|[[:File:Old Omnitrix Glitches.png]]|group = DJW}}
+*The Omnitrix is always receiving software updates from [[Galvan Prime (Classic)|Galvan Prime]].{{Refn|[[:File:Omnitrix Software Updates.png]]|group = DJW}}
+*The Omnitrix is unable to scan and accept the DNA of certain beings and species including the Ultimate Forms,{{Refn|''link unavailable''|group = DJW}} cybernetically-enhanced beings,{{Refn|[[:File:Omnitrix Dalek & Cybermen DNA.png]]|group = DJW}} mutants such as [[Osmosian]]s,{{Refn|[[:File:Omnitrix Cannot Accept Mutant DNA.png]]|group = DJW}} living spaceships depicted as commonplace objects,{{Refn|[[:File:Omnitrix Cannot Accept TARDIS DNA.png]]|group = DJW}} and non-sapient races that do not have as much sentience as [[Nemetrix]] predators. 
+**It neither contains nor accepts DNA from species such as [[Slime-Biot]]s and [[Contumelia]] because neither of them have genetic material equivalent enough to traditional DNA that can be stored.{{Refn|[[:File:No Slimebiote DNA In Omnitrix.png]]|group = DJW}}{{Refn|[[:File:No Contumelia DNA In Omnitrix.png]]|group = DJW}}
+**Derrick believed that the Omnitrix cannot accept [[Cryptid (Classic)|cryptid]] DNA,{{Refn|[[:File:Omnitrix Cannot Accept Cryptid DNA.png]]|group = DJW}} but Matt Wayne says it may be possible.{{Refn|[[:File:Buzzshock Must Learn To Duplicate.png]]|group = MW}}
+**When asked if it can accept [[w:c:steven-universe:Gems|Gem]] DNA, Derrick answered "not in [his] show".{{Refn|[[:File:Omnitrix Gem DNA.png]]|group = DJW}} This implies that the acceptance of such DNA is a case depending on the writer.
+*The Omnitrix is unable to accommodate the DNA of magical creatures such as [[Rock Monster]]s and other inhabitants of [[Legerdomain]] because magic is not compatible with the science of the Omnitrix.{{Refn|[[:File:Omnitrix Cannot Accomodate Magical Creatures.png]]|group = DJW}}{{Refn|[[:File:Omnitrix Cannot Accept Stone Creature DNA.png]]|group = DJW}}
+*Azmuth can lock the Omnitrix in person and remotely,{{Refn|[[:File:Azmuth Can Lock the OV Omnitrix.png]]|group = MW}} much like what he did with the [[Ultimatrix (Stabilizer)|recreated Ultimatrix]].<ref>''[[Malgax Attacks]]''</ref>
+*[[Charlotte McDuffie]] believes the Omnitrix is immune to [[Magic (Classic)|Magic]].{{Refn|[[:File:Omnitrix is immune to Magic.png]]|group = CM}}
+*When asked what kind of enhancement he could imagine for the Omnitrix, Derrick responded that he would add a space/environmental suit that could be accessed when needed.{{Refn|[[:File:Derrick's Omnitrix Improvement Idea.png]]|group = DJW}}
+**This idea is similar to the [[Omni-Naut Armors]] from the [[Dimension 27998.3|'''Reboot''' Continuity]].
+*Derrick always believed that the Omnitrix transformed the user into the apex version of their respective species, almost like like that species' superhero.{{Refn|[[:File:Prime Specimen Omnitrix.png]]|group = DJW|name = apex}}
+**However, [[Dwayne McDuffie|Dwayne]] considered the transformations to be common members of the species,{{Refn|group = DJW|name = apex}} with [[Duncan Rouleau|Duncan]] agreeing, stating that the Omnitrix transforms the user into fully functional versions of the species.{{Refn|[[:File:Duncan's Opinion on Optimized Adults.png]]|group = DR}}{{Refn|[[:File:Omnitrix Transforms the User into Functional Versions.png]]|group = DR}}
+**[[Charlotte McDuffie|Charlotte]] never thought of the transformations as being the apex of their species, just examples.{{Refn|[[:File:Omnitrix aliens are not apex species.png]]|group = CM}}
+**[[Matt Wayne|Matt]] stated that the Omnitrix transforms the user into genetically optimized adults of their respective species.{{Refn|[[:File:Omnitrix Aliens are Optimized Adults.png]]|group = MW}}{{Refn|[[:File:Nemetrix Damaging.PNG]]|group = MW}}
+***However, the way age affects the Omnitrix's transformations has been inconsistently represented throughout the series, so this may not always be correct.
+*Unlike some of Ben's alternate counterparts, [[Eon]]'s Omnitrix did not have a unique name.{{Refn|[[:File:Eon's Omnitrix Does Not Have A Special Name.png]]|group = DJW}}
+*The Omnitrix was designed by [[Matt Youngberg]] and Shane Poindexter{{Refn|[[:File:Matt and Shane designed the new Omnitrix.png]]|group = DJW}} under the former's supervision. Matt had a really clear vision of what he wanted, and Derrick liked the direction they were going.{{Refn|[[:File:Direction With New Omnitrix.png]]|group = DJW}}   
+**For its brief appearance in '''Ultimate Alien''', it was designed by [[Norm Ryang]] based off Youngberg's concepts.{{Refn|[[:File:Norm Ryang Designed OV Omnitrix.png]]|group = DJW}}
+*The Omnitrix's touch screen interface and Randomizer function were both Youngberg's ideas.{{Refn|http://archive.is/dM5U5|group = DJW}}{{Refn|[[:File:Matt Youngberg Randomizer.PNG]]|group = DJW}}
+*The alien icons on the touch screen interface were designed by TJ Collins{{Refn|[[:File:TJ Collins Omnitrix Icons.png]]|group = DJW}} and are inspired by the Autobot and Decepticon insignias from ''Transformers: Animated'', another Cartoon Network animated series that Wyatt had worked on.{{Refn|http://archive.is/Qe5w7|group = DJW}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Charlotte McDuffie]]====
+{{Reflist|group = CM}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+====[[Dwayne McDuffie]]====
+{{Reflist|group = DM}}
+====[[Kevin Rubio]]====
+{{Reflist|group = KR}}
+====[[Matt Wayne]]====
+{{Reflist|group = MW}}
+====[[Matt Youngberg]]====
+{{Reflist|group = MY}}
+===Ben 10 Planet===
+{{Reflist|group = BTP}}
+{{Omnitrixes timeline}}
+{{DISPLAYTITLE:Omnitrix}}
+[[ar:الأومنيتركس]]
+[[bg:Омнитрикс]]
+[[de:Omnitrix]]
+[[es:Omnitrix]]
+[[fr:L'Omnitrix]]
+[[it:L'Omnitrix]]
+[[pl:Omnitrix]]
+[[pt-br:Omnitrix]]
+[[ro:Omnitrix]]
+[[ru:Омнитрикс (Омниверс)]]
+[[tr:Omnitrix]]
+[[Category:Technology]]
+[[Category:Alien Technology]]
+[[Category:Omnitrix]]
+[[Category:Objects]]
+[[Category:Ben Tennyson's Possessions]]
+[[Category:Azmuth's Creations]]
+[[Category:Nanotechnology]]
+[[Category:Future Timeline]]
+[[Category:Classic Objects]]
+[[Category:Classic Technology]]

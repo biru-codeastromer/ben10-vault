@@ -1,0 +1,78 @@
+{{Future}}
+{{Infobox Alien
+|backcolor = 060606
+|textcolor = 47AD2D
+|name = Uprigg
+|image = UpRigg.png
+|species = ½ [[Planchaküle]]<br>½ [[Galvanic Mechamorph (Classic)|Galvanic Mechamorph]]
+|body = Technological Gremlin
+|power = Technological Enhancement<br>Technological Disassembly<br>Technological Repairment<br>Technological Modification<br>Enhanced Intelligence<br>Elasticity
+|voice = [[Bumper Robinson]]
+|1st-appearance = Let's Do the Time War Again
+}}
+{{Quote|Fix, fix, fix! I'll put this piece here and this one here, and this...|Uprigg building the [[Time Cycles]].<ref>''[[Let's Do the Time War Again]]''</ref>}}
+'''Uprigg''' is the [[Combinations (Classic)|combination]] of [[Upgrade (Classic)|Upgrade]] and [[Juryrigg]]'s DNA. He can only be accessed by using the [[Biomnitrix]].
+
+==Appearance==
+Uprigg has the body of [[Juryrigg]] with the circuit pattern of [[Upgrade (Classic)|Upgrade]]. His arms, legs, and stomach are slightly more rounded than Juryrigg's. Rather than a devil tip, he has a plug on the end of his tail, similar to [[Feedback]]'s. His ears and nose are longer and pointier.
+
+The [[Biomnitrix]] symbol is located on the ring of his eye, which is Upgrade's symbol location.
+
+==Personality==
+Uprigg has the same personality as Juryrigg and laughs maniacally when he is disassembling and reassembling machinery.
+
+==Powers and Abilities==
+<gallery type="slideshow">
+LDtTWA (421).png|Technological Repairment
+LDtTWA (420).png|Elasticity
+</gallery>
+Being part-[[Galvanic Mechamorph (Classic)|Galvanic Mechamorph]], Uprigg has stretchable limbs that can reach over long distance like [[Upgrade (Classic)|Upgrade]]. He can also modify and improve technology, such as how he created the [[Time Cycles]].
+
+Being part-[[Planchaküle]], Uprigg can break and reassemble technology much like [[Juryrigg]].
+
+==History==
+===Omniverse===
+*Uprigg first appeared in ''[[Let's Do the Time War Again]]'', where he used a [[Chroniton Particle]] and the wreckage of the [[Proto-TRUK]] and the [[Tenn-Speed]] to create two [[Time Cycles]] for [[Ben Tennyson (Classic)|Ben]] and [[Rook Blonko|Rook]]. Later, Uprigg was used off-screen to craft a second pair of Time Cycles, which Ben and Rook would pilot back to their own timeline, thus becoming their own past selves.
+
+==Appearances==
+===Omniverse===
+====Season 8====
+*''[[Let's Do the Time War Again]]'' <small>(first appearance)</small>
+
+==Naming and Translations==
+{{Translation
+|german = Gnomi-Grade
+|germand = From ''Gnomifax'' (Jury Rigg's german name) and ''Upgrade''
+|italian = Diavolultra
+|italiand = From Diavoletto, Jury Rigg's Italian name, and Plusultra, Upgrade's Italian name
+|polish = UpFachura
+|polishd = From ''up'', part from the word "Upgrade", and ''Fachura'', Polish name for Jury Rigg
+|portuguesebr = Ultra Diabrete
+|portuguesebrd = From "Ultra-T", Upgrade's Portuguese name, and Diabrete, Jury Rigg's Portuguese name ("Diabrete" also means "little devil" or "plug-ugly", "mobber")
+|russian = Апприг
+|russiand = From the original English name
+|ha = Reparex
+|had = From ''reparar'', repair; pronounced /rɛpa'ɾɛx/|spanish=Duendelizador|spanishd=From Duendecillo, Juryrigg's Spanish name, and Actualizador, Upgrade's Spanish name}}
+
+==Trivia==
+*Uprigg's voice is essentially [[Juryrigg]]'s voice through a speaker with a robotic tone similar to [[Upgrade (Classic)|Upgrade]]'s.
+
+==References==
+{{Reflist}}
+{{Ben 10 Aliens}}
+[[es:Reparex]]
+[[pl:UpFachura]]
+[[pt-br:Ultra Diabrete]]
+[[Category:Aliens]]
+[[Category:Omniverse Transformations]]
+[[Category:Ben 10,000's Transformations]]
+[[Category:Galvanic Mechamorphs]]
+[[Category:Hybrids]]
+[[Category:Transformations]]
+[[Category:One-Time Aliens]]
+[[Category:Classic Aliens]]
+[[Category:One-Time Transformations]]
+[[Category:Classic Transformations]]
+[[Category:Technology]]
+[[Category:Alien Technology]]
+[[Category:Classic Technology]]

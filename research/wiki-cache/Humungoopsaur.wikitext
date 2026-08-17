@@ -1,0 +1,75 @@
+{{Future}}
+{{Infobox Alien
+|backcolor = 92CB26
+|textcolor = 308926
+|name = Humungoopsaur
+|image = Humungoopsaur official.png
+|species = ½ [[Polymorph (Classic)|Polymorph]]<br>½ [[Vaxasaurian (Classic)|Vaxasaurian]]
+|power = Shapeshifting<br>Enhanced Strength<br>Size Alteration
+|voice = [[John DiMaggio]]
+|1st-appearance = The End of an Era
+|body = Humanoid Cell Dinosaur
+|equipment = [[Anti-Gravity Projector (Classic)|Anti-Gravity Projector]]
+}}
+'''Humungoopsaur''' is the [[Combinations (Classic)|combination]] of [[Goop (Classic)|Goop]] and [[Humungousaur (Classic)|Humungousaur]]'s DNA. He can only be accessed by using the [[Biomnitrix]].
+
+==Appearance==
+Humungoopsaur has [[Humungousaur (Classic)|Humungousaur]]'s general body shape with [[Goop (Classic)|Goop]]'s fingers and spikes and is composed of Goop's slime.
+
+Humungoopsaur wears a white recolored version of Humungousaur's sash across his chest with the [[Biomnitrix]] symbol on it. Floating above him is a white version of Goop's [[Anti-Gravity Projector (Classic)|Anti-Gravity Projector]].
+
+==Powers and Abilities==
+<gallery type="slideshow">
+TEoaE (11).png|Shapeshifting
+TEoaE (35).png|Enhanced Strength
+</gallery>
+Being part-[[Polymorph (Classic)|Polymorph]], Humungoopsaur is capable of shapeshifting like [[Goop (Classic)|Goop]].<ref name="EoaE">''[[The End of an Era]]''</ref>
+
+Being part-[[Vaxasaurian (Classic)|Vaxasaurian]], Humungoopsaur has enhanced strength at a level similar to [[Humungousaur (Classic)|Humungousaur]]'s.<ref name="EoaE"/> He also has the power to increase or decrease his own body size and mass like Humungousaur.{{Refn|[[:File:Humungousaur Fusions Size Alteration.png]]|group = DJW}}
+
+==History==
+===[[Original Future Timeline|Original Future]]===
+*Humungoopsaur first appeared in ''[[The End of an Era]]'', where he and [[Kai Tennyson|Kai]] tried to recapture [[Dr. Animo (Original Future)|Dr. Animo]] who managed to get away and send himself back to [[Animo Crackers|the past]] by using the [[Chronoporter]].
+
+==Appearances==
+===Omniverse===
+====Season 8====
+*''[[The End of an Era]]'' <small>(first appearance)</small>
+
+==Naming and Translations==
+{{Translation
+|portuguesebr = Gosmossauro
+|portuguesebrd = From ''gosma'', goop, and ''-sauro'', dinosaur suffix
+|ha = Humungoopsaur
+|had = From the original English name
+|polish = Gigantoplazmozaur
+|polishd = From ''Gigantozaur'' and ''Plazma'', Polish names for Humungousaur and Goop|italian=Mutantesauro|italiand=From Mutante, Goop's Italian name, and Omosauro, Humungousaur's Italian name}}
+
+==Trivia==
+*Humungoopsaur's [[Anti-Gravity Projector (Classic)|Anti-Gravity Projector]] is shaped similarly to [[Goop (Classic)|Goop]]'s in '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]'''.
+**Coincidentally, the spikes on Humungoopsaur's head and shoulders are similar to Goop's design in those same shows.
+*Humungoopsaur's voice is the same as [[Humungousaur (Classic)|Humungousaur]]'s in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''.
+*Humungoopsaur was the last alien to debut in the Classic Continuity.
+*Humungoopsaur had concept art drawn by [[Thomas N. Perkins IV]].{{Refn|[[:File:Humungoopsaur Concept Art by Tom Perkins.png]]|group = TNP}}
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Thomas N. Perkins IV]]====
+{{Reflist|group = TNP}}
+{{Ben 10 Aliens}}
+[[es:Humungoopsaur]]
+[[pl:Gigantoplazmozaur]]
+[[pt-br:Gosmossauro]]
+[[Category:Aliens]]
+[[Category:Omniverse Transformations]]
+[[Category:Ben 10,000's Transformations]]
+[[Category:Hybrids]]
+[[Category:Transformations]]
+[[Category:Vaxasaurians]]
+[[Category:One-Time Aliens]]
+[[Category:Classic Aliens]]
+[[Category:One-Time Transformations]]
+[[Category:Classic Transformations]]

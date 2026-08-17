@@ -1,0 +1,112 @@
+{
+  "id": "blitzwolfer",
+  "name": "Blitzwolfer",
+  "wikiTitle": "Blitzwolfer",
+  "kind": "standard",
+  "species": "Loboan",
+  "homeworld": "Luna Lobo",
+  "bodyType": "Humanoid canine (werewolf)",
+  "debut": {
+    "episode": "Benwolf",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Sonic howl from a four-way splitting muzzle (green concussive blasts)",
+    "Sonic redirection of projectiles / sonic propulsion",
+    "Sharp fangs and claws",
+    "Enhanced strength, speed and agility",
+    "Enhanced jumping and wall scaling",
+    "Enhanced smell and hearing (tracking)",
+    "Night vision",
+    "Corrodium and lava immunity",
+    "Prehensile feet"
+  ],
+  "weaknesses": [
+    "Cannot howl if his muzzle is forced shut (bandages, muzzle covers)",
+    "Sensitive hearing - loud noises like giant bells overwhelm him",
+    "Can be controlled by Vladat Corrupturas",
+    "Can be scared by Toepick's species"
+  ],
+  "summary": "Ben's werewolf: a grey Loboan whose muzzle splits four ways to unleash shattering sonic howls, first gained when the Yenaldooshi's DNA half-transformed him.",
+  "traits": [
+    "Originally named Benwolf; renamed Blitzwolfer in Omniverse",
+    "Ben transformed gradually over the course of Benwolf",
+    "Sonic howls can hurt Petrosapiens",
+    "Anur System native"
+  ],
+  "notableFeats": [
+    "Pursued the Werewolf and saved Max and Wes from a lava flow (Benwolf)",
+    "Fought the Red Knight atop Big Ben and saved Kai (An American Benwolf in London)",
+    "Chased Nyancy Chan up a giant yarn ball (Catfight)",
+    "Defeated a Jungle Guardian and uncovered the Temple of the Sky (The Secret of Dos Santos)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Benwolf",
+      "notableEpisodes": [
+        "Benwolf"
+      ],
+      "designNotes": "Grey fur, three furry tendrils, bushy tail, three claws per hand/foot, green mouth interior, spiked elbows/shoulders, white jumpsuit with black stripes, original Omnitrix on the lower stomach. Ben transformed in three stages during the episode.",
+      "image": {
+        "file": "Benwolf Model.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "An American Benwolf in London",
+      "notableEpisodes": [
+        "An American Benwolf in London",
+        "Catfight",
+        "The Secret of Dos Santos"
+      ],
+      "designNotes": "More muscular; green suit, collar and wristbands, four claws, a long flowing mane instead of tendrils, green tongue, white belt, Omnitrix on the collar. (11-year-old design: white suit with black stripes - described but not used on-screen.)",
+      "image": {
+        "file": "20298.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox OV image; the wiki file '20298.png' redirects to 'Wolfy.png' (same render)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 6,
+    "speed": 6,
+    "mobility": 6,
+    "offense": 6,
+    "defense": 4,
+    "special": 5,
+    "versatility": 4,
+    "intellect": 3,
+    "energy": 3,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Fast, agile brawler with a genuinely dangerous ranged sonic howl and lava/Corrodium immunity, but limited defence and a howl that is silenced by anything clamping his muzzle."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Blitzwolfer"
+  ],
+  "notes": [
+    "Not used in Alien Force (locked) or Ultimate Alien (intro only; re-unlocked in Ben 10,000 Returns).",
+    "OV Season 6 heading in the extract corresponds to Catfight.",
+    "Only OS episode is Benwolf; DNA donor is the Yenaldooshi (Werewolf)."
+  ]
+}

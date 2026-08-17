@@ -1,0 +1,116 @@
+{
+  "id": "snare-oh",
+  "name": "Snare-Oh",
+  "wikiTitle": "Snare-Oh",
+  "kind": "standard",
+  "species": "Thep Khufan",
+  "homeworld": "Anur Khufos",
+  "bodyType": "Humanoid mummy",
+  "debut": {
+    "episode": "The Return",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Generates and controls ~30 ft of bandage tendrils (grapple, lift, restrain)",
+    "Bandages strong enough to hold Fourmungousaur and sharp enough to cut vines",
+    "Body reshaping / splitting apart to dodge",
+    "Unravels to fly and slip through tight spaces",
+    "Near-instant regeneration (survives being shredded)",
+    "Space and underwater survivability",
+    "Corrodium immunity; can shield Corrodium inside his body",
+    "Night vision; bioluminescent body",
+    "Enhanced strength and durability"
+  ],
+  "weaknesses": [
+    "Can be tangled in his own bandages",
+    "Vulnerable to intense heat",
+    "Can be controlled by Vladat Corrupturas",
+    "Can be scared by Toepick's species"
+  ],
+  "summary": "Ben's mummy: a pharaoh-crowned Thep Khufan whose body is living bandage that grapples, restrains, unravels and reforms.",
+  "traits": [
+    "Originally named Benmummy",
+    "DNA sampled from the Mummy in Under Wraps",
+    "Ben 10,000's version wears the Mummy's garment pattern",
+    "Anur System native"
+  ],
+  "notableFeats": [
+    "Fought the Werewolf on his first use (The Return)",
+    "Ben 10,000 used him to fetch Ken from a vent while fighting Kevin 11,000 (Ken 10)",
+    "Grappled onto an Incursean space fighter (The Frogs of War: Part 1)",
+    "Herded a Pyroxovore stampede back to its pens (Return to Forever)",
+    "Trapped Psyphon and the Squid Monsters (Bengeance is Mine)",
+    "Saved Rook and Kai from a fall and fought a Jungle Guardian (The Secret of Dos Santos)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os",
+        "ben-10k-os"
+      ],
+      "firstEpisode": "The Return",
+      "notableEpisodes": [
+        "The Return",
+        "Ken 10"
+      ],
+      "designNotes": "Green-glowing eyes and gaps between bandages, black-and-gold pharaoh headdress, black bracers and greaves, original Omnitrix on the left shoulder. Ben 10,000's version wears the Mummy's own garment pattern (no chin beard).",
+      "image": {
+        "file": "Benmummy Model.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "The Frogs of War: Part 1",
+      "notableEpisodes": [
+        "The Frogs of War: Part 1",
+        "Return to Forever",
+        "Bengeance is Mine",
+        "The Secret of Dos Santos"
+      ],
+      "designNotes": "Greyish-brown ragged layered bandages, shorter back tendrils, black headdress with green gaps and gold rim, gold crown spikes round the eyes, wrapped lower face with a gold beard-spine, striped shoulder collar with 'eye' pads, gold-trimmed bracers/greaves, Omnitrix on a green/white belt. 11- and 16-year-old share the design.",
+      "image": {
+        "file": "Ben-10-omniverse-ben-snare-oh.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 6,
+    "speed": 4,
+    "mobility": 7,
+    "offense": 5,
+    "defense": 6,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 8,
+    "survivability": 7,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Long-reach bandage grapples, splitting to dodge and reforming from confetti make him hard to put down, and he survives space and water. Modest raw offense; heat and self-tangling are exploitable."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Snare-Oh"
+  ],
+  "notes": [
+    "Not used in Alien Force (locked) or Ultimate Alien (intro only; re-unlocked in Ben 10,000 Returns).",
+    "Also used by Benzarro (And Then There Were None) - not counted."
+  ]
+}

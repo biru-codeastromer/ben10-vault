@@ -1,0 +1,34 @@
+{
+  "pinnedScores": {
+    "alien-x": 200
+  },
+  "excludeAliens": [
+    "eon"
+  ],
+  "benVersionOrder": [
+    "ben-10-os",
+    "ben-5",
+    "ben-11-ov",
+    "ben-10-ua",
+    "ben-10-ov",
+    "ben-15-af",
+    "ben-16-af",
+    "ben-16-ua",
+    "ben-16-ov",
+    "ben-10k-os",
+    "ben-10k-ua",
+    "ultimate-ben",
+    "ben-10k-ov",
+    "ben-23",
+    "mad-ben",
+    "bad-ben",
+    "nega-ben",
+    "benzarro",
+    "no-watch-ben",
+    "ben-rat",
+    "eon"
+  ],
+  "excludeBenVersions": [
+    "ben-gwen10"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "jury-rigg",
+  "name": "Jury Rigg",
+  "wikiTitle": "Juryrigg",
+  "kind": "standard",
+  "species": "Planchaküle",
+  "homeworld": "Aul-Turrhen",
+  "bodyType": "Gremlin",
+  "debut": {
+    "episode": "The Eggman Cometh",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Disassembles any machine (even Rex's builds, living Chronosapiens) in seconds",
+    "Builds complex machinery from scratch just as fast",
+    "Repairs and modifies technology (built the Tenn-Speed, reprogrammed the Highbreed Pulse Generator)",
+    "High intelligence",
+    "Enhanced strength for his size (broke bars Rath could not)",
+    "Enhanced durability and agility",
+    "Prehensile tail"
+  ],
+  "weaknesses": [
+    "Near-uncontrollable compulsion to break and rebuild machines",
+    "Head-sized body is useless in hand-to-hand combat against large foes"
+  ],
+  "summary": "A head-sized red gremlin who cannot stop taking machines apart - and can rebuild them into anything just as fast.",
+  "traits": [
+    "About the size of a human head",
+    "Catchphrases: 'Juryrigg disassemble!', 'FIX FIX FIX!'",
+    "Turned Will Harangue into an alien as payback",
+    "Wears an aviator outfit in Omniverse"
+  ],
+  "notableFeats": [
+    "Dismantled then rebuilt Dr. Animo's mutant ray to stop the pterodactyl (The Eggman Cometh)",
+    "Defeated the Mechaneers (Gone Fishin)",
+    "Rebuilt the Proto-TRUK and created the Tenn-Speed (Rules of Engagement)",
+    "Disabled the Highbreed Pulse Generator and reprogrammed it to mutate Will Harangue (Return to Forever)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "The Eggman Cometh",
+      "notableEpisodes": [
+        "The Eggman Cometh",
+        "The Ultimate Enemy: Part 1",
+        "The Ultimate Enemy: Part 2"
+      ],
+      "designNotes": "Small reddish-orange gremlin with four-fingered hands, three-toed feet, devil-like tail, pointed ears; Ultimatrix symbol on chest.",
+      "image": {
+        "file": "Jury Rigg.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "infobox UA cutout (small, 187x260) - visually verified; UA model sheet alternate: '539px-B10ua juryrigg.png'"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Have I Got a Deal for You",
+      "notableEpisodes": [
+        "Have I Got a Deal for You",
+        "Gone Fishin",
+        "Rules of Engagement",
+        "Return to Forever"
+      ],
+      "designNotes": "Smoother crimson skin, aviator outfit with ascot and goggles, black pupils, spiked ears, protruding teeth, bigger nose, chin and eye spikes; Omnitrix on waist.",
+      "image": {
+        "file": "Jury rigg ov official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 4,
+    "durability": 4,
+    "speed": 4,
+    "mobility": 5,
+    "offense": 3,
+    "defense": 3,
+    "special": 6,
+    "versatility": 5,
+    "intellect": 8,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 3,
+    "range": 2,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 2,
+    "rationale": "A tech saboteur, not a fighter: shreds or rebuilds any machine in seconds (special 6, intellect 8) and once neutralised a planet-scale Highbreed weapon. Tiny, easily swatted, and his compulsion to break things makes him hard for Ben to steer (controlPenalty 2)."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Juryrigg"
+  ],
+  "notes": [
+    "Wiki title 'Juryrigg'; project name 'Jury Rigg'.",
+    "UA wearer: Ultimatrix; OV: new Omnitrix."
+  ]
+}

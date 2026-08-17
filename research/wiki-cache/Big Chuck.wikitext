@@ -1,0 +1,72 @@
+{{Future}}
+{{Infobox Alien
+|name = Big Chuck
+|backcolor = 299528
+|textcolor = CECECC
+|image = Big chuck.png
+|species = ½ Perk [[Gourmand]]<br>½ [[To'kustar (Classic)|To'kustar]]
+|body = 
+|power = Solid Matter Ingestion<br>Explosive Vomit<br>Enhanced Strength<br>Enhanced Speed
+|voice = [[Eric Bauza]]
+|1st-appearance = Let's Do the Time War Again
+}}
+'''Big Chuck''' is the [[Combinations (Classic)|combination]] of Perk [[Upchuck]] and [[Way Big (Classic)|Way Big]]'s DNA. He can only be accessed by using the [[Biomnitrix]].
+
+==Appearance==
+Big Chuck has the basic body of Perk [[Upchuck]] with [[Way Big (Classic)|Way Big]]'s details. He has Perk Upchuck's shade of green on Way Big's fins on his head, elbows, and shoulders. The bulbs on his head have turned fin-like. He retains Perk Upchuck's markings on the side of his head. He has a white face with a grey top and green sides, back, and neck.
+
+The green part from his neck goes down to his chest. He has black stripes on his arms. His legs are disproportional, being very small thighs and very large calves. He has green fingers and toes. He has Way Big's chin eyes.
+
+The [[Biomnitrix]] symbol is located on his chest.
+
+==Powers and Abilities==
+<gallery type="slideshow">
+LDtTWA (642).png|Strong Prehensile Tongue
+LDtTWA (641).png|Explosive Vomit
+LDtTWA (673).png|Enhanced Strength
+</gallery>
+Being part-[[To'kustar (Classic)|To'kustar]], Big Chuck has a degree of enhanced strength and speed almost similar to [[Way Big (Classic)|Way Big]], as he was able to take out [[Eon's Minions (Omniverse)|Eon's Minions]] with ease.<ref name="LTtTWA">''[[Let's Do the Time War Again]]''</ref>
+
+Being part-Perk [[Gourmand]], Big Chuck can eat solid matter and release it back as explosive energy, just like Perk [[Upchuck]].<ref name="LTtTWA"/>
+
+==History==
+===Omniverse===
+*Big Chuck first appeared in ''[[Let's Do the Time War Again]]'', where he ate [[Eon]]'s sword and battled [[Eon's Minions (Omniverse)|his minions]].
+
+==Appearances==
+===Omniverse===
+====Season 8====
+*''[[Let's Do the Time War Again]]'' <small>(first appearance)</small>
+
+==Naming and Translations==
+{{Translation
+|portuguesebr = Glutãozão
+|portuguesebrd = From ''glutãozão'', big glutton
+|ha = Vomitoncio
+|had = From ''vomitón'', a baby that vomits a lot; pronounced /boli'tonsio/ instead /bomi'toncio/
+|russian = Большой Головастик
+|russiand = From ''большой'', big and ''головастик'', polliwog
+|polish = Big Chuck
+|polishd = From the original English name|italian=Gigavomito|italiand=From Gigante, Way Big's Italian name (means giant), and Vomito, Upchuck's Italian name (means vomit)}}
+
+==Trivia==
+*Big Chuck's voice is the same as [[Way Big (Classic)|Way Big]]'s in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''.
+
+==References==
+{{Reflist}}
+{{Ben 10 Aliens}}
+[[es:Vomitoncio]]
+[[pl:Big Chuck]]
+[[pt-br:Glutãozão]]
+[[ru:Супер-Большой Блевака]]
+[[Category:Aliens]]
+[[Category:Ben 10,000's Transformations]]
+[[Category:Omniverse Transformations]]
+[[Category:Hybrids]]
+[[Category:Transformations]]
+[[Category:One-Time Aliens]]
+[[Category:Classic Aliens]]
+[[Category:To'kustars]]
+[[Category:Gourmands]]
+[[Category:One-Time Transformations]]
+[[Category:Classic Transformations]]

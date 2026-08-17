@@ -1,0 +1,268 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = #dfb232
+|textcolor = #060606
+|image = 
+<gallery>
+Shocksquatch omniverse official.png|OV
+HU (996c).png|HU
+</gallery>
+|species = [[Gimlinopithecus]]
+|home-planet = [[Pattersonea]]
+|body = Yeti <small>([[Ben 10-Generator Rex: Heroes United|Heroes United]])</small><br>Sasquatch <small>([[Ben 10: Omniverse (TV Series)|Omniverse]])</small>
+|power = {{Scroll|Bio-Electrokinesis<br>Electricity Waves<br>Electricity Infusion<br>Electrical Telekinesis<br>Force Field Generation<br>Enhanced Strength<br>Enhanced Durability<br>Enhanced Jumping<br>Enhanced Speed<br>Enhanced Reflexes<br>Cold Immunity<br>Limited Radiation Immunity<br>Electricity Breath<br>Quadrupedalism}}
+|voice = [[David Kaye]]
+|1st-appearance = Ben 10-Generator Rex: Heroes United{{!}}Ben 10/Generator Rex: Heroes United
+|Alternate Counterparts = [[Electricyeti]]
+|fusion = [[Crashocker]]
+}}
+{{Quote|"Sorry about that. We thought you were Bigfoot!"<br>"Yeah, I get that a lot. Well, Shocksquatch does."|[[Zak Saturday|Zak]] and [[Ben Tennyson (Classic)|Ben]].<ref name="TGIS">''[[T.G.I.S.]]''</ref>}}
+'''Shocksquatch''' is the [[Omnitrix]]'s DNA sample of a [[Gimlinopithecus]] from the planet [[Pattersonea]].{{Refn|[[:File:Scan 10.png]]|group = OV Brief|name = link}}
+
+==Appearance==
+In ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]'', Shocksquatch was portrayed as a thick, muscular yeti-like alien. His body was covered in white, gray, and blue fur, and he had a reddish-pink face adorned with pointed eyebrows. The alien's green eyes had black pupils, and he had metallic gray circular bolts on the back of his hands and lower jaw. Moreover, he wore the [[Ultimatrix (Original)|Ultimatrix]] symbol on his chest.
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Shocksquatch's appearance changed. He now appears slimmer and had yellow and black fur. His fingers and toes were gray, and he has four fingers instead of five. Also, he has two bolts on the side of his wrists instead of the back of his hands. Additionally, Shocksquatch has green eyes with black pupils and yellow lightning bolt-shaped horns. He wears a green and white belt, which has the [[Omnitrix (Omniverse)|Omnitrix]] symbol on it.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Shocksquatch Skurd Bloxx canon.png|Shocksquatch with [[Bloxx (Classic)|Bloxx]]'s Bloxx-lobber
+</gallery>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+TUH (508).png|Bio-Electrokinesis
+TFC (166).png|Electrical Telekinesis
+TGIS (501).png|Force Field Generation
+The More Things Change, Part 2 (489).png|Enhanced Strength
+MDGS (677).png|Enhanced Durability
+MDGS (664).png|Enhanced Jumping
+HIGaDfY (34).png|Enhanced Speed/Quadrupedalism
+The More Things Change, Part 2 (528).png|Enhanced Reflexes
+The More Things Change, Part 2 (538).png|Electricity Breath
+</gallery>
+Shocksquatch has the power of electrokinesis, which gives him the ability to manipulate the strong charges of yellow, high-voltage electricity he releases from the bolts on his body, or from his mouth.<ref>''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]''</ref><ref name="TMTCP2">''[[The More Things Change: Part 2]]''</ref> It creates electricity via kinetic energy.{{Refn|[[:File:How Shocksquatch Makes Electricity.png]]|group = DR}} These charges can be used to create localized electric fields,{{Refn|group = OV Brief|name = link}} or can be projected as beams at targets a considerable distance away. These beams can even travel across the ground, as demonstrated by [[Crashocker]].<ref>''[[Let's Do the Time War Again]]''</ref>
+
+Shocksquatch can charge up his body with static electricity, by generating which from his bolts, or by rubbing his hands together, as demostrated by [[Electricyeti]].<ref name="ATTWB">''[[And Then There Was Ben]]''</ref> Once his body is sufficiently charged, his fur will stand on end, and he can unleash a powerful electric shock to the next thing he touches.<ref name="TMTCP2" /><ref>''[[Many Happy Returns]]''</ref> Shocksquatch can also use this power supportively to beings that are electrically resistant, such as a rolled-up [[Arburian Pelarota (Classic)|Arburian Pelarota]], by transferring his charge to their body.<ref name="ATTWB">''[[And Then There Was Ben]]''</ref>
+
+By covering objects with his electricity, Shocksquatch can telekinetically move them.<ref name="TFC">''[[The Final Countdown]]''</ref> Shocksquatch can also generate an electric force field that can shoot beams of electricity in multiple directions.<ref name="TGIS" />
+
+Shocksquatch is quite strong, as shown when he punched [[Buglizard (Transformation)|Buglizard]] until the ground fell apart, causing them to fall through into the subway.<ref name="TMTCP2" />
+
+Shocksquatch has a degree of enhanced durability, being able to withstand being flicked off a [[Way Bad]].<ref>''[[The Most Dangerous Game Show]]''</ref> He is also immune to freezing climates thanks to his thick fur.{{Refn|group = OV Brief|name = link}}
+
+Shocksquatch is more agile than he looks, as he jumped over Buglizard easily.<ref name="TMTCP2">''[[The More Things Change: Part 2]]''</ref>
+
+Shocksquatch is fast enough on foot to keep up with a speeding car,<ref name="S23">''[[Store 23]]''</ref> and can also run on all fours in a similar fashion to a bull or rhinoceros to increase his speed.<ref>''[[Have I Got a Deal for You]]''</ref>
+
+Shocksquatch can temporarily shield himself against cosmic radiation by generating electric fields around his body.{{Refn|group = OV Brief|name = link}}
+
+==Weaknesses==
+<gallery type="slideshow">
+BiS (518).png|Ineffective Electrokinesis
+TTaC (254).png|External Electricity Vulnerability
+MaxMonster173.2.png|Electricity Absorption Vulnerability
+</gallery>
+Shocksquatch's electrokinesis is useless against electricity-impermeable materials, as demonstrated by [[Fistrick]]. He was able to defend himself against the former's attack with his electrically-insulated boots.<ref name="BiS">''[[Bros in Space]]''</ref>
+
+Shocksquatch is helpless while insulated, as he is completely unable to generate electricity, demonstrated by [[Bubble Helmet's Gimlinopithecus Mutation]] when he was insulated by thick foam.<ref name="Outbreak">''[[Outbreak]]''</ref>
+
+Shocksquatch can be harmed by external electricity.<ref name="TTaC">''[[Third Time's a Charm]]''</ref>
+
+Shocksquatch is weak against enemies who can drain electricity, such as [[Phil Billings (Classic)|Phil]].<ref>''[[Max's Monster]]''</ref>
+
+Even though he can resist cosmic radiation, it can still be lethal to Shocksquatch after a certain period of time.{{Refn|group = OV Brief|name = link}}
+
+==History==
+===Ultimate Alien===
+*In ''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]'', Shocksquatch was accidentally unlocked by [[Rex Salazar (Generator Rex)|Rex Salazar]] after trying to cure Ben and later used by Ben against [[Alpha]] as [[Alpha-Arms]] before he reverted.{{Refn|[[:File:How Shocksquatch Was Unlocked.png]]|group = DR}}
+
+===Omniverse===
+*In ''[[The More Things Change: Part 2]]'', Shocksquatch defeated [[Buglizard (Transformation)|Buglizard]].
+*In ''[[Have I Got a Deal for You]]'', Shocksquatch defeated [[Sunder]].
+*In ''[[Many Happy Returns]]'', Shocksquatch was defeated by [[Looma Red Wind|Princess Looma]].
+*In ''[[Bros in Space]]'', Shocksquatch was defeated and captured by [[Fistrick]] and his [[Muroid]] army.
+*In ''[[T.G.I.S.]]'', Shocksquatch shocked a [[Chupacabra]] but was mistaken for a cryptid by [[Secret Saturdays|the Saturdays]] and tackled by [[Fiskerton Saturday|Fiskerton]]. Later, Shocksquatch battled [[V.V. Argost|Argost]] and [[Dr. Animo (Classic)|Dr. Animo]]'s army of [[Frankencryptid]]s.
+*In ''[[Store 23]]'', Shocksquatch stopped the [[Orange Offenders]] from stealing money.
+*In ''[[The Ultimate Heist]]'', Shocksquatch defeated [[Albedo|Negative]] [[Ultimate Echo Echo]], but was defeated by Negative [[Ultimate Spidermonkey]].
+*In ''[[Max's Monster]]'', Shocksquatch chased after Phil.
+*In ''[[A Fistful of Brains]]'', Shocksquatch was defeated by Negative Ultimate Spidermonkey again.
+*In ''[[Fight at the Museum]]'', Shocksquatch was defeated by [[Exo-Skull|Exo-Skull]].
+*In ''[[Third Time's a Charm]]'', Shocksquatch battled Charmcaster but was teleported out of the library.
+*In ''[[The Final Countdown]]'', Shocksquatch fought [[Yetta]] and defeated her off-screen.
+*In ''[[The Most Dangerous Game Show]]'', Shocksquatch was defeated by a [[Way Bad]].
+*In ''[[A New Dawn]]'', Shocksquatch appeared for a short time when [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+==Appearances==
+{{Scroll box|
+===Generator Rex===
+====Season 3====
+*''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]'' <small>(first appearance; accidental transformation)</small>
+
+===Omniverse===
+====Season 1====
+*''[[The More Things Change: Part 2]]'' <small>(first reappearance)</small>
+*''[[Have I Got a Deal for You]]'' <small>(off-screen activation)</small>
+
+====Season 2====
+*''[[Many Happy Returns]]''
+*''[[Bros in Space]]''
+
+====Season 3====
+*''[[T.G.I.S.]]'' <small>(x2; first time was an off-screen activation)</small>
+*''[[Store 23]]''
+
+====Season 4====
+*''[[The Ultimate Heist]]''
+*''[[Max's Monster]]'' <small>(accidental transformation)</small>
+*''[[A Fistful of Brains]]''
+
+====Season 7====
+*''[[Fight at the Museum]]''
+
+====Season 8====
+*''[[Third Time's a Charm]]'' <small>(selected alien was [[Way Big (Classic)|Way Big]])</small>
+*''[[The Final Countdown]]'' <small>(intended alien was [[Feedback]])</small>
+*''[[The Most Dangerous Game Show]]''
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+===Video Games===
+====Omniverse====
+*''[[Ben 10: Omniverse (Video Game)|Ben 10: Omniverse]]'' <small>(by 16-year-old Ben on consoles; by 16-year-old and 11-year-old Ben on 3DS)</small>
+*''[[Ben 10: Omniverse 2]]'' <small>(3DS)</small>
+
+===Online Games===
+====Ultimate Alien====
+*''[[Heroes United]]''
+*''[[TKO]]''
+
+====Omniverse====
+*''[[Alien Unlock]]''
+*''[[Battle for Power]]''
+*''[[Ben 10: Slammers]]''
+*''[[Danger from Dimension 12]]''
+*''[[The Return of Psyphon]]''
+*''[[Undertown Chase]]''
+*''[[Zombozo's Big Score]]''
+
+===Mobile Games===
+====Omniverse====
+*''[[Cavern Run (Mobile Game)|Cavern Run]]''
+*''[[Wrath of Psychobos]]''
+
+===Comics===
+====Omniverse====
+*''[[Ghost Ship]]''
+
+====Ben 10====
+*''[[Ben 10 (Deep Trouble) Issue 4|Issue 4]]''
+
+===Commercials===
+====Omniverse====
+*''[[Harlem Shake]]''
+}}
+
+==Games==
+===Video Games===
+[[File:Shocksquatch OV Game.png|thumb|Shocksquatch in ''Omniverse'']]
+====[[Ben 10: Omniverse (Video Game)|Ben 10: Omniverse]]====
+Shocksquatch is a playable alien character in the game (by 16-year-old Ben only). He is playable by 11-year old Ben but only on DS and 3DS.
+
+====[[Ben 10: Omniverse 2]]====
+Shocksquatch is a playable alien character in the game (only on 3DS).
+
+===Online Games===
+<gallery type="slideshow">
+Propdet tko char shocksquatch.png|thumb|Shocksquatch in ''TKO''
+Wrath of Psychobos Shocksquatch Model Sheet.png|Shocksquatch in ''Wrath of Psychobos''
+</gallery>
+====[[Undertown Chase]]====
+Shocksquatch is a playable alien character in the game.
+
+====[[Wrath of Psychobos]]====
+Shocksquatch is a playable alien in the game.
+
+==Naming and Translations==
+{{Translation
+|greek = Ηλεκτροπόδαρος
+|greekd = From ''ηλεκτρικός'', electric, and ''μεγαλοπόδαρος'', sasquatch
+|portuguesebr = Shocksquatch
+|portuguesebrd = From the original English name
+|romanian = Șocsquatch
+|romaniand = From the original English name<br>From ''Şoc-bloc'', shock block
+|polish = Shocksquatch
+|polishd = From the original English name
+|french = Shocksquatch
+|frenchd = From the original English name
+|ha = Shocksquatch
+|had = From the original English name
+|hungarian = SokkSquatch
+|hungariand = From the original English name
+|german = Schockstrahler
+|germand = From ''schock'', shock, and ''strahler'', radiator/spotlight
+|norwegian = Sjokkfot
+|norwegiand = From ''sjokk'', shock, and ''fot'', foot
+|korean = 사스콰치
+|koreand = From ''사스콰치'', Sasquatch
+|turkish = Şokkocaayak<br>Shocksquatch
+|turkishd = From ''Şok'', shock, and ''kocaayak'', big foot<br>From the original English name
+|chinese = 闪电雪怪
+|chinesed = From ''闪电'' <small>(Shǎn Diàn)</small>, lightning, and ''雪怪'' <small>(Xuě Guài)</small>, Sasquatch
+|bulgarian = Шокскуоч
+|bulgariand = From the original English name
+|russian = Шок-Сквотч
+|russiand = From the original English name
+|italian = Shock Squatch
+|italiand = From the original English name}}
+
+==Etymology==
+Shocksquatch is a play of words containing "shock" (for his electrical powers) and [[Wikipedia:Bigfoot|sasquatch]] (another name for Bigfoot, which Shocksquatch bears resemblance to).
+
+==Trivia==
+*Shocksquatch speaks with a [[Wikipedia:Canada|Canadian]] accent because sasquatches (famously known as [[Wikipedia:Bigfoot|Bigfoot]]) are believed to be from [[Wikipedia:North America|North America]] in folklore.
+**In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', electrical and/or monkey sounds are heard whenever Shocksquatch speaks. He also has a habit of ending his sentences with "eh?".
+**The Canadian accent is a reference to [[David Kaye]]'s uncle.{{Refn|https://preservetube.com/watch?v&#61;v8jTLJxmMBk|group = DK}}{{Refn|https://www.youtube.com/live/unaX1hKhOy4|group = DK}}
+*As of '''Omniverse''', Shocksquatch is the only alien that generates yellow electricity.
+**[[Electricyeti]] originally generated yellow electricity<ref name="S23"/> before it was changed to blue.<ref name="ATTWB" />
+**In ''[[TKO]]'', he generates purple electricity.
+*Shocksquatch is one of four regular aliens to have a complete redesign in '''Omniverse'''; the others being [[Eatle]], [[Swampfire]], and [[Chromastone (Classic)|Chromastone]].
+*Shocksquatch is one of four aliens to debut in a special or movie; the others being [[Way Big (Classic)|Way Big]], [[Eon (Transformation)|Eon]], and [[Nanomech]].
+*Shocksquatch was created by [[Man of Action]].{{Refn|[[:File:Shocksquatch Made by MoA.png]]|group = DR}}{{Refn|[[:File:Shocksquatch and Shock Rock Were Created By MoA.png]]|group = DR}}{{Refn|group=DR|[[:File:MoA came up with Shocksquatch.png]]|name=creation}}<!--TNP did not design Shocksquatch. See [[:File:Tom Perkins did not draw Shocksquatch.png]]-->
+**[[Bandai]] wanted an exclusive character to appear in the ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]'' crossover.{{Refn|[[:File:Bandai wanted Shocksquatch in OV.png]]|group = DR}}{{Refn|https://youtu.be/nmVFTDf_y2w|group = DR}} 
+*Shocksquatch's name changed three times during the production of ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]''.{{Refn|https://preservetube.com/watch?v&#61;nhnSZDFsapY|group = STS|name = video}}
+**One of these names was Shock Monkey.{{Refn|group = STS|name = video}}
+**Electricyeti was another early name that [[Cartoon Network]] executive Brian Jones came up with.{{Refn|[[:File:Electricyeti Early Name for Shocksquatch.png]]|group = DJW}} This later became the name of [[Ben 23]]'s equivalent of Shocksquatch.
+*Shocksquatch's '''Omniverse''' design was created by [[Derrick J. Wyatt]].{{Refn|[[:File:Some of the Aliens Designed by Derrick in OV.png]]|group = DJW}}
+*Shocksquatch was considered to appear in the [[Ben 10 (2016 TV Series)|Reboot]] but did not make the cut as an electric alien for [[Ben Tennyson (Reboot)|Ben]] because [[Shock Rock]] was created for plot purposes.{{Refn|[[:File:Shock Rock's Purpose.png]]|group = DR}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====Omniverse Series Master Brief====
+{{Reflist|group=OV Brief}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[David Kaye]]====
+{{Reflist|group = DK}}
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+====[[Steven T. Seagle]]====
+{{Reflist|group = STS}}
+
+{{Ben 10 Aliens}}
+[[bg:Шокскуоч]]
+[[de:Shocksquatch]]
+[[es:Shocksquatch]]
+[[fr:Shocksquatch]]
+[[it:Shock Squatch]]
+[[pl:Shocksquatch]]
+[[pt-br:Shocksquatch]]
+[[ro:Şoc-bloc]]
+[[ru:Шок-сквотч]]
+[[tr:Shocksquatch]]
+[[Category:Aliens]]
+[[Category:Transformations]]
+[[Category:Ultimate Alien Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]
+[[Category:Ben 10,000's Transformations]]

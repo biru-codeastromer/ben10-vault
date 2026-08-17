@@ -1,0 +1,96 @@
+{
+  "id": "bullfrag",
+  "name": "Bullfrag",
+  "wikiTitle": "Bullfrag",
+  "kind": "standard",
+  "species": "Incursean",
+  "homeworld": "Incursia",
+  "bodyType": "Muscular humanoid frog",
+  "debut": {
+    "episode": "The Frogs of War: Part 2",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Long, sticky, prehensile tongue - grappling line, ranged strike, strong enough to smash crates and slow a falling skyscraper sign to a near standstill",
+    "Skilled melee combatant (took down Empress Attea and a squadron of Incurseans; held off a mob of Squid Monsters)",
+    "Enhanced strength (carried Bill Gacks while leaping) - far stronger than an average Incursean",
+    "Enhanced durability (endured a Tetramand kick)",
+    "Powerful jumping and agility",
+    "Chest inflation to repel enemies and add jump momentum",
+    "Enhanced sense of smell",
+    "Limited space survivability; respirators let him stay underwater four to seven hours"
+  ],
+  "weaknesses": [
+    "Very delicate nose - overwhelmed by strong smells such as a Methanosian's stench",
+    "Tongue hurts if stretched too far (Vreedlemania)",
+    "Needs an oxygen supply; in space he can only hold his breath"
+  ],
+  "summary": "A tall, buff Incursean in sunglasses and a black-and-green bodysuit - a Stallone-voiced brawler with a whip-like tongue, unlocked by Azmuth to infiltrate the frog invasion.",
+  "traits": [
+    "Speaks with a Brooklyn accent; voice and mannerisms based on Sylvester Stallone",
+    "Sunglasses began as part of his disguise and were kept because the crew liked them",
+    "Empress Attea has a crush on him (and he finds her cute but not her personality)",
+    "One of only two aliens unlocked by typing a code into an Omnitrix (with Perk Upchuck)",
+    "Considered Ben's most handsome alien (Derrick J. Wyatt)"
+  ],
+  "notableFeats": [
+    "Infiltrated the Incursean war fleet in disguise and beat Empress Attea and her soldiers (The Frogs of War: Part 2)",
+    "Fought off Squid Monsters and saved Bill Gacks (Bengeance is Mine)",
+    "Caught the falling Billions Tower sign with his tongue to protect civilians (Vreedlemania)",
+    "Saved enslaved Benwood citizens from a falling drill machine with Mr. Monkey (It's a Mad, Mad, Mad Ben World: Part 1)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "The Frogs of War: Part 2",
+      "notableEpisodes": [
+        "The Frogs of War: Part 2",
+        "Bengeance is Mine",
+        "Catfight",
+        "Vreedlemania"
+      ],
+      "designNotes": "Taller, more muscular, paler and squarer-jawed than a normal Incursean; three-fingered hands, two-toed feet. Debut: black-and-purple Incursean uniform, helmet and purple sunglasses as a disguise. From Bengeance is Mine: green sunglasses, black bodysuit with a green centre stripe, fingerless gloves, toeless boots with green cuffs, green belt with white buckle; Omnitrix symbol on upper chest.",
+      "image": {
+        "file": "Bullfrag OV 4.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render of the standard (post-disguise) look, transparent but only 230x422; 'Bullfragov.png' (282x500) is the same art on a teal background. Action pose alt: 'Bullfrag Omniver new pose.png' (701x703). Disguise variants: 'Bullfrag uniform.png', 'Bullfrag helmet.png'."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 6,
+    "speed": 5,
+    "mobility": 6,
+    "offense": 6,
+    "defense": 4,
+    "special": 4,
+    "versatility": 4,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 1,
+    "survivability": 5,
+    "range": 3,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "A solid mid-tier brawler: beat Attea and a squad, shrugged off a Tetramand kick, and his tongue doubles as grapple and whip strong enough to arrest a falling skyscraper sign. Big jumps give decent mobility. No ranged or energy powers, a hypersensitive nose, and he needs air."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Bullfrag"
+  ],
+  "notes": [
+    "Home planet Incursia is destroyed (wiki: 'Incursia (destroyed)').",
+    "Unlocked by Azmuth via a code entered off-screen (The Frogs of War: Part 2 first use is an off-screen activation). One of three aliens unlocked by Azmuth (with Way Big and Atomix).",
+    "Catfight: Ben was forcibly transformed into Bullfrag four times by Empress Attea's Omnitrix Remote Control (third and fourth were cameos).",
+    "Ben 10: Omniverse 2 gives a different unlock story (Ben scans a large Incursean) - game only, not canon."
+  ]
+}

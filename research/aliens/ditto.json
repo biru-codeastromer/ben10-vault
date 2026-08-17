@@ -1,0 +1,118 @@
+{
+  "id": "ditto",
+  "name": "Ditto",
+  "wikiTitle": "Ditto",
+  "kind": "standard",
+  "species": "Splixson",
+  "homeworld": "Hathor",
+  "bodyType": "Small humanoid (child-sized)",
+  "debut": {
+    "episode": "Divided We Stand",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Limitless self-duplication by binary fission",
+    "Clones act independently and re-merge at will",
+    "Sensory web linking the clones",
+    "Conjoined cloning (clone ladders)",
+    "Clone dissipation and remote retrieval",
+    "Enhanced durability",
+    "Enhanced jumping and agility",
+    "Burrowing",
+    "Underwater breathing"
+  ],
+  "weaknesses": [
+    "Cannot revert until all clones are close together (drains the Omnitrix)",
+    "Clones can be forced back together",
+    "In OS all clones shared pain and death",
+    "Panuncian (natural predator) also duplicates",
+    "Vulnerable to electricity and extreme cold",
+    "Physically weak"
+  ],
+  "summary": "A small black-and-white Splixson who splits into an endless crowd of himself - great for numbers, terrible in a straight fight.",
+  "traits": [
+    "Sensory nodes on arms and waist store the cloning DNA",
+    "OS clones shared pain; OV clones do not (retcon)",
+    "Omnitrix on the forehead",
+    "About the height of a human child"
+  ],
+  "notableFeats": [
+    "Beat Dr. Animo's Lepidopterran/Splixson hybrid army (Divided We Stand)",
+    "Saved Mrs. Fang and defeated Mr. Beck (Ready to Rumble)",
+    "Fought Eon as 16-year-old Ben in his 11-year-old body (Ben Again)",
+    "Fought the Pretty Boy clones and chased Ma Vreedle (O Mother, Where Art Thou?)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os"
+      ],
+      "firstEpisode": "Divided We Stand",
+      "notableEpisodes": [
+        "Divided We Stand",
+        "Ready to Rumble"
+      ],
+      "designNotes": "White skin, black-and-white head, black shoulders, three head fins, black overall-like clothes, green eyes with light-green shine, original Omnitrix on the forehead.",
+      "image": {
+        "file": "Ditto Model.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-11-ov",
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Ben Again",
+      "notableEpisodes": [
+        "Ben Again",
+        "O Mother, Where Art Thou?",
+        "A Fistful of Brains",
+        "Animo Crackers",
+        "Universe vs. Tennyson"
+      ],
+      "designNotes": "Smaller and stubbier; white fins with side fins joined to the eyes, cheek whiskers, sharper fingers, nodes moved to shoulders/wrists, cat-like toes. 16-year-old wears a green jumpsuit with black patches and a black node belt; 11-year-old keeps a black suit. Omnitrix on forehead.",
+      "image": {
+        "file": "Ditto 16 year old.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 3,
+    "durability": 5,
+    "speed": 3,
+    "mobility": 4,
+    "offense": 3,
+    "defense": 4,
+    "special": 6,
+    "versatility": 5,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 3,
+    "survivability": 4,
+    "range": 3,
+    "cosmic": 0,
+    "weaknessPenalty": 3,
+    "controlPenalty": 1,
+    "rationale": "Unlimited clones cover ground and swarm weaker foes, but each Ditto is small and weak, the group can't revert until regathered, and in OS every clone shared damage."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ditto"
+  ],
+  "notes": [
+    "Not used in Alien Force (locked) or Ultimate Alien (intro only; re-unlocked in Ben 10,000 Returns).",
+    "OV 'Ben Again': 16-year-old Ben's mind in 11-year-old Ben's body used the 11-year-old design (counted as ben-11-ov).",
+    "Also used by Ken (Ken 10) - not counted."
+  ]
+}

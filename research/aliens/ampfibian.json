@@ -1,0 +1,119 @@
+{
+  "id": "ampfibian",
+  "name": "AmpFibian",
+  "wikiTitle": "Ampfibian (Classic)",
+  "kind": "standard",
+  "species": "Amperi",
+  "homeworld": "Tesslos",
+  "bodyType": "Humanoid Jellyfish",
+  "debut": {
+    "episode": "Fused",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Bio-electrokinesis - stunning to lethal electric blasts and waves",
+    "Electricity absorption and redirection (lightning, energy nets)",
+    "Electrical telekinesis and force fields",
+    "Intangibility - shocks whatever he phases through",
+    "Becomes pure energy to travel through cables and control technology",
+    "Flight; fast swimming and underwater breathing (safe discharge underwater)",
+    "Elastic, extending tentacles; boneless squeezing through gaps",
+    "Electrical mind-reading (Ra'ad)"
+  ],
+  "weaknesses": [
+    "Electricity drainers (Phil) and super-dense rubber (Solid Plugg) nullify him",
+    "Can shock himself entering water",
+    "Harmed by neuroshock blasts",
+    "Intangibility cancelled by other intangible beings",
+    "Cannot survive in space"
+  ],
+  "summary": "A blue jellyfish alien crackling with lightning who phases through walls, rides power lines as pure energy, and swims like a torpedo.",
+  "traits": [
+    "DNA sampled from Ra'ad; Ben was stuck as him in Fused",
+    "Blue eyes in Fused, green afterwards",
+    "Six tentacles serve as arms and legs",
+    "Omnitrix on his mouth in Omniverse"
+  ],
+  "notableFeats": [
+    "Debuted fused with Ra'ad and stayed stuck until Kevin reset the Ultimatrix (Fused)",
+    "Swam the team to Piscciss's core (Deep)",
+    "Telepathy used to swap King Xarion's mind (Viktor: The Spoils)",
+    "Defeated Ultimate Kevin in a dream (Night of the Living Nightmare)",
+    "Shocked Solid Plugg's crew and saved the Screegit (Have I Got a Deal for You)",
+    "Defeated Seebik and the Kraaho (Special Delivery)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Fused",
+      "notableEpisodes": [
+        "Fused",
+        "Deep",
+        "Viktor: The Spoils",
+        "Night of the Living Nightmare"
+      ],
+      "designNotes": "Blue jellyfish body with white lightning-streak swipes, three skirt-like segments (head/chest/abdomen), six curved tentacles, pupil-less eyes; Ultimatrix symbol on chest.",
+      "image": {
+        "file": "Ns457Wv.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "infobox UA render"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Have I Got a Deal for You",
+      "notableEpisodes": [
+        "Have I Got a Deal for You",
+        "Special Delivery",
+        "Rad",
+        "Max's Monster",
+        "The Rooters of All Evil"
+      ],
+      "designNotes": "Altered lightning swipes, pointed rather than curved tentacles, larger green eyes with heavier black outlines; Omnitrix symbol worn on his mouth.",
+      "image": {
+        "file": "OV AmpFibian.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 4,
+    "durability": 5,
+    "speed": 6,
+    "mobility": 8,
+    "offense": 6,
+    "defense": 6,
+    "special": 7,
+    "versatility": 7,
+    "intellect": 4,
+    "energy": 7,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Electric utility alien: absorbs and redirects lightning (energy 7), phases through walls, rides power lines and swims fast (mobility 8), and even reads minds. Light body, no space survival, and rubber or energy-drainers leave him helpless."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ampfibian_(Classic)"
+  ],
+  "notes": [
+    "Wiki title 'Ampfibian (Classic)'; project name 'AmpFibian'.",
+    "Also used by Kevin (Inspector 13).",
+    "UA wearer: Ultimatrix; OV: new Omnitrix."
+  ]
+}

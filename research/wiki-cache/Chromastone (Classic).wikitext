@@ -1,0 +1,445 @@
+{{Original|rb=Chromastone (Reboot)}}
+{{Disambig|main=Chromastone}}
+{{Infobox Alien
+|name = Chromastone
+|backcolor = 2D2844
+|textcolor = C41780
+|image = 
+<gallery>
+Chromastone OV.png|OV2
+Chromastone OV1.png|OV1
+Chromastone UAF.png|UAF
+</gallery>
+|species = [[Crystalsapien (Classic)|Crystalsapien]]
+|home-planet = [[Petropia (Classic)|Petropia]]<br>[[MorOtesi]] <small>(retconned)</small>{{Refn|Initially, it was stated that [[Crystalsapien (Classic)|Crystalsapiens]] come from [[MorOtesi]].{{Refn|[[:File:Chromastone Bandai Card.png]]|group = Bandai|name = card}} This is retconned in ''[[The Secret of Chromastone]]'' in two ways:{{Refn|[[Contradictory Retcons (Classic)|Contradictory Retcons]]|group = BTP|name = retcons}}
+*Firstly, [[Sugilite]] is revealed to be the only Crystalsapien in existence (aside from Chromastone).{{Refn|[[:File:Sugilite is the Only Member of His Species.PNG]]|group = DM|name = sugilite}}
+*Secondly, Sugilite is stated to come from [[Petropia (Classic)|Petropia]] whereas MorOtesi itself is revealed to be merely a legend.{{Refn|''link unavailable''|group = DM|name = link unavailable}}|group = note}}
+|dna source = [[Sugilite]]<ref name="TSoC">''[[The Secret of Chromastone]]''</ref>{{Refn|group = DM|name = sugilite}}
+|nicknames = Rocky <small>([[Kevin Levin (Classic)|Kevin Levin]])</small><ref name="VoVP2">''[[Vengeance of Vilgax: Part 2]]''</ref>
+|power = {{Scroll|Dynakinesis<br>Energy Beams<br>Optic Laser<br>Energy Absorption<br>[[Manna]] Absorption<br>Energy Conversion <small>(via Energy Absorption)</small><br>Energy Redirection<br>Energy Negation<br>Electricity Conductivity<br>Flight<br>Levitation<br>Crystal Entrapment <small>(via Energy Beams)</small><br>Enhanced Strength<br>Enhanced Durability<br>Enhanced Jumping<br>Enhanced Speed<br>Enhanced Agility<br>Space Survivability<br>Radiation Immunity<br>[[Xenocite]] Possession Immunity<br>Electricity Resistance<br>Heat Resistance<br>Light Generation<br>Heat Amplification<br>Rainbow Generation}}
+|non-canon counterparts = [[Chromastone (MAD)|Chromastone]] <small>(''[[Ben 10 Franklin]]'')</small>
+|spellings = ChromaStone{{Refn|[https://static.wikia.nocookie.net/ben10/images/8/8e/The_Gauntlet_Script_As_Broadcast.pdf ''The Gauntlet'' Script As Broadcast]|group = script|name = TG Script}}{{Refn|group = credits|Some end credits of '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', as well as the story books.}}
+|voice = [[Dee Bradley Baker]] <small>([[Ben 10: Alien Force (TV Series)|Alien Force]] and [[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]])</small><br>[[Eric Bauza]] <small>([[Ben 10: Omniverse (TV Series)|Omniverse]])</small>
+|1st-appearance = All That Glitters
+}}
+{{quote|That's not going to work. I'm a conductor!|Chromastone to a zombified [[Lucy]].<ref name="ATG">''[[All That Glitters]]''</ref>}}
+'''Chromastone''' is the [[Omnitrix]]'s DNA sample of a [[Crystalsapien (Classic)|Crystalsapien]]{{Refn|group = Bandai|name = card}} from the planet [[Petropia (Classic)|Petropia]].<ref name = Tetrax>[[Tetrax Shard (Classic)|Tetrax Shard]]</ref><ref name="TSoC"/>
+
+==Appearance==
+Chromastone is a humanoid silicon-based<ref name="IM">''[[Inside Man]]''</ref> alien made of extremely durable crystal. His body is overall indigo, with several dark lines and spots. His hands and face are magenta, and he also sports six magenta shards on his back, two on his chest, and one on the top of his head that resembles a horn. His face consists of a mouth and one large green eye at the center.
+
+In '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', Chromastone wore the [[Omnitrix (Original)|original Omnitrix]]/[[Ultimatrix (Original)|Ultimatrix]] on his chest.
+
+In ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]'', Chromastone had green teeth and some of his dark lines were missing.
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Chromastone has two unique designs. The first, which appears in ''[[Trouble Helix]]'', looked mostly the same as in '''Alien Force''' and '''Ultimate Alien''' except that the crystals on his back and head were much longer. Much like before, the [[Omnitrix (Omniverse)|Omnitrix]] symbol is on his chest.
+
+The second design, which appeared in ''[[A New Dawn]]'', is drastically different. He has three additional crystal shards on each shoulder and forearm, one on each knee, and two on the sides of his head. The crystals on his chest and the four small shards on his back are gone. His neck is now longer, his face has a magenta chin that resembles a mouth guard, and he now speaks without moving his mouth at all. He also has indigo rock hands with five magenta crystalline fingers. He now wears a green jumpsuit with white stripes on the waist, green and white-striped bands on his wrists and thighs, and the Omnitrix symbol has been relocated to his right pectoral.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Chromastone generator rex.png|Chromastone in ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]''
+Chromax.png|Chromastone with [[Alien X (Classic)|Alien X]]'s arm and sword
+</gallery>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+AP1 (138).png|Dynakinesis/Energy Negation
+AND (424).png|Energy Beams
+VoV2 (529).png|Optic Laser
+UE (452).png|Energy Absorption/Energy Conversion
+Chromastone 004.png|Manna Absorption
+TG (521).png|Energy Redirection
+ATG (323).png|Electricity Conductivity/Electricity Resistance
+TCfB (222).png|Flight
+TUE2 (172).png|Levitation
+TG (567).png|Enhanced Strength
+Trouble Helix (10).png|Enhanced Durability
+VoV2 (520).png|Enhanced Jumping
+GCBC (465).png|Enhanced Speed/Enhanced Agility
+IM (327).png|Xenocite Possession Immunity
+BK (200).png|Heat Resistance
+IM (247).png|Light Generation
+GCBC (460).png|Heat Amplification
+</gallery>
+{{Quote|Lasers call for Chromastone!|Ben before his failed attempt to turn into Chromastone.<ref>''[[Perplexahedron (Episode)|Perplexahedron]]''</ref>}}
+Chromastone has the ability to produce rainbow-colored energy from inside his body. He can then expel it out as powerful beams from either his hands,<ref name="AND">''[[A New Dawn]]''</ref> the shards on his body,<ref>''[[Voided]]''</ref> or his eye,<ref name="VoVP2"/> but only to a limited extent, as he will eventually run out of energy until he absorbs more.<ref name="TUEP2" /> Chromastone's beams are powerful enough to melt through a truck trailer<ref name="IM">''[[Inside Man]]''</ref> and destroy an entire turret.<ref name="Unearthed" /> Chromastone also has dynakinesis, allowing him to control the direction of his energy with extreme precision, as shown when he created a ring of energy that formed into several small scattering beams.<ref name="Unearthed">''[[Unearthed]]''</ref> Chromastone can also use his energy to corrupt and manipulate external sources of energy, such as [[manna]]; as seen when he dissipated a bubble of manna that [[Gwen Tennyson (Classic)|Gwen]] had generated around him.<ref name="AP1">''[[Absolute Power: Part 1]]''</ref>
+
+Chromastone has the ability to allow nearly any kind of energy, including lasers; electricity; manna;<ref name="VoVP2"/><ref name="TUEP2">''[[The Ultimate Enemy: Part 2]]''</ref> and any type of electromagnetic radiation,{{Refn|[https://static.wikia.nocookie.net/ben10/images/3/38/AF_Mini_Bible.pdf Alien Force Series Mini Bible]|group = AF Mini Bible|name = bible}}{{Refn|[[:File:Chromastone Can Absorb Radiation.png]]|group = MW}} from ultraviolet light to cosmic rays,{{Refn|group = Bandai|name = card}} to collect within or phase through his body without harm; which he can then convert into his rainbow energy. Absorbing external energy will supercharge Chromastone's beams, making them more powerful depending on what was absorbed. For instance, when the [[Mapmaker]] attacked him with its powerful energy blast, he absorbed it and subdued the Mapmaker with an equally powerful wave of energy.<ref name="B-K">''[[Be-Knighted]]''</ref> Similarly, when [[Gwen Tennyson (Classic)|Gwen]] gave Chromastone a large amount of manna for him to absorb, he was able to shoot powerful energy blasts to damage [[Dagon]].<ref name="TUEP2" />
+
+Chromastone is able to redirect energy attacks instead of absorbing them.<ref name="TG">''[[The Gauntlet]]''</ref>
+
+As well as being resistant to electricity, Chromastone can also conduct it back at the attacker, as seen when [[Lucy]] attacked him with an electric cable.<ref name="ATG" />
+
+Chromastone is capable of instant levitation<ref name="TUEP2" /> and flight.<ref name="TCfB">''[[The Creature From Beyond]]''</ref> While flying, he can leave behind an energy trail in the air.<ref name="EoMF">''[[Enemy of My Frenemy]]''</ref>
+
+Chromastone is capable of trapping enemies in crystals through his energy beams.<ref name="TSoC" />
+
+Chromastone possesses enhanced strength, allowing him to overpower strong opponents, such as a [[Techadon Robot|Techadon]]-enhanced [[Cash Murray (Classic)|Cash]], with his bare hands.<ref name="TG" /> Technically speaking, he is physically stronger than [[Methanosian]]s, but weaker than [[Vaxasaurian (Classic)|Vaxasaurians]].{{Refn|[[:File:Omnitrix Transformation Duration.PNG]]|group = DM|name = link}}
+
+Chromastone possesses enhanced durability thanks to his very dense and crystalline skin,{{Refn|[[:File:Chromastone IHT Card Number 21.png]]|group = Bandai}} which allows him to withstand being thrown against several vehicles at once.<ref name="TG" />
+
+Chromastone is capable of jumping exceptionally high.<ref name="DR">''[[Darkstar Rising]]''</ref><ref name="VoVP2" /> He is also quite agile and fast.<ref name="GCBC">''[[Good Copy, Bad Copy]]''</ref>
+
+Chromastone can survive in the vacuum of space, as demonstrated by [[Sugilite]] when he was traveling to what was left of [[Petropia (Classic)|Petropia]].<ref name="TSoC" />
+
+Due to him being made of super dense silicon-based crystals, Chromastone is immune to possession from a [[Xenocite]].<ref name="IM" />
+
+Chromastone is resistant to intense heat, as seen when Chromastone resisted the Mapmaker's energy breath.<ref name="B-K" />
+
+Chromastone has the power to generate focused gamma rays.{{Refn|group = AF Mini Bible|name = bible}}
+
+Chromastone can project a beam of light from his hands for illumination purposes.<ref name="IM" />
+
+Chromastone can use his energy to increase the temperature of his body, to the point where he can become hot enough to dissolve an [[Arachnachimp (Classic)|Arachnachimp]]'s webs.<ref name="GCBC" />
+
+If a big enough light source were to shine through him, Chromastone can create a big, beautiful rainbow in the sky.{{Refn|[[:File:Chromastone Rainbow Generation.png]]|group = DJW}}
+
+===Non-Canon Powers and Abilities===
+====Cartoon Network Action Pack!====
+Chromastone can absorb temporal energy and use it to manipulate time.{{Refn|''[[A Brief Mystery of Time]]''|group = AP}}
+
+Chromastone can trap enemies in force fields that last even after he's changed forms.{{Refn|''[[Target: Rath]]''|group = AP}}
+
+====Vilgax Attacks====
+Chromastone can create force fields to protect himself from attacks.
+
+==Weaknesses==
+<gallery type="slideshow">
+AND (432).png|Absorption Incapacity
+EoMF (309).png|Absorption Limit
+Fame (389).png|Electricity Conductivity Limit
+</gallery>
+Chromastone is incapable of absorbing certain types of energy, such as the energy of the extradimensional field that protects the [[Contumelia]] from the [[Annihilarrgh]].<ref name="AND"/>
+
+Chromastone has a limit to how much energy he can absorb at once, as he once tried to absorb all the [[manna]] from the [[Sorcerer's Engine]] but was overwhelmed to the point of disintegration.<ref name="EoMF" /> Chromastone also can have trouble absorbing and conducting electricity if the rate is too high.{{Refn|[https://static.wikia.nocookie.net/ben10/images/c/cf/Fame_Script_As_Recorded.pdf ''Fame'' Script As Recorded]|group = script|name = record}}<ref>''[[Fame]]''</ref>
+
+In addition to Chromastone having a limit to how much he can absorb, he also cannot absorb the energy released by an Annihilarrgh because he would be instantly disintegrated if he tried.{{Refn|[[:File:Chromastone Cannot Absorb Big Bag.png]]|group = DJW}}
+
+Chromastone can be controlled by [[Vladat]]s via their [[Corruptura]]s.{{Refn|[[:File:Corruptura Crystalline Entity.PNG]]|group = DJW}}
+
+==History==
+===Alien Force===
+*Chromastone first appeared in ''[[All That Glitters]]'', where he defeated a zombified [[Lucy]].
+*In ''[[Be-Knighted]]'', Chromastone fought the [[Mapmaker]] and realized it was trying to talk.
+*In ''[[The Gauntlet]]'', Chromastone battled a [[Techadon Robot|Techadon]]-enhanced [[Cash Murray (Classic)|Cash]] until the latter broke free from the Techadon glove's negative influence.
+**The same scene reoccurred twice on TV during [[Will Harangue]]'s news report in ''[[Fame]]''.
+*In ''[[Paradox]]'', Chromastone prepared to fight the [[Hugo|Trans-Dimensional Creature]], but it escaped before he could do so.
+*In ''[[Darkstar Rising]]'', Chromastone prepared to battle a group of [[Forever Knights]] before discovering that they were just holograms created by [[Prior Gahlil]].
+*In ''[[Good Copy, Bad Copy]]'', Chromastone tried to fight [[Albedo|Negative]] [[Spidermonkey (Classic)|Spidermonkey]], but immediately reverted before he could do so.
+*In ''[[Birds of a Feather]]'', Chromastone saved [[Simian]] and retrieved the crystal that the latter had failed to get.
+*In ''[[Unearthed]]'', Chromastone battled some [[DNAlien]]s and destroyed their laser turret, saving [[Tiny]] in the process.
+*In ''[[Voided]]'', Chromastone defeated some [[Null Guardian]]s and briefly battled [[Dr. Animo (Classic)|D'Void]] before he reverted.
+*In ''[[Inside Man]]'', Chromastone burnt into a truck and fought some DNAliens.
+*In ''[[Vengeance of Vilgax: Part 2]]'', Chromastone escaped the Omnitrix and battled [[Upchuck|Murk Upchuck]] until he was knocked out by [[Kevin Levin (Classic)|Kevin]], prompting Murk Upchuck to recapture Chromastone. Later, Chromastone fought [[Vilgax (Classic)|Vilgax]] but was defeated and got shattered. As his remains reformed into [[Diamondhead (Classic)|Diamondhead]], remnants of Chromastone's DNA were fused with Diamondhead's, indirectly removing Chromastone from the Omnitrix.
+*In ''[[The Secret of Chromastone]]'', [[Ben Tennyson (Classic)|Ben]] regained Chromastone.
+
+===Ultimate Alien===
+*In ''[[Fame]]'', Chromastone was defeated by [[Bivalvan]].
+*In ''[[Where the Magic Happens]]'', Chromastone battled some [[Scrutin]]s.
+*In ''[[Absolute Power: Part 1]]'', Chromastone was defeated by [[Gwen Tennyson (Classic)|Gwen]] who used a [[Spells (Classic)|spell]] to melt him, so he switched into [[Terraspin]].
+*In ''[[The Big Story]]'', Chromastone was used by a [[Plant Clone Ben|Plant Clone of Ben]] to fight the real Ben and [[Alien Force|his team]].
+*In ''[[Viktor: The Spoils]]'', Chromastone briefly appeared when [[King Xarion]] was looking through the [[Ultimatrix (Original)|Ultimatrix]] for [[Ampfibian (Classic)|Ampfibian]].
+*In ''[[The Creature From Beyond]]'', Chromastone searched for the [[Lucubra]].
+*In ''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]'', Chromastone appeared as one of the many aliens when Ben was explaining his story to [[Rex Salazar (Generator Rex)|Rex]].
+*In ''[[Enemy of My Frenemy]]'', Chromastone attempted to absorb the source of energy in [[Charmcaster (Classic)|Charmcaster]]'s machine only to be overwhelmed and forcibly reverted instead.
+* In ''[[The Ultimate Enemy: Part 2]]'', Chromastone stopped [[Dagon]] from killing [[Sir George]], but was eventually defeated by the former.
+
+===Omniverse===
+*In ''[[Trouble Helix]]'', Chromastone allowed [[Blukic]] and [[Driba]] to test their new weapon on him.
+*In ''[[A New Dawn]]'', Chromastone broke through the extradimensional field of the [[Contumelia]]'s machine by using a sword provided by [[Skurd]], who used [[Alien X (Classic)|Alien X]]'s DNA to create it, to retrieve [[Maltruant]]'s [[Annihilarrgh]]. Later, Chromastone appeared for a short time when [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+==Appearances==
+{{Scroll box|
+===Alien Force===
+====Season 1====
+*''[[All That Glitters]]'' <small>(first appearance)</small>
+*''[[Be-Knighted]]''
+*''[[The Gauntlet]]'' <small>(off-screen activation)</small>
+*''[[Paradox]]''
+*''[[Darkstar Rising]]''
+*''[[Good Copy, Bad Copy]]''
+*''[[Birds of a Feather]]''
+*''[[Unearthed]]''
+*''[[Voided]]''
+*''[[Inside Man]]''
+====Season 2====
+*''[[Vengeance of Vilgax: Part 2]]'' <small>(x2; first time was escaped and non-speaking; second time selected alien was [[Way Big (Classic)|Way Big]]; destroyed)</small>
+
+===Ultimate Alien===
+====Season 1====
+*''[[Fame]]'' <small>(first reappearance; x2; first time was on TV and a cameo)</small>
+*''[[Andreas' Fault]]'' <small>(photo)</small>
+
+====Season 2====
+*''[[Where the Magic Happens]]''
+*''[[Absolute Power: Part 1]]''
+
+====Season 3====
+*''[[The Big Story]]'' <small>(by Plant Clone Ben)</small>
+*''[[Viktor: The Spoils]]'' <small>(cameo)</small>
+*''[[The Creature From Beyond]]'' <small>(off-screen activation)</small>
+*''[[Enemy of My Frenemy]]'' <small>(destroyed, but remains available in the [[Ultimatrix (Original)|Ultimatrix]])</small>
+*''[[The Ultimate Enemy: Part 1]]'' <small>(photo)</small>
+*''[[The Ultimate Enemy: Part 2]]'' <small>(off-screen activation)</small>
+
+===Generator Rex===
+====Season 3====
+*''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]'' <small>(non-diegetic flashback; cameo)</small>
+
+===Omniverse===
+====Season 1====
+*''[[Trouble Helix]]'' <small>(first reappearance; off-screen activation; non-speaking)</small>
+
+====Season 8====
+*''[[A New Dawn]]'' <small>(x2; second time was a cameo)</small>
+
+===Video Games===
+====Alien Force====
+*''[[Ben 10: Alien Force (Video Game)|Ben 10: Alien Force]]'' <small>(DS)</small>
+*''[[Ben 10 Alien Force: Vilgax Attacks]]''
+*''[[Ben 10 Alien Force: The Rise of Hex]]''
+
+===Online Games===
+====Alien Force====
+*''[[Omnimatch]]''
+*''[[FusionFall]]'' <small>(NPC)</small>
+
+====Ben 10 (2016 TV Series)====
+*''[[Super Hero Time]]''
+
+===Comics===
+====Cartoon Network Action Pack!====
+=====Alien Force=====
+*''[[The New Order]]''
+*''[[A Blast From the Past]]''
+*''[[A Brief Mystery of Time]]''
+*''[[Double Trouble]]''
+*''[[Ship Shape]]''
+*''[[Collectible Heroes]]''
+
+=====Ultimate Alien=====
+*''[[Target: Rath]]''
+
+====Doom Dimension====
+*''[[Doom Dimension: Volume 1|Volume 1]]''
+
+====Ultimate Alien====
+=====Volume 1=====
+*''[[Target: Rath]]''
+
+====Ben 10====
+*''[[Ben 10 (Deep Trouble) Issue 1|Issue 1]]''
+
+====Standalone Comics====
+=====Alien Force=====
+*''[[Wanted: Kevin Levin]]'' <small>(x2; first time was a non-diegetic cameo)</small>
+}}
+
+==Games==
+===Video Games===
+<gallery type="slideshow">
+Chromastone VA.png|Chromastone in ''Vilgax Attacks''
+Rise of Hex Chromastone.png|Chromastone in ''The Rise of Hex''
+</gallery>
+====[[Ben 10: Alien Force (Video Game)|Ben 10: Alien Force]]====
+Chromastone is a playable alien character in the Nintendo DS version of the game.
+
+Chromastone is initially unavailable but is unlocked at the beginning of the Cave 3-1 level.
+
+Chromastone is able to shoot energy beams of varying intensity and width, as well as unleash an omnidirectional blast of energy which stuns all enemies.
+
+Chromastone is not required to be used at all in order to complete the game.
+
+====[[Ben 10 Alien Force: Vilgax Attacks]]====
+Chromastone is a playable alien character in the game.
+
+Chromastone is capable of manipulating the energy into bolts, rather than beams, as well as generating an energy blast expanding out in a 360-degree radius, creating an energy shield, and wielding energy fists.
+
+=====Xbox 360, Nintendo Wii, PlayStation 2, and PlayStation Portable Versions=====
+Due to the [[Omnitrix (Original)|Omnitrix]] rebooting after [[Ben Tennyson (Classic)|Ben]]'s abuse of the quick-change feature during his battle with an animated [[Mr. Smoothy (Classic)|Mr. Smoothy]] mascot, Chromastone was temporarily locked until Ben's arrival on [[MorOtesi]].
+
+Chromastone is able to channel energy beams to power lifts for transportation and machinery to access locked areas.
+
+Similar to [[Brainstorm]], Chromastone's unique block animation summons a shield made out of energy that renders him impervious to energy attacks.
+
+Prismatic Explosion is an unlockable combo move for Chromastone.
+
+Chromastone is vital for progression on the MorOtesi level of the game.
+
+Chromastone was erroneously designed with four magenta shards on his back when there is supposed to be six of them.
+
+=====Nintendo DS Version=====
+Chromastone and [[Echo Echo]] are reunlocked upon Ben's arrival on MorOtesi.
+
+Chromastone is able to safely bypass the radioactive meteors that litter MorOtesi's landscape.
+
+====[[Ben 10 Alien Force: The Rise of Hex]]====
+Chromastone is a playable alien character in the game.
+
+Due to the [[Omnitrix (Original)|Omnitrix]] shorting out after [[Ben Tennyson (Classic)|Ben]] fiddled with it, Chromastone was temporarily locked until the beginning of Level 8.
+
+Chromastone is able to absorb energy from a solar cell and store it inside him, transferring it to other cells in order to open sealed gates or to activate moving platforms. Chromastone can retain this stored energy even if he reverts back to human form and/or he switches to other alien forms.
+
+Chromastone's hard crystalline body makes him immune to physical attacks. Whenever he is hit, his Omnitrix Energy meter instead of his health meter will be depleted.
+
+====[[Ben 10 Ultimate Alien: Cosmic Destruction]]====
+Chromastone briefly appears as a hologram in the game but is not playable.
+
+===Online Games===
+<gallery type="slideshow">
+UA Chromastone.png|Chromastone in ''Super Hero Time'' ('''Alien Force''' and '''Ultimate Alien''')
+Chromastone OV SHT.png|Chromastone in ''Super Hero Time'' ('''Omniverse''' Season 8)
+</gallery>
+====[[Super Hero Time]]====
+Chromastone is a playable alien in the game.
+
+==Comics==
+===Cartoon Network Action Pack===
+====Alien Force====
+*In ''[[A Blast From the Past]]'', Chromastone defeated some [[DNAlien|DNAliens]].
+*In ''[[A Brief Mystery of Time]]'', Chromastone destroyed the DNAliens' time-loop generator.
+*In ''[[Double Trouble]]'', Chromastone was grabbed by [[Albedo|Negative]] [[Humungousaur (Classic)|Humungousaur]], forcing him to switch into [[Echo Echo]].
+*In ''[[Ship Shape]]'', Chromastone battled [[Ship]].
+*In ''[[Collectible Heroes]]'', Chromastone was one the aliens [[Ben Tennyson (Classic)|Ben]] turned into to overload [[Collector (Collectible Heroes)|The Collector]]'s computer.
+
+====Ultimate Alien====
+*In ''[[Target: Rath]]'', Chromastone defeated [[Jarret]]'s henchman before switching into [[Rath (Classic)|Rath]].
+
+===Ben 10===
+*In ''[[Ben 10 (Deep Trouble) Issue 1|Issue 1]]'', Chromastone defeated [[Ssserpent]]'s henchmen.
+
+==Naming and Translations==
+{{Translation
+|arabic = كروماستون
+|arabicd = From ''krumastun <small>(kromaston)</small>'', Chromastone
+|bulgarian = Хромолом <small>(Hromolom)</small>
+|bulgariand = From ''хромолом <small>(hromolom)</small>'', Chromastone
+|chinese = 水晶奇侠
+|chinesed = From ''水晶 <small>(Shǔi Jīng)</small>'', crystal and ''奇侠 <small>(Qī Xiá)</small>'', knight-errant
+|croatian = Megakrom
+|croatiand = From ''mega'' and ''krom'', chrome
+|danish = Stenergi
+|danishd = From ''sten'', stone and ''energi'', energy
+|dutch = Chromosteen/Chromasteen
+|dutchd = From ''chromo/chroma'', chrome and ''steen'', stone
+|french = Mégachrome
+|frenchd = From ''méga'', mega and ''chrome'', chrome
+|german = Chromastein
+|germand = From ''chroma'', color and ''stein'', stone
+|greek = Χρωμιόλιθος
+|greekd = From ''χρώμιο'', chrome and ''λίθος'', stone
+|italian = Cromoraggio
+|italiand = From ''cromo'', color and ''raggio'', ray
+|norwegian = Kromstein
+|norwegiand = From ''krom'', chrome and ''stein'', stone
+|polish = Chromaton
+|polishd = From ''chroma'', color and ''ton'', ton
+|portuguesebr = Cromático
+|portuguesebrd = From ''cromático'', chromatic
+|romanian = Chromastone
+|romaniand = From the original English name
+|russian = Кристалл <small>(Kristall)</small><br>Хромастон
+|russiand = From ''кристалл <small>(kristall)</small>'', crystal<br>From the original English name
+|ha = Piedra<br>Crómico (''[[A New Dawn]]'')
+|had = From ''piedra'', stone<br>From ''crómico'', chromic
+|serbian = Мегахром
+|serbiand = From ''mega'' and ''hrom'', chrome
+|spanish = Megacroma
+|spanishd = From ''mega'' and ''croma'', chrome
+|swedish = Kristallen
+|swedishd = From ''kristallen'', the crystal
+|turkish = ''Parlak Taş'', sometimes also referred to as ''Krom Taş''
+|turkishd = From ''parlak'', shiny and ''taş'', stone
+|hungarian = Krómakő
+|hungariand = From ''króm'', chrome and ''kő'', stone
+|albanian = Gurkromi
+|albaniand = From ''gur'' (stone) and ''kromi'' (chrome)
+}}
+
+==Etymology==
+Chromastone's name is a combination of the words "chroma" and "stone".
+
+Chroma means purity or intensity of color, noting the intensity of the color in Chromastone's rays and stone. Stone is the nonmetallic mineral that rock is made of, referencing his appearance.
+
+==Trivia==
+*Chromastone and Sugilite are the only [[Crystalsapien (Classic)|Crystalsapien]]s in existence.{{Refn|group = DM|name = sugilite}}
+*Chromastone has more abilities than the ones Ben is aware of.<ref name = Tetrax /><ref name="TSoC" /> However, they are largely unexplored.
+*Regarding Chromastone's destruction and subsequent reformation/merging into [[Diamondhead (Classic)|Diamondhead]] in ''[[Vengeance of Vilgax: Part 2]]'':
+**It had nothing to do with Vilgax's sword being covered in crystal before he destroyed him.{{Refn|[[:File:AF Diamondhead Nothing to Do With Vilgax's Sword.PNG]]|group = DM}}
+**Ben does not know the explanation behind Chromastone merging with Diamondhead, but [[Azmuth (Classic)|Azmuth]] does.{{Refn|[[:File:Azmuth Knows the Reason For AF Diamondhead.png]]|group = DM}}
+**Despite being destroyed, Chromastone's hologram appeared in ''[[The Secret of Chromastone]]''. However, selecting it transformed Ben into Diamondhead.<ref name="TSoC" />
+*Chromastone is one of the four regular aliens to get a complete redesign in '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''; the others being [[Shocksquatch]], [[Eatle]], and [[Swampfire]].
+**Chromastone and Swampfire are the only two of these aliens to get redesigns mid-series (not counting [[Rath (Classic)|Rath]] getting clothes).
+*Chromastone is one of the five aliens who escaped from the [[Omnitrix (Original)|original Omnitrix]]; the others being [[Ghostfreak]], [[Goop (Classic)|Goop]], [[Way Big (Classic)|Way Big]], and [[Spidermonkey (Classic)|Spidermonkey]].
+**Chromastone is also one of four regular aliens to be temporarily destroyed and removed from the original Omnitrix/[[Ultimatrix (Original)|Ultimatrix]], the others being Way Big, Swampfire, and [[Feedback]].
+*Chromastone is the final alien used on-screen in '''Ultimate Alien'''. Coincidentally, his hologram is also the first one shown on the reconfigured Omnitrix in '''Alien Force'''.<ref>''[[Ben 10 Returns: Part 1]]''</ref>
+**Chromastone is also the last alien to be used by Ben via the Ultimatrix.<ref name="TUEP2" />
+*Chromastone's working name was Shard.{{Refn|[https://static.wikia.nocookie.net/ben10/images/2/23/Hero_Generation_Series_Bible.pdf Hero Generation Series Bible]|group = HG Bible|name = bible}}
+*The first thing [[Dwayne McDuffie]] did when he pitched Chromastone was show the "secret" that was revealed in ''[[The Secret of Chromastone]]''.{{Refn|[[:File:Dwayne Had the Idea for The Secret of Chromastone Early On.png]]|group = DM}}
+**It was Dwayne's idea to have Chromastone destroyed, for drama.{{Refn|group = CM|[[:File:Dwayne came up with Chromastone destruction.png]]}}
+*Chromastone was initially not in ''[[Inside Man]]''.{{Refn|[https://static.wikia.nocookie.net/ben10/images/2/24/Inside_Man_Script_Outline.pdf/revision/latest ''A Man Inside'' Script Outline]|group = outline}}
+*Chromastone was initially not meant to be destroyed during Season 2 of '''Alien Force'''. He was included in a few early script outlines for episodes, such as:
+**''[[Singlehanded]]'': His role was taken by Diamondhead in the final version.{{Refn|[https://static.wikia.nocookie.net/ben10/images/3/3f/Singlehanded_Script_Outline.pdf ''Singlehanded'' Script Outline]|group = outline}}
+**''[[If All Else Fails]]'': He was used twice, with his role taken by [[Spidermonkey (Classic)|Spidermonkey]] and Diamondhead in the final version.{{Refn|[https://static.wikia.nocookie.net/ben10/images/c/c5/IAEF_Script_Outline.pdf ''If All Else Fails'' Script Outline]|group = outline}}
+*[[Gwen Tennyson (Classic)|Gwen]] was originally supposed to turn into Chromastone in ''[[Inspector 13]]''.{{Refn|[https://static.wikia.nocookie.net/ben10/images/f/f1/Inspector_13_Script_DRAFT-1.pdf ''Inspector 13'' Script First Draft]|group = script|name = script}}
+*Chromastone only appeared in two episodes of '''Omniverse''' because he didn't come up during story meetings,{{Refn|[[:File:Chromastone Didn't Come Up in OV.png]]|group = DJW}}{{Refn|[[:File:Chromastone Didn't Come Up in OV 2.png]]|group = DJW}} did not have a proper redesign until ''A New Dawn'',{{Refn|[[:File:Chromastone Didn't Come Up in OV 3.png]]|group = DJW}} and had low toy sales during the previous shows' runs.{{Refn|[[:File:Psychobos Crab and Alien Absence.png]]|group = DJW}}
+*Chromastone had concept art drawn by [[Glenn Wong]] and [[Eric Canete]],{{Refn|[[:File:Eric Canete Designed Alien X and Chromastone Concepts.png]]|group = EC}} whereas his final design was created by [[Chap Yaep]], with color styling by Chris Hooten.{{Refn|https://archive.is/Obhtg|group = GW|name = dk}}
+**[[Glen Murakami]] gave Glenn Wong and Chap Yaep the DK eyewitness book on crystals to look at for inspiration.{{Refn|group = GW|name = dk}}
+*Chromastone's design in ''[[A New Dawn]]'' is inspired by [https://en.wikipedia.org/wiki/Gundam_(fictional_robot) Gundam].{{Refn|[[:File:Chromastone's New Design Inspiration.png]]|group = DJW}}
+**The part of Chromastone face behind his eye was originally going to be black, just like in '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]'''.{{Refn|[[:File:Chromastone OV Concepts.png]]|group = DJW}}
+**It was Derrick's favorite Chromastone design.{{Refn|[[:File:Derrick's Favorite Chromastone Design.png]]|group = DJW}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====End Credits====
+{{Reflist|group = credits}}
+====Scripts====
+{{Reflist|group = script}}
+====Script Outlines====
+{{Reflist|group = outline}}
+====Hero Generation Series Bible====
+{{Reflist|group = HG Bible}}
+====Alien Force Series Mini Bible====
+{{Reflist|group = AF Mini Bible}}
+===Crew Statements===
+====[[Dwayne McDuffie]]====
+{{Reflist|group = DM}}
+====[[Matt Wayne]]====
+{{Reflist|group = MW}}
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Eric Canete]]====
+{{Reflist|group = EC}}
+====[[Glenn Wong]]====
+{{Reflist|group = GW}}
+====[[Charlotte McDuffie]]====
+{{Reflist|group = CM}}
+===[[Merchandise]]===
+{{Reflist|group = merch}}
+====[[Bandai]]====
+{{Reflist|group = Bandai}}
+====Cartoon Network Action Pack!====
+{{Reflist|group = AP}}
+===Ben 10 Planet===
+{{Reflist|group = BTP}}
+{{Ben 10 Aliens}}
+{{DISPLAYTITLE:Chromastone}}
+[[de:Chromastein]]
+[[es:Piedra]]
+[[fr:Mégachrome]]
+[[it:Cromoraggio]]
+[[pl:Chromaton]]
+[[pt-br:Cromático]]
+[[ro:Chromastone]]
+[[ru:Кристалл]]
+[[tr:Krom Taş]]
+
+[[Category:Aliens]]
+[[Category:Transformations]]
+[[Category:Alien Force Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]

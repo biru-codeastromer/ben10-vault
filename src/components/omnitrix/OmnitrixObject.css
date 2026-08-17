@@ -1,0 +1,182 @@
+.omni-object {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  padding: 18px 12px 26px;
+  border-radius: 28px;
+  transition: background var(--dur) var(--ease-out);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.omni-object:hover,
+.omni-object:focus-visible {
+  background: radial-gradient(60% 50% at 50% 42%, color-mix(in srgb, var(--era) 12%, transparent), transparent 70%);
+}
+
+.omni-object__scene {
+  position: relative;
+  display: block;
+  width: min(100%, 300px);
+  aspect-ratio: 1;
+  transform-style: preserve-3d;
+}
+
+.omni-object__halo {
+  position: absolute;
+  inset: 6%;
+  border-radius: 50%;
+  background: radial-gradient(circle, color-mix(in srgb, var(--era) 55%, transparent) 0%, color-mix(in srgb, var(--era) 18%, transparent) 40%, transparent 70%);
+  filter: blur(18px);
+  opacity: 0.35;
+  transition: opacity var(--dur-slow) var(--ease-out), transform var(--dur-slow) var(--ease-out);
+  animation: omni-breathe 4.2s ease-in-out infinite;
+  transform: translateZ(-40px);
+}
+
+.omni-object.is-hover .omni-object__halo {
+  opacity: 0.85;
+  transform: translateZ(-40px) scale(1.12);
+}
+
+.omni-object.is-activating .omni-object__halo {
+  opacity: 1;
+  transform: translateZ(-40px) scale(1.4);
+  transition-duration: 200ms;
+}
+
+.omni-object__device {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  filter: drop-shadow(0 30px 40px rgba(0, 0, 0, 0.6)) drop-shadow(0 0 22px color-mix(in srgb, var(--era) 25%, transparent));
+  transition: filter var(--dur-slow) var(--ease-out);
+}
+
+.omni-object.is-hover .omni-object__device {
+  filter: drop-shadow(0 34px 44px rgba(0, 0, 0, 0.65)) drop-shadow(0 0 34px color-mix(in srgb, var(--era) 55%, transparent));
+}
+
+.omni-object__svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* light sweep across the device on hover */
+.omni-object__sweep {
+  position: absolute;
+  inset: 0;
+  border-radius: 40px;
+  pointer-events: none;
+  background: linear-gradient(115deg, transparent 30%, rgba(255, 255, 255, 0.16) 48%, rgba(255, 255, 255, 0.05) 52%, transparent 66%);
+  transform: translateX(-120%);
+  opacity: 0;
+  mix-blend-mode: screen;
+  mask-image: radial-gradient(circle at 50% 50%, #000 0 42%, transparent 60%);
+}
+
+.omni-object.is-hover .omni-object__sweep {
+  animation: omni-sweep 0.9s var(--ease-out) forwards;
+}
+
+.omni-object__label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  text-align: center;
+}
+
+.omni-object__era {
+  font-size: clamp(22px, 2.2vw, 30px);
+  line-height: 1.05;
+  letter-spacing: 0.01em;
+  color: var(--era-ink);
+  text-shadow: 0 0 18px color-mix(in srgb, var(--era) 40%, transparent);
+  transition: color var(--dur), text-shadow var(--dur);
+}
+
+.omni-object.is-hover .omni-object__era {
+  color: var(--era-2);
+  text-shadow: 0 0 22px var(--era-glow);
+}
+
+.omni-object__meta {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-family: var(--font-ui);
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: var(--ink-dim);
+}
+
+.omni-object__dot {
+  color: var(--era);
+}
+
+.omni-object__count {
+  margin-top: 6px;
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.06em;
+  color: var(--era-2);
+}
+
+.omni-object__count em {
+  font-style: normal;
+  font-weight: 500;
+  color: var(--ink-dim);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+@keyframes omni-breathe {
+  0%,
+  100% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes omni-sweep {
+  0% {
+    transform: translateX(-120%);
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(120%);
+    opacity: 0;
+  }
+}
+
+@media (max-width: 720px) {
+  .omni-object {
+    padding: 10px 6px 18px;
+    gap: 8px;
+  }
+  .omni-object__scene {
+    width: min(100%, 220px);
+  }
+  .omni-object__era {
+    font-size: 20px;
+  }
+  .omni-object__meta {
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

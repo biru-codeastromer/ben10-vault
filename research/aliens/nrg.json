@@ -1,0 +1,119 @@
+{
+  "id": "nrg",
+  "name": "NRG",
+  "wikiTitle": "NRG",
+  "kind": "standard",
+  "species": "Prypiatosian-B",
+  "homeworld": "Prypiatos",
+  "bodyType": "Humanoid (radioactive energy being in a containment suit)",
+  "debut": {
+    "episode": "The Forge of Creation",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Radioactive energy beams through the suit's vent (destroyed chunks of Galvan B, hurt Ultimate Kevin)",
+    "Extreme heat radiation - melts metal and rock by touch or proximity",
+    "Immunity to radiation, lead, fire/heat, cold, electricity and Lucubra possession",
+    "Very durable containment suit (stopped a hover-bus)",
+    "Enhanced strength",
+    "True form (out of suit): energy balls, optic lasers, energy absorption and growth, flight, intangibility, elasticity, blinding light",
+    "Underwater survivability",
+    "Energy detection at range"
+  ],
+  "weaknesses": [
+    "Must stay in his suit to protect others; the suit weakens output and removes flight, agility and intangibility",
+    "Radiation blasts absorbed by Ball Weevil-species plasma",
+    "Carbon dampening rods inhibit his radiation"
+  ],
+  "summary": "A living nuclear reactor locked in an oven-like containment suit; hits with radioactive beams and lethal heat, and is even deadlier when he climbs out of the suit.",
+  "traits": [
+    "DNA sampled from P'Andor",
+    "Russian accent",
+    "Left his suit on-screen for the first time in Hot Stretch",
+    "Suit is 'charleston green' with three vent slits"
+  ],
+  "notableFeats": [
+    "Fought 10-year-old Ben's Heatblast (The Forge of Creation)",
+    "Battled Ultimate Kevin and forced him to let go by superheating (Absolute Power: Part 1)",
+    "Created the pit that trapped the Lucubra (The Creature From Beyond)",
+    "Stopped the Kraaho lava plot by leaving his suit (Hot Stretch)",
+    "Helped shield Galvan Prime from the Galvan B meteor shower (Showdown: Part 2)",
+    "Blinded Zs'Skayr with his true form's glow (Rad Monster Party)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "The Forge of Creation",
+      "notableEpisodes": [
+        "The Forge of Creation",
+        "Absolute Power: Part 1",
+        "The Creature From Beyond",
+        "The Purge",
+        "Double or Nothing",
+        "The Widening Gyre"
+      ],
+      "designNotes": "Bulky dark-green oven-like containment suit with three glowing vent slits, no visible face; Ultimatrix symbol on the chest seal.",
+      "image": {
+        "file": "NRG.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "infobox UA render"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "The More Things Change: Part 2",
+      "notableEpisodes": [
+        "The More Things Change: Part 2",
+        "So Long, and Thanks for All the Smoothies",
+        "Hot Stretch",
+        "Showdown: Part 2",
+        "Rad Monster Party"
+      ],
+      "designNotes": "Suit gains a handle on the head, bolts on shoulders/hands/chest; Omnitrix on chest seal. True form (first shown in Hot Stretch): red radioactive energy body wearing a green/black lower containment harness with the Omnitrix on the belt, green eyes with lightning-like brows.",
+      "image": {
+        "file": "NRG OV Stand.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render (suited form)"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 6,
+    "durability": 8,
+    "speed": 4,
+    "mobility": 5,
+    "offense": 8,
+    "defense": 7,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 8,
+    "regeneration": 0,
+    "survivability": 9,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Heavy hitter (offense 8): radioactive beams that shattered falling moon-chunks and hurt Ultimate Kevin, plus melting heat by touch; his suit tanks buses and he is immune to heat, cold, radiation, electricity and possession (survivability 9). Slow and clumsy in the suit, and the suit caps his true-form powers."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/NRG"
+  ],
+  "notes": [
+    "Also used by Albedo (Negative NRG, dream) and Mad Ben (Mad NRG, It's a Mad, Mad, Mad Ben World: Part 2) - not counted.",
+    "OV Ben Again use was 11-year-old Ben's mind in 16-year-old Ben's body (counted as ben-16-ov).",
+    "UA wearer: Ultimatrix; OV: new Omnitrix."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "humungoopsaur",
+  "name": "Humungoopsaur",
+  "wikiTitle": "Humungoopsaur",
+  "kind": "fusion",
+  "species": "Polymorph/Vaxasaurian hybrid",
+  "homeworld": "",
+  "bodyType": "Slime-bodied humanoid dinosaur",
+  "debut": {
+    "episode": "The End of an Era",
+    "series": "ov",
+    "usedBy": "ben-10k-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [
+    "humungousaur",
+    "goop"
+  ],
+  "abilities": [
+    "Shapeshifting slime body like Goop",
+    "Humungousaur-level enhanced strength",
+    "Size alteration (per Derrick J. Wyatt)",
+    "Anti-Gravity Projector (white) holds the slime body together"
+  ],
+  "weaknesses": [
+    "No weaknesses documented on the wiki; a Goop-type body implies dependence on the Anti-Gravity Projector",
+    "Slime body may struggle to hold heavy objects/apply leverage despite its strength"
+  ],
+  "summary": "Ben 10,000's Biomnitrix fusion of Humungousaur and Goop: a dinosaur-shaped mass of shape-shifting slime with Humungousaur's strength, kept in shape by a floating white projector. The last alien to debut in the Classic continuity.",
+  "traits": [
+    "Last alien to debut in the Classic continuity",
+    "Voice is OV Humungousaur's (John DiMaggio)",
+    "Concept art by Thomas N. Perkins IV"
+  ],
+  "notableFeats": [
+    "Fought alongside Kai Tennyson to recapture Dr. Animo before he escaped through the Chronoporter (The End of an Era)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-10k-ov"
+      ],
+      "firstEpisode": "The End of an Era",
+      "notableEpisodes": [
+        "The End of an Era"
+      ],
+      "designNotes": "Humungousaur's general body shape made entirely of Goop's green slime, with Goop's fingers and spikes on head and shoulders; a white recolour of Humungousaur's sash carries the Biomnitrix symbol; a white version of Goop's Anti-Gravity Projector floats above him.",
+      "image": {
+        "file": "Humungoopsaur official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox official render."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 8,
+    "durability": 7,
+    "speed": 4,
+    "mobility": 6,
+    "offense": 7,
+    "defense": 6,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 0,
+    "regeneration": 9,
+    "survivability": 6,
+    "range": 4,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Humungousaur strength in a Goop body that reshapes and reforms, plus growth - a durable, regenerating bruiser. Only one short scene (chasing Dr. Animo) and, like Goop, presumably reliant on its projector, so weakness penalty applied."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Humungoopsaur",
+    "https://ben10.fandom.com/wiki/Biomnitrix"
+  ],
+  "notes": [
+    "One-time form used only by the Omniverse Ben 10,000 via the Biomnitrix (The End of an Era, OV S8).",
+    "The Biomnitrix adds the Anti-Gravity Projector as a safety extension for this fusion.",
+    "Biomnitrix context: the Omniverse Ben 10,000 (Original Future timeline, re-established as Ben Prime's true future) wears two linked Omnitrix gauntlets; slamming them together fuses two aliens on the fly (combinations are generated at transformation time, not stored). Each gauntlet alone gives normal aliens; it is voice-controlled and can be knocked out by a large EMP or Chronosapien time-freeze. All on-screen fusions were drawn by Thomas N. Perkins IV; the device name was coined by Derrick J. Wyatt (unnamed in scripts)."
+  ]
+}

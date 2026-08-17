@@ -1,0 +1,73 @@
+{{Future}}
+{{Infobox Alien
+|name = Crashocker
+|image = Crashocker.png
+|species = ½ [[Orthopterran]]<br>½ [[Gimlinopithecus]]
+|body = Humanoid Grasshopper
+|power = Enhanced Strength<br>Enhanced Jumping<br>Electrokinesis<br>Hard Head
+|voice = [[Dee Bradley Baker]]
+|backcolor = 849341
+|textcolor = 000000
+|1st-appearance = Let's Do the Time War Again
+}}
+{{Quote|Sorry, guy. That's just the way the bug bounces.|[[Ben 10,000 (Original)|Ben 10,000]] to [[Exo-Skull]] after defeating him as Crashocker.<ref>''[[Let's Do the Time War Again]]''</ref>}}
+'''Crashocker''' is the [[Combinations (Classic)|combination]] of [[Crashhopper]] and [[Shocksquatch]]'s DNA. He can only be accessed by using the [[Biomnitrix]].
+
+==Appearance==
+Crashocker has the chest, torso, and arm structure of [[Shocksquatch]] but instead of being yellow, they are brownish-green. His upper head is the same as [[Crashhopper]]'s and his chin comes from Shocksquatch. He has Crashhopper's legs but with two bolts on each of his feet. He retained Crashhopper's green clothing and abdomen. He has three bolts on his neck and has his throat colored the same as his chin with his horn's design.
+
+The [[Biomnitrix]] symbol is located on Crashocker's stomach.
+
+==Powers and Abilities==
+<gallery type="slideshow">
+LDtTWA (334).png|Enhanced Jumping/Electrokinesis
+LDtTWA (336).png|Shock Waves
+LDtTWA (384).png|Enhanced Strength
+</gallery>
+Being part-[[Orthopterran]], Crashocker is able to jump extremely long distances using relatively long and muscular legs similar to [[Crashhopper]]'s. He can also use his horn-like skull as a battering ram.
+
+Being part-[[Gimlinopithecus]], Crashocker can release electricity similar to [[Shocksquatch]]'s in waves upon landing. He also has enhanced strength, as he was able to fight against [[Exo-Skull]] with ease.
+
+==History==
+===Omniverse===
+*Crashocker first appeared in ''[[Let's Do the Time War Again]]'', where he battled and defeated Exo-Skull.
+
+==Appearances==
+===Omniverse===
+====Season 8====
+*''[[Let's Do the Time War Again]]'' <small>(first appearance)</small>
+
+==Naming and Translations==
+{{Translation
+|german = Schockhüpfer
+|germand = From ''Schockstrahler'' (Shocksquatch's german name) and ''Grashüpfer'' (Crashhopper's german name)
+|italian = Supersquatch
+|italiand = From Super Insetto, Crashhopper's Italian name (means super bug), and Shocksquatch.
+|polish = Crashshocker
+|polishd = From the original English name
+|portuguesebr = Crashocker
+|portuguesebrd = From the original English name
+|russian = Крешшоккер
+|russiand = From the original English name
+|ha = Crashocker
+|had = From the original English name
+}}
+
+==Trivia==
+*Crashocker's voice is the same as [[Crashhopper]]'s.
+
+==References==
+{{Reflist}}
+{{Ben 10 Aliens}}
+[[es:Crashocker]]
+[[pl:Crashshocker]]
+[[pt-br:Crashocker]]
+[[Category:Aliens]]
+[[Category:Omniverse Transformations]]
+[[Category:Ben 10,000's Transformations]]
+[[Category:Hybrids]]
+[[Category:Transformations]]
+[[Category:One-Time Aliens]]
+[[Category:Classic Aliens]]
+[[Category:One-Time Transformations]]
+[[Category:Classic Transformations]]

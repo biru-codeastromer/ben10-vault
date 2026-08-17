@@ -1,0 +1,33 @@
+.era-flash {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  pointer-events: none;
+  overflow: hidden;
+  background: radial-gradient(circle at var(--ox) var(--oy), var(--era-2) 0%, var(--era) 28%, var(--era-deep) 70%, #020403 100%);
+}
+
+.era-flash__burst {
+  position: absolute;
+  left: var(--ox);
+  top: var(--oy);
+  width: 60vmax;
+  height: 60vmax;
+  margin: -30vmax 0 0 -30vmax;
+  border-radius: 50%;
+  background: radial-gradient(circle, #ffffff 0%, var(--era-2) 9%, var(--era) 30%, transparent 62%);
+  filter: blur(6px);
+  opacity: 0.85;
+  mix-blend-mode: screen;
+}
+
+.era-flash__mark {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: min(34vmin, 260px);
+  height: min(34vmin, 260px);
+  transform: translate(-50%, -50%);
+  margin: calc(min(34vmin, 260px) / -2) 0 0 calc(min(34vmin, 260px) / -2);
+  opacity: 0.9;
+}

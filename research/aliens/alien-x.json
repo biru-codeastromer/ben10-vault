@@ -1,0 +1,133 @@
+{
+  "id": "alien-x",
+  "name": "Alien X",
+  "wikiTitle": "Alien X (Classic)",
+  "kind": "standard",
+  "species": "Celestialsapien",
+  "homeworld": "Forge of Creation",
+  "bodyType": "Humanoid (cosmic)",
+  "debut": {
+    "episode": "X = Ben + 2",
+    "series": "af",
+    "usedBy": "ben-15-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Omnipotent reality warping - thoughts become real; recreated the entire universe",
+    "Time and space manipulation (time waves, energy vortexes)",
+    "Near-invulnerability (unharmed while the Annihilarrgh erased the universe)",
+    "Telekinesis, mind control, energy deflection",
+    "Shapeshifting, teleportation, force fields, size alteration, self-duplication",
+    "Planet-destroying strength; flight and space survival",
+    "Regeneration of severed limbs",
+    "Can pierce the Contumelia's extradimensional field"
+  ],
+  "weaknesses": [
+    "Serena and Bellicus must agree with Ben before Alien X can act at all - deadlock leaves him motionless (crippling in AF/UA)",
+    "Other Celestialsapiens can neutralise or reverse his actions",
+    "Cannot directly manipulate manna; magic can cancel his powers",
+    "Powers may not work in universes with incompatible cosmic laws",
+    "Vulnerable to Osmosian/Darkstar power absorption, Vladat draining and Nemuina sleeping dust",
+    "Professor Paradox and the DNA scanner can force him to revert"
+  ],
+  "summary": "The most powerful being in the Omnitrix - a starfield-skinned Celestialsapien who can rewrite reality, but only when Ben can get his two other personalities, Serena and Bellicus, to agree.",
+  "traits": [
+    "Three personalities: Serena (love), Bellicus (rage), Ben (reason)",
+    "Ben swore never to use him again after his debut",
+    "Recreated the universe from scratch (So Long, and Thanks for All the Smoothies)",
+    "Body is rigid - only other Celestialsapiens can move him"
+  ],
+  "notableFeats": [
+    "Stopped a dam flood before deadlocking (X = Ben + 2)",
+    "Almost had Paradox voted out of existence (The Forge of Creation)",
+    "Recreated a near-identical universe after the Annihilarrgh destroyed it (So Long, and Thanks for All the Smoothies)",
+    "Defeated the Galactic Gladiator to win his trial (Universe vs. Tennyson)",
+    "Fought the Rooters and the brainwashed Amalgam Kids (Weapon XI: Part 1)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af"
+      ],
+      "firstEpisode": "X = Ben + 2",
+      "notableEpisodes": [
+        "X = Ben + 2"
+      ],
+      "designNotes": "Solid black humanoid with white hands, tiny white star specks, pupil-less green eyes, three forehead horns; recalibrated Omnitrix symbol on chest. Ben is the tiebreaker vote (2 of 3 carries a motion) in AF/UA.",
+      "image": {
+        "file": "Alien X 2.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "The Forge of Creation",
+      "notableEpisodes": [
+        "The Forge of Creation"
+      ],
+      "designNotes": "Same design as Alien Force with the Ultimatrix symbol on chest.",
+      "image": {
+        "file": "Alien X 2.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "So Long, and Thanks for All the Smoothies",
+      "notableEpisodes": [
+        "So Long, and Thanks for All the Smoothies",
+        "Universe vs. Tennyson",
+        "Weapon XI: Part 1",
+        "A New Dawn"
+      ],
+      "designNotes": "Largely the same: bigger chin, more muscular, smaller horns, brighter stars; Omnitrix on chest. From So Long onward all three personalities must agree, but Ben has become far better at persuading Serena and Bellicus, so Alien X is usable in fights.",
+      "image": {
+        "file": "OV AlienX.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 10,
+    "durability": 10,
+    "speed": 10,
+    "mobility": 10,
+    "offense": 10,
+    "defense": 10,
+    "special": 10,
+    "versatility": 10,
+    "intellect": 10,
+    "energy": 10,
+    "regeneration": 10,
+    "survivability": 10,
+    "range": 10,
+    "cosmic": 10,
+    "weaknessPenalty": 5,
+    "controlPenalty": 3,
+    "rationale": "Omnipotent reality warper who recreated the universe and beat a Celestialsapien gladiator; every dimension is creation-level. The crippling catch is the three-way vote: Serena and Bellicus deadlocked Ben into a statue in AF/UA (weaknessPenalty 5, controlPenalty 3), and even in OV, where Ben gains working control, he must still consult them. Pipeline pins the total to 200."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Alien_X_(Classic)"
+  ],
+  "notes": [
+    "Homeworld: Forge of Creation; Zvezda was retconned as non-existent.",
+    "Deadlock mechanics: in AF/UA Ben is a tiebreaker (two votes carry); from OV's So Long onward all three must agree, but Ben is much better at it and uses Alien X in combat (Universe vs. Tennyson, Weapon XI).",
+    "OV A New Dawn uses were mostly Skurd borrowing Alien X's DNA (sword/arm), plus one Ben cameo.",
+    "Albedo's Negative Alien X trapped him motionless for a year in an alternate timeline (mentioned only)."
+  ]
+}

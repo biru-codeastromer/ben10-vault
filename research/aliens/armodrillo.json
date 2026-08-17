@@ -1,0 +1,119 @@
+{
+  "id": "armodrillo",
+  "name": "Armodrillo",
+  "wikiTitle": "Armodrillo",
+  "kind": "standard",
+  "species": "Talpaedan",
+  "homeworld": "Poiana Lüncas",
+  "bodyType": "Robotic Humanoid Armadillo",
+  "debut": {
+    "episode": "Hero Time",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Biological jackhammer arms - tremors, fissures and earthquakes",
+    "Drill hands and rapid tunnelling through solid rock",
+    "Immense strength (lifted Mucilator, launched Trombipulor over buildings, destroyed ten Dimension 12 robots)",
+    "Piston-boosted punches; jackhammer propulsion into the air",
+    "Shock-wave generation; 'shock wave blender' spinning drills",
+    "Armoured body (thrown through walls without harm)",
+    "Neuroshock immunity",
+    "Body vibration to counter sonic weapons (Andreas)"
+  ],
+  "weaknesses": [
+    "Certain weapons make his arm vibrate uncontrollably",
+    "Weak against Slammoids (dig him out, pierce joints, dissolve armour with acid)",
+    "Vulnerable to electricity and Argit's quills",
+    "Can be suffocated if buried and compressed"
+  ],
+  "summary": "A ten-foot yellow armadillo with jackhammer arms that shake the earth, drill through rock, and punch hard enough to level buildings.",
+  "traits": [
+    "DNA sampled from Andreas",
+    "Ten feet tall",
+    "Grey translucent blood",
+    "Arms are biological pneumatic pistons"
+  ],
+  "notableFeats": [
+    "Helped Captain Nemesis beat Computron's minions in his debut (Hero Time)",
+    "Battled Ultimate Kevin (...Nor Iron Bars a Cage)",
+    "Cleared out Psyphon's henchmen (The More Things Change: Part 2)",
+    "Fought Slamworm and Crabdozer (Of Predators and Prey: Part 2, Malefactor)",
+    "Fought Zombozo, Fistrick and Trombipulor (Special Delivery)",
+    "His arm let Humungousaur disintegrate a tree and Whampire fight Malgax via Skurd (Stuck on You, Malgax Attacks)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Hero Time",
+      "notableEpisodes": [
+        "Hero Time",
+        "Reflected Glory",
+        "...Nor Iron Bars a Cage",
+        "Revenge of the Swarm",
+        "The Creature From Beyond"
+      ],
+      "designNotes": "Yellow armoured body, Corinthian-helmet head with two ears, grey tail, jackhammer parts on elbows/wrists/hands, grey feet; Ultimatrix symbol on chest.",
+      "image": {
+        "file": "Armodrillo 2.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "infobox UA render"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "The More Things Change: Part 2",
+      "notableEpisodes": [
+        "The More Things Change: Part 2",
+        "Of Predators and Prey: Part 1",
+        "Malefactor",
+        "Special Delivery",
+        "The Secret of Dos Santos"
+      ],
+      "designNotes": "Longer ears, grey bolts with black markings on shoulders, metal circle on head, larger arm-drills, yellow feet with grey toes, chain-like limb segments, bulkier forearms/shoulders; Omnitrix on chest.",
+      "image": {
+        "file": "OV Armodrillo Stand.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 8,
+    "durability": 7,
+    "speed": 4,
+    "mobility": 6,
+    "offense": 7,
+    "defense": 6,
+    "special": 6,
+    "versatility": 5,
+    "intellect": 4,
+    "energy": 1,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Strength 8 with jackhammer punches that toss Trombipulor over rooftops and quakes that shake whole streets; burrows freely and wears heavy armour. Purely physical, slow, and Slammoids/electricity/quills all counter him."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Armodrillo"
+  ],
+  "notes": [
+    "Also used by Albedo (Negative Armodrillo, For a Few Brains More) and No Watch Ben (And Then There Was Ben) - not counted in usedBy.",
+    "OV Ben Again use was 11-year-old Ben's mind in 16-year-old Ben's body (counted as ben-16-ov).",
+    "UA wearer: Ultimatrix; OV: new Omnitrix."
+  ]
+}

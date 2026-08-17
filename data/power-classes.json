@@ -1,0 +1,58 @@
+[
+  {
+    "id": "standard",
+    "name": "Standard",
+    "tier": 1,
+    "min": 50,
+    "max": 79,
+    "blurb": "Dependable everyday transformations."
+  },
+  {
+    "id": "advanced",
+    "name": "Advanced",
+    "tier": 2,
+    "min": 80,
+    "max": 99,
+    "blurb": "Specialists with a real edge in the right fight."
+  },
+  {
+    "id": "elite",
+    "name": "Elite",
+    "tier": 3,
+    "min": 100,
+    "max": 119,
+    "blurb": "Front-line heavy hitters and problem solvers."
+  },
+  {
+    "id": "apex",
+    "name": "Apex",
+    "tier": 4,
+    "min": 120,
+    "max": 139,
+    "blurb": "Fight-enders. Ben reaches for these when it matters."
+  },
+  {
+    "id": "legendary",
+    "name": "Legendary",
+    "tier": 5,
+    "min": 140,
+    "max": 164,
+    "blurb": "Planet-scale threats bow to these forms."
+  },
+  {
+    "id": "cosmic",
+    "name": "Cosmic",
+    "tier": 6,
+    "min": 165,
+    "max": 199,
+    "blurb": "Power that bends physics itself."
+  },
+  {
+    "id": "infinite",
+    "name": "Infinite",
+    "tier": 7,
+    "min": 200,
+    "max": 200,
+    "blurb": "Omnipotence. There is only one."
+  }
+]

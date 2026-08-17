@@ -1,0 +1,135 @@
+{
+  "id": "lodestar",
+  "name": "Lodestar",
+  "wikiTitle": "Lodestar",
+  "kind": "standard",
+  "species": "Biotsavartian",
+  "homeworld": "Maxwell",
+  "bodyType": "Magnetic Humanoid (living metal)",
+  "debut": {
+    "episode": "Simple",
+    "series": "af",
+    "usedBy": "ben-16-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Magnetokinesis - generates and controls magnetic fields (half-mile pulse at full power)",
+    "Magno-telekinesis over metal; magnetises other objects",
+    "Magnetic dismantling (ripped open the Naljian Destructor, tore apart Techadon robots and the Toltech armour)",
+    "Electromagnetic force fields (blocks solar energy attacks)",
+    "Reconstitution - pulls his shattered pieces back together",
+    "Limited flight/levitation",
+    "Enhanced strength and durability; space survivability",
+    "Electromagnetic radar vision; acts as a compass"
+  ],
+  "weaknesses": [
+    "Useless against non-magnetic materials (pavement, the Stalker, ceramic knives)",
+    "Floating unattached head is an easy target - grabbing or striking it drags or spins his body",
+    "Magnetic fields can be absorbed/redirected by the Shock Staff"
+  ],
+  "summary": "A living-metal magnet man whose head floats between his shoulders; he tears machines apart with magnetism and can rebuild himself from scraps.",
+  "traits": [
+    "Head floats detached in a glowing aura",
+    "Body is living alien metal",
+    "'Metal - meet magnetism!'",
+    "Unlocked when the Omnitrix reset in War of the Worlds: Part 2"
+  ],
+  "notableFeats": [
+    "Subdued the red troops in his debut (Simple)",
+    "Ripped open the Naljian Destructor (Busy Box)",
+    "Dismantled a red Techadon Robot (Primus)",
+    "Survived Aggregor's ship exploding and reassembled himself (Ultimate Aggregor)",
+    "Destroyed a mechanical dragon with Kevin (The Purge)",
+    "Battled Rex Salazar with magnetism (Ben 10/Generator Rex: Heroes United)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-16-af"
+      ],
+      "firstEpisode": "Simple",
+      "notableEpisodes": [
+        "Simple",
+        "Busy Box",
+        "Primus",
+        "Vendetta"
+      ],
+      "designNotes": "Brownish-black body with yellow feet, hands, shoulders and chest, crab-claw hands, skull-like metal head floating in a white aura; recalibrated Omnitrix symbol on chest.",
+      "image": {
+        "file": "Lodestar.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Duped",
+      "notableEpisodes": [
+        "Duped",
+        "Video Games",
+        "Ultimate Aggregor",
+        "The Purge",
+        "Ben 10/Generator Rex: Heroes United"
+      ],
+      "designNotes": "Same design as Alien Force with the Ultimatrix symbol on chest; Heroes United used slightly darker yellows.",
+      "image": {
+        "file": "Lodestar.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "The More Things Change: Part 1",
+      "notableEpisodes": [
+        "The More Things Change: Part 1",
+        "Return to Forever"
+      ],
+      "designNotes": "Yellow brow crest on a more skull-shaped head, green head aura, yellow extends up to thighs, larger shoulders, shorter chest stripes; Omnitrix on chest.",
+      "image": {
+        "file": "Lodestar OV Stand.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 5,
+    "durability": 5,
+    "speed": 4,
+    "mobility": 6,
+    "offense": 6,
+    "defense": 6,
+    "special": 7,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 5,
+    "regeneration": 5,
+    "survivability": 6,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Magnetism (special 7) shreds robots, armour and ships from a distance and can rebuild his own shattered body; EM shields block energy. Modest brawler whose powers do nothing against stone or rubber, and his floating head is a glaring target."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Lodestar"
+  ],
+  "notes": [
+    "All AF uses are wiki AF Season 2 (Vengeance of Vilgax onward) so usedBy is ben-16-af only.",
+    "Also used by Vilgax's Bioids (The Final Battle: Part 2).",
+    "Heroes United (UA-era) transformation folded into UA appearance."
+  ]
+}

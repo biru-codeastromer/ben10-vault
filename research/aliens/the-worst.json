@@ -1,0 +1,93 @@
+{
+  "id": "the-worst",
+  "name": "The Worst",
+  "wikiTitle": "The Worst",
+  "kind": "standard",
+  "species": "Atrocian",
+  "homeworld": "Atrocius 0",
+  "bodyType": "Blob-like",
+  "debut": {
+    "episode": "Outbreak",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Near-total physical invulnerability - soft, malleable body absorbs heavy blows ('Atrocians are indestructible')",
+    "Withstands energy attacks such as Exo-Skull's laser",
+    "Lava immunity and heat resistance",
+    "Poison resistance",
+    "Enhanced strength (modest)",
+    "Limited resistance to Chronosapien/Chronian time rays thanks to dead skin and calluses"
+  ],
+  "weaknesses": [
+    "Feels every bit of pain despite being indestructible",
+    "No offensive options - effectively a punching bag",
+    "Needs oxygen: cannot breathe underwater or survive in space",
+    "Can be possessed by Ectonurites",
+    "Poison-resistant, not immune; can be killed by anything that disintegrates organic matter (e.g. the Non-Baryonic Disruptor Chamber)"
+  ],
+  "summary": "A fat yellow blob in green underwear that cannot be destroyed, cannot hurt anyone, and feels every hit - Ben's least favourite alien and one he never chose on purpose.",
+  "traits": [
+    "Omnitrix symbol on his outie belly button",
+    "Every single appearance was an unintentional transformation",
+    "Shares his home planet with Ball Weevil (Derrick J. Wyatt)",
+    "Design based on the way storyboard artist Jae Hong Kim draws aliens",
+    "Sharpened Taydenite could possibly break his skin"
+  ],
+  "notableFeats": [
+    "Defeated Mallice by absorbing her beating until she collapsed from exhaustion (No Honor Among Bros)",
+    "Survived Exo-Skull's laser and being tossed into Exo-Skull's horn, which flung him and Maltruant's crew into Mad Ben's timeline (It's a Mad, Mad, Mad Ben World: Part 1)",
+    "Tried to hold off Liam, Fistina, Bubble Helmet and Psyphon with the Plumbers (Outbreak)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Outbreak",
+      "notableEpisodes": [
+        "Outbreak",
+        "No Honor Among Bros",
+        "It's a Mad, Mad, Mad Ben World: Part 1"
+      ],
+      "designNotes": "Round yellow blob with wart-like bumps on forehead and arms, elephant-like three-toed feet, bear-like hands with blunt claws, green underwear with white stripes; Omnitrix symbol on the belly button.",
+      "image": {
+        "file": "OmniverseTheWorst.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (transparent) but only 250x257 - a cutout of the promo image 'N50b95ce2907ab_large-1-.png' (400x380, teal background)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 4,
+    "durability": 8,
+    "speed": 2,
+    "mobility": 2,
+    "offense": 1,
+    "defense": 6,
+    "special": 2,
+    "versatility": 2,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 2,
+    "survivability": 5,
+    "range": 0,
+    "cosmic": 0,
+    "weaknessPenalty": 3,
+    "controlPenalty": 2,
+    "rationale": "Durability 8: shrugs off Mallice's beating, Exo-Skull's laser and lava. That is the whole package - he cannot attack, barely moves, still feels pain, needs air, and Ben only ever became him by accident, hence heavy weakness and control penalties."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/The_Worst"
+  ],
+  "notes": [
+    "Home planet 'Atrocius 0' is marked '(formerly)' on the wiki - the Atrocians no longer live there.",
+    "One of four aliens accidentally unlocked by Blukic and Driba in Outbreak; voiced by Yuri Lowenthal there, then Dee Bradley Baker.",
+    "Albedo cannot transform into The Worst. Considered for the Reboot but unused."
+  ]
+}

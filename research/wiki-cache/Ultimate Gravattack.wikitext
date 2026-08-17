@@ -1,0 +1,97 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 901653
+|textcolor = 000000
+|name = Ultimate Gravattack
+|image = Ultimate Gravattack art.PNG
+|species = [[Ultimate Galilean]]
+|home-planet =
+|body = Planetary
+|normal form = [[Gravattack]]
+|power = Gravikinesis<br>Levitation<br>Orbitakinesis<br>Self-Gravity Manipulation<br>Enhanced Strength<br>Enhanced Durability
+|voice = [[David Kaye]]
+|1st-appearance = For a Few Brains More
+}}
+'''Ultimate Gravattack''' is the [[Ultimatrix]]'s artificially [[Ultimate Forms|evolved]] DNA sample of a [[Galilean]].
+
+== Appearance==
+Ultimate Gravattack no longer has legs and floats entirely by manipulating his gravitational field. His skin crust becomes more jagged, as crests and peaks form on the surface. His planetary core is engulfed in his mouth now, with a red spiral circling outwards. His hands are much larger than [[Gravattack]]'s.
+
+The most notable change, however, are the three smaller orbiting planetoids that spawn around him, caught in his gravitational field. They each have a little face on them that resembles Gravattack's original form in orbit mode.
+
+Ultimate Gravattack wears the [[Ultimatrix (Stabilizer)|Ultimatrix]] symbol on his chest.
+
+==Powers and Abilities==
+<gallery type="slideshow">
+FaFBM (358).png|Gravikinesis/Flight
+FaFBM (361).png|Levitating Planetoids
+</gallery>
+Like his devolved form, Ultimate Gravattack can control gravity to manipulate weight of objects, motion of objects, or slam them down to the ground with ease. He can make matter or energy orbit around him.
+
+Ultimate Gravattack can manipulate his own gravity in order to levitate.
+
+Like his devolved form, Ultimate Gravattack's three smaller orbiting planetoids each have gravikinesis.{{Refn|[[:File:Ultimate Gravattack's Planetoids' Power.png]]|group = DJW}}
+
+Being made of rock and naturally large, Ultimate Gravattack has enhanced strength and durability.
+
+Under the right circumstances, Ultimate Gravattack could control entire celestial bodies.{{Refn|[[:File:Ultimate Gravattack Potential.png]]|group = CM}}
+
+==Weaknesses==
+Ultimate Gravattack's large size makes fitting in smaller spaces difficult.
+
+Because he has no legs, Ultimate Gravattack must use levitation on himself, via gravikinesis, in order to be mobile at all.
+
+==History==
+===Omniverse=== 
+*Ultimate Gravattack first appeared in ''[[For a Few Brains More]]'', where he was used by [[Albedo]] to make [[Ben Tennyson (Classic)|Ben]] spin in his gravity and recovered [[Azmuth (Classic)|Azmuth]]'s brain.
+
+==Appearances ==
+===Omniverse===
+====Season 4====
+*''[[For a Few Brains More]]'' <small>(first appearance)</small>
+
+==Naming and Translations==
+{{Translation
+|russian = Ульти Граваттак
+|russiand = From ''Ульти Граватак'', Ulti Gravattack
+|ha = Gravattack Supremo
+|had = From ''Gravattack Supremo'', Supreme Gravattack
+|portuguesebr = Gravattack Supremo
+|portuguesebrd = From ''Gravattack Supremo'', Gravattack Supreme
+|polish = Ostateczny Gravattack
+|polishd = From ''Ostateczny Gravattack'', Ultimate Gravattack
+|romanian = Granit X
+|romaniand = From ''Granit X'', Gravattack X|italian=Ultra Planetario}}
+
+==Trivia== 
+*Negative Ultimate Gravattack's three smaller planetoids are sentient, and they may develop unique personalities over time.{{Refn|[[:File:Ultimate Gravattack's Planetoids Can Talk.PNG]]|group = DJW}}
+*Negative Ultimate Gravattack's planetoids resemble [[bulbapedia:Koffing (Pokémon)|Koffing]] from the '''[[Wikipedia:Pokémon|Pokémon]]''' franchise.
+*Negative Ultimate Gravattack was designed by [[Steven Choi]] alongside [[Chap Yaep]] and Dou Hong.{{Refn|[[:File:Derrick's work on the Ultimate forms.PNG]]|group = DJW}}
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Charlotte McDuffie]]====
+{{Reflist|group = CM}}
+{{Ben 10 Aliens}}
+{{Celestial Bodies Classic}}
+[[de:Ultimate Gravitonner]]
+[[es:Gravattack Supremo]]
+[[pl:Ostateczny Gravattack]]
+[[pt-br:Gravattack Supremo (Albedo)]]
+[[ro:Granit X]]
+[[ru:Ульти-Граваттак]]
+[[tr:Ultimate Gravattack]]
+[[Category:Aliens]]
+[[Category:Ultimate Forms]]
+[[Category:Omniverse Transformations]]
+[[Category:Albedo's Transformations]]
+[[Category:Transformations]]
+[[Category:Celestial Bodies]]
+[[Category:One-Time Aliens]]
+[[Category:Planets]]
+[[Category:One-Time Transformations]]
+[[Category:Classic Transformations]]
+[[Category:Classic Aliens]]

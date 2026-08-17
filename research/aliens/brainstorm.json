@@ -1,0 +1,138 @@
+{
+  "id": "brainstorm",
+  "name": "Brainstorm",
+  "wikiTitle": "Brainstorm",
+  "kind": "standard",
+  "species": "Cerebrocrustacean",
+  "homeworld": "Encephalonus IV",
+  "bodyType": "Crustacean-like",
+  "debut": {
+    "episode": "Pier Pressure",
+    "series": "af",
+    "usedBy": "ben-15-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Super-genius intellect (IQ ~10^30; instant calculation and prediction)",
+    "Bio-electrokinesis from his exposed brain (blasts, beams that downed Ship, controllable voltage)",
+    "Electrical telekinesis (moved trains and people)",
+    "Technokinesis (took control of machinery, a Yeti's neural implant)",
+    "Force fields and electrical pulses (toppled Ultimate Cannonbolt)",
+    "Sharp pincers that pierce metal",
+    "Levitation, wall and web scaling",
+    "Underwater breathing via gills"
+  ],
+  "weaknesses": [
+    "Must open his skull plates and concentrate to fire electricity; headaches (sonic screams) impair him",
+    "Shocks his own brain if plates are closed while discharging",
+    "Electric attacks ineffective vs Shock Staff / Vicetopus",
+    "Physically slow; struggles on slippery surfaces",
+    "Arrogant, verbose personality"
+  ],
+  "summary": "A crab-shelled super-genius who opens his skull to hurl bio-electricity and out-thinks every opponent; Ben's smartest Alien Force form.",
+  "traits": [
+    "IQ of one nonillion",
+    "British accent in AF/UA, Austrian in OV",
+    "Opens cranium plates to reveal his brain",
+    "Speaks in florid vocabulary"
+  ],
+  "notableFeats": [
+    "Defeated Ship and protected Julie in his debut (Pier Pressure)",
+    "Piloted Ship in Battle Mode to Augstaka (War of the Worlds: Part 2)",
+    "Built a Pyroxovore pen from a train (Inferno)",
+    "Took control of a Yeti to capture Dr. Animo (Escape From Aggregor)",
+    "Defeated Sentient Ultimate Cannonbolt (The Ultimate Sacrifice)",
+    "Defeated the Vengers and engineered their break-up (The Vengers)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af",
+        "ben-16-af"
+      ],
+      "firstEpisode": "Pier Pressure",
+      "notableEpisodes": [
+        "Pier Pressure",
+        "Good Copy, Bad Copy",
+        "Voided",
+        "War of the Worlds: Part 2",
+        "Inferno"
+      ],
+      "designNotes": "Rust-coloured crab body with six two-jointed legs, pincers, openable skull plates over a pink brain; silver/black neck brace holding the recalibrated Omnitrix symbol; yellow electricity.",
+      "image": {
+        "file": "Accurate Brainstorm.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Escape From Aggregor",
+      "notableEpisodes": [
+        "Escape From Aggregor",
+        "Fused",
+        "Eye of the Beholder",
+        "The Ultimate Sacrifice"
+      ],
+      "designNotes": "Same design as Alien Force with Ultimatrix on the neck brace. Heroes United cameo was more vibrant orange with black skull plates.",
+      "image": {
+        "file": "Accurate Brainstorm.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "Malefactor",
+      "notableEpisodes": [
+        "Malefactor",
+        "The Vengers"
+      ],
+      "designNotes": "Four single-jointed legs, black loincloth with green stripe, black/green head stripe, longer face spines, eyes joined by a black forehead band, elbow spikes; Omnitrix on a white-and-green neck brace; green electricity.",
+      "image": {
+        "file": "56724.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render (file redirects to Brainstorm_ov.png)"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 4,
+    "durability": 5,
+    "speed": 3,
+    "mobility": 4,
+    "offense": 6,
+    "defense": 6,
+    "special": 7,
+    "versatility": 7,
+    "intellect": 10,
+    "energy": 7,
+    "regeneration": 0,
+    "survivability": 4,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Genius-tier intellect (10) that predicts and out-plans opponents, backed by strong electrokinesis - beams that shot Ship down, telekinetic lifting of trains, technokinetic control and shields that toppled Ultimate Cannonbolt. Slow, physically modest, and his powers need concentration and open skull plates."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Brainstorm"
+  ],
+  "notes": [
+    "UA 'Fame'/'Video Games' entries were on-screen footage only; first true UA transformation is Escape From Aggregor.",
+    "Also used by Albedo (Negative Brainstorm, UA dream and OV).",
+    "AF S1 (wiki) = ben-15-af, AF S2 = ben-16-af."
+  ]
+}

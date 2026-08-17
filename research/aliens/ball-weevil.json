@@ -1,0 +1,101 @@
+{
+  "id": "ball-weevil",
+  "name": "Ball Weevil",
+  "wikiTitle": "Ball Weevil",
+  "kind": "standard",
+  "species": "Unknown",
+  "homeworld": "Unknown",
+  "bodyType": "Small four-legged insectoid",
+  "debut": {
+    "episode": "Of Predators and Prey: Part 1",
+    "series": "ov",
+    "usedBy": "ben-16-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Plasma ball generation - spits sticky green plasma spheres that explode on impact or on command",
+    "Matter and energy absorption - balls grow as they roll, and bigger balls make bigger explosions",
+    "Plasma whips and ropes - streams of plasma that tie up foes (momentarily held a Tetramand)",
+    "Plasma imprisonment of opponents",
+    "Rolls on top of his plasma balls for speed, even across water (they float)",
+    "Enhanced jumping, agility, flips and wall scaling",
+    "Small-space maneuvering",
+    "Surprising strength and durability for his size (stopped his own giant rolling ball; survives his own explosions)"
+  ],
+  "weaknesses": [
+    "Plasma is neutralised by Terroranchula webs and useless against species that withstand it (Arburian Pelarotas)",
+    "Can be hurt by his own balls if they are reflected back, and can get stuck in his own plasma",
+    "Small size is a disadvantage against large opponents such as Terroranchula, which trapped him in its web"
+  ],
+  "summary": "A tiny yellow beetle-like alien that spits sticky plasma balls which snowball up anything they roll over and then blow up on command.",
+  "traits": [
+    "Omnitrix symbol sits on a green-and-white neck brace",
+    "Concept names Turd Burglar and Collectiball; named by Matt Wayne",
+    "Design inspired by Pokemon; powers resemble Katamari Damacy",
+    "Matt Wayne's and Joe Kelly's favourite Omniverse alien",
+    "Comes from the same (unnamed) planet as The Worst"
+  ],
+  "notableFeats": [
+    "Defeated Princess Looma with Julie's help (Rules of Engagement)",
+    "Beat Computron's minions while de-aged to 11 (Arrested Development)",
+    "Held off Tyrannopede until Khyber's pet switched to Terroranchula (Showdown: Part 1)",
+    "Escaped the brainwashed Revonnahganders (While You Were Away)",
+    "Defeated Swift and Leander of the Rooters (The Rooters of All Evil)",
+    "Took down a Way Bad (Weapon XI: Part 2)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "Of Predators and Prey: Part 1",
+      "notableEpisodes": [
+        "Of Predators and Prey: Part 1",
+        "Arrested Development",
+        "Rules of Engagement",
+        "Showdown: Part 1",
+        "The Rooters of All Evil",
+        "Weapon XI: Part 2"
+      ],
+      "designNotes": "Small yellow insect with four stick legs, black eyes with green pupils, beak and a big forked antenna; Omnitrix symbol on a green/white neck brace.",
+      "image": {
+        "file": "Ball weevil omniverse official.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render (transparent) but tiny at 177x286. Larger official poses with plasma balls: 'Pose of Ball Weevil.png' (339x543) and 'Ball Weevil Pose - Mirrored.png' (1583x2048, horizontally flipped)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 4,
+    "durability": 4,
+    "speed": 5,
+    "mobility": 6,
+    "offense": 5,
+    "defense": 3,
+    "special": 5,
+    "versatility": 5,
+    "intellect": 3,
+    "energy": 3,
+    "regeneration": 1,
+    "survivability": 3,
+    "range": 4,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Snowballing explosive plasma is a decent gimmick - it beat Looma, two Rooters and a Way Bad - and riding the balls gives him speed, water-crossing and wall-scaling mobility. But he is tiny, only modestly tough, his plasma is countered by webs and Pelarotas, and it can backfire on him."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ball_Weevil"
+  ],
+  "notes": [
+    "Arrested Development use is wiki-labelled 'by 11-year-old Ben' - present-day Ben de-aged by Billy Billions' ray, not a flashback; recorded as ben-11-ov per the wiki label.",
+    "Species and home planet are unknown on the wiki (species page 'Ball Weevil's Species'); Derrick J. Wyatt says he shares a planet with The Worst.",
+    "Never locked in the Omnitrix (Derrick J. Wyatt). Sometimes spelled 'Ballweevil' in credits/OV brief.",
+    "Online/mobile games and comics (Down in the Dumps, Super Secret Crisis War!) not counted."
+  ]
+}

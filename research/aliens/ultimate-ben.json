@@ -1,0 +1,96 @@
+{
+  "id": "ultimate-ben",
+  "name": "Ultimate Ben",
+  "wikiTitle": "Ultimate Ben",
+  "kind": "ultimate",
+  "species": "Human (Evolved)",
+  "homeworld": "Earth",
+  "bodyType": "Human",
+  "debut": {
+    "episode": "Ben 10,000 Returns",
+    "series": "ua",
+    "usedBy": "ben-10k-ua"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Access to any Omnitrix alien's powers while remaining human (select via chest symbol; hologram appears behind him)",
+    "Ultimate Humungousaur strength (body bulks up)",
+    "Heatblast fire, Arctiguana freezing breath, freeze rays",
+    "Clockwork time rays",
+    "Jetray flight and levitation",
+    "XLR8 speed and reflexes; Spidermonkey agility",
+    "Diamondhead crystal eruptions, shard projectiles and time-ray immunity",
+    "Rapid switching between alien power sets mid-fight"
+  ],
+  "weaknesses": [
+    "Still a human body - no inherent alien durability unless channelling one",
+    "Only ever seen in the Ultimate Alien future, a timeline later erased; present-day Ben never gets it"
+  ],
+  "summary": "Ben 10,000's 'best transformation': the Ultimatrix-era future Ben evolves himself, gaining every alien's powers on demand without leaving human form. Fought Eon and his minions with a dozen power sets in one battle.",
+  "traits": [
+    "'What power comes with that?' - 'Pretty much all of 'em.'",
+    "Looks identical to Ben 10,000 except the symbol moves to his chest",
+    "Derrick J. Wyatt thought the idea was lame",
+    "Voiced by Sean Donnellan"
+  ],
+  "notableFeats": [
+    "Wiped out Eon's minions in Tennyson Tower using Heatblast, Arctiguana and Ultimate Humungousaur powers (Ben 10,000 Returns)",
+    "Countered Eon's time ray with Clockwork's powers, knocking Eon into the past (Ben 10,000 Returns)",
+    "Caught the falling Rustbucket 3 out of the air using Jetray's flight and strength (Ben 10,000 Returns)",
+    "Erupted Diamondhead crystals from the ground and shrugged off Eon's time ray as crystal (Ben 10,000 Returns)",
+    "Cast the Contego manna shield spell learned from Gwen (Ben 10,000 Returns)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-10k-ua"
+      ],
+      "firstEpisode": "Ben 10,000 Returns",
+      "notableEpisodes": [
+        "Ben 10,000 Returns"
+      ],
+      "designNotes": "Identical to UA Ben 10,000 (adult Ben, beard, white shirt with black stripe and green trousers) but the evolved Omnitrix symbol sits on his chest instead of the wrist; a hologram of the selected alien appears behind him; body grows and bulks when channelling Ultimate Humungousaur.",
+      "image": {
+        "file": "Crosedarmsultimate.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "Infobox image (episode screenshot showing chest symbol). Alternative: 'Ultimate Ben using Ultimate Humungousaur.png' (bulked-up form)."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 7,
+    "durability": 5,
+    "speed": 7,
+    "mobility": 7,
+    "offense": 7,
+    "defense": 6,
+    "special": 7,
+    "versatility": 10,
+    "intellect": 6,
+    "energy": 5,
+    "regeneration": 0,
+    "survivability": 5,
+    "range": 6,
+    "cosmic": 1,
+    "weaknessPenalty": 0,
+    "controlPenalty": 0,
+    "rationale": "Versatility is the whole point: strength of Ultimate Humungousaur, XLR8 speed, Jetray flight, Diamondhead crystals, Clockwork time rays and even magic, switched instantly, and he steamrolled Eon's forces. Rated on what was actually shown in one episode; still a human frame, so durability and raw single-dimension power sit below the top Ultimates."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Ben",
+    "https://ben10.fandom.com/wiki/Ben_10,000_(Ultimate_Alien)",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "Used only by the Ultimate Alien future Ben 10,000 (ben-10k-ua) via his evolved Omnitrix - twice in 'Ben 10,000 Returns' (second activation off-screen).",
+    "kind is 'ultimate' with baseFormId null: it is Ben's own human DNA evolved, not an alien.",
+    "Wiki species field: 'Human (Altered)'; recorded here as 'Human (Evolved)' per project convention.",
+    "The freeze-ray use is from an unidentified alien (probably Big Chill).",
+    "The UA future timeline was later erased/pruned in Omniverse (per Derrick J. Wyatt), so this form has no OV counterpart.",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

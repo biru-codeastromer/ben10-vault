@@ -1,0 +1,166 @@
+{
+  "id": "diamondhead",
+  "name": "Diamondhead",
+  "wikiTitle": "Diamondhead (Classic)",
+  "kind": "standard",
+  "species": "Petrosapien",
+  "homeworld": "Petropia",
+  "bodyType": "Crystalline humanoid",
+  "debut": {
+    "episode": "And Then There Were 10",
+    "series": "os",
+    "usedBy": "ben-10-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Crystallokinesis (crystal pillars, walls, ramps, entrapment)",
+    "Body shapeshifting into blades, bludgeons, shields, swords",
+    "Crystal shard projectiles",
+    "Energy refraction/redirection and limited absorption",
+    "Near-invulnerable crystal body",
+    "Regeneration of broken pieces",
+    "Enhanced strength",
+    "Space, lava and acid survivability",
+    "Time-ray resistance",
+    "Crystal surfing / burrowing"
+  ],
+  "weaknesses": [
+    "Sonic vibrations (Loboan howls, Ultimate Echo Echo discs) can shatter or knock him out",
+    "Cannot regenerate if his body is completely disassembled",
+    "Back shards can leave him stuck in walls",
+    "Can be trapped in crystal (Petropia Back-up Crystal)"
+  ],
+  "summary": "A living-crystal Petrosapien who grows and hurls diamond-hard crystal, reshapes his limbs into blades and refracts energy beams; one of Ben's toughest all-rounders.",
+  "traits": [
+    "Body of aquamarine diamond-like crystal",
+    "AF/UA version was bonded with Chromastone's Crystalsapien DNA",
+    "Restored the planet Petropia (The Secret of Chromastone)",
+    "Sharp crystal head and back shards"
+  ],
+  "notableFeats": [
+    "Beat Vilgax's giant Mechadroid on his first use (And Then There Were 10)",
+    "Defeated Vilgax after Chromastone's destruction (Vengeance of Vilgax: Part 2)",
+    "Restored Petropia with the Back-up Crystal (The Secret of Chromastone)",
+    "Survived being punched from Galvan Prime to Galvan B by Malgax (Malgax Attacks)",
+    "Fought Rex and deflected Caesar's Null Void projector (Heroes United)",
+    "Defeated Malware as an 11-year-old (Trouble Helix)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10-os",
+        "ben-10k-os"
+      ],
+      "firstEpisode": "And Then There Were 10",
+      "notableEpisodes": [
+        "And Then There Were 10",
+        "Hunted",
+        "Secrets",
+        "Grudge Match",
+        "Ben 10 vs. Negative 10: Part 1",
+        "Ben 10: Race Against Time"
+      ],
+      "designNotes": "Yellow eyes; sleeveless uniform black on the right and white on the left, black shoulder patch with the original Omnitrix; four back shards. Ben 10,000's version wears a black shirt, white pants and the Omnitrix on his chest. Race Against Time (alt timeline) version is semi-translucent.",
+      "image": {
+        "file": "Diamondhead OS.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-16-af"
+      ],
+      "firstEpisode": "Vengeance of Vilgax: Part 2",
+      "notableEpisodes": [
+        "Vengeance of Vilgax: Part 2",
+        "If All Else Fails",
+        "The Secret of Chromastone",
+        "Vendetta"
+      ],
+      "designNotes": "Chromastone-like indigo rock on lower body, torso and head crown, six back shards plus two chest shards, green eyes, Omnitrix on chest (shared AF/UA 'UAF' design). Bonded with Crystalsapien DNA in this era.",
+      "image": {
+        "file": "Diamondhead UAF.PNG",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Basic Training",
+      "notableEpisodes": [
+        "Basic Training",
+        "The Ultimate Sacrifice",
+        "Ben 10/Generator Rex: Heroes United",
+        "Couples Retreat"
+      ],
+      "designNotes": "Same UAF design as Alien Force (indigo rock, chest shards, green eyes, Ultimatrix on chest). Heroes United adds forearm blades in Generator Rex's style.",
+      "image": {
+        "file": "Diamondhead UAF.PNG",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov",
+        "ben-11-ov"
+      ],
+      "firstEpisode": "It Was Them",
+      "notableEpisodes": [
+        "It Was Them",
+        "Trouble Helix",
+        "Ben Again",
+        "And Then There Was Ben",
+        "Collect This",
+        "Malgax Attacks"
+      ],
+      "designNotes": "16-year-old: all-black sleeveless suit with a green centre stripe, black pants, green/white Omnitrix belt, only two long back shards, no chest crystals, larger jaw. 11-year-old: OS-style half black/half white suit, green eyes and green Omnitrix.",
+      "image": {
+        "file": "Diamondhead OV.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 7,
+    "durability": 9,
+    "speed": 4,
+    "mobility": 5,
+    "offense": 7,
+    "defense": 7,
+    "special": 6,
+    "versatility": 7,
+    "intellect": 4,
+    "energy": 5,
+    "regeneration": 4,
+    "survivability": 6,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Diamond-hard body shrugs off Vilgax, Sunder's axe and a Galvan-Prime-to-Galvan-B punch, refracts lasers, and his crystal generation is a flexible offense/defense toolkit. Slow and grounded, and sonic vibrations can shatter him outright."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Diamondhead_(Classic)"
+  ],
+  "notes": [
+    "Wiki AF 'Season 2' = spec's AF Season 3 (Vengeance of Vilgax onward), so AF usedBy is ben-16-af.",
+    "Also used by Kevin (Framed), Gwen Prime (Inspector 13, UA), Albedo (The Final Battle: Part 1), Bioids, Gwen 10 and Mad Ben (OV) - not counted.",
+    "Ben 10,000 Returns: Ultimate Ben used Diamondhead's powers without transforming - not counted.",
+    "Editorial score calibration (principal pass): regeneration 6→4, survivability 8→6, defense 8→7 — to keep the roster ladder consistent across research batches."
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "echo-echo",
+  "name": "Echo Echo",
+  "wikiTitle": "Echo Echo",
+  "kind": "standard",
+  "species": "Sonorosian",
+  "homeworld": "Sonorosia",
+  "bodyType": "Humanoid (small, silicon-based)",
+  "debut": {
+    "episode": "Ben 10 Returns: Part 2",
+    "series": "af",
+    "usedBy": "ben-15-af"
+  },
+  "baseFormId": null,
+  "ultimateFormId": "ultimate-echo-echo",
+  "componentIds": [],
+  "abilities": [
+    "Sonic screams (audible to ultrasonic; shatter steel, redirect projectiles, damage Taydenite)",
+    "Self-duplication (unlimited clones that act in harmony)",
+    "Wall of Sound / echo chamber combo attacks with clones",
+    "Audiokinesis and sonic amplification (can scream through phone speakers)",
+    "Sonic force fields",
+    "Echolocation",
+    "Object and even Omnitrix-user duplication (glitch power)",
+    "Levitation",
+    "Enhanced jumping and durability"
+  ],
+  "weaknesses": [
+    "Screams hurt his teammates' ears",
+    "Number of clones limited by available energy",
+    "Vulnerable to fire, neuroshock blasts and Cerebrocrustacean electricity",
+    "Can be knocked out by Argit's quills",
+    "Susceptible to the cold virus"
+  ],
+  "summary": "A tiny white sonic alien who multiplies himself and screams hard enough to shatter steel; strength in numbers rather than size.",
+  "traits": [
+    "Wears headphones so his own screams don't hurt him",
+    "Clones finish each other's sentences",
+    "MP3-player-like appendage on his back",
+    "One of the smallest Alien Force aliens"
+  ],
+  "notableFeats": [
+    "Destroyed a mechanical dragon and a pile of Laser Lances in his debut (Ben 10 Returns: Part 2)",
+    "Located a Teleporter Pod on Turrawuste by echolocation (Alone Together)",
+    "Cloned the Ultimatrix and Ben himself into three Bens (Duped)",
+    "Contained a nuclear bomb at the Plumbers' Academy before going Ultimate (The Enemy of My Enemy)",
+    "Threw a Plumber ship into a lake with his clones (Prisoner Number 775 is Missing)",
+    "Took out Vilgax with a sonic sneeze (The Secret of Chromastone)"
+  ],
+  "appearances": [
+    {
+      "series": "af",
+      "usedBy": [
+        "ben-15-af",
+        "ben-16-af"
+      ],
+      "firstEpisode": "Ben 10 Returns: Part 2",
+      "notableEpisodes": [
+        "Ben 10 Returns: Part 2",
+        "Kevin's Big Score",
+        "Alone Together",
+        "Above and Beyond",
+        "The Secret of Chromastone"
+      ],
+      "designNotes": "Small white silicon humanoid, round head, green sound-hole circles on hands, cassette-like tapes on lower legs, headphones wired to a backpack appendage; recalibrated Omnitrix symbol on chest.",
+      "image": {
+        "file": "EEAFT.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Duped",
+      "notableEpisodes": [
+        "Duped",
+        "The Enemy of My Enemy",
+        "Absolute Power: Part 2",
+        "Viktor: The Spoils",
+        "Prisoner Number 775 is Missing",
+        "Inspector 13"
+      ],
+      "designNotes": "Same design as Alien Force with the Ultimatrix symbol on chest. Heroes United variant had bigger eyes and a black mouth (non-diegetic flashback only).",
+      "image": {
+        "file": "EEAFT.png",
+        "label": "UAF",
+        "confidence": "high",
+        "notes": "infobox UAF render (identical AF/UA design)"
+      }
+    },
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-16-ov"
+      ],
+      "firstEpisode": "It Was Them",
+      "notableEpisodes": [
+        "It Was Them",
+        "Blukic and Driba Go to Mr. Smoothy's",
+        "Special Delivery",
+        "Tummy Trouble"
+      ],
+      "designNotes": "Shorter and stubbier: bulging eyes, two black stripes on each earplug, three toes, larger green hand circles, circular stomach mark, leg tapes gone, wider less-round head; Omnitrix symbol on forehead.",
+      "image": {
+        "file": "FullEchoEchoArt1.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "infobox OV render"
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 3,
+    "durability": 5,
+    "speed": 4,
+    "mobility": 5,
+    "offense": 6,
+    "defense": 5,
+    "special": 7,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 4,
+    "regeneration": 2,
+    "survivability": 4,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 2,
+    "controlPenalty": 0,
+    "rationale": "Small and weak individually but his duplication plus sonic screams form a signature combo (Wall of Sound, echo chamber) that beat Helen and pinned Ultimate Kevin; screams shatter steel and can travel through phones. Survives as long as one clone remains. Vulnerable to fire, electricity and neuroshocks, and clone count is energy-limited."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Echo_Echo"
+  ],
+  "notes": [
+    "UA 'Fame' sighting was TV footage; first true UA transformation is Duped.",
+    "OV Season 8 uses were by Skurd borrowing Echo Echo's megaphone, not Ben transformations.",
+    "Whether Echo Echo is a containment suit is disputed (McDuffie vs. Wyatt); wiki treats him as a natural body.",
+    "AF S1 (wiki) = ben-15-af, AF S2 = ben-16-af."
+  ]
+}

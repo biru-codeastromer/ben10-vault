@@ -1,0 +1,68 @@
+{
+  "id": "ultimate-arctiguana",
+  "name": "Ultimate Arctiguana",
+  "wikiTitle": "Ultimate Arctiguana",
+  "kind": "ultimate",
+  "species": "Ultimate Polar Manzardill",
+  "homeworld": "",
+  "bodyType": "Bulky armoured reptile",
+  "debut": {
+    "episode": "For a Few Brains More",
+    "series": "ov",
+    "usedBy": "albedo"
+  },
+  "baseFormId": "arctiguana",
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Twin shoulder-mounted ice cannons",
+    "Freeze rays fired from the cannons",
+    "Freeze rays that solidify mid-air into large ice boulders",
+    "Bulkier armoured body than Arctiguana"
+  ],
+  "weaknesses": [
+    "No dedicated weakness section on the wiki; only a brief cameo, so limits are unknown",
+    "Bulky, slow-looking build with cannons as the only shown attack"
+  ],
+  "summary": "Albedo's evolved Polar Manzardill: a bulked-up, red-armoured Arctiguana with two Blastoise-style ice cannons on his shoulders that fire freeze rays and mid-air ice boulders.",
+  "traits": [
+    "Only ever used by Albedo",
+    "One-scene cameo",
+    "Designed by Dou Hong with Steven Choi and Chap Yaep",
+    "Voiced by Eric Bauza"
+  ],
+  "notableFeats": [
+    "Pursued Ben, Rook and Max, bombarding them with freeze rays and ice boulders while trying to recover Azmuth's brain (For a Few Brains More)"
+  ],
+  "appearances": [],
+  "scoring": {
+    "strength": 5,
+    "durability": 7,
+    "speed": 3,
+    "mobility": 4,
+    "offense": 7,
+    "defense": 6,
+    "special": 5,
+    "versatility": 4,
+    "intellect": 4,
+    "energy": 5,
+    "regeneration": 0,
+    "survivability": 6,
+    "range": 6,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Only one cameo: shoulder cannons that fire freeze rays and mid-air ice boulders give it real ranged offense, and the bulk implies durability, but nothing else was demonstrated. Rated modestly above a base ice alien with wide uncertainty."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Arctiguana",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "ALBEDO-ONLY: this form was used exclusively by Albedo via his stabilizer Ultimatrix in Omniverse (red eyes/red symbol, direct transformation without passing through the base form). No version of Ben ever used it, so 'appearances' is intentionally empty and it should be excluded from the wall while the record is kept.",
+    "Single appearance: 'For a Few Brains More' (OV S4), listed by the wiki as a cameo.",
+    "Infobox image 'Negative Ultimate Articguana.png' (note wiki misspelling) shows Albedo's red-symbol version - the only art that exists for this form.",
+    "Score is speculative given one scene; baseFormId 'arctiguana' assumes the base research id.",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

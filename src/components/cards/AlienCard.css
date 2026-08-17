@@ -1,0 +1,821 @@
+/* =====================================================================
+   Alien Card — the collectible. Portrait 5:7. Tiered treatments:
+   1 Standard · 2 Advanced · 3 Elite · 4 Apex · 5 Legendary · 6 Cosmic · 7 Infinite
+   Era colours come from [data-era] tokens; tiers change frame, lighting, background.
+   ===================================================================== */
+
+.acard-btn {
+  display: block;
+  width: 100%;
+  text-align: left;
+  border-radius: calc(var(--era-radius) + 4px);
+}
+
+.acard {
+  --frame: 3px;
+  --pad: 12px;
+  --card-bg: linear-gradient(170deg, #12171a 0%, #0a0d0f 60%, #070909 100%);
+  --frame-bg: linear-gradient(160deg, color-mix(in srgb, var(--era) 55%, #1a1f1c), color-mix(in srgb, var(--era) 18%, #0d100e) 55%, #0a0c0b);
+  --name-color: var(--era-ink);
+  --glow: 0 0 0 rgba(0, 0, 0, 0);
+  position: relative;
+  aspect-ratio: 5 / 7;
+  border-radius: calc(var(--era-radius) + 4px);
+  transform-style: preserve-3d;
+  will-change: transform;
+  transition: filter var(--dur) var(--ease-out);
+  filter: drop-shadow(0 18px 28px rgba(0, 0, 0, 0.55));
+}
+
+.acard.is-hover {
+  filter: drop-shadow(0 28px 40px rgba(0, 0, 0, 0.7)) drop-shadow(0 0 22px color-mix(in srgb, var(--era) 30%, transparent));
+}
+
+.acard__frame {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: var(--frame);
+  background: var(--frame-bg);
+  overflow: hidden;
+  transform: translateZ(0);
+}
+
+.acard__edge {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  z-index: 3;
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.14);
+}
+
+.acard__inner {
+  position: relative;
+  height: 100%;
+  border-radius: calc(var(--era-radius) + 1px);
+  background: var(--card-bg);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 1;
+}
+
+/* ---- header ---- */
+.acard__head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+  padding: var(--pad) var(--pad) 6px;
+  min-height: 52px;
+}
+
+.acard__name {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--era-font);
+  font-weight: 400;
+  font-size: clamp(16px, 1.55vw, 21px);
+  line-height: 1;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--name-color);
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.6);
+  word-break: break-word;
+}
+
+[data-era='af'] .acard__name,
+[data-era='ua'] .acard__name {
+  font-size: clamp(12px, 1.15vw, 15px);
+  letter-spacing: 0.06em;
+  line-height: 1.15;
+}
+
+[data-era='ov'] .acard__name {
+  font-size: clamp(15px, 1.4vw, 19px);
+  letter-spacing: 0.01em;
+}
+
+.acard__ult {
+  font-family: var(--font-ui);
+  font-weight: 800;
+  font-size: 10px;
+  letter-spacing: 0.3em;
+  color: var(--era-2);
+  margin-bottom: 4px;
+}
+
+.acard__badge {
+  flex-shrink: 0;
+  filter: drop-shadow(0 0 6px color-mix(in srgb, var(--era) 60%, transparent));
+}
+
+/* ---- art window ---- */
+.acard__art {
+  position: relative;
+  flex: 1 1 auto;
+  min-height: 0;
+  margin: 0 var(--pad);
+  border-radius: calc(var(--era-radius) - 6px);
+  overflow: hidden;
+  isolation: isolate;
+  transform: translateZ(0);
+}
+
+.acard__art-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background:
+    radial-gradient(90% 70% at 50% 100%, color-mix(in srgb, var(--era) 40%, transparent) 0%, transparent 65%),
+    radial-gradient(60% 40% at 50% 0%, rgba(255, 255, 255, 0.05), transparent 70%),
+    linear-gradient(180deg, color-mix(in srgb, var(--era-bg-b, #0e1512) 80%, #000) 0%, var(--era-bg-a, #06100a) 100%);
+}
+
+/* era-specific texture inside the art window */
+[data-era='os'] .acard__art-bg::after,
+[data-era='af'] .acard__art-bg::after,
+[data-era='ua'] .acard__art-bg::after,
+[data-era='ov'] .acard__art-bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  opacity: 0.5;
+  mask-image: linear-gradient(to bottom, #000, transparent 85%);
+  -webkit-mask-image: linear-gradient(to bottom, #000, transparent 85%);
+}
+
+[data-era='os'] .acard__art-bg::after {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40'><circle cx='20' cy='20' r='1.2' fill='rgba(140,240,90,0.22)'/></svg>");
+}
+
+[data-era='af'] .acard__art-bg::after {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48'><path d='M0 24 H48 M24 0 V48' stroke='rgba(120,230,120,0.10)' stroke-width='1'/></svg>");
+}
+
+[data-era='ua'] .acard__art-bg::after {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60' height='60'><path d='M0 60 L60 0' stroke='rgba(90,240,120,0.10)' stroke-width='1'/></svg>");
+}
+
+[data-era='ov'] .acard__art-bg::after {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='36' height='36'><path d='M0 0 L36 36 M36 0 L0 36' stroke='rgba(120,240,120,0.12)' stroke-width='1.2'/></svg>");
+}
+
+.acard__img,
+.alien-art {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center bottom;
+  padding: 6% 6% 0;
+  opacity: 0;
+  transform: translateY(6px) scale(1);
+  transition: opacity 0.5s ease, transform 0.6s var(--ease-out);
+  filter: drop-shadow(0 12px 14px rgba(0, 0, 0, 0.55));
+}
+
+.alien-art.is-loaded {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+
+.alien-art.is-loaded.is-hover {
+  transform: translateY(-3px) scale(1.035);
+}
+
+.alien-art--missing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: var(--era-2);
+  opacity: 1;
+  transform: none;
+  padding: 0;
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 0.24em;
+}
+
+.alien-art--missing svg {
+  width: 40%;
+  height: auto;
+}
+
+.acard__art-fade {
+  position: absolute;
+  inset: auto 0 0;
+  height: 26%;
+  z-index: 2;
+  background: linear-gradient(to top, rgba(6, 8, 8, 0.85), transparent);
+  pointer-events: none;
+}
+
+.acard__tag {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  z-index: 3;
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-family: var(--font-ui);
+  font-weight: 800;
+  font-size: 10px;
+  letter-spacing: 0.22em;
+  color: #06120a;
+  background: var(--era-2);
+}
+
+.acard__tag--10k {
+  background: #f2f4f0;
+}
+
+/* ---- footer ---- */
+.acard__foot {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas:
+    'score class'
+    'species species'
+    'abilities abilities';
+  column-gap: 12px;
+  row-gap: 4px;
+  padding: 10px var(--pad) calc(var(--pad) + 2px);
+}
+
+.acard__score {
+  grid-area: score;
+  display: flex;
+  align-items: baseline;
+  gap: 2px;
+  font-family: var(--font-ui);
+  font-weight: 800;
+  line-height: 1;
+  color: var(--era-2);
+  text-shadow: 0 0 14px color-mix(in srgb, var(--era) 55%, transparent);
+}
+
+.acard__score-num {
+  font-size: clamp(30px, 3vw, 40px);
+  letter-spacing: -0.02em;
+}
+
+.acard__score-den {
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: var(--ink-mute);
+  text-shadow: none;
+}
+
+.acard__class {
+  grid-area: class;
+  align-self: end;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+  padding-bottom: 3px;
+}
+
+.acard__class-name {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+
+.acard__class-tier {
+  font-size: 7px;
+  letter-spacing: 3px;
+  color: var(--era);
+  opacity: 0.9;
+}
+
+.acard__species {
+  grid-area: species;
+  font-family: var(--font-ui);
+  font-weight: 500;
+  font-size: 12.5px;
+  letter-spacing: 0.08em;
+  color: var(--ink-dim);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.acard__abilities {
+  grid-area: abilities;
+  list-style: none;
+  margin: 2px 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  max-height: 44px;
+  overflow: hidden;
+}
+
+.acard__abilities li {
+  font-family: var(--font-ui);
+  font-weight: 600;
+  font-size: 10.5px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 3px 7px;
+  border-radius: 5px;
+  border: 1px solid color-mix(in srgb, var(--era) 30%, transparent);
+  color: color-mix(in srgb, var(--era-2) 80%, #fff);
+  background: color-mix(in srgb, var(--era) 8%, transparent);
+  white-space: nowrap;
+}
+
+/* ---- lighting layers ---- */
+.acard__shine {
+  position: absolute;
+  inset: 0;
+  z-index: 4;
+  pointer-events: none;
+  border-radius: inherit;
+  opacity: 0;
+  background: radial-gradient(60% 40% at var(--sx, 50%) var(--sy, 30%), rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.04) 40%, transparent 70%);
+  mix-blend-mode: screen;
+  transition: opacity var(--dur);
+}
+
+.acard.is-hover .acard__shine {
+  opacity: 1;
+}
+
+.acard__foil,
+.acard__energy {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  border-radius: inherit;
+}
+
+/* =====================================================================
+   TIERS
+   ===================================================================== */
+
+/* 1 · Standard — clean franchise styling, matte frame */
+.tier-1 {
+  --frame: 3px;
+  --frame-bg: linear-gradient(160deg, color-mix(in srgb, var(--era) 40%, #1a1f1c), #101412 60%, #0a0c0b);
+}
+
+/* 2 · Advanced — brighter edge, subtle inner glow */
+.tier-2 {
+  --frame: 3px;
+  --frame-bg: linear-gradient(160deg, color-mix(in srgb, var(--era) 70%, #1a1f1c), color-mix(in srgb, var(--era) 20%, #101412) 55%, #0a0c0b);
+}
+
+.tier-2 .acard__inner {
+  box-shadow: inset 0 0 40px color-mix(in srgb, var(--era) 8%, transparent);
+}
+
+/* 3 · Elite — brushed-metal frame, embossed edge, richer art backdrop */
+.tier-3 {
+  --frame: 5px;
+  --frame-bg:
+    linear-gradient(115deg, #d9dfe4 0%, #8b939b 18%, #e8edf1 32%, #6f777f 50%, #c9d0d6 66%, #7d858d 82%, #dfe5ea 100%);
+}
+
+.tier-3 .acard__edge {
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, 0.35),
+    inset 0 2px 0 rgba(255, 255, 255, 0.5),
+    inset 0 -2px 0 rgba(0, 0, 0, 0.35);
+}
+
+.tier-3 .acard__inner {
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--era) 60%, transparent), inset 0 0 50px color-mix(in srgb, var(--era) 10%, transparent);
+}
+
+.tier-3 .acard__art-bg {
+  background:
+    radial-gradient(90% 70% at 50% 100%, color-mix(in srgb, var(--era) 55%, transparent) 0%, transparent 65%),
+    radial-gradient(60% 40% at 50% 0%, rgba(255, 255, 255, 0.08), transparent 70%),
+    linear-gradient(180deg, color-mix(in srgb, var(--era-bg-b, #0e1512) 85%, #000) 0%, var(--era-bg-a, #06100a) 100%);
+}
+
+/* 4 · Apex — living energy border (rotating conic), stronger presence */
+@property --acard-angle {
+  syntax: '<angle>';
+  inherits: false;
+  initial-value: 0deg;
+}
+
+.tier-4 {
+  --frame: 4px;
+  --frame-bg: #0b0d0c;
+}
+
+.tier-4 .acard__energy {
+  z-index: 0;
+  inset: -40%;
+  background: conic-gradient(from var(--acard-angle), transparent 0deg, var(--era) 60deg, var(--era-2) 90deg, transparent 140deg, transparent 200deg, var(--era) 260deg, transparent 320deg);
+  animation: acard-spin 5.5s linear infinite;
+  opacity: 0.95;
+}
+
+.tier-4 .acard__inner {
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--era) 45%, transparent), inset 0 0 60px color-mix(in srgb, var(--era) 12%, transparent);
+}
+
+.tier-4 .acard__art-bg {
+  background:
+    radial-gradient(90% 75% at 50% 100%, color-mix(in srgb, var(--era) 62%, transparent) 0%, transparent 62%),
+    repeating-conic-gradient(from 90deg at 50% 100%, rgba(255, 255, 255, 0.05) 0deg 6deg, transparent 6deg 14deg),
+    linear-gradient(180deg, color-mix(in srgb, var(--era-bg-b, #0e1512) 85%, #000) 0%, var(--era-bg-a, #06100a) 100%);
+}
+
+.tier-4 .acard__score {
+  text-shadow: 0 0 18px var(--era-glow), 0 0 40px var(--era-glow);
+}
+
+/* 5 · Legendary — holographic foil, rays, drifting sparks */
+.tier-5 {
+  --frame: 5px;
+  --frame-bg: linear-gradient(160deg, #f4f7f2 0%, color-mix(in srgb, var(--era-2) 70%, #fff) 30%, #c8ccc4 55%, var(--era) 80%, #f4f7f2 100%);
+}
+
+.tier-5 .acard__energy {
+  inset: -40%;
+  background: conic-gradient(from var(--acard-angle), transparent 0deg, rgba(255, 255, 255, 0.9) 40deg, var(--era-2) 70deg, transparent 120deg, transparent 180deg, #ffffff 220deg, var(--era) 250deg, transparent 300deg);
+  animation: acard-spin 4s linear infinite;
+}
+
+.tier-5 .acard__foil {
+  z-index: 3;
+  opacity: 0.55;
+  mix-blend-mode: color-dodge;
+  background: linear-gradient(115deg, transparent 20%, rgba(255, 255, 255, 0.35) 38%, rgba(140, 255, 200, 0.35) 44%, rgba(120, 200, 255, 0.35) 50%, rgba(255, 255, 255, 0.35) 56%, transparent 74%);
+  background-size: 250% 250%;
+  animation: acard-foil 5s ease-in-out infinite;
+}
+
+.tier-5 .acard__art-bg {
+  background:
+    radial-gradient(90% 75% at 50% 100%, color-mix(in srgb, var(--era) 70%, transparent) 0%, transparent 60%),
+    repeating-conic-gradient(from 90deg at 50% 100%, rgba(255, 255, 255, 0.07) 0deg 4deg, transparent 4deg 10deg),
+    linear-gradient(180deg, color-mix(in srgb, var(--era-bg-b, #0e1512) 85%, #000) 0%, var(--era-bg-a, #06100a) 100%);
+}
+
+.tier-5 .acard__art-bg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(1.5px 1.5px at 20% 30%, rgba(255, 255, 255, 0.9), transparent),
+    radial-gradient(1px 1px at 70% 20%, rgba(255, 255, 255, 0.8), transparent),
+    radial-gradient(1.5px 1.5px at 85% 60%, rgba(255, 255, 255, 0.7), transparent),
+    radial-gradient(1px 1px at 35% 70%, rgba(255, 255, 255, 0.7), transparent),
+    radial-gradient(1.5px 1.5px at 55% 45%, rgba(255, 255, 255, 0.9), transparent);
+  animation: acard-drift 8s ease-in-out infinite alternate;
+}
+
+.tier-5 .acard__name {
+  color: #ffffff;
+  text-shadow: 0 0 16px var(--era-glow), 0 2px 0 rgba(0, 0, 0, 0.6);
+}
+
+.tier-5 .acard__score {
+  color: #ffffff;
+  text-shadow: 0 0 20px var(--era-glow), 0 0 44px var(--era-glow);
+}
+
+/* 6 · Cosmic — deep-space frame, starfield inside the art, pulsing aura */
+.tier-6 {
+  --frame: 5px;
+  --frame-bg: linear-gradient(160deg, #1b1035 0%, #0b0819 40%, #2a1650 60%, #0a0716 100%);
+  --card-bg: linear-gradient(170deg, #0c0a1a 0%, #060510 60%, #030308 100%);
+  --name-color: #f6f2ff;
+}
+
+.tier-6 .acard__energy {
+  inset: -45%;
+  background: conic-gradient(from var(--acard-angle), transparent 0deg, #8f7bff 40deg, #ffffff 60deg, var(--era-2) 80deg, transparent 130deg, transparent 200deg, #b48cff 240deg, transparent 300deg);
+  animation: acard-spin 7s linear infinite;
+  opacity: 0.9;
+}
+
+.tier-6 .acard__inner {
+  box-shadow: inset 0 0 0 1px rgba(170, 150, 255, 0.35), inset 0 0 70px rgba(120, 90, 255, 0.12);
+}
+
+.tier-6 .acard__art-bg {
+  background:
+    radial-gradient(80% 60% at 50% 100%, rgba(120, 90, 255, 0.45) 0%, transparent 65%),
+    radial-gradient(60% 50% at 30% 20%, rgba(90, 215, 42, 0.18), transparent 60%),
+    linear-gradient(180deg, #0f0b24 0%, #05040d 100%);
+}
+
+.acard__stars {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-image:
+    radial-gradient(1.5px 1.5px at 12% 22%, #fff, transparent),
+    radial-gradient(1px 1px at 28% 68%, #fff, transparent),
+    radial-gradient(1.5px 1.5px at 44% 14%, #fff, transparent),
+    radial-gradient(1px 1px at 58% 52%, #cfd8ff, transparent),
+    radial-gradient(1.5px 1.5px at 72% 30%, #fff, transparent),
+    radial-gradient(1px 1px at 86% 76%, #fff, transparent),
+    radial-gradient(1px 1px at 20% 88%, #fff, transparent),
+    radial-gradient(1.5px 1.5px at 66% 86%, #e6ffcf, transparent),
+    radial-gradient(1px 1px at 92% 12%, #fff, transparent),
+    radial-gradient(1px 1px at 38% 40%, #fff, transparent);
+  animation: acard-twinkle 3.6s ease-in-out infinite alternate;
+}
+
+.tier-6 .acard__score,
+.tier-6 .acard__ult {
+  color: #efeaff;
+  text-shadow: 0 0 20px rgba(160, 130, 255, 0.8), 0 0 40px rgba(160, 130, 255, 0.5);
+}
+
+.tier-6 .acard__abilities li {
+  border-color: rgba(170, 150, 255, 0.35);
+  color: #e6ddff;
+  background: rgba(120, 90, 255, 0.1);
+}
+
+.tier-6 .acard__class-tier {
+  color: #b7a6ff;
+}
+
+/* 7 · Infinite — the one. Black, luminous white edge, living starfield, no ordinary frame */
+.tier-7 {
+  --frame: 2px;
+  --frame-bg: linear-gradient(160deg, #ffffff 0%, #b9c7ff 30%, #ffffff 50%, #8ec5ff 75%, #ffffff 100%);
+  --card-bg: radial-gradient(120% 90% at 50% 20%, #0b1024 0%, #04050c 55%, #000 100%);
+  --name-color: #ffffff;
+}
+
+.tier-7 .acard__energy {
+  inset: -50%;
+  background: conic-gradient(from var(--acard-angle), rgba(255, 255, 255, 0) 0deg, rgba(255, 255, 255, 0.95) 30deg, #9ec8ff 60deg, rgba(255, 255, 255, 0) 110deg, rgba(255, 255, 255, 0) 180deg, #ffffff 210deg, #c9d9ff 240deg, rgba(255, 255, 255, 0) 290deg);
+  animation: acard-spin 9s linear infinite;
+  filter: blur(6px);
+}
+
+.tier-7 .acard__inner {
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.5), inset 0 0 90px rgba(120, 160, 255, 0.18);
+}
+
+.tier-7 .acard__art-bg {
+  background:
+    radial-gradient(70% 55% at 50% 100%, rgba(140, 170, 255, 0.35) 0%, transparent 65%),
+    radial-gradient(90% 60% at 50% 30%, rgba(255, 255, 255, 0.05), transparent 60%),
+    linear-gradient(180deg, #050816 0%, #000 100%);
+}
+
+.tier-7 .acard__art-bg::before {
+  content: '';
+  position: absolute;
+  inset: -20%;
+  background: conic-gradient(from 0deg, transparent 0deg, rgba(255, 255, 255, 0.05) 60deg, transparent 120deg, rgba(255, 255, 255, 0.04) 200deg, transparent 260deg);
+  animation: acard-spin-slow 24s linear infinite;
+}
+
+.tier-7 .acard__stars {
+  animation-duration: 2.4s;
+  background-image:
+    radial-gradient(1.5px 1.5px at 12% 22%, #fff, transparent),
+    radial-gradient(1px 1px at 28% 68%, #fff, transparent),
+    radial-gradient(2px 2px at 44% 14%, #fff, transparent),
+    radial-gradient(1px 1px at 58% 52%, #cfd8ff, transparent),
+    radial-gradient(1.5px 1.5px at 72% 30%, #fff, transparent),
+    radial-gradient(1px 1px at 86% 76%, #fff, transparent),
+    radial-gradient(1px 1px at 20% 88%, #fff, transparent),
+    radial-gradient(2px 2px at 66% 86%, #fff, transparent),
+    radial-gradient(1px 1px at 92% 12%, #fff, transparent),
+    radial-gradient(1px 1px at 38% 40%, #fff, transparent),
+    radial-gradient(1px 1px at 8% 50%, #fff, transparent),
+    radial-gradient(1.5px 1.5px at 50% 75%, #fff, transparent),
+    radial-gradient(1px 1px at 78% 8%, #fff, transparent);
+}
+
+.tier-7 .acard__name {
+  text-shadow: 0 0 22px rgba(255, 255, 255, 0.7), 0 0 44px rgba(150, 190, 255, 0.6);
+}
+
+.tier-7 .acard__score {
+  color: #ffffff;
+  text-shadow: 0 0 22px rgba(255, 255, 255, 0.9), 0 0 50px rgba(150, 190, 255, 0.8);
+}
+
+.tier-7 .acard__score-num {
+  font-size: clamp(34px, 3.4vw, 46px);
+}
+
+.tier-7 .acard__class-name {
+  color: #ffffff;
+  letter-spacing: 0.34em;
+  text-shadow: 0 0 12px rgba(255, 255, 255, 0.6);
+}
+
+.tier-7 .acard__class-tier {
+  color: #ffffff;
+}
+
+.tier-7 .acard__abilities li {
+  border-color: rgba(255, 255, 255, 0.35);
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.tier-7 .acard__foil {
+  z-index: 3;
+  opacity: 0.35;
+  mix-blend-mode: screen;
+  background: linear-gradient(115deg, transparent 25%, rgba(255, 255, 255, 0.5) 45%, rgba(170, 200, 255, 0.5) 50%, transparent 70%);
+  background-size: 250% 250%;
+  animation: acard-foil 6s ease-in-out infinite;
+}
+
+.tier-7.is-hover {
+  filter: drop-shadow(0 30px 44px rgba(0, 0, 0, 0.75)) drop-shadow(0 0 30px rgba(180, 200, 255, 0.45));
+}
+
+/* ---- showcase (detail view) variant: larger, no button chrome ---- */
+.acard--showcase {
+  --pad: 16px;
+}
+
+.acard--showcase .acard__name {
+  font-size: clamp(20px, 2vw, 28px);
+}
+
+[data-era='af'] .acard--showcase .acard__name,
+[data-era='ua'] .acard--showcase .acard__name {
+  font-size: clamp(15px, 1.4vw, 19px);
+}
+
+.acard--showcase .acard__score-num {
+  font-size: clamp(38px, 3.6vw, 52px);
+}
+
+/* ---- keyframes ---- */
+@keyframes acard-spin {
+  to {
+    --acard-angle: 360deg;
+  }
+}
+
+@keyframes acard-spin-slow {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes acard-foil {
+  0% {
+    background-position: 100% 100%;
+  }
+  50% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 100% 100%;
+  }
+}
+
+@keyframes acard-twinkle {
+  from {
+    opacity: 0.55;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes acard-drift {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-6px);
+  }
+}
+
+/* ---- responsive: container queries so cards degrade gracefully in narrow grids ---- */
+.acard-btn {
+  container-type: inline-size;
+  container-name: card;
+}
+
+@container card (max-width: 240px) {
+  .acard {
+    --pad: 9px;
+    --frame: 3px;
+  }
+  .acard__head {
+    min-height: 40px;
+    padding-bottom: 4px;
+  }
+  .acard__name {
+    font-size: 13px !important;
+    letter-spacing: 0.01em;
+  }
+  .acard__ult {
+    font-size: 8px;
+    letter-spacing: 0.22em;
+    margin-bottom: 2px;
+  }
+  .acard__badge svg {
+    width: 16px;
+    height: 16px;
+  }
+  .acard__foot {
+    padding-top: 6px;
+    row-gap: 2px;
+    grid-template-areas:
+      'score class'
+      'species species';
+  }
+  .acard__score-num {
+    font-size: 22px;
+  }
+  .acard__score-den {
+    font-size: 10px;
+  }
+  .acard__class-name {
+    font-size: 9.5px;
+    letter-spacing: 0.18em;
+  }
+  .acard__class-tier {
+    display: none;
+  }
+  .acard__species {
+    font-size: 11px;
+  }
+  .acard__abilities {
+    display: none;
+  }
+  .acard__tag {
+    font-size: 8px;
+    padding: 2px 6px;
+  }
+}
+
+@container card (min-width: 241px) and (max-width: 300px) {
+  .acard__abilities {
+    max-height: 22px;
+  }
+  .acard__abilities li:nth-child(n + 3) {
+    display: none;
+  }
+}
+
+/* ---- era identity on the base frames (tiers 1–2; higher tiers keep their own treatments) ---- */
+.acard__abilities {
+  max-height: 48px;
+}
+
+[data-era='af'] .acard.tier-1,
+[data-era='af'] .acard.tier-2 {
+  --frame-bg: linear-gradient(160deg, #3b434a 0%, #171c1f 45%, #0b0e10 100%);
+}
+
+[data-era='af'] .acard.tier-1 .acard__inner,
+[data-era='af'] .acard.tier-2 .acard__inner {
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--era) 45%, transparent);
+}
+
+[data-era='ua'] .acard.tier-1,
+[data-era='ua'] .acard.tier-2 {
+  --frame-bg: linear-gradient(160deg, #24382a 0%, #0c130e 50%, #050a06 100%);
+}
+
+[data-era='ua'] .acard.tier-2 .acard__inner {
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--era) 55%, transparent), inset 0 0 40px color-mix(in srgb, var(--era) 10%, transparent);
+}
+
+[data-era='ov'] .acard.tier-1,
+[data-era='ov'] .acard.tier-2 {
+  --frame: 4px;
+  --frame-bg: linear-gradient(160deg, #f7f9f4 0%, #dfe6db 40%, #b9c6b6 62%, var(--era) 100%);
+}
+
+[data-era='ov'] .acard.tier-1 .acard__edge,
+[data-era='ov'] .acard.tier-2 .acard__edge {
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+[data-era='ov'] .acard.tier-3 {
+  --frame-bg: linear-gradient(115deg, #f4f7f2 0%, #a9b3ab 18%, #ffffff 32%, #8f9a92 50%, #e6ebe3 66%, #98a39b 82%, #f4f7f2 100%);
+}

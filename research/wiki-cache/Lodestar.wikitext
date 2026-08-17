@@ -1,0 +1,299 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 060608
+|textcolor = efae1e
+|name = Lodestar
+|image = 
+<gallery>
+Lodestar OV Stand.png|OV
+Lodestar.png|UAF
+</gallery>
+|species = [[Biotsavartian]]
+|home-planet = [[Maxwell]]
+|body = Magnetic Humanoid
+|power = {{Scroll|Electro-Magnetokinesis<br>Magnetokinesis<br>Magno-Telekinesis<br>Magnetic Dismantlement<br>Magnetic Field Conversion<br>Magnetization<br>Force Field Generation<br>Reconstitution<br>Limited Flight<br>Levitation<br>Enhanced Strength<br>Enhanced Durability<br>Space Survivability<br>Electromagnetic Vision<br>Magnetoreception}}
+|voice = [[Dee Bradley Baker]]
+|1st-appearance = Simple
+|Alternate Counterparts = 
+}}
+{{quote|No magic. Just my natural magnetism.|Lodestar before defeating [[Sir Urien]].<ref name="Duped">''[[Duped]]''</ref>}}
+'''Lodestar''' is the [[Omnitrix]]'s DNA sample of a [[Biotsavartian]]<ref name="Ragnarok">[[Ragnarok]]</ref><ref name="Vendetta">''[[Vendetta]]''</ref>{{Refn|[https://static.wikia.nocookie.net/ben10/images/3/38/AF_Mini_Bible.pdf Alien Force Series Mini Bible]|group = AF Mini Bible|name = biot}}{{Refn|Lodestar's species was revealed in ''[[Vendetta]]'' as "Biotsavartian",{{Refn|[https://static.wikia.nocookie.net/ben10/images/8/84/Vendetta_Script_Third_Draft.pdf ''Vendetta'' Script Third Draft]|group = script|name = script}}<ref name="Vendetta"/> which aired on March 6, 2010 internationally. That same day, an anonymous user edited Lodestar's page to add "Biosovartian" as Lodestar's species, and later changed it to "Biosovortian". The species' page was created with that name on March 15, 2010 by another anonymous user. On March 30, 2011, [[User:TheRealBenvictor97|TheRealBenvictor97]] renamed the species' page to "Biotsavartian", citing [[Dwayne McDuffie]]. The same user changed the species' name on Lodestar's page to "Biotsavartian" on March 31, 2011. These two edits were later reverted by [[User:Orion Invictus|Orion Invictus]] on April 20, 2011 and by [[User:BlazeCannon15|BlazeCannon15]] on April 2, 2011, and the misspelling of the name remained on the wiki until August 16, 2021. In that time, "Biosovortian" was listed as Lodestar's species in an issue of the official '''Ben 10''' magazine.{{Refn|'''Ben 10''' magazine; [[:File:Biosovortian Spelling.png|file]]|group = mag}}{{Refn|[[Ben 10 Planet:Longstanding Misinformation]]|group = BTP}}|group = note}} from the planet [[Maxwell]].{{Refn|group = AF Mini Bible|name = biot}}
+
+==Appearance==
+Lodestar has a magnetically floating metal head surrounded by a glowing white aura and levitates in an arch between his shoulders. He has crab-like claws for hands (similar to [[Brainstorm]]'s) and his body is mainly brownish-black with yellow feet, hands, shoulders, and chest. His body is also made of living alien metal.{{Refn|[[:File:Lodestar's Body.PNG]]|group = DJW}}
+
+In ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]'', looked mostly the same, except the yellow parts of Lodestar's body are slightly darker.
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', Lodestar has a yellow eyebrow-like crest on his forehead, which looks similar to that of [[Jetray (Classic)|Jetray]]. His head is more skull-shaped with has lines beneath his mouth. The glowing aura around his head is recolored green, the yellow from his feet go up to his thighs, his shoulders are now larger, and the yellow stripes by his chest are shorter.
+
+Lodestar wears the [[Omnitrix (Original)|original Omnitrix]]/[[Ultimatrix (Original)|Ultimatrix]]/[[Omnitrix (Omniverse)|Omnitrix]] symbol on his chest.
+
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+Lodestar Rex.png|Lodestar in ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]''
+</gallery>
+
+==Powers and Abilities==
+<gallery type="slideshow">
+UA (238).png|Electro-Magnetokinesis/Force Field Generation
+RtF (229).png|Magnetokinesis
+RtF (235).png|Magno-Telekinesis
+Duped (496).png|Magnetic Dismantlement
+GT (271.5).png|Magnetic Field Conversion
+Duped (479).png|Magnetization
+UA (267).png|Reconstitution
+UA (245).png|Limited Flight
+AP1 (212).png|Levitation
+VG (327).png|Enhanced Strength
+RtF (208).png|Enhanced Durability
+</gallery>
+{{Quote|Metal - meet magnetism!|Lodestar, before using his powers on [[Rex Salazar (Generator Rex)|Rex]].<ref name="HU">''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]''</ref>}}
+Lodestar is magnetokinetic, meaning that he is able to control the natural magnetic fields around him,{{Refn|''[[Ben 10 Ultimate Alien: The Complete Guide]]'', [[:File:Elecronian from Electront.png|Page 36]]|group = guide|name = guide}} and also generate and project his own fields; which are capable of overloading electrical circuits, attracting magnetic materials and ferromagnetic metals to himself. At full power, his magnetic pulse can affect machinery as far as half a mile.{{Refn|[[:File:Lodestar Alien Creation Card.png]]|group = Bandai|name = card}} Lodestar's powers even work on mechanical beings like [[Ultimate Sonorosian]]s<ref>''[[Absolute Power: Part 2]]''</ref> and [[Chronosapien]]s.{{Refn|[[:File:Chronosapiens Can Be Magnetized.PNG]]|group = DJW}} Lodestar is also capable of using electromagnetism, as shown when Lodestar generated an electromagnetic force field around himself.<ref name="UA">''[[Ultimate Aggregor (Episode)|Ultimate Aggregor]]''</ref>
+
+Lodestar can use his magnetic fields to block solar energy attacks.<ref name="Vendetta" />
+
+Lodestar has telekinetic control over metal, allowing him to levitate and move it around without physical contact.<ref name="BB" /> He can also use this "magno-telekinesis" to make himself levitate<ref>''[[Absolute Power: Part 1]]''</ref> and fly for short distances.{{Refn|group = Bandai|name = card}}<ref name="UA"/>
+
+Lodestar can use his magnetism to damage and destroy any magnetic substance at will, as seen when he opened the [[Naljian Destructor]] and attempted to destroy it afterwards,<ref name="BB">''[[Busy Box]]''</ref> dismantled a [[Techadon Robot]],<ref>''[[Primus (Episode)|Primus]]''</ref> and tore apart the [[Toltech Battle Armor]].<ref name="Duped" /> He can also do this by converting his magnetic fields into kinetic energy, as shown when he made one of [[Computron's Minions|Computron's minions]] explode from afar.<ref>''[[Girl Trouble]]''</ref>
+
+Lodestar is able to render other materials magnetic, such as when he caused the Toltech Battle Armor to attract benches, trash cans and even [[Kevin's Car (Original)|Kevin's car]] towards itself.<ref name="Duped" />
+
+If Lodestar gets destroyed by something, such as [[Aggregor]]'s [[Aggregor's Starship|starship]] self-detonating, he can reconstitute by pulling his shattered pieces back together with his magnetism.<ref name="UA" />
+
+Lodestar possesses enhanced strength, as he was able to briefly grapple with the [[Stalker]] but with some difficulty.<ref name="VG" /> Furthermore, if an ally like [[Kevin Levin (Classic)|Kevin]] absorbs metal, Lodestar can use his magnetism to throw said ally toward their enemies.<ref>''[[The Purge]]''</ref><ref>''[[The More Things Change: Part 1]]''</ref>
+
+Lodestar possesses enhanced durability, as he was able to withstand being hurt by the red troops' laser blasts,<ref name="Simple">''[[Simple]]''</ref> being thrown through the walls of a house,<ref name="VG">''[[Video Games (Episode)|Video Games]]''</ref> and the [[Red Knight]]'s throwing stars.<ref name="RtF">''[[Return to Forever]]''</ref>
+
+Lodestar can survive in the vacuum of space.{{Refn|[[:File:Lodestar Space Survivability.PNG]]|group = DJW}}
+
+Using the electromagnetic spectrum, Lodestar can see objects like on a radar screen.{{Refn|group = Bandai|name = card}}
+
+Lodestar can act as a compass.{{Refn|[[:File:Lodestar Compass.PNG]]|group = DJW}}
+
+==Weaknesses==
+<gallery type="slideshow">
+RtF (206).png|Ineffective Magnetism
+RtF (225).png|Vulnerable Head
+NotLN (191).png|Magnetism Vulnerability
+</gallery>
+{{Quote|Magnets, huh? Well, there's no metal in pavement!|Rex countering Lodestar's magnetism.<ref name="HU" />}}
+Lodestar's magnetic fields are useless against non-magnetic objects, such as road pavement,<ref name="HU" /> the [[Red Knight]]'s throwing knives,<ref name="RtF" /> and the Stalker.<ref name="VG" /> Additionally, Lodestar's magnetic fields can also be absorbed and redirected by certain substances, such as the [[Shock Staff]].<ref name="NotLN">''[[Night of the Living Nightmare]]''</ref>
+
+Lodestar's head is a very vulnerable target for his opponents due to it not being attached to his body. Lodestar's opponents can take advantage of this weakness in various ways, such as grabbing it, which will forcefully pull Lodestar's body alongside his head,<ref name="VG" /> throwing objects at it, such as the [[Red Knight]]'s throwing stars, which will cause his head to start spinning<ref name="RtF" /> or knocking it away with a magnetic field.<ref name="NotLN" />
+
+==History==
+===Alien Force===
+*In ''[[War of the Worlds: Part 2]]'', Lodestar was unlocked onscreen after the [[Omnitrix (Original)|Omnitrix]] was reset and [[Ben Tennyson (Classic)|Ben]] immediately transformed into him off-screen.
+*Lodestar first appeared in ''[[Simple]]'', where he defeated the red troops and tried to reason with them.
+*In ''[[Busy Box]]'', Lodestar battled the [[Naljian Destructor]] and ripped it open to release its cube form but was unable to destroy it when [[Cosmic Mom]] arrived.
+*In ''[[Primus (Episode)|Primus]]'', Lodestar fought and dismantled a red [[Techadon Robot]] but reverted before he could destroy it.
+*In ''[[Vendetta]]'', Lodestar battled [[Ragnarok]] until the latter escaped.
+*In ''[[The Final Battle: Part 2]]'', Lodestar was briefly used by [[Vilgax (Classic)|Vilgax]]'s [[Bioid]]s.
+
+===Ultimate Alien===
+*In ''[[Duped]]'', Lodestar defeated [[Sir Urien]].
+*In ''[[Video Games (Episode)|Video Games]]'', Lodestar was defeated by the [[Stalker]].
+*In ''[[Ultimate Aggregor (Episode)|Ultimate Aggregor]]'', Lodestar and [[Alien Force|the team]] defeated a group of [[Aggrebot]]s. Afterwards, Lodestar boarded [[Aggregor]]'s [[Aggregor's Starship|starship]] and was destroyed when it exploded but survived and regenerated.
+*In ''[[Absolute Power: Part 1]]'', Lodestar violently attacked some [[Forever Knights]] to find out about [[Ultimate Kevin]]'s location.
+*In ''[[Girl Trouble]]'', Lodestar battled some of [[Computron]]'s [[Computron's Minions|minions]].
+*In ''[[The Purge]]'', Lodestar fought a [[Mech Dragon|mechanical dragon]] and destroyed it with [[Kevin Levin (Classic)|Kevin]]'s help.
+*In ''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]'', Lodestar battled [[Rex Salazar (Generator Rex)|Rex]] before switching into [[Rath (Classic)|Rath]].
+*In ''[[Night of the Living Nightmare]]'', Lodestar appeared twice in a dream. Firstly, Ben as Lodestar, without a head, defeated Aggregor. Later, Lodestar was seen confronting [[Albedo]].
+
+===Omniverse===
+*In ''[[The More Things Change: Part 1]]'', Lodestar stopped [[Zombozo (Classic)|Zombozo]] from stealing a brain from the brain bank.
+*In ''[[Return to Forever]]'', Lodestar battled the [[Forever Knights]] and saved [[Jimmy Jones|Jimmy]] from them.
+*In ''[[A New Dawn]]'', Lodestar appeared for a short time when [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+==Appearances==
+{{Scroll box|
+===Alien Force===
+====Season 2====
+*''[[Simple]]'' <small>(first appearance; intended alien was [[Humungousaur (Classic)|Humungousaur]])</small>
+*''[[Busy Box]]'' <small>(selected alien was Humungousaur)</small>
+*''[[Primus (Episode)|Primus]]'' <small>(off-screen activation)</small>
+*''[[Vendetta]]''
+*''[[The Final Battle: Part 2]]'' <small>(by Bioids; cameo)</small>
+
+===Ultimate Alien===
+====Season 1====
+*''[[Duped]]'' <small>(first reappearance)</small>
+*''[[Video Games (Episode)|Video Games]]''
+*''[[Ultimate Aggregor (Episode)|Ultimate Aggregor]]''
+
+====Season 2====
+*''[[Absolute Power: Part 1]]'' <small>(off-screen activation)</small>
+
+====Season 3====
+*''[[Girl Trouble]]''
+*''[[The Purge]]''
+*''[[Night of the Living Nightmare]]'' <small>(x2; first time was in a dream; second time was a figment in a dream and a cameo)</small>
+
+===Generator Rex===
+====Season 3====
+*''[[Ben 10-Generator Rex: Heroes United|Ben 10/Generator Rex: Heroes United]]''
+
+===Omniverse===
+====Season 1====
+*''[[The More Things Change: Part 1]]'' <small>(first reappearance; accidental transformation)</small>
+
+====Season 4====
+*''[[Return to Forever]]''
+
+====Season 8====
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+===Video Games===
+====Alien Force====
+*''[[Ben 10 Alien Force: The Rise of Hex]]''
+
+===Online Games===
+====Ben 10 (2016 TV Series)====
+*''[[Super Hero Time]]''
+
+===Books===
+====Chapter Books====
+=====Alien Force=====
+*''[[Double Negative]]''
+
+===Comics===
+====Cartoon Network Action Pack!====
+=====Ultimate Alien=====
+*''[[One Man's Trash]]''
+
+====Ultimate Alien====
+=====Volume 1=====
+*''[[Time Saver]]''
+}}
+
+==Games==
+===Video Games===
+[[File:Lodestar TRoH.png|thumb|Lodestar in ''The Rise of Hex'']]
+====[[Ben 10 Alien Force: The Rise of Hex]]====
+Being the main alien and the replacement for [[Alien X (Classic)|Alien X]], Lodestar is a playable alien in the game.
+
+Due to the [[Omnitrix (Original)|Omnitrix]] shorting out after [[Ben Tennyson (Classic)|Ben]] fiddled with it, Lodestar was temporarily locked until the beginning of Level 7.
+
+Lodestar is able to magnetically attract himself to metallic emblems embedded on the walls of the temple and catacombs underneath [[Bellwood (Classic)|Bellwood]]. He can increase his altitude, move across considerable distances and slow his descent to avoid potential hazards.
+
+Throughout the game, Lodestar strangely interacts with 15 mystic talismans. Because of this, he is the only alien form capable of defeating [[Hex (Classic)|Hex]], destroying all but one talisman to weaken the otherwise invincible foe. Lodestar uses the remaining talisman to trap Hex inside it.
+
+===Online Games===
+<gallery type="slideshow">
+Lodestar UAF SHT.png|Lodestar in ''Super Hero Time'' ('''Alien Force''' and '''Ultimate Alien''')
+Lodestar OV SHT.png|Lodestar in ''Super Hero Time'' ('''Omniverse''')
+</gallery>
+====[[Super Hero Time]]====
+Lodestar is a playable alien in the game. Each of his iterations that must be purchased separately for 299 Robux.
+
+==Comics==
+===Cartoon Network Action Pack!===
+====Ultimate Alien====
+*In ''[[One Man's Trash]]'', Lodestar magnetised the alien ship.
+
+===Ultimate Alien===
+*In ''[[Time Saver]]'', Lodestar was used for a short period of time to attack [[Vilgax (Classic)|Vilgax]], before switching to [[Brainstorm]].
+
+==Naming and Translations==
+{{Translation
+|albanian = Magneti Yjor
+|albaniand = From “magnet” (magnet) and “yj” (stars)
+|bulgarian = Полярна Звезда 
+|bulgariand = From ''полярна'', polar and ''звезда'' star
+|chinese = 北极星
+|chinesed = From ''北极星'' <small>(Běi Jí Xīng)</small>, lodestar
+|dutch = Poolster
+|dutchd = From ''poolster'', lodestar
+|french = Aimantosaure
+|frenchd = From ''aimant'', magnet and ''-saure'', -saur
+|german = Polarstern
+|germand = From ''polarstern'', polar star
+|greek = Πολικός Αστέρας
+|greekd = From πολικός αστέρας, lodestar
+|hungarian = Sarkcsillag
+|hungariand = From ''sark'', polar and ''csillag'', star
+|italian = Fulmiraggio
+|italiand = From ''fulmine'', lightning, and ''raggio'', ray
+|norwegian = Ledestjerne
+|norwegiand = From ''ledestjerne'', lodestar
+|polish = Polarny
+|polishd = From ''polarny'', polar
+|portuguesebr = Estrela Polar
+|portuguesebrd = From ''estrela polar'', polar star
+|romanian = Lodestar
+|romaniand = From the original English name
+|russian = Звезда
+|russiand = From ''звезда'', star
+|ha = Lodestar
+|had = From the original English name; pronounced /'lodstar/ ([[Ben 10: Alien Force (TV Series)|Ben 10: Alien Force]] and [[Night of the Living Nightmare]]), /'loʊdstar/ ([[Ben 10: Ultimate Alien (TV Series)|Ben 10: Ultimate Alien]]), /'lodestar/ ([[Ultimate Aggregor]] and [[The Purge]]) or /lodes'tar/ ([[Cough It Up]])
+|spanish = Estrella Polar
+|spanishd = From ''estrella polar'', pole star
+|turkish = Çoban Yıldızı
+|turkishd = Meaning ''Farmers Star'', another name for the planet Venus in Turkish
+}}
+
+==Etymology==
+A lodestar is a star used as a navigation reference, particularly a pole star, such as [[Wikipedia:Polaris|Polaris]].
+
+It is also etymologically connected to [[Wikipedia:Lodestone|lodestone]], a naturally magnetized piece of the mineral called [[Wikipedia:Magnetite|magnetite]].{{Refn|[[:File:Lodestar Etymology.PNG]]|group = DM}}
+
+==Trivia==
+*Lodestar's hologram in ''[[War of the Worlds: Part 2]]'' uses his concept design as a base.{{Refn|[[:File:Lodestar AF Concept.png]]|group = ca}}
+*Lodestar is the first alien used on-screen by 16-year-old Ben in [https://ben10.fandom.com/wiki/Ben_10:_Omniverse_(TV_Series) Omniverse]. 
+*In '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', Lodestar appeared to have a mouth, but with the exception of several errors, it never opened. However, in '''Omniverse''', his mouth moves when he talks, much like [[Eatle]].
+*Lodestar's magnetic pulses have changed color throughout his appearances:
+**In ''[[Simple]]'', the pulses were white.
+**In his subsequent '''Alien Force''' appearances, they were green.
+**In '''Ultimate Alien''', they were white again.
+**In ''[[Ben 10-Generator Rex: Heroes United|Heroes United]]'' and '''Omniverse''', they are green again.
+*In the code Nano section on the ''[[FusionFall]]'' website, a picture of Lodestar's head can be seen.
+*The '''[[Ben 10 (2016 TV Series)|Ben 10]]''' reboot game ''Brains vs. Bugs'' has a magnet upgrade that resembles Lodestar's upper body minus the shoulders, arms, and head.
+*Lodestar's skin pattern can change like flowing ink with shifts in the magnetic field.{{Refn|group = Bandai|name = card}}
+*Lodestar was originally not supposed to appear in ''[[Busy Box]]'', with his role taken by [[Humungousaur (Classic)|Humungousaur]].{{Refn|[https://static.wikia.nocookie.net/ben10/images/2/2e/Busy_Box_Script_Outline.pdf ''Busy Box'' Script Outline]|group = outline|name = outline}}{{Refn|[https://static.wikia.nocookie.net/ben10/images/9/9f/Busy_Box_Script_First_Draft.pdf ''Busy Box'' Script First Draft]|group = script}}
+*Lodestar was originally supposed to appear near the end of the dream in ''[[Night of the Living Nightmare]]'', used by Ben and [[Albedo]], instead of being used to fight [[Aggregor]].{{Refn|[https://static.wikia.nocookie.net/ben10/images/d/d4/Night_of_the_Living_Nightmare_Script_First_Draft.pdf ''Night of the Living Nightmare'' Script First Draft]|group = script}}
+*Lodestar's homeworld has been previously incorrectly stated to be Attracta.{{Refn|An issue of the K-Zone magazine (released before Lodestar's debut in ''[[Simple]]'') states that Lodestar's homeworld is Attracta.{{Refn|K-Zone; [[:File:Magnosapien from Attracta.png|file]]|group = mag}} However, the magazine refers to him as a Magnosapien instead of a Biotsavartian.|group = note}} and Electront.{{Refn|On October 3, 2009, an anonymous user edited Lodestar's page, claiming that Lodestar was an Elecronian from the planet Electront. The page was later edited by another anonymous on October 7, 2009, referring to Electront as a desert planet. The species and planet names would remain on the page until January 2, 2010, though they were temporarily added back to the page on March 1, 2010 by the user who originally added them to the page, before the edit was undone by [[User:Linkmadara|Linkmadara]]. ''[[Ben 10 Ultimate Alien: The Complete Guide]]'', released in September 2010, would later refer to Lodestar as an Elecronian from the desert planet Electront.{{Refn|group = guide|name = guide}} The origin of these names remains unknown.|group = note}}
+
+==Notes==
+{{Reflist|group = note}}
+
+==References==
+{{Reflist}}
+===Production Material===
+====Scripts====
+{{Reflist|group = script}}
+====Script Outlines====
+{{Reflist|group = outline}}
+====Alien Force Series Mini Bible====
+{{Reflist|group = AF Mini Bible}}
+====Concept Art====
+{{Reflist|group = ca}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+====[[Dwayne McDuffie]]====
+{{Reflist|group = DM}}
+===[[Merchandise]]===
+====Magazines====
+{{Reflist|group = mag}}
+====[[Bandai]]====
+{{Reflist|group = Bandai}}
+====Guide Books====
+{{Reflist|group = guide}}
+===Ben 10 Planet===
+{{Reflist|group = BTP}}
+{{Ben 10 Aliens}}
+[[bg:Полярна Звезда]]
+[[de:Polarstern]]
+[[es:Lodestar]]
+[[fr:Aimantosaure]]
+[[it:Fulmiraggio]]
+[[pl:Polarny]]
+[[pt-br:Estrela Polar]]
+[[ro:Lodestar]]
+[[ru:Звезда]]
+[[tr:Çoban Yıldızı]]
+[[Category:Aliens]]
+[[Category:Transformations]]
+[[Category:Alien Force Transformations]]
+[[Category:Albedo's Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]

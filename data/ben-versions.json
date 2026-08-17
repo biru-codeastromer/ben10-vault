@@ -1,0 +1,763 @@
+[
+  {
+    "id": "ben-10-os",
+    "name": "Ben Tennyson (age 10)",
+    "shortName": "Ben, age 10",
+    "age": "10",
+    "seriesIds": [
+      "os"
+    ],
+    "timeline": "prime",
+    "device": "Prototype Omnitrix (pre-reconfiguration)",
+    "outfit": "Black-striped white short-sleeved T-shirt, military-green cargo pants with side pockets (black belt hidden under the shirt), black-and-white sneakers with black stripes; unkempt brown hair, green eyes; Omnitrix worn on the left wrist.",
+    "summary": "The original hero: an ordinary, cocky 10-year-old who found the Omnitrix on the first night of a summer road trip with Grandpa Max and cousin Gwen and used it to become 10 (later more) aliens. Immature and attention-seeking but good-hearted, he fought Vilgax, Kevin 11, Hex, Zombozo and the Forever Knights across the 2005 series and its era movies (Secret of the Omnitrix, Destroy All Aliens). Ben also reappears at this age via time travel/flashbacks in Ultimate Alien and Omniverse (see ben-10-ua / ben-10-ov).",
+    "keyEpisodes": [
+      "And Then There Were 10",
+      "Kevin 11",
+      "Back With a Vengeance",
+      "Ben 10,000",
+      "Ben 10 vs. the Negative 10: Part 2",
+      "Ben 10: Secret of the Omnitrix",
+      "Ben 10: Destroy All Aliens"
+    ],
+    "signatureAliens": [
+      "Four Arms",
+      "Heatblast",
+      "XLR8",
+      "Diamondhead",
+      "Upgrade",
+      "Cannonbolt"
+    ],
+    "assetId": "ben/ben-10-os",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)",
+      "https://ben10.fandom.com/wiki/Ben_10_(2005_TV_Series)"
+    ],
+    "notes": [
+      "The wiki lists Ben's OS-era ages as 10 (Original Series), briefly 4 (Don't Drink the Water) and 11 in Omniverse flashbacks; see ben-5 and ben-11-ov.",
+      "Ben Tennyson (Destroy All Aliens).png is the CGI-movie look of the same version; the movie is canon to the OS era.",
+      "Non-canon what-if versions of 10-year-old Ben exist for the OS episodes 'Gwen 10' (included as ben-gwen10, flagged non-canon) and 'Goodbye and Good Riddance' (wiki page 'Ben Tennyson (Goodbye and Good Riddance)', marked {{WhatIf?}} / Category:Non-Canon Characters; EXCLUDED from this list per project preference). Note the wiki treats the Goodbye and Good Riddance Ben as a 10-year-old (not a 'Ben 10,000')."
+    ]
+  },
+  {
+    "id": "ben-5",
+    "name": "Ben Tennyson (age 4–5)",
+    "shortName": "Ben, age 4/5",
+    "age": "4 (Don't Drink the Water, temporarily); 5 (Ben 10 Returns: Part 2 flashback); 5½ (Omniverse flashbacks)",
+    "seriesIds": [
+      "os",
+      "af",
+      "ov"
+    ],
+    "timeline": "prime",
+    "device": "Prototype Omnitrix (only while de-aged in Don't Drink the Water); no Omnitrix in the age-5 / 5½ flashbacks",
+    "outfit": "Age 4 (Don't Drink the Water): his normal OS outfit shrunk to fit — striped white T-shirt, green cargo pants, sneakers, Omnitrix on the left wrist. Age 5½ (Omniverse flashbacks): green overalls over a white shirt with a black '5 1/2' patch on the chest. Age 5 (Ben 10 Returns: Part 2 flashback): OS T-shirt, green shorts, bluish-grey bicycle helmet.",
+    "summary": "Ben's early-childhood appearances. In 'Don't Drink the Water' 10-year-old Ben is de-aged by Fountain of Youth water and fights Hex as a whiny 4-year-old whose aliens (Four Arms, Wildmutt, Stinkfly, Heatblast) also come out as toddler versions. He is also seen at 5 in an Alien Force flashback and at 5½ in several Omniverse flashbacks (no Omnitrix in either).",
+    "keyEpisodes": [
+      "Don't Drink the Water",
+      "Ben 10 Returns: Part 2",
+      "Special Delivery",
+      "Something Zombozo This Way Comes",
+      "The Ballad of Mr. Baumann"
+    ],
+    "signatureAliens": [
+      "Four Arms",
+      "Wildmutt",
+      "Stinkfly",
+      "Heatblast"
+    ],
+    "assetId": "ben/ben-5",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)",
+      "https://ben10.fandom.com/wiki/Don%27t_Drink_the_Water"
+    ],
+    "notes": [
+      "'5.5 ben.png' is a clean transparent Omniverse render of 5½-year-old Ben (overalls) and is a better gallery image if the goal is a render rather than the Don't Drink the Water look.",
+      "In Don't Drink the Water the aliens listed as 'younger versions' were Four Arms (mid-de-aging), Wildmutt, Stinkfly and Heatblast; Cannonbolt in that episode was used by 10-year-old Ben before de-aging.",
+      "RESEARCH_SPEC id for this version is ben-5."
+    ]
+  },
+  {
+    "id": "ben-11-ov",
+    "name": "Ben Tennyson (age 11, Omniverse flashbacks)",
+    "shortName": "Ben, age 11",
+    "age": "11",
+    "seriesIds": [
+      "ov"
+    ],
+    "timeline": "prime",
+    "device": "Prototype Omnitrix (pre-reconfiguration; drawn in the OV art style with two side buttons)",
+    "outfit": "Same as the Original Series: black-striped white T-shirt, military-green cargo pants, black-and-white sneakers, original Omnitrix on the left wrist — redrawn in Derrick J. Wyatt's angular Omniverse art style.",
+    "summary": "One year after the Original Series, 11-year-old Ben still lives in Bellwood and uses the original Omnitrix on weekend trips with Gwen and Max; these Omniverse flashbacks (framed as 'five years ago') introduce his then-favourite alien Feedback and the villain Malware, who destroys Feedback in 'Showdown: Part 1'. He first meets Khyber's Nemetrix test subjects, Zs'Skayr again, and a still-villainous Kevin, and after these events removes the Omnitrix to live a normal life until Alien Force.",
+    "keyEpisodes": [
+      "The More Things Change: Part 1",
+      "A Jolt From the Past",
+      "Trouble Helix",
+      "Of Predators and Prey: Part 1",
+      "Malefactor",
+      "Arrested Development",
+      "Showdown: Part 1",
+      "Showdown: Part 2",
+      "Ben Again",
+      "Special Delivery",
+      "The Vengers",
+      "Weapon XI: Part 2",
+      "From Hedorium to Eternity"
+    ],
+    "signatureAliens": [
+      "Feedback",
+      "Four Arms",
+      "Diamondhead",
+      "XLR8",
+      "Stinkfly",
+      "Way Big"
+    ],
+    "assetId": "ben/ben-11-ov",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)",
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)/Omniverse_flashbacks",
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)/Gallery"
+    ],
+    "notes": [
+      "The wiki labels the small character-select file 'Ben10omni char 174x252 youngben.png' as '10/11-year-old Ben in Omniverse' — the same OV model is used for both ages, so this record's image also fits ben-10-ov.",
+      "Crew statement: the loss of Feedback was intended as the in-story reason Ben took the Omnitrix off before Alien Force (Cartoon Network vetoed making it explicit).",
+      "History subpage 'Ben Tennyson (Classic)/Omniverse flashbacks' was fetched via the wiki API (not in wiki-cache)."
+    ]
+  },
+  {
+    "id": "ben-10-ua",
+    "name": "Ben Tennyson (age 10, Ultimate Alien time-travel)",
+    "shortName": "Ben, age 10 (UA)",
+    "age": "10",
+    "seriesIds": [
+      "ua"
+    ],
+    "timeline": "prime",
+    "device": "Prototype Omnitrix (pre-reconfiguration; UA-style redesign by Glenn Wong)",
+    "outfit": "Original Series outfit (striped white T-shirt, green cargo pants, sneakers) redrawn in the Alien Force/Ultimate Alien art style; Omnitrix on the left wrist.",
+    "summary": "10-year-old Ben pulled forward in time by Professor Paradox in 'The Forge of Creation' to help 16-year-old Ben and the team fight Ultimate Aggregor; his aliens' Omnitrix symbols are drawn green in this art style. He also cameos in 'The Ultimate Enemy: Part 2'. Included as a distinct usedBy id because his UA transformations use UA-era alien designs.",
+    "keyEpisodes": [
+      "The Forge of Creation",
+      "The Ultimate Enemy: Part 2"
+    ],
+    "signatureAliens": [
+      "Heatblast",
+      "Wildmutt",
+      "Four Arms",
+      "Stinkfly"
+    ],
+    "assetId": "ben/ben-10-ua",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)",
+      "https://ben10.fandom.com/wiki/The_Forge_of_Creation"
+    ],
+    "notes": [
+      "In The Forge of Creation the wiki lists 10-year-old Ben's transformations as Heatblast, Wildmutt, Four Arms (intended Upgrade) and Stinkfly.",
+      "The wiki's Appearances section also lists 10-year-old Ben in 'The Ultimate Enemy: Part 2' (Season 3); that episode's transformation list has no 10-year-old forms, so treat it as a cameo/flashback appearance only."
+    ]
+  },
+  {
+    "id": "ben-10-ov",
+    "name": "Ben Tennyson (age 10, Omniverse)",
+    "shortName": "Ben, age 10 (OV)",
+    "age": "10",
+    "seriesIds": [
+      "ov"
+    ],
+    "timeline": "prime",
+    "device": "Prototype Omnitrix (the moment he first receives it in 'And Then There Was Ben'; none before)",
+    "outfit": "Original Series outfit in the Omniverse art style (same model as 11-year-old Ben).",
+    "summary": "10-year-old Ben Prime as seen in Omniverse: a brief 'It Was Them' flashback (Ben and Gwen vs. Dr. Animo) and 'And Then There Was Ben', where Professor Paradox and No Watch Ben secretly make sure the Omnitrix pod lands near young Ben on the first night of the road trip and he transforms into Heatblast for the first time — restarting the Prime Timeline after Vilgax's Chronosapien Time Bomb.",
+    "keyEpisodes": [
+      "It Was Them",
+      "And Then There Was Ben"
+    ],
+    "signatureAliens": [
+      "Heatblast"
+    ],
+    "assetId": "ben/ben-10-ov",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)",
+      "https://ben10.fandom.com/wiki/And_Then_There_Was_Ben"
+    ],
+    "notes": [
+      "Only on-screen transformation by 10-year-old Ben in Omniverse is Heatblast (And Then There Was Ben); the 'It Was Them' flashback shows no transformation.",
+      "Present-day OV also has Ben briefly de-aged to 11 in 'Arrested Development' — that is covered by ben-11-ov per the wiki's age list."
+    ]
+  },
+  {
+    "id": "ben-15-af",
+    "name": "Ben Tennyson (age 15, Alien Force)",
+    "shortName": "Ben, age 15",
+    "age": "15",
+    "seriesIds": [
+      "af"
+    ],
+    "timeline": "prime",
+    "device": "Recalibrated Omnitrix (the original Omnitrix reconfigured in 'Ben 10 Returns: Part 1'; worn briefly in its old form at the start of that episode)",
+    "outfit": "Black short-sleeved T-shirt, blue jeans, green jacket with white stripes on the left sleeve and a '10' badge on the right side, black-and-white Converse-style shoes; shorter hair than at 10/11; Omnitrix on the left wrist.",
+    "summary": "Five years after retiring, 15-year-old Ben — now a high-school freshman and soccer goalie — puts the Omnitrix back on when Grandpa Max disappears. The device recalibrates into a sleeker watch with a new roster of ten aliens, and Ben leads Gwen and a reformed Kevin Levin as a team of Plumbers' kids against the Highbreed/DNAlien invasion, meets Julie Yamamoto and Albedo, and ends the war by curing the Highbreed with the Omnitrix. Covers Alien Force US-airing seasons 1–2 (production season 1).",
+    "keyEpisodes": [
+      "Ben 10 Returns: Part 1",
+      "Ben 10 Returns: Part 2",
+      "Pier Pressure",
+      "Max Out",
+      "Good Copy, Bad Copy",
+      "X = Ben + 2",
+      "War of the Worlds: Part 1",
+      "War of the Worlds: Part 2"
+    ],
+    "signatureAliens": [
+      "Swampfire",
+      "Humungousaur",
+      "Jetray",
+      "Big Chill",
+      "Echo Echo",
+      "Chromastone"
+    ],
+    "assetId": "ben/ben-15-af",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)",
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)/Alien_Force",
+      "https://ben10.fandom.com/wiki/Ben_10:_Alien_Force_(TV_Series)"
+    ],
+    "notes": [
+      "Ages: the wiki gives 15 for 'Alien Force Season 1' (production order = US-airing seasons 1–2, episodes 1–26) and 16 from 'Alien Force Season 2' (production; = US season 3) onward, citing Ryan Kelley's Alien Swarm chronology; Alien Swarm sits between the two.",
+      "Albedo (Good Copy, Bad Copy) is a Galvan who copied Ben's body with his own replica Omnitrix — NOT a Ben version. Forms used only by Albedo (e.g. Negative Ultimate Humungousaur, later Ultimate Albedo) must not create Ben appearances.",
+      "History subpage 'Ben Tennyson (Classic)/Alien Force' fetched via the wiki API."
+    ]
+  },
+  {
+    "id": "ben-16-af",
+    "name": "Ben Tennyson (age 16, Alien Force season 3)",
+    "shortName": "Ben, age 16 (AF)",
+    "age": "16",
+    "seriesIds": [
+      "af"
+    ],
+    "timeline": "prime",
+    "device": "Recalibrated Omnitrix (destroyed by self-destruct in 'The Final Battle: Part 2'); Ultimatrix taken from Albedo at the end of that episode",
+    "outfit": "Unchanged from age 15: black T-shirt, blue jeans, green jacket with white stripes and '10', black-and-white shoes. In Alien Swarm (live action) the same green jacket/black shirt look, plus a dark-green hoodie briefly.",
+    "summary": "Post-Highbreed-war Ben, now 16, galactic celebrity and honorary Plumber, gets cocky, botches a Master Control hack (Vengeance of Vilgax), loses and regains Azmuth's trust and Chromastone, and faces the returned Vilgax. In the live-action Alien Swarm he creates Nanomech; in the two-part finale he sacrifices the original Omnitrix and takes the Ultimatrix from Albedo, using Ultimate Swampfire for the first time. Covers Alien Force US season 3 (production season 2) and Alien Swarm.",
+    "keyEpisodes": [
+      "Vengeance of Vilgax: Part 1",
+      "Vengeance of Vilgax: Part 2",
+      "Inferno",
+      "Con of Rath",
+      "Primus",
+      "Ghost Town",
+      "The Final Battle: Part 1",
+      "The Final Battle: Part 2",
+      "Ben 10: Alien Swarm"
+    ],
+    "signatureAliens": [
+      "Rath",
+      "Lodestar",
+      "Nanomech",
+      "Swampfire",
+      "Humungousaur",
+      "Ultimate Swampfire"
+    ],
+    "assetId": "ben/ben-16-af",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)",
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)/Alien_Force",
+      "https://ben10.fandom.com/wiki/Ultimatrix_(Original)"
+    ],
+    "notes": [
+      "The wiki does NOT describe any outfit change between AF season 3 and Ultimate Alien: 'In Alien Force and Ultimate Alien, Ben wore a black short-sleeved T-shirt, blue jeans, and a green jacket with white stripes on his left sleeve and the number 10 on the right' (infobox image label 'UAF' = shared design). The visible difference in UA is the device (Ultimatrix gauntlet), not the jacket — the task brief's 'black-green jacket UA' could not be confirmed.",
+      "Ultimate Swampfire debuts in The Final Battle: Part 2 (AF), so a single AF-era Ultimate form appearance exists for this version.",
+      "Alien Swarm counts as a canonical AF-era movie per RESEARCH_SPEC (Nanomech's debut)."
+    ]
+  },
+  {
+    "id": "ben-16-ua",
+    "name": "Ben Tennyson (age 16, Ultimate Alien)",
+    "shortName": "Ben, age 16 (UA)",
+    "age": "16",
+    "seriesIds": [
+      "ua"
+    ],
+    "timeline": "prime",
+    "device": "Ultimatrix (until 'The Ultimate Enemy: Part 2', when Azmuth removes it and gives Ben the new/completed Omnitrix)",
+    "outfit": "Same as Alien Force: black T-shirt, blue jeans, green jacket with white stripes and '10', black-and-white shoes; the bulkier Ultimatrix gauntlet on his left forearm. Occasionally a Plumber suit off-world.",
+    "summary": "Ben's identity is exposed by fan Jimmy Jones, making him a world-famous (and often mobbed) 16-year-old superhero armed with the Ultimatrix, which evolves aliens into Ultimate forms. He battles Aggregor for the Map of Infinity, meets his 10-year-old self at the Forge of Creation, is forced to hunt a mutated Kevin, teams with Ben 10,000 against Eon, crosses over with Generator Rex, and defeats Dagon with Ascalon; the series ends with Azmuth judging him worthy of the new Omnitrix.",
+    "keyEpisodes": [
+      "Fame",
+      "Escape From Aggregor",
+      "Map of Infinity",
+      "The Forge of Creation",
+      "Absolute Power: Part 1",
+      "Absolute Power: Part 2",
+      "Ben 10,000 Returns",
+      "The Ultimate Sacrifice",
+      "The Ultimate Enemy: Part 1",
+      "The Ultimate Enemy: Part 2",
+      "Ben 10-Generator Rex: Heroes United"
+    ],
+    "signatureAliens": [
+      "Ultimate Humungousaur",
+      "Ultimate Swampfire",
+      "Ultimate Echo Echo",
+      "Armodrillo",
+      "Water Hazard",
+      "Rath"
+    ],
+    "assetId": "ben/ben-16-ua",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)",
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)/Ultimate_Alien",
+      "https://ben10.fandom.com/wiki/Ben_10:_Ultimate_Alien_(TV_Series)"
+    ],
+    "notes": [
+      "'Ben10 Profile.png' is 16-year-old Ben drawn in the Generator Rex art style (Heroes United, label HU) — same version, different studio style.",
+      "Ben appears at 15 in UA only via flashback (Absolute Power: Part 2, The Ultimate Enemy: Part 2) per the wiki Appearances section.",
+      "Out-of-universe, Ben was aged 15→16 for UA at Bandai's request (so he could drive)."
+    ]
+  },
+  {
+    "id": "ben-16-ov",
+    "name": "Ben Tennyson (age 16, Omniverse)",
+    "shortName": "Ben, age 16 (OV)",
+    "age": "16",
+    "seriesIds": [
+      "ov"
+    ],
+    "timeline": "prime",
+    "device": "Omnitrix (Omniverse) — the completed Omnitrix given by Azmuth in 'The Ultimate Enemy: Part 2'",
+    "outfit": "New look: black T-shirt with a central green stripe bearing a white '10' and green side stripes, brown cargo pants with knee pockets (brown belt hidden under the shirt), green-and-white shoes; hair grown longer. Sometimes a white hooded jacket with green stripes on both arms and a green '10'. Omnitrix on the left wrist.",
+    "summary": "A few months after Ultimate Alien, with Gwen and Kevin off at college, Ben is paired with by-the-book Plumber rookie Rook Blonko and works out of the Plumber base under Bellwood and the alien district Undertown. He fights Khyber, Malware, Dr. Psychobos, the Incurseans and Vilgax, regains Feedback, meets alternate Bens across the multiverse (Ben 23, No Watch Ben, Mad Ben and company), and helps end the Time War against Maltruant. Redesigned in Derrick J. Wyatt's art style with a new outfit; Ben stopped shouting his aliens' names.",
+    "keyEpisodes": [
+      "The More Things Change: Part 1",
+      "The More Things Change: Part 2",
+      "Of Predators and Prey: Part 2",
+      "Showdown: Part 2",
+      "The Frogs of War: Part 1",
+      "Store 23",
+      "Ben Again",
+      "And Then There Were None",
+      "And Then There Was Ben",
+      "It's a Mad, Mad, Mad Ben World: Part 1",
+      "The End of an Era",
+      "A New Dawn"
+    ],
+    "signatureAliens": [
+      "Feedback",
+      "Bloxx",
+      "Gravattack",
+      "Shocksquatch",
+      "Kickin Hawk",
+      "Atomix"
+    ],
+    "assetId": "ben/ben-16-ov",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)",
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Classic)/Omniverse",
+      "https://ben10.fandom.com/wiki/Ben_10:_Omniverse_(TV_Series)"
+    ],
+    "notes": [
+      "Ben also appears at 15 in one Omniverse flashback ('Special Delivery', wiki file 'OmniverseBen15.png' = AF outfit in OV style) — treated as ben-15-af art-wise, not a separate version.",
+      "Reboot-continuity pages that exist in wiki-cache and were deliberately EXCLUDED (all from the 2016 Reboot special 'Alien X-Tinction'): Ben Tennyson (Alien Force Homage Dimension), (Omniverse Homage Dimension), (Original Series Homage Dimension), (Maximilian's Dimension), (Dimension 12041.5). They are homages to classic Bens, not classic-continuity characters.",
+      "Crew: Ben's increased immaturity in OV was an executive request; his outfit change and dropping the name-shouting were in-story 'because he got tired of it'."
+    ]
+  },
+  {
+    "id": "ben-10k-os",
+    "name": "Ben 10,000 (Original Series future)",
+    "shortName": "Ben 10,000 (OS)",
+    "age": "30 (Ben 10,000); 42 (Ken 10)",
+    "seriesIds": [
+      "os"
+    ],
+    "timeline": "future",
+    "device": "Omnitrix (Original Future) — the prototype Omnitrix grown into a forearm gauntlet, Master Control unlocked; 10,000 aliens",
+    "outfit": "'Ben 10,000': tall, muscular (6'3\"), black T-shirt with a white stripe and accents, army-green pants, black belt, fingerless gloves and boots, slicked-back hair. 'Ken 10' (12 years later): goatee, hair greying at the temples, shirt colours inverted (white with black stripe, echoing his childhood shirt), belt with pouches.",
+    "summary": "Ben's 30-year-old future self, 'Hero of Heroes', who unlocked 10,000 aliens and Master Control and patrols the planet as XLR8 from Ben 10,000 Tower in Omnitrix City. He had become grim and joyless (dropping the alien-naming 'half the fun') until his 10-year-old self visited and helped him beat a future Vilgax; by 'Ken 10' he is a warmer father who builds his son Ken a replica Omnitrix and defeats Kevin 11,000 as Way Big.",
+    "keyEpisodes": [
+      "Ben 10,000",
+      "Ken 10"
+    ],
+    "signatureAliens": [
+      "XLR8",
+      "Four Arms",
+      "Spitter",
+      "Arctiguana",
+      "Way Big",
+      "Cannonbolt"
+    ],
+    "assetId": "ben/ben-10k-os",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_10,000_(Original)",
+      "https://ben10.fandom.com/wiki/Omnitrix_(Original_Future)"
+    ],
+    "notes": [
+      "The wiki keeps OS Ben 10,000 and Omniverse Ben 10,000 on ONE page (same person, Original Future Timeline, ages 30 / 42 / 45+). This project splits them into ben-10k-os and ben-10k-ov because designs, voice actors and devices differ.",
+      "'Ben 10,000 (Ken 10).png' is the OS2 infobox image (Ken 10 design, goatee, inverted shirt).",
+      "Ben 10,000 also has a UA-future counterpart (ben-10k-ua) that the wiki marks 'aborted/erased'; the two met in 'Ben 10,000 Returns' only by name confusion (Kevin mistook one for the other), not on screen together.",
+      "Comic-only story 'The Once and Future Ben' (Cartoon Network Action Pack) is not TV canon."
+    ]
+  },
+  {
+    "id": "ben-10k-ua",
+    "name": "Ben 10,000 (Ultimate Alien future)",
+    "shortName": "Ben 10,000 (UA)",
+    "age": "36",
+    "seriesIds": [
+      "ua"
+    ],
+    "timeline": "future",
+    "device": "Omnitrix (Ultimate Alien Future) — looks like the recalibrated Omnitrix; Master Control and Ultimate forms fully unlocked, including his own Ultimate form (Ultimate Ben)",
+    "outfit": "Tall, thick, muscular, full beard, hair combed to one side; dark-graphite round-neck T-shirt with a white hourglass design, tucked into green pants; multi-pouch belt; black calf-high boots with brown straps.",
+    "summary": "A 36-year-old Ben from 20 years after Ultimate Alien: cocky, joke-cracking and much more like Ben Prime than the grim OS Ben 10,000. A former President of Earth who learned a little magic from Gwen, he prefers his 'best transformation' Ultimate Ben over actually changing shape. In 'Ben 10,000 Returns' he chases Eon into the past, fights him alongside 16-year-old Ben, and restores Way Big, Swampfire and Ultimate Swampfire to the Ultimatrix while unlocking new aliens.",
+    "keyEpisodes": [
+      "Ben 10,000 Returns"
+    ],
+    "signatureAliens": [
+      "Ultimate Ben"
+    ],
+    "assetId": "ben/ben-10k-ua",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_10,000_(Ultimate_Alien)",
+      "https://ben10.fandom.com/wiki/Ultimate_Ben",
+      "https://ben10.fandom.com/wiki/Omnitrix_(Ultimate_Alien_Future)"
+    ],
+    "notes": [
+      "Ben 10,000 in this episode uses Ultimate Ben rather than transforming; alien powers channelled include Clockwork, Jetray, Ultimate Humungousaur, Diamondhead, Heatblast, Arctiguana, Spidermonkey and XLR8 (see ultimate-ben record).",
+      "The Return of Heatblast DVD database conflates him with the OS Ben 10,000 (married to Kai, two kids); the wiki flags this as unreliable.",
+      "Eon (unmasked) is identical to this Ben 10,000 in UA."
+    ]
+  },
+  {
+    "id": "ultimate-ben",
+    "name": "Ultimate Ben",
+    "shortName": "Ultimate Ben",
+    "age": "36 (as Ben 10,000 UA)",
+    "seriesIds": [
+      "ua"
+    ],
+    "timeline": "future",
+    "device": "Omnitrix (Ultimate Alien Future) — the evolved Omnitrix symbol sits on his chest instead of the wrist while transformed",
+    "outfit": "Identical to UA Ben 10,000 (graphite shirt, green pants, boots) but with an evolved, spiked Omnitrix symbol on his chest; when channelling Ultimate Humungousaur his body bulks up to match.",
+    "summary": "The 'Ultimate form' of Ben himself, unlocked by UA Ben 10,000: he stays human but presses the chest symbol to summon a hologram of any alien and wield its powers directly (Heatblast fire, Diamondhead crystals, Clockwork time rays, Jetray flight, XLR8 speed, Ultimate Humungousaur strength). Used twice in 'Ben 10,000 Returns' against Eon and his minions. Listed here as an evolved-Ben transformation, not a separate person.",
+    "keyEpisodes": [
+      "Ben 10,000 Returns"
+    ],
+    "signatureAliens": [
+      "Ultimate Ben (channelling Clockwork, Jetray, Ultimate Humungousaur, Diamondhead, Heatblast, XLR8)"
+    ],
+    "assetId": "ben/ultimate-ben",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ultimate_Ben",
+      "https://ben10.fandom.com/wiki/Ben_10,000_(Ultimate_Alien)"
+    ],
+    "notes": [
+      "The wiki classes Ultimate Ben as an Ultimate Form / transformation (Infobox Alien) whose 'normal form' is UA Ben 10,000 — the pipeline may prefer to treat it as an alien record used by ben-10k-ua rather than a Ben version.",
+      "The freeze-ray power he uses is from an unidentified alien (wiki note: possibly Big Chill).",
+      "Derrick J. Wyatt (OV art director) called Ultimate Ben 'a really lame idea'; it never returns after UA."
+    ]
+  },
+  {
+    "id": "ben-10k-ov",
+    "name": "Ben 10,000 (Omniverse)",
+    "shortName": "Ben 10,000 (OV)",
+    "age": "45+",
+    "seriesIds": [
+      "ov"
+    ],
+    "timeline": "future",
+    "device": "Biomnitrix — a dual-Omnitrix system of two dark-green gauntlets that can fuse any two aliens (Fourmungousaur, Atomic-X, Humungoopsaur, Crashocker, Uprigg, Big Chuck); formerly the Omnitrix (Original Future) and, briefly, the OV Omnitrix he handed to Ken",
+    "outfit": "White T-shirt with a green stripe and accents, new belt with '10K' in green, dark-grey kneepads, cargo-green pants with pouches, boots with silver/white bits; goatee, greying temples; a Biomnitrix gauntlet on each forearm.",
+    "summary": "The OS Ben 10,000 in his mid-40s, redesigned for Omniverse and voiced by Judd Nelson: a seasoned, good-humoured hero married to Kai with son Ken (Spanner) and daughter Gwendolyn, now fighting the Time War with the Biomnitrix. He recruits Paradox in 'Ben Again', joins the good Bens against Vilgax's Time Bomb ('And Then There Were None' / 'And Then There Was Ben'), and battles Maltruant in the finale arc.",
+    "keyEpisodes": [
+      "Ben Again",
+      "And Then There Were None",
+      "And Then There Was Ben",
+      "Fight at the Museum",
+      "Let's Do the Time War Again",
+      "The End of an Era",
+      "A New Dawn"
+    ],
+    "signatureAliens": [
+      "Fourmungousaur",
+      "Atomic-X",
+      "Humungoopsaur",
+      "Crashocker",
+      "Uprigg",
+      "Big Chuck"
+    ],
+    "assetId": "ben/ben-10k-ov",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_10,000_(Original)",
+      "https://ben10.fandom.com/wiki/Biomnitrix"
+    ],
+    "notes": [
+      "'Biomnitrix' is a crew (Derrick J. Wyatt) name; scripts left the device unnamed. Fusion aliens are only accessible via the Biomnitrix, so they belong to this version, never Ben Prime.",
+      "Age 45+ is the wiki's estimate for the Omniverse appearances (30 in 'Ben 10,000', 42 in 'Ken 10')."
+    ]
+  },
+  {
+    "id": "ben-23",
+    "name": "Ben 23 (Dimension 23)",
+    "shortName": "Ben 23",
+    "age": "13",
+    "seriesIds": [
+      "ov"
+    ],
+    "timeline": "dimension",
+    "device": "Hero Watch — the Dimension 23 Omnitrix; looks like the pre-reconfiguration Omnitrix but blue/light-blue with a gold rim and blue interface",
+    "outfit": "Black waistcoat with blue pockets over a blue short-sleeved shirt, blue tie, blue pants, gold Hero-Watch-shaped medallion, earrings, gold ring, blue bracelet, Bluetooth earpiece; blue eyes (not green) and longer hair covering his left eye.",
+    "summary": "A rich, famous 13-year-old celebrity Ben from Dimension 23 whose Grandpa Max died around the time he got his 'Hero Watch', so he never learned that not all aliens are evil and turned heroics into a brand (gyros, merchandise, 'It's Gyro Time'). Ben Prime steers him toward real heroism and toward his dimension's Azmuth; he later fights alongside the good Bens against Vilgax and Eon and is mentored by Ben Prime in Mad Ben's world.",
+    "keyEpisodes": [
+      "Store 23",
+      "And Then There Were None",
+      "And Then There Was Ben",
+      "It's a Mad, Mad, Mad Ben World: Part 1",
+      "It's a Mad, Mad, Mad Ben World: Part 2"
+    ],
+    "signatureAliens": [
+      "Handyman",
+      "Speedyquick",
+      "Techno-Bubble",
+      "Vomit Man",
+      "Big Bug",
+      "Feedback"
+    ],
+    "assetId": "ben/ben-23",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_23",
+      "https://ben10.fandom.com/wiki/Hero_Watch"
+    ],
+    "notes": [
+      "Ben 23 renames his aliens (Handyman = Four Arms, Speedyquick = XLR8, Techno-Bubble = Upgrade, Charcoal-Man = Heatblast, Freeze Lizard = Arctiguana, Rollaway = Cannonbolt, Vomit Man = Upchuck, Big Bug = Stinkfly, Brainfrog = Grey Matter, Teeny-Weeny = Nanomech, Dyno Mighty = Humungousaur, etc.); his Feedback was formerly 'Plug-Man'. Forms used only by Ben 23 do NOT create Ben Prime appearances (RESEARCH_SPEC).",
+      "Age 13 comes from his model sheet.",
+      "Hero Watch page fetched via the wiki API for the alien-name table."
+    ]
+  },
+  {
+    "id": "mad-ben",
+    "name": "Mad Ben (Mad World)",
+    "shortName": "Mad Ben",
+    "age": "unknown (teen; wiki gives no age)",
+    "seriesIds": [
+      "ov"
+    ],
+    "timeline": "dimension",
+    "device": "Power Watch — an orange-and-grey Omnitrix (Omniverse-style) with five orange spikes; his aliens carry matching spiked plates",
+    "outfit": "'Mad Max'-style punk gear: mohawk, orange eyes, tanned skin, eye black, silver hoop earrings, leather vest over an orange sleeveless shirt, orange-yellow pants, spiked plates on left shoulder / right hand / right foot, orange wristbands, gothic shoes.",
+    "summary": "A ruthless warlord Ben from a post-apocalyptic desert 'Benwood', trained and installed by Maltruant and Vilgax the Benevolent, who enslaves his subjects to dig for Maltruant's time key. Recruited by Eon and Vilgax for the evil-Ben army in 'And Then There Were None', he later captures Ben Prime and Ben 23 in his own world and is finally deposed and arrested by his own Rook (Mad Rook).",
+    "keyEpisodes": [
+      "And Then There Were None",
+      "And Then There Was Ben",
+      "It's a Mad, Mad, Mad Ben World: Part 1",
+      "It's a Mad, Mad, Mad Ben World: Part 2"
+    ],
+    "signatureAliens": [
+      "Rath",
+      "Diamondhead",
+      "Perk Upchuck",
+      "Way Big"
+    ],
+    "assetId": "ben/mad-ben",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Mad_Ben",
+      "https://ben10.fandom.com/wiki/Power_Watch"
+    ],
+    "notes": [
+      "His transformations are Mad-World variants of Ben's aliens (Mad Rath, Mad Diamondhead, Mad Upchuck, Mad Way Big) with orange colouring and spikes; the wiki says he has most of Ben Prime's aliens except Feedback (and possibly Whampire).",
+      "The wiki does not settle whether he got the Power Watch before or after his world's apocalypse."
+    ]
+  },
+  {
+    "id": "bad-ben",
+    "name": "Bad Ben",
+    "shortName": "Bad Ben",
+    "age": "16",
+    "seriesIds": [
+      "ov"
+    ],
+    "timeline": "dimension",
+    "device": "Omnitrix (Bad Ben's Timeline) — identical to the Omniverse Omnitrix but with mint-green instead of green",
+    "outfit": "Ben Prime's Omniverse outfit recoloured: naturally black hair, mint-green eyes, mint-green stripes on the shirt, darker-brown cargo pants, black shoes.",
+    "summary": "An evil Ben who made bad choices instead of good ones (per Matt Youngberg), sadistic and slow-spoken with a twisted sense of humour ('Clean-up on Aisle Ten!'). He is the first alternate Ben to attack No Watch Ben in 'And Then There Were None', fighting for Eon and Vilgax's army as Ghostfreak and Gravattack, and later hunts an Omnitrix-less Ben Prime as Buzzshock before Clockwork sends him home.",
+    "keyEpisodes": [
+      "And Then There Were None",
+      "And Then There Was Ben"
+    ],
+    "signatureAliens": [
+      "Ghostfreak",
+      "Gravattack",
+      "Buzzshock"
+    ],
+    "assetId": "ben/bad-ben",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Bad_Ben",
+      "https://ben10.fandom.com/wiki/Omnitrix_(Bad_Ben%27s_Timeline)"
+    ],
+    "notes": [
+      "Derrick J. Wyatt: no backstory was ever written for Bad Ben; his black hair is natural.",
+      "Editorial: grouped under Other dimensions with Ben 23 and Mad Ben (all gathered from parallel dimensions in And Then There Were None)."
+    ]
+  },
+  {
+    "id": "nega-ben",
+    "name": "Nega Ben",
+    "shortName": "Nega Ben",
+    "age": "unknown (teen; wiki gives no age)",
+    "seriesIds": [
+      "ov"
+    ],
+    "timeline": "dimension",
+    "device": "Negatrix — the Omniverse Omnitrix with black instead of white and dark grey instead of green",
+    "outfit": "Black version of Ben Prime's white hoodie, pale-green trousers, black shoes; grey eyes with black eyeliner, choppy hair covering one eye ('emo' look).",
+    "summary": "A gloomy, apathetic 'emo' Ben from a hipster-Seattle/Portland-like reality who finds everything 'lame' but is still vicious when roused. One of the five evil Bens gathered by Eon and Vilgax; he fights as Gutrot at Los Soledad, is erased by the Chronosapien Time Bomb, restored by No Watch Ben's Clockwork, and shrugs a 'Whatev-' as he is sent home.",
+    "keyEpisodes": [
+      "And Then There Were None",
+      "And Then There Was Ben"
+    ],
+    "signatureAliens": [
+      "Gutrot"
+    ],
+    "assetId": "ben/nega-ben",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Nega_Ben",
+      "https://ben10.fandom.com/wiki/Negatrix"
+    ],
+    "notes": [
+      "Gutrot is his only on-screen transformation. Crew trivia: he does literally nothing with the Negatrix in his own world; his Galvans were wiped out by a Maltruant-coerced Celestialsapien.",
+      "Editorial: grouped under Other dimensions with Ben 23 and Mad Ben (all gathered from parallel dimensions in And Then There Were None)."
+    ]
+  },
+  {
+    "id": "benzarro",
+    "name": "Benzarro",
+    "shortName": "Benzarro",
+    "age": "unknown (undead)",
+    "seriesIds": [
+      "ov"
+    ],
+    "timeline": "dimension",
+    "device": "Zombitrix — a purple-interfaced Omnitrix mounted on a black buckle of his straitjacket sleeve (not embedded in his flesh); four spikes on the rim",
+    "outfit": "Zombie-like: green blotchy skin, purple eyes, sparse purple hair, long neck, underbite with yellow teeth, animal-like toes; purple straitjacket with a stitched '10' and fourteen buckles, patched pants.",
+    "summary": "'Patient 10' of a zombie outbreak in his reality — an undead, Bizarro-style Ben who speaks in fragments ('Bens smash!', 'Cousin mean') and headbutts his Zombitrix to transform into zombified aliens. Part of Eon and Vilgax's evil-Ben army; he chases No Watch Ben as Frankenstrike, fights as Snare-Oh at Los Soledad and later brawls Gwen 10's Wildvine before being sent home.",
+    "keyEpisodes": [
+      "And Then There Were None",
+      "And Then There Was Ben"
+    ],
+    "signatureAliens": [
+      "Frankenstrike",
+      "Snare-Oh"
+    ],
+    "assetId": "ben/benzarro",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Benzarro",
+      "https://ben10.fandom.com/wiki/Zombitrix"
+    ],
+    "notes": [
+      "Crew (Derrick J. Wyatt) says his alien names end in '-zarro' and that non-undead aliens come out zombified; nature of the outbreak was never specified.",
+      "Editorial: grouped under Other dimensions with Ben 23 and Mad Ben (all gathered from parallel dimensions in And Then There Were None)."
+    ]
+  },
+  {
+    "id": "no-watch-ben",
+    "name": "No Watch Ben (No Watch Timeline)",
+    "shortName": "No Watch Ben",
+    "age": "16",
+    "seriesIds": [
+      "ov"
+    ],
+    "timeline": "alternate",
+    "device": "None of his own (he wore an old brown wristwatch until his Kevin stole it); temporarily wears Ben Prime's Omniverse Omnitrix",
+    "outfit": "Identical to Ben Prime's Omniverse look but his white/green hoodie has no '10' on the chest; brown cargo pants, green-and-white shoes.",
+    "summary": "A bored, ordinary Bellwood teen from a timeline where the Omnitrix never reached him — his summer road trip was 'the worst summer ever' and he and Gwen never became close. Targeted by Eon as an unpredictable 'wild card', he becomes the last surviving Ben when Vilgax's Chronosapien Time Bomb erases every Omnitrix wielder; with Ben Prime's Omnitrix and Professor Paradox's guidance he reboots the Prime Timeline, restores all the Bens as Clockwork and helps beat Vilgax, proving he can be a hero without a watch.",
+    "keyEpisodes": [
+      "And Then There Were None",
+      "And Then There Was Ben"
+    ],
+    "signatureAliens": [
+      "Grey Matter",
+      "Cannonbolt",
+      "Armodrillo",
+      "Wildmutt",
+      "Clockwork"
+    ],
+    "assetId": "ben/no-watch-ben",
+    "sources": [
+      "https://ben10.fandom.com/wiki/No_Watch_Ben"
+    ],
+    "notes": [
+      "wiki-cache holds this page twice ('No Watch Ben.wikitext' and 'Ben Tennyson (No Watch Timeline).wikitext' are byte-identical).",
+      "His transformations were made with Ben Prime's Omnitrix, so per RESEARCH_SPEC they are 'used only by an alternate Ben' for appearance purposes (usedBy 'other'/no-watch-ben, not ben-16-ov)."
+    ]
+  },
+  {
+    "id": "ben-rat",
+    "name": "Ben Tennyson (Race Against Time timeline)",
+    "shortName": "Ben (Race Against Time)",
+    "age": "10",
+    "seriesIds": [
+      "os",
+      "ua"
+    ],
+    "timeline": "alternate",
+    "device": "Prototype Omnitrix (Race Against Time version: same as OS but with grey tubes; core glows green when popped)",
+    "outfit": "Live action: fair skin, green eyes, shaggy brown hair; wears his 'lucky' black-striped white T-shirt with dark-blue jeans and black sneakers for most of the film (also a brown hooded jacket over a red polo, an orange shirt, pajamas and gym clothes early on). In UA he looks like 10-year-old Ben Prime from The Forge of Creation.",
+    "summary": "The live-action Ben of 'Ben 10: Race Against Time' — back at school in Bellwood after the summer, unable to tell anyone about the Omnitrix, when the ancient villain Eon awakens to use his power on the Hands of Armageddon. Eon briefly turns him into a young Eon, but Gwen reaches him, Max shuts down the Hands, and Ben as Wildmutt hurls Eon into the device. He is later glimpsed as a projection when Gwen Prime spells the Hands in 'Ben 10,000 Returns'.",
+    "keyEpisodes": [
+      "Ben 10: Race Against Time",
+      "Ben 10,000 Returns"
+    ],
+    "signatureAliens": [
+      "Heatblast",
+      "Wildmutt",
+      "Diamondhead",
+      "Grey Matter",
+      "XLR8",
+      "Eon"
+    ],
+    "assetId": "ben/ben-rat",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Ben_Tennyson_(Race_Against_Time_Timeline)",
+      "https://ben10.fandom.com/wiki/Eon"
+    ],
+    "notes": [
+      "RESEARCH_SPEC: Race Against Time is a canonical OS-era movie but must be flagged 'alternate timeline'; the wiki lists this Ben's accessible aliens as Heatblast, Grey Matter, Diamondhead, Wildmutt, XLR8, Four Arms, Stinkfly, Ripjaws, Upgrade, Cannonbolt, Wildvine, Ghostfreak (formerly) and Eon (temporarily) — nothing unlocked after Wildvine.",
+      "'Eon (Transformation)' is this Ben's temporary Chronian-DNA form (infobox image 'Beon2.png'), distinct from the villain Eon.",
+      "The infobox also carries 'Young ben ua full.png' labelled UA for his animated cameo look."
+    ]
+  },
+  {
+    "id": "eon",
+    "name": "Eon (evil alternate Ben)",
+    "shortName": "Eon",
+    "age": "unknown (adult)",
+    "seriesIds": [
+      "os",
+      "ua",
+      "ov"
+    ],
+    "timeline": "alternate",
+    "device": "None functioning — his own Omnitrix was destroyed and its parts integrated into the gauntlet on his left arm; wields time powers, energy blades and (briefly) Paradox's Chrononavigator",
+    "outfit": "RAT: pale skin, maroon eye markings, black bodysuit and trench coat, black gauntlets with purple highlights, black helmet with purple visor. UA: silver helmet with an opaque purple visor and glowing purple eyes, black bodysuit, silver boots/gauntlets/chestplate, purple cape; unmasked he is identical to UA Ben 10,000. OV: black helmet with see-through purple visor over a gaunt, grey, aged face; silver left gauntlet and boots, long coat.",
+    "summary": "A time-and-dimension-hopping villain and Professor Paradox's archenemy who is himself a corrupted alternate Ben Tennyson (revealed unmasked in 'Ben 10,000 Returns', where he absorbs/enslaves other Bens as his minions to replace the Prime Timeline). He debuted in Race Against Time trying to activate the Hands of Armageddon, later swaps 11- and 16-year-old Ben's minds ('Ben Again'), assembles the evil-Ben army with Vilgax ('And Then There Were None') and serves Maltruant in the Time War.",
+    "keyEpisodes": [
+      "Ben 10: Race Against Time",
+      "Ben 10,000 Returns",
+      "Ben Again",
+      "And Then There Were None",
+      "And Then There Was Ben",
+      "Let's Do the Time War Again",
+      "The End of an Era"
+    ],
+    "signatureAliens": [],
+    "assetId": "ben/eon",
+    "sources": [
+      "https://ben10.fandom.com/wiki/Eon",
+      "https://ben10.fandom.com/wiki/Ben_10,000_Returns"
+    ],
+    "notes": [
+      "Eon never transforms on screen; his 'Eon's Minions' in UA are enslaved alternate Bens (wiki page 'Eon's Minions (Ben 10,000 Returns)'), and in OV they are robots.",
+      "The 'Eon (Transformation)' page is Race Against Time Ben's temporary form, not the villain — do not treat it as one of Ben Prime's aliens.",
+      "In Race Against Time he was written as a Chronian from Chronia; the wiki keeps a 'Retconned Version' tab and notes Chronians were effectively removed from canon."
+    ]
+  }
+]

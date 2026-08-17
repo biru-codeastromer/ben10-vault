@@ -1,0 +1,87 @@
+{
+  "id": "fourmungousaur",
+  "name": "Fourmungousaur",
+  "wikiTitle": "Fourmungousaur",
+  "kind": "fusion",
+  "species": "Tetramand/Vaxasaurian hybrid",
+  "homeworld": "",
+  "bodyType": "Four-armed dinosaur",
+  "debut": {
+    "episode": "And Then There Were None",
+    "series": "ov",
+    "usedBy": "ben-10k-ov"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [
+    "four-arms",
+    "humungousaur"
+  ],
+  "abilities": [
+    "Combined strength of Four Arms and Humungousaur",
+    "Enhanced durability",
+    "Shock waves from clapping/pounding with four arms",
+    "Size alteration (Vaxasaurian growth, per crew statements)"
+  ],
+  "weaknesses": [
+    "No weaknesses documented on the wiki; presumably shares its components' bulk and lack of ranged attacks"
+  ],
+  "summary": "Ben 10,000's Biomnitrix fusion of Four Arms and Humungousaur: a red-and-tan armoured dinosaur with four Tetramand arms and the pooled strength of both, used to bulldoze evil Bens.",
+  "traits": [
+    "Only combination alien never to speak",
+    "Biomnitrix symbol on his sash",
+    "Four Humungousaur arms wearing Four Arms' gloves"
+  ],
+  "notableFeats": [
+    "Overpowered Mad Ben's Rath and broke free of Benzarro's Snare-Oh bandages (And Then There Were None)",
+    "Defeated Eon (And Then There Was Ben)"
+  ],
+  "appearances": [
+    {
+      "series": "ov",
+      "usedBy": [
+        "ben-10k-ov"
+      ],
+      "firstEpisode": "And Then There Were None",
+      "notableEpisodes": [
+        "And Then There Were None",
+        "And Then There Was Ben"
+      ],
+      "designNotes": "Humungousaur's body with Four Arms' features: two-toned skin with Four Arms' red replacing the darker tan; four Humungousaur arms wearing Four Arms' gloves; Four Arms' spikes on arms and head; Humungousaur's white belt with green stripe under Four Arms' pants; Four Arms' feet with Humungousaur toenails; Four Arms-shaped head with Humungousaur's nose; Biomnitrix symbol on the sash.",
+      "image": {
+        "file": "94731.png",
+        "label": "OV",
+        "confidence": "high",
+        "notes": "Infobox render; the wiki file '94731.png' redirects to 'Fourmungousaur.png' (same image, 1168x924) - either name resolves via imageinfo."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 9,
+    "durability": 8,
+    "speed": 4,
+    "mobility": 5,
+    "offense": 8,
+    "defense": 6,
+    "special": 6,
+    "versatility": 6,
+    "intellect": 4,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 6,
+    "range": 3,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "Pooled Tetramand + Vaxasaurian muscle: overpowered an Appoplexian, tore free of Thep Khufan bandages and beat Eon, with growth on tap and shock-wave claps. Pure bruiser - no range, average speed, and only two brief outings."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Fourmungousaur",
+    "https://ben10.fandom.com/wiki/Biomnitrix"
+  ],
+  "notes": [
+    "Used only by the Omniverse Ben 10,000 via the Biomnitrix (And Then There Were None: non-speaking; And Then There Was Ben: cameo).",
+    "Size alteration is confirmed by Derrick J. Wyatt / Charlotte McDuffie statements rather than shown on-screen.",
+    "Biomnitrix context: the Omniverse Ben 10,000 (Original Future timeline, re-established as Ben Prime's true future) wears two linked Omnitrix gauntlets; slamming them together fuses two aliens on the fly (combinations are generated at transformation time, not stored). Each gauntlet alone gives normal aliens; it is voice-controlled and can be knocked out by a large EMP or Chronosapien time-freeze. All on-screen fusions were drawn by Thomas N. Perkins IV; the device name was coined by Derrick J. Wyatt (unnamed in scripts)."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "spitter",
+  "name": "Spitter",
+  "wikiTitle": "Spitter",
+  "kind": "standard",
+  "species": "Sphoeroid",
+  "homeworld": "Scalpasc",
+  "bodyType": "Humanoid pufferfish",
+  "debut": {
+    "episode": "Ben 10,000",
+    "series": "os",
+    "usedBy": "ben-10k-os"
+  },
+  "baseFormId": null,
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Body inflation to build pressure",
+    "Concentrated slime blast that launches large foes (Vilgax, Kevin 11,000)",
+    "Slippery, highly conductive slime that amplifies allies' electric attacks",
+    "Amphibious - underwater breathing",
+    "Sharp teeth"
+  ],
+  "weaknesses": [
+    "Purely a one-trick ranged attacker (no documented Weaknesses section on the wiki)",
+    "Physically unremarkable and slow"
+  ],
+  "summary": "Ben 10,000's green pufferfish alien that inflates and hoses enemies with a pressurised jet of slippery, conductive slime.",
+  "traits": [
+    "Only ever used by Ben 10,000 and Ken on-screen - never by present-day Ben Prime",
+    "Five sensory stalks on the head",
+    "Appears in the Ultimate Alien intro"
+  ],
+  "notableFeats": [
+    "Blasted Dr. Animo away (Ben 10,000)",
+    "Fought Vilgax before switching into Arctiguana (Ben 10,000)",
+    "Ben 10,000 used him against Mot Snikrep (Ken 10)",
+    "Ken's Spitter drenched Kevin 11,000 to set up Buzzshock's shock (Ken 10)"
+  ],
+  "appearances": [
+    {
+      "series": "os",
+      "usedBy": [
+        "ben-10k-os"
+      ],
+      "firstEpisode": "Ben 10,000",
+      "notableEpisodes": [
+        "Ben 10,000",
+        "Ken 10"
+      ],
+      "designNotes": "Green outer skin, pale green underside, yellowish-green eyes joined to the corners of the mouth, dull teeth, black pants, Omnitrix on the stomach. Ken's Spitter is identical.",
+      "image": {
+        "file": "Spitter Model.png",
+        "label": "OS",
+        "confidence": "high",
+        "notes": "Only infobox image (unlabelled); OS model sheet render."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 4,
+    "durability": 5,
+    "speed": 3,
+    "mobility": 4,
+    "offense": 5,
+    "defense": 3,
+    "special": 4,
+    "versatility": 3,
+    "intellect": 3,
+    "energy": 0,
+    "regeneration": 0,
+    "survivability": 4,
+    "range": 5,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "A single mid-strength ranged slime blast that can bowl over Vilgax-sized foes, plus useful electricity-conducting synergy; otherwise slow, squat and one-dimensional."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Spitter"
+  ],
+  "notes": [
+    "Wiki has no Weaknesses section; weaknesses above are editorial inference.",
+    "Never used by present-day Ben on-screen (only Ben 10,000 in the OS future episodes and Ken); unlocked off-screen for young Ben per crew statements. Not used in AF/UA/OV.",
+    "Also used by Ken (Ken 10) - not counted."
+  ]
+}

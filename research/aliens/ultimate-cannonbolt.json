@@ -1,0 +1,94 @@
+{
+  "id": "ultimate-cannonbolt",
+  "name": "Ultimate Cannonbolt",
+  "wikiTitle": "Ultimate Cannonbolt",
+  "kind": "ultimate",
+  "species": "Ultimate Arburian Pelarota",
+  "homeworld": "",
+  "bodyType": "Armoured rolling humanoid",
+  "debut": {
+    "episode": "Too Hot to Handle",
+    "series": "ua",
+    "usedBy": "ben-16-ua"
+  },
+  "baseFormId": "cannonbolt",
+  "ultimateFormId": null,
+  "componentIds": [],
+  "abilities": [
+    "Sphere transformation with a thicker, metallic, spiked shell",
+    "High-speed rolling with better traction, manoeuvrability and crushing power",
+    "Nigh-invulnerable spiked shell",
+    "Enhanced strength and shock-wave punches",
+    "Radiation immunity / nuclear energy absorption",
+    "Spike projection (per Eugene Son / DVD data)",
+    "Enhanced jumping and reflexes"
+  ],
+  "weaknesses": [
+    "No dedicated weakness documented on the wiki; presumed to share Cannonbolt's poor visibility and control while rolled up (not shown on-screen)"
+  ],
+  "summary": "The evolved Arburian Pelarota: Cannonbolt clad in hard metallic-blue armour whose studs become spikes in ball form, turning him into an unstoppable, radiation-proof wrecking ball.",
+  "traits": [
+    "Always the last alien used in every episode he appears in",
+    "Alien of the Month May 2011",
+    "Designed by Glenn Wong",
+    "Voiced by Dee Bradley Baker"
+  ],
+  "notableFeats": [
+    "Held the radioactive P'Andor while Kevin forced his containment suit back on (Too Hot to Handle)",
+    "Nearly defeated Ultimate Aggregor inside the Perplexahedron (Perplexahedron)",
+    "Smashed Sunder to the ground and rescued Eunice (The Transmogrification of Eunice)",
+    "Punched Dr. Animo's mutant frog with a shock wave and beat Animo (It's Not Easy Being Gwen)"
+  ],
+  "appearances": [
+    {
+      "series": "ua",
+      "usedBy": [
+        "ben-16-ua"
+      ],
+      "firstEpisode": "Too Hot to Handle",
+      "notableEpisodes": [
+        "Too Hot to Handle",
+        "Perplexahedron",
+        "The Transmogrification of Eunice",
+        "It's Not Easy Being Gwen"
+      ],
+      "designNotes": "Same build as UAF Cannonbolt but with hard metallic-blue skin; shell plates carry cylindrical studs (two per back segment, one on each shoulder, wrist and leg plate) that become spikes in the grey sphere form; two fangs; evolved Ultimatrix symbol on chest.",
+      "image": {
+        "file": "Ultimate Cannonbolt Model.png",
+        "label": "UA",
+        "confidence": "high",
+        "notes": "Infobox model render."
+      }
+    }
+  ],
+  "scoring": {
+    "strength": 7,
+    "durability": 9,
+    "speed": 7,
+    "mobility": 6,
+    "offense": 6,
+    "defense": 9,
+    "special": 5,
+    "versatility": 4,
+    "intellect": 3,
+    "energy": 1,
+    "regeneration": 0,
+    "survivability": 7,
+    "range": 3,
+    "cosmic": 0,
+    "weaknessPenalty": 1,
+    "controlPenalty": 0,
+    "rationale": "A thicker metallic shell and spikes make his ball form nearly unstoppable and he shrugs off P'Andor's radiation, so durability/defense lead; strong enough to slam Sunder and shock-wave a giant frog. Still a one-trick brawler with little range or versatility, and he was outplayed by Ultimate Aggregor."
+  },
+  "sources": [
+    "https://ben10.fandom.com/wiki/Ultimate_Cannonbolt",
+    "https://ben10.fandom.com/wiki/Ultimate_Forms"
+  ],
+  "notes": [
+    "UA-only. Wiki has no Weaknesses section for this form; the weakness listed here is an inference flagged for QA.",
+    "'It's Not Easy Being Gwen' use was an off-screen activation (non-speaking).",
+    "Was originally scripted for Albedo's dream in 'Night of the Living Nightmare' but cut.",
+    "Sentient Ultimates storyline (UA S3, 'The Ultimate Sacrifice'): the six most-used Ultimate forms (Humungousaur, Swampfire, Spidermonkey, Big Chill, Cannonbolt, Echo Echo) gained sentience inside the Ultimatrix and demanded freedom; Ben offered his life, Azmuth freed them to their own world and reworked the Ultimatrix so Ultimates are 'empty shells' again.",
+    "Ultimate forms are artificial by-products of the Ultimatrix's evolutionary function (added by Albedo): the DNA is run through a simulated worst-case scenario over millions of theoretical years to force combat-oriented evolution. They are not natural Codon Stream species, and the Omniverse Omnitrix has no evolutionary function, so Ben never regains them after UA (Derrick J. Wyatt)."
+  ]
+}

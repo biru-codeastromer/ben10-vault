@@ -1,0 +1,139 @@
+{{Original}}
+{{Infobox Alien
+|backcolor = 4b97b9
+|textcolor = 005880
+|name = Walkatrout
+|image = 20211.png
+|species = [[Ickthyperambuloid (Classic)|Ickthyperambuloid]]
+|home-planet = [[Gilli-Perambulous Promenade]]
+|body = Fish
+|power = Slippery Body<br>Enhanced Durability<br>Enhanced Acrobatics<br>Underwater Breathing
+|voice = [[Yuri Lowenthal]]
+|1st-appearance = Outbreak
+}}
+{{Quote|So... slippery!|[[Speedyquick]] trying to pick up Walkatrout.<ref name="IaMMMBWP1">''[[It's a Mad, Mad, Mad Ben World: Part 1]]''</ref>}}
+'''Walkatrout'''<ref name="TFC"/> is the [[Omnitrix]]'s DNA sample of a [[Ickthyperambuloid (Classic)|Ickthyperambuloid]]{{Refn|[[:File:Ickthyperambuloid Proof.png]]|group = DJW}} from the planet [[Gilli-Perambulous Promenade]].{{Refn|[[:File:Gilli-Perambulous Promenade Proof.PNG]]|group = DJW}}
+
+==Appearance==
+Walkatrout is a small, blue fish-like alien with stubby fins for arms, a shark-like dorsal fin, and a pair of thin, spindly legs jutting from his underside. He has a wide mouth with an underbite, and gills on his cheeks with bulging green eyes.
+
+Walkatrout wears a green belt-like strap around his "waist" and back, with the [[Omnitrix (Omniverse)|Omnitrix]] symbol connecting the front.
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center" spacing="small">
+File:Walkskurd.png|Walkatrout with [[Skurd]]'s Body
+File:Walkatrout skurd.png|Walkatrout with [[Four Arms (Classic)|Four Arms]]'s arms
+</gallery>
+
+==Powers and Abilities==
+<gallery type="slideshow" widths="300">
+OB (337).png|Slippery Body
+IaMBW1 (117).png|Enhanced Durability
+OB (323.1).png|Enhanced Acrobatics
+TFC (415).png|Underwater Breathing
+</gallery>
+Walkatrout has a slippery body, making him hard to grab<ref>[[Speedyquick]]</ref><ref name="IaMMMBWP1" /> and allowing him to slide on the [[Plumber Headquarters (Omniverse)|Plumber HQ]] floor.<ref name="Outbreak">''[[Outbreak]]''</ref> With the help of other people, Walkatrout can even slide through cramped spaces, such as the pipes of toilets.<ref name="TFC" />
+
+Walkatrout has a degree of enhanced durability, as is shown when he was knocked onto the ground along with [[Speedyquick]] without serious damage.<ref name="IaMMMBWP1" />
+
+Walkatrout is somewhat acrobatic, as he can perform cartwheels.<ref name="Outbreak" />
+
+Walkatrout has gills and can breathe underwater.<ref name="TFC">''[[The Final Countdown]]''</ref>
+
+==Weaknesses==
+[[File:OB (323).png|thumb|Small Size]]
+Walkatrout is very small and just not suited for combat generally, giving him a disadvantage against larger opponents, or any opponent in general. He is only as tall as a [[Vaxasaurian (Classic)|Vaxasaurian]]'s foot.<ref name="Outbreak"/>
+
+==History==
+===Omniverse===
+*Walkatrout first appeared in ''[[Outbreak]]'', where he was accidentally unlocked by [[Blukic]] and [[Driba]] when they tried to fix the Omnitrix. After escaping from [[Liam]], Blukic and Driba switched him into [[Pesky Dust]].
+*In ''[[Charm School]]'', Ben accidentally transformed into Walkatrout and was disappointed.
+*In ''[[Fight at the Museum]]'', Walkatrout failed to escape the exhibit room he and [[Kai Green|Kai]] were trapped in.
+*In ''[[It's a Mad, Mad, Mad Ben World: Part 1]]'', Walkatrout traveled to [[Bellwood (Classic)|Bellwood]] with [[Speedyquick]]'s help.
+*In ''[[The Final Countdown]]'', Walkatrout got in the locked [[Plumber Headquarters (Omniverse)|Plumber HQ]] through the toilet.
+*In ''[[A New Dawn]]'', Walkatrout appeared for a short time when [[Ben Tennyson (Classic)|Ben]] was cycling through his aliens.
+
+==Appearances==
+===Omniverse===
+=====Season 2=====
+*''[[Outbreak]]'' <small>(first appearance)</small>
+
+=====Season 7=====
+*''[[Charm School]]'' <small>(cameo; accidental transformation)</small>
+*''[[Fight at the Museum]]'' <small>(intended alien was [[Humungousaur (Classic)|Humungousaur]])</small>
+*''[[It's a Mad, Mad, Mad Ben World: Part 1]] '' <small>(accidental transformation)</small>
+
+=====Season 8=====
+*''[[The Final Countdown]]''
+*''[[A New Dawn]]'' <small>(cameo)</small>
+
+===Online Games===
+====Ben 10 (2016 TV Series)====
+*''[[Super Hero Time]]''
+
+==Games==
+===Online Games===
+[[File:Walkatrout SHT.png|thumb|Walkatrout in ''Super Hero Time'']]
+====[[Super Hero Time]]====
+Walkatrout is a playable alien in the game. He can only be unlocked by completing three challenges in ''Cartoon Network Game On'' during Shark Week 2024. During that period, Walkatrout can be seen as an NPC on Ben 10 Island.
+
+==Naming and Translations==
+{{Translation
+|greek = Περιπατητική Πέστροφα
+|greekd = From ''περιπατητής'', walker, and ''πέστροφα'', trout
+|hebrew = דג מהלך
+|hebrewd = From ''דג'', fish, and ''מהלך'', walking, Walking Fish
+|portuguese = Walkatruta
+|portuguesed = From ''walka'', walka, and ''truta'', trout
+|ha = Walkatrout
+|had = From the original English name
+|polish = Nogopstrąg
+|polishd = From ''noga'', leg, and ''pstrąg'', trout
+|german = Wanderbarsch
+|germand = From ''wander'', to wander, and ''barsch'', perch
+|chinese = 胖胖鱼
+|chinesed = From ''胖胖'' <small>(Pàng Pàng)</small>, fat, and ''鱼'' <small>(Yú)</small>, fish
+|italian = GambaTrota
+|italiand = From ''gamba'', leg, and ''trota'', trout
+|french = Truite-azur
+|frenchd = From ''truite'', trout, and ''azur'', azure/blue
+|hungarian = Halláb
+|hungariand = From ''hal'', fish, and ''láb'', leg
+|bulgarian = Уолкатраут
+|bulgariand = From the original English name
+|portuguesebr = Walkatruta
+|portuguesebrd = From ''walk'' and ''truta'', trout
+|russian = Рыбаног<br>Рыбьеног<br>Волькатроут
+|russiand = From ''рыба'', a fish and ''нога'', leg<br>From ''рыба'', a fish and ''нога'', leg<br>From the original English name
+|romanian = Plimbărețul
+|romaniand = from plimbărețul, walker}}
+
+==Etymology==
+Walkatrout's name is derived from "walk about" and "[[Wikipedia:Trout|trout]]", the latter of which is the common name for a number of certain species of freshwater fish.
+
+==Trivia==
+*The design for Walkatrout came from [[Gil Steptoe]], drawn by [[Steven Choi]] or [[Chap Yaep]].{{Refn|[[:File:Steve or Chap Gil.png]]|group = DJW}}{{Refn|[[:File:Steven and Chap Came Up With Outbreak Aliens.png]]|group = DJW}}
+*Walkatrout's name was coined by Driba;<ref name="Outbreak" /> Ben starts using that name in ''[[An American Benwolf in London]]''.
+*Walkatrout is one of four aliens unlocked by [[Driba]] and [[Blukic]]; the other three being [[Pesky Dust]], [[Mole-Stache]], and [[The Worst]].<ref name="Outbreak" />
+**Of the 4, he’s the only one who’s still voiced by [[Yuri Lowenthal]] after their debut, as the other 3 had their voices changed.
+*A running gag with both him and The Worst is that Ben tends to turn into them during inopportune moments, much like [[Grey Matter (Classic)|Grey Matter]].
+*[[Albedo]] is unable to transform into Walkatrout.{{Refn|[[:File:Albedo Does Not Have Outbreak Aliens.png]]|group = DJW}}
+**Despite this, [[Derrick J. Wyatt]] drew some art of Negative Walkatrout in 2020, which can be found in the [[Walkatrout/Gallery|gallery]].{{Refn|[[:File:Negative Walkatrout Proof.png]]|group = DJW}}
+
+==References==
+{{Reflist}}
+===Crew Statements===
+====[[Derrick J. Wyatt]]====
+{{Reflist|group = DJW}}
+{{Ben 10 Aliens}}
+[[bg:Уолкатраут]]
+[[es:Walkatrout]]
+[[fr:Truite azur]]
+[[it:Gambatrota]]
+[[pl:Nogopstrąg]]
+[[pt-br:Walkatruta]]
+[[ro:Plimbăreţul]]
+[[ru:Рыбьеног]]
+[[Category:Transformations]]
+[[Category:Aliens]]
+[[Category:Omniverse Transformations]]
+[[Category:Classic Aliens]]
+[[Category:Classic Transformations]]

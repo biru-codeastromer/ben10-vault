@@ -47,3 +47,19 @@ node scripts/gen-alien-notes.cjs     # research/alien-notes.md
 
 Ben 10 and all related characters, names and artwork are © Cartoon Network / Man of Action Studios. This is a
 non-commercial fan project intended for local, personal use only.
+
+## Transformation sequence clips
+
+- **Source:** the wiki's *Transformation Sequences* libraries — `Transformation Sequences/Ben 10 (2005 TV Series)`,
+  `…/Alien Force`, `…/Ultimate Alien`, `…/Omniverse` (cached in `research/wiki-cache/`, parsed to
+  `research/transformation-sequences.raw.json`). Each entry is a frame-by-frame set of episode stills of an alien's
+  on-screen transformation sequence, with the episode it was featured in.
+- **Pipeline:** `scripts/fetch-sequences.ts` downloads server-scaled frames (≤720 px), renders an MP4 per sequence
+  with ffmpeg (frames blended up to 24 fps, ~3 s; nothing is redrawn) plus a poster, and writes
+  `assets/sequence-manifest.json` (clip → alien, series, variant, episode, source frames, source page).
+- **Scope:** Ben Prime / Ben 10,000 sequences only. Library groups for other users (Albedo's recreated Ultimatrix,
+  Alpha, Ben 23 / Mad Ben / Gwen 10 "Alternate Omnitrix", Skurd enhancements, Kevin 11, Dr. Viktor) and Eon are
+  skipped. At most two versions per alien per series, ≤40 frames each.
+- **Known gaps (by design of the shows):** the 2005 series animated no new sequences after Wildvine; Ultimate Alien
+  reused many Alien Force sequences (the player shows them from that era); several Omniverse aliens only ever
+  transformed with a quick flash and have no library entry.

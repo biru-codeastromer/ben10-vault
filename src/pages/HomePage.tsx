@@ -43,6 +43,11 @@ export function HomePage() {
           <li>
             <strong>{stats.benVersions}</strong> versions of Ben
           </li>
+          {stats.sequences > 0 && (
+            <li>
+              <strong>{stats.sequences}</strong> transformation clips
+            </li>
+          )}
         </motion.ul>
       </section>
 

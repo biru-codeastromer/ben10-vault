@@ -2,10 +2,11 @@ import { motion } from 'framer-motion';
 import { useEffect, useMemo } from 'react';
 import { SCORE_DIMENSIONS, type SeriesId } from '../../data/schema';
 import { DIMENSION_LABELS, DIMENSION_WEIGHTS } from '../../data/scoring';
-import { anyAsset, getAlien, getBenVersion, getOmnitrix, getPowerClass, getSeries, type WallEntry } from '../../data/vault';
+import { anyAsset, getAlien, getBenVersion, getOmnitrix, getPowerClass, getSeries, sequencesFor, type WallEntry } from '../../data/vault';
 import { useScrollLock } from '../../lib/hooks';
 import { AlienCard } from '../cards/AlienCard';
 import { OmnitrixIcon } from '../omnitrix/Hourglass';
+import { TransformationPlayer } from './TransformationPlayer';
 import './AlienDetail.css';
 
 interface Props {
@@ -52,6 +53,7 @@ export function AlienDetail({ entry, onClose, onNavigate, neighbours }: Props) {
   }, [alien, appearance.seriesId]);
 
   const usedBy = appearance.benVersionIds.map((id) => getBenVersion(id)?.shortName ?? humanBen(id));
+  const clips = useMemo(() => sequencesFor(alien.id, appearance.seriesId), [alien.id, appearance.seriesId]);
   const dims = SCORE_DIMENSIONS.map((d) => ({ d, v: alien.score.dimensions[d], w: DIMENSION_WEIGHTS[d] }));
 
   return (
@@ -141,6 +143,15 @@ export function AlienDetail({ entry, onClose, onNavigate, neighbours }: Props) {
               <dd>{usedBy.length ? usedBy.join(', ') : '—'}</dd>
             </div>
           </dl>
+
+          {clips.length > 0 ? (
+            <TransformationPlayer clips={clips} currentSeries={appearance.seriesId} alienName={alien.name} />
+          ) : (
+            <p className="adetail__noseq">
+              No dramatised transformation sequence exists for {alien.name} — on screen this form was reached with a quick Omnitrix flash, so
+              there is nothing to clip.
+            </p>
+          )}
 
           {appearance.designNotes && (
             <section className="adetail__section">

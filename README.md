@@ -28,6 +28,13 @@ Requirements: Node ≥ 20 (developed on 25), Python 3 (only for the research scr
 | **7** power classes | Standard → Advanced → Elite → Apex → Legendary → Cosmic → Infinite (Alien X, 200/200) |
 | **180/180** artwork assets visually verified | series-specific designs; provenance in `assets/asset-manifest.json` |
 
+## Transformation clips
+
+Every card detail has a **Transformation sequence** player ("Slam it"): the alien's on-screen transformation
+for that era, rendered with ffmpeg from the frame-by-frame episode stills catalogued in the wiki's
+*Transformation Sequences* libraries (`scripts/fetch-sequences.ts` → `public/assets/sequences/`,
+provenance in `assets/sequence-manifest.json`). Frames are blended up to 24 fps; nothing is redrawn.
+
 ## Architecture
 
 ```

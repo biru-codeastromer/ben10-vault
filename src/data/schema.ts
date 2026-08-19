@@ -132,6 +132,25 @@ export interface Asset {
   notes: string;
 }
 
+/** A rendered on-screen transformation sequence (see scripts/fetch-sequences.ts). */
+export interface SequenceClip {
+  id: string; // seq/<alienId>/<seriesId>/<variant>
+  alienId: string;
+  seriesId: SeriesId;
+  variant: number;
+  path: string; // mp4
+  poster: string; // webp
+  width: number;
+  height: number;
+  frames: number;
+  durationSec: number;
+  description: string;
+  episode: string;
+  usedBy: string;
+  sourceFrames: string[];
+  sourcePage: string;
+}
+
 export interface AlienAppearance {
   id: string; // `${alienId}:${seriesId}`
   alienId: string;

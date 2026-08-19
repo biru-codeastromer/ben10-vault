@@ -582,3 +582,14 @@
     grid-template-columns: 1fr;
   }
 }
+
+.adetail__noseq {
+  margin: 14px 0 0;
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px dashed var(--line-strong);
+  font-family: var(--font-ui);
+  font-size: 12.5px;
+  letter-spacing: 0.04em;
+  color: var(--ink-mute);
+}

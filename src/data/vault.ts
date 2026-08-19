@@ -7,6 +7,7 @@ import seriesJson from '../../data/series.json';
 import omnitrixesJson from '../../data/omnitrixes.json';
 import powerClassesJson from '../../data/power-classes.json';
 import manifestJson from '../../assets/asset-manifest.json';
+import sequenceManifestJson from '../../assets/sequence-manifest.json';
 import { assetUrl } from '../lib/assetUrl';
 import type {
   Alien,
@@ -16,6 +17,7 @@ import type {
   Omnitrix,
   PowerClass,
   PowerClassId,
+  SequenceClip,
   Series,
   SeriesId,
 } from './schema';
@@ -26,6 +28,25 @@ export const series = (seriesJson as unknown as Series[]).slice().sort((a, b) =>
 export const omnitrixes = omnitrixesJson as unknown as Omnitrix[];
 export const powerClasses = powerClassesJson as unknown as PowerClass[];
 export const assets = (((manifestJson as unknown as { assets: Asset[] }).assets ?? []) as Asset[]).map((a) => ({ ...a, path: assetUrl(a.path) }));
+
+export const sequenceClips = (((sequenceManifestJson as unknown as { clips: SequenceClip[] }).clips ?? []) as SequenceClip[]).map((c) => ({
+  ...c,
+  path: assetUrl(c.path),
+  poster: assetUrl(c.poster),
+}));
+const clipsByAlien = new Map<string, SequenceClip[]>();
+for (const c of sequenceClips) clipsByAlien.set(c.alienId, [...(clipsByAlien.get(c.alienId) ?? []), c]);
+
+/** All transformation clips for an alien, current era first, then in series order. */
+export function sequencesFor(alienId: string, preferSeries?: SeriesId): SequenceClip[] {
+  const order: Record<SeriesId, number> = { os: 0, af: 1, ua: 2, ov: 3 };
+  return (clipsByAlien.get(alienId) ?? []).slice().sort((a, b) => {
+    const pa = a.seriesId === preferSeries ? -1 : order[a.seriesId];
+    const pb = b.seriesId === preferSeries ? -1 : order[b.seriesId];
+    return pa - pb || a.variant - b.variant;
+  });
+}
+export const hasSequence = (alienId: string, seriesId: SeriesId) => (clipsByAlien.get(alienId) ?? []).some((c) => c.seriesId === seriesId);
 
 const alienById = new Map(aliens.map((a) => [a.id, a]));
 const seriesById = new Map(series.map((s) => [s.id, s]));
@@ -80,4 +101,5 @@ export const stats = {
   appearances: aliens.reduce((n, a) => n + a.appearances.length, 0),
   perSeries: Object.fromEntries(series.map((s) => [s.id, wallEntries(s.id).length])) as Record<SeriesId, number>,
   benVersions: benVersions.length,
+  sequences: sequenceClips.length,
 };

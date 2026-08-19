@@ -60,6 +60,17 @@ export function AboutPage() {
           </p>
         </article>
 
+        <article className="about__card">
+          <h2>Transformation clips</h2>
+          <p>
+            Open a card and hit <em>Slam it</em> to watch that alien's on-screen transformation sequence for that era. The clips are
+            rendered (never redrawn) from the frame-by-frame episode stills in the wiki's transformation-sequence libraries — {stats.sequences}{' '}
+            sequences across the four shows, each tagged with its source episode. Not every alien got a dramatised sequence: the 2005 series
+            stopped animating new ones after Wildvine, and Ultimate Alien reused many Alien Force sequences (shown from that era). Where a
+            form has no sequence in the current era, the player offers the other eras it does have.
+          </p>
+        </article>
+
         <article className="about__card about__card--wide">
           <h2>Power Score — an editorial system (not canon)</h2>
           <p>

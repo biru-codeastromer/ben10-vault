@@ -1,0 +1,55 @@
+{{Series Heading A}}
+Throughout the [[Ben 10 (Franchise)|'''Ben 10''' franchise]], the unique aspect of characters transforming into different aliens has been visually represented by short [https://en.wikipedia.org/wiki/Cutaway_(filmmaking) cutaways] to animated '''transformation sequences'''. Canonically, when someone transforms into an alien with an [[Omnitrix]], the process happens instantaneously and uniformly;{{Refn|[[:File:Slow Motion Transformations.png]]|group = pop-up}}<ref>''[[And Then There Were 10]]''</ref> however these sequences aim to dramatize it for visual appeal by slowing the process down and changing the user segment by segment.
+
+==Description==
+In the '''[[Ben 10 (2005 TV Series)|Original Series]]''', when [[Ben Tennyson (Classic)|Ben]] transforms, he appears inside a green spatial void with clusters of black [[wikipedia:Kirby Krackle|Kirby Dots]] floating in the background. Most sequences begin with a shot starting on the [[Omnitrix (Original)|Omnitrix]]; then from it, following the mutations as they rise up the veins of Ben's arm; then up to his eye, where he will close it and open a new eye. Initially, the void is colored with a more muted green, but when Ben poses in his alien form, it glows a full bright green, indicating the transformation is complete. No sequences were made for Ben's aliens past [[Wildvine (Classic)|Wildvine]], nor were variants made for other Omnitrix users or future versions of Ben.
+
+In '''[[Ben 10: Alien Force (TV Series)|Alien Force]]''' and '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''', transformations take on a different visual approach, resembling a green and black X-ray, where we can often see Ben's skeleton through his skin. Typically before any custom animation for an alien plays, every sequence starts with shots of the following, at random:
+*An "Omnitrix pill" travelling through Ben's bloodstream{{Refn|[https://static.wikia.nocookie.net/ben10/images/f/f5/Perplexahedron_Script_As_Recorded.pdf ''Perplexahedron'' Script As Recorded]|group = script}}
+*Ben spinning around
+*Ben curling up
+*Green tissue expanding in different directions
+*Ben's ribcage (in legitimate X-ray view) expanding
+**The shot may be reversed if the alien is smaller than Ben
+'''Alien Force''' marks the first time transformation sequences were made for any Omnitrix user aside from Ben, with [[Albedo]]'s introduction. '''Ultimate Alien''' introduces [[Ultimate Forms]] to the series, bringing a new transformation style in which green bands of light wash over Ben's current transformation and evolve them, some in real time, some with a sequence-like backdrop. Beside Ultimate forms, '''Ultimate Alien''' is also notable for fleshing out some old sequences from '''Alien Force'''.
+
+In '''[[Ben 10: Omniverse (TV Series)|Omniverse]]''', the green and black void from the '''Original Series''' makes a return, now alternating the clusters of black dots with clusters of white dots. It is also sometimes replaced with simple moving action lines, with the background colors ranging significantly, but sticking mostly to green. Alternate Omnitrix users similarly have backgrounds matching their respective color. Most sequences in '''Omniverse''' are wholly original, and very rarely repeat for any other episode. When sequences don't appear, '''Omniverse''' also consistently shows Ben morph into an alien in real time, instead of masking it with the typical flash of green light.
+
+In the [[Ben 10 (2016 TV Series)|2016 series]], transformations happen on a background of either a sphere of bright green energy illuminating a dark green space, with small green bits floating or sometimes shooting away like comets; or simply green action lines; and sometimes flipping between both in one sequence during different segments. Besides [[Ben Tennyson (Reboot)|Ben]], sequences are also given to [[Kevin Levin (Reboot)|Kevin]]'s [[Antitrix#Aliens|Antitrix Aliens]], [[Omni-Enhanced Forms|Ben's]] [[Omni-Kix Armors|alien]] [[Omni-Naut Armors|enhancements]], and some [[Omniverse|alternate versions]] of Ben. Some sequences also feature Ben actively talking or reacting to his body transforming; the only time that ever happened previously was in [[Heatblast (Classic)|Heatblast]]'s debut sequence (and '''Omniverse''''s recreation of which).
+
+In the [[Ben 10 (2026 Comics)|2026 comics]], transformation sequences happen in real-time, with [[Ben Tennyson (Dynamite)|Ben]] being able to speak full sentences whilst transforming. Unlike previous iterations, reverting from a transformation is shown to be similar to transforming itself, just in reverse, rather than covering Ben with a flash of light or silhouetting him. 
+
+==Libraries and Appearances==
+{| style="border:2px solid #202020; color:white; border-color:black; background:#333333; text-align:center; -moz-border-radius:15px 15px 15px 15px; -webkit-border-radius:15px 15px 15px 15px;" cellpadding="2" align="center" border-left:1px solid #505050;"
+| width="120px" | [[Transformation Sequences/Ben 10 (2005 TV Series)|Original Series]]
+| width="120px" style="border-left:1px solid #505050;" | [[Transformation Sequences/Alien Force|Alien Force]]
+| width="120px" style="border-left:1px solid #505050;" | [[Transformation Sequences/Ultimate Alien|Ultimate Alien]]
+| width="120px" style="border-left:1px solid #505050;" | [[Transformation Sequences/Omniverse|Omniverse]]
+| width="120px" style="border-left:1px solid #505050;" | [[Transformation Sequences/Ben 10 (2016 TV Series)|Reboot]]
+|}
+{{spacer}}
+<center>''Click the links above to see their respective library of sequences</center>
+
+==Trivia==
+*With sequences and variations of those sequences for every alien and alien enhancement, the '''[[Ben 10 (2016 TV Series)|Reboot]]''' has the most transformation sequences out of any other show in the [[Ben 10 (Franchise)|franchise]], coming in at around 214.
+*Some sequences in later shows pay homage to those of the past:
+**Classic aliens like [[Heatblast (Classic)|Heatblast]] and [[Wildmutt]] have their standard sequences from the '''[[Ben 10 (2005 TV Series)|Original Series]]''' referenced in '''[[Ben 10: Ultimate Alien (TV Series)|Ultimate Alien]]''' and '''[[Ben 10: Omniverse (TV Series)|Omniverse]]'''.
+**The episode ''[[Alien X-Tinction]]'' showcased Reboot-style transformations that paid homage to the sequences of the '''Original Series''' and '''[[Ben 10: Alien Force (TV Series)|Alien Force]]'''.
+*A joke{{Refn|[[:File:Tim Buk TV OS theme gag details.PNG]]|group = AL}} in ''[[Tim Buk-TV]]'' suggests that [[Ben Tennyson (Reboot)|Ben]]'s transformation sequences all happen in his head, and are seemingly unimpressive to an outside observer.
+*The macabre nature of the transformations in the '''Original Series''' were intentional. They were meant to look painful for the user.{{Refn|[[:File:Classic Transformation Sequences Painful.PNG]]|group = DR}}
+**Despite this, [[Ben Tennyson (Classic)|Ben]] testifies that he doesn't feel much pain from transforming; he equates them to feeling "like a...good stretch".<ref>''[[Bros in Space]]''</ref><ref>[[Ben Tennyson (Classic)|Ben Tennyson]]</ref>
+
+==References==
+{{Reflist}}
+===Production Material===
+====Scripts====
+{{Reflist|group = script}}
+===Crew Statements===
+====[[Duncan Rouleau]]====
+{{Reflist|group = DR}}
+====[[André LaMilza]]====
+{{Reflist|group = AL}}
+===[[Pop-Up Trivia]]===
+{{Reflist|group = pop-up}}
+
+[[Category:Content]]

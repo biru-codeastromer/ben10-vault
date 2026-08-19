@@ -1,6 +1,6 @@
 import { motion, useMotionValue, useSpring, useTransform } from 'framer-motion';
 import { memo, useRef, useState } from 'react';
-import type { WallEntry } from '../../data/vault';
+import { hasSequence, type WallEntry } from '../../data/vault';
 import { audio } from '../../lib/audio';
 import { useFinePointer, useReducedMotion } from '../../lib/hooks';
 import { OmnitrixIcon } from '../omnitrix/Hourglass';
@@ -79,6 +79,11 @@ export const AlienCard = memo(function AlienCard({ entry, onOpen, index = 0, mod
               <span className="acard__name-text">{isUltimate ? alien.name.replace(/^Ultimate\s+/i, '') : alien.name}</span>
             </h3>
             <span className="acard__badge" title={SERIES_SHORT[appearance.seriesId]}>
+              {hasSequence(alien.id, appearance.seriesId) && (
+                <span className="acard__clip" title="Transformation clip available" aria-label="Transformation clip available">
+                  ▶
+                </span>
+              )}
               <OmnitrixIcon size={22} variant={appearance.seriesId} title={SERIES_SHORT[appearance.seriesId]} />
             </span>
           </header>

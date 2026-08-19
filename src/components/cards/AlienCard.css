@@ -111,7 +111,25 @@
 
 .acard__badge {
   flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
   filter: drop-shadow(0 0 6px color-mix(in srgb, var(--era) 60%, transparent));
+}
+
+/* small "clip available" marker next to the era badge */
+.acard__clip {
+  display: inline-grid;
+  place-items: center;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  font-size: 7px;
+  line-height: 1;
+  padding-left: 1px;
+  color: #06120a;
+  background: var(--era-2);
+  box-shadow: 0 0 8px var(--era-glow);
 }
 
 /* ---- art window ---- */

@@ -1,0 +1,235 @@
+.tplayer {
+  margin-top: 22px;
+  padding: 14px 16px 12px;
+  border-radius: 16px;
+  border: 1px solid color-mix(in srgb, var(--era) 30%, var(--line));
+  background:
+    radial-gradient(80% 60% at 50% 0%, color-mix(in srgb, var(--era) 12%, transparent), transparent 70%),
+    rgba(255, 255, 255, 0.025);
+}
+
+.tplayer__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.tplayer__head h3 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--era-2);
+}
+
+.tplayer__eras,
+.tplayer__variants {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.tplayer__era,
+.tplayer__variant {
+  height: 28px;
+  padding: 0 11px;
+  border-radius: 999px;
+  border: 1px solid var(--line-strong);
+  color: var(--ink-dim);
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 11.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  transition: all var(--dur-fast);
+}
+
+.tplayer__era:hover,
+.tplayer__variant:hover {
+  color: var(--ink);
+  border-color: color-mix(in srgb, var(--era) 55%, transparent);
+}
+
+.tplayer__era.is-on,
+.tplayer__variant.is-on {
+  color: #06120a;
+  background: var(--era-2);
+  border-color: var(--era-2);
+}
+
+.tplayer__variant em {
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: none;
+  opacity: 0.85;
+}
+
+.tplayer__stage {
+  position: relative;
+  width: 100%;
+  max-width: 640px;
+  margin-inline: auto;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #000;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.55), 0 0 0 1px rgba(255, 255, 255, 0.06);
+  isolation: isolate;
+}
+
+.tplayer__video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.tplayer__play {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: radial-gradient(60% 60% at 50% 50%, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.55));
+  color: #fff;
+  transition: background var(--dur);
+}
+
+.tplayer__play:hover {
+  background: radial-gradient(60% 60% at 50% 50%, color-mix(in srgb, var(--era) 18%, transparent), rgba(0, 0, 0, 0.55));
+}
+
+.tplayer__dial {
+  width: 86px;
+  height: 86px;
+  filter: drop-shadow(0 0 18px var(--era-glow)) drop-shadow(0 8px 16px rgba(0, 0, 0, 0.6));
+  transition: transform var(--dur) var(--ease-out);
+}
+
+.tplayer__play:hover .tplayer__dial {
+  transform: scale(1.06) rotate(18deg);
+}
+
+.tplayer__play:active .tplayer__dial {
+  transform: scale(0.94) rotate(32deg);
+}
+
+.tplayer__dial-ring {
+  fill: #8b949c;
+  stroke: #0c0f10;
+  stroke-width: 6;
+}
+
+.tplayer__dial-face {
+  fill: var(--era);
+}
+
+[data-era='af'] .tplayer__dial-face,
+[data-era='ua'] .tplayer__dial-face,
+[data-era='ov'] .tplayer__dial-face {
+  fill: #0a0c0b;
+}
+
+.tplayer__dial-mark {
+  fill: #0a0c0b;
+}
+
+[data-era='af'] .tplayer__dial-mark,
+[data-era='ua'] .tplayer__dial-mark,
+[data-era='ov'] .tplayer__dial-mark {
+  fill: var(--era);
+}
+
+.tplayer__cta {
+  font-family: var(--era-font);
+  font-size: 18px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.6), 0 0 18px var(--era-glow);
+}
+
+[data-era='af'] .tplayer__cta,
+[data-era='ua'] .tplayer__cta {
+  font-size: 13px;
+}
+
+/* green flash when playback starts */
+.tplayer__flash {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(circle, var(--era-2), var(--era) 40%, transparent 70%);
+  opacity: 0;
+  mix-blend-mode: screen;
+}
+
+.tplayer__stage.is-playing .tplayer__flash {
+  animation: tplayer-flash 0.5s ease-out 1;
+}
+
+@keyframes tplayer-flash {
+  0% {
+    opacity: 0.9;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.tplayer__meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 10px;
+  font-family: var(--font-ui);
+  font-size: 12.5px;
+  letter-spacing: 0.06em;
+}
+
+.tplayer__episode {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.tplayer__dim {
+  color: var(--ink-mute);
+}
+
+.tplayer__variants {
+  margin-top: 10px;
+}
+
+.tplayer__desc {
+  margin: 10px 0 0;
+  font-size: 13.5px;
+  color: var(--ink-dim);
+  line-height: 1.55;
+}
+
+.tplayer__source {
+  margin: 6px 0 0;
+  font-family: var(--font-ui);
+  font-size: 11.5px;
+  letter-spacing: 0.04em;
+  color: var(--ink-mute);
+}
+
+.tplayer__source a {
+  color: var(--ink-dim);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.tplayer__source a:hover {
+  color: var(--era-2);
+}

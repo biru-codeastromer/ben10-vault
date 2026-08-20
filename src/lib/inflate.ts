@@ -15,6 +15,8 @@ export interface InflatedMesh {
   positions: Float32Array;
   normals: Float32Array;
   uvs: Float32Array;
+  /** per-vertex shade (rim darkening) — masks the front/back seam at grazing angles */
+  colors: Float32Array;
   indices: Uint32Array;
   /** share of pixels that are opaque — near 1 means "no silhouette" (screenshot art) */
   opaqueRatio: number;
@@ -36,7 +38,7 @@ export async function loadImage(src: string): Promise<HTMLImageElement> {
   });
 }
 
-export function sampleImage(img: HTMLImageElement, maxDim = 176): { data: ImageData; W: number; H: number } {
+export function sampleImage(img: HTMLImageElement, maxDim = 200): { data: ImageData; W: number; H: number } {
   const scale = maxDim / Math.max(img.naturalWidth, img.naturalHeight);
   const W = Math.max(2, Math.round(img.naturalWidth * scale));
   const H = Math.max(2, Math.round(img.naturalHeight * scale));
@@ -87,6 +89,49 @@ function distanceTransform(alpha: Uint8Array, W: number, H: number): Float32Arra
   return d;
 }
 
+/** Separable box blur (radius 2), run twice ≈ gaussian. Smooths the ribbed per-pixel height steps. */
+function blurHeight(h: Float32Array<ArrayBuffer>, W: number, H: number, passes = 2): Float32Array<ArrayBuffer> {
+  const r = 2;
+  let src: Float32Array<ArrayBuffer> = h;
+  const dst = new Float32Array(W * H);
+  for (let pass = 0; pass < passes; pass++) {
+    // horizontal
+    for (let y = 0; y < H; y++) {
+      for (let x = 0; x < W; x++) {
+        let sum = 0;
+        let n = 0;
+        for (let k = -r; k <= r; k++) {
+          const xx = x + k;
+          if (xx < 0 || xx >= W) continue;
+          sum += src[y * W + xx];
+          n++;
+        }
+        dst[y * W + x] = sum / n;
+      }
+    }
+    // vertical (write back into a fresh buffer)
+    const tmp = new Float32Array(W * H);
+    for (let y = 0; y < H; y++) {
+      for (let x = 0; x < W; x++) {
+        let sum = 0;
+        let n = 0;
+        for (let k = -r; k <= r; k++) {
+          const yy = y + k;
+          if (yy < 0 || yy >= H) continue;
+          sum += dst[yy * W + x];
+          n++;
+        }
+        tmp[y * W + x] = sum / n;
+      }
+    }
+    src = tmp;
+  }
+  return src;
+}
+
+/** How far (grid px) rim UVs are pulled inward so side faces sample fill colour, not the outline stroke. */
+const EDGE_UV_INSET = 2.4;
+
 /**
  * Build the inflated mesh. Unit scale: the larger image dimension spans ~1 world unit.
  * `thickness` is the max half-depth as a fraction of the larger dimension.
@@ -111,12 +156,14 @@ export function inflate(imageData: ImageData, thickness = 0.13): InflatedMesh {
   // "dome" grows so limbs stay slimmer than the torso.
   const dcap = Math.min(Math.max(dmax * 0.72, 3), scaleRef * 0.16);
   const T = thickness * scaleRef;
-  const h = new Float32Array(N);
+  let h = new Float32Array(N);
   for (let i = 0; i < N; i++) {
     if (!alpha[i]) continue;
     const t = Math.min(dist[i] / dcap, 1);
     h[i] = T * Math.sqrt(1 - (1 - t) * (1 - t));
   }
+  h = blurHeight(h, W, H);
+  for (let i = 0; i < N; i++) if (!alpha[i]) h[i] = 0; // sheets must still meet at the silhouette
 
   // cells: require ≥3 inside corners (keeps thin parts, avoids lone-pixel spikes)
   const cellOk = (x: number, y: number) => {
@@ -153,6 +200,7 @@ export function inflate(imageData: ImageData, thickness = 0.13): InflatedMesh {
   const positions = new Float32Array(vCount * 2 * 3);
   const normals = new Float32Array(vCount * 2 * 3);
   const uvs = new Float32Array(vCount * 2 * 2);
+  const colors = new Float32Array(vCount * 2 * 3);
   let minY = Infinity;
   let maxY = -Infinity;
 
@@ -182,8 +230,24 @@ export function inflate(imageData: ImageData, thickness = 0.13): InflatedMesh {
     normals[f * 3] = nx / len;
     normals[f * 3 + 1] = ny / len;
     normals[f * 3 + 2] = nz / len;
-    uvs[f * 2] = pxx / (W - 1);
-    uvs[f * 2 + 1] = 1 - pyy / (H - 1);
+    // pull rim UVs inward, past the black outline stroke, so sloped side faces show fill colour
+    let u = pxx;
+    let vv = pyy;
+    {
+      const dHere = dist[i];
+      const inset = Math.max(0, EDGE_UV_INSET - dHere);
+      if (inset > 0) {
+        const gX = (dist[Math.min(N - 1, i + 1)] - dist[Math.max(0, i - 1)]) / 2;
+        const gY = (dist[Math.min(N - 1, i + W)] - dist[Math.max(0, i - W)]) / 2;
+        const gl = Math.hypot(gX, gY);
+        if (gl > 1e-3) {
+          u += (gX / gl) * inset;
+          vv += (gY / gl) * inset;
+        }
+      }
+    }
+    uvs[f * 2] = u / (W - 1);
+    uvs[f * 2 + 1] = 1 - vv / (H - 1);
     // back sheet: z = -h, outward normal keeps the lateral slope but faces -z
     const b = vCount + v;
     positions[b * 3] = wx;
@@ -196,8 +260,12 @@ export function inflate(imageData: ImageData, thickness = 0.13): InflatedMesh {
     normals[b * 3] = nx / len;
     normals[b * 3 + 1] = ny / len;
     normals[b * 3 + 2] = nz / len;
-    uvs[b * 2] = pxx / (W - 1);
-    uvs[b * 2 + 1] = 1 - pyy / (H - 1);
+    uvs[b * 2] = u / (W - 1);
+    uvs[b * 2 + 1] = 1 - vv / (H - 1);
+    // rim shading: flat areas full brightness, steep rim darkens toward the silhouette edge
+    const shade = 0.38 + 0.62 * Math.min(1, Math.abs(normals[f * 3 + 2]) * 1.15);
+    colors[f * 3] = colors[f * 3 + 1] = colors[f * 3 + 2] = shade;
+    colors[b * 3] = colors[b * 3 + 1] = colors[b * 3 + 2] = shade;
   }
 
   const idx: number[] = [];
@@ -220,6 +288,7 @@ export function inflate(imageData: ImageData, thickness = 0.13): InflatedMesh {
     positions,
     normals,
     uvs,
+    colors,
     indices: new Uint32Array(idx),
     opaqueRatio,
     minY: minY === Infinity ? -0.5 : minY,

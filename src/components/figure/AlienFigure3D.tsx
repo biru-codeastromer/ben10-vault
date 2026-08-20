@@ -60,13 +60,14 @@ export default function AlienFigure3D({ asset, seriesId, alienName }: Props) {
     const rig = new THREE.Group();
     scene.add(rig);
 
+    const MAX_YAW = 1.15; // ~66° — depth reads clearly, but the degenerate edge-on profile is never shown
     const state = { rotY: 0, rotX: 0, velY: 0, dragging: false, lastInteract: 0, ready: false };
 
     (async () => {
       try {
         const img = await loadImage(asset.path);
         if (disposed) return;
-        const { data } = sampleImage(img, 176);
+        const { data } = sampleImage(img, 200);
         const mesh = inflate(data, 0.13);
         const flat = mesh.opaqueRatio > 0.9; // no real silhouette → floating-card mode
 
@@ -87,6 +88,7 @@ export default function AlienFigure3D({ asset, seriesId, alienName }: Props) {
           geo.setAttribute('position', new THREE.BufferAttribute(mesh.positions, 3));
           geo.setAttribute('normal', new THREE.BufferAttribute(mesh.normals, 3));
           geo.setAttribute('uv', new THREE.BufferAttribute(mesh.uvs, 2));
+          geo.setAttribute('color', new THREE.BufferAttribute(mesh.colors, 3));
           geo.setIndex(new THREE.BufferAttribute(mesh.indices, 1));
           disposables.push(geo);
           figureMat = new THREE.MeshStandardMaterial({
@@ -96,6 +98,7 @@ export default function AlienFigure3D({ asset, seriesId, alienName }: Props) {
             transparent: true,
             alphaTest: 0.08,
             side: THREE.FrontSide,
+            vertexColors: true,
           });
           holoMat = new THREE.MeshBasicMaterial({
             map: holoTex,
@@ -105,6 +108,7 @@ export default function AlienFigure3D({ asset, seriesId, alienName }: Props) {
             blending: THREE.AdditiveBlending,
             depthWrite: false,
             side: THREE.FrontSide,
+            vertexColors: true,
           });
           disposables.push(figureMat, holoMat);
           figure = new THREE.Mesh(geo, figureMat);
@@ -186,15 +190,23 @@ export default function AlienFigure3D({ asset, seriesId, alienName }: Props) {
           raf = requestAnimationFrame(tick);
           const dt = Math.min(clock.getDelta(), 0.05);
           applyMode();
-          // idle auto-rotate after 2.5 s without interaction
-          const idle = performance.now() - state.lastInteract > 2500;
+          // After a fling, momentum decays; once idle the figure eases back to the nearest
+          // front-facing pose (k·π) and gently sways — it never parks edge-on.
+          const idle = performance.now() - state.lastInteract > 1600;
           if (!state.dragging) {
-            if (idle) state.velY += (0.45 - state.velY) * Math.min(1, dt * 1.2);
             state.rotY += state.velY * dt;
-            state.velY *= 0.98;
+            state.velY *= Math.pow(0.12, dt); // exponential spin-down
+            if (Math.abs(state.rotY) > MAX_YAW) {
+              state.rotY = Math.sign(state.rotY) * MAX_YAW;
+              state.velY *= -0.35; // soft rebound off the stop
+            }
+            if (idle && Math.abs(state.velY) < 0.6) {
+              state.rotY += (0 - state.rotY) * Math.min(1, dt * 1.6);
+            }
             state.rotX += (0 - state.rotX) * Math.min(1, dt * 2.5);
           }
-          rig.rotation.y = state.rotY;
+          const sway = idle && !state.dragging ? Math.sin(performance.now() / 1400) * 0.26 : 0;
+          rig.rotation.y = Math.max(-MAX_YAW, Math.min(MAX_YAW, state.rotY)) + sway;
           rig.rotation.x = state.rotX;
           if (modeRef.current === 'hologram') {
             rig.position.y = Math.sin(performance.now() / 700) * 0.012;
@@ -226,8 +238,8 @@ export default function AlienFigure3D({ asset, seriesId, alienName }: Props) {
       const dy = e.clientY - lastY;
       lastX = e.clientX;
       lastY = e.clientY;
-      state.rotY += dx * 0.011;
-      state.velY = dx * 0.6;
+      state.rotY = Math.max(-MAX_YAW, Math.min(MAX_YAW, state.rotY + dx * 0.011));
+      state.velY = dx * 0.45;
       state.rotX = Math.max(-0.45, Math.min(0.45, state.rotX + dy * 0.006));
       state.lastInteract = performance.now();
     };
@@ -291,7 +303,7 @@ export default function AlienFigure3D({ asset, seriesId, alienName }: Props) {
             </button>
           ))}
         </div>
-        <span className="afigure__hint">{status === 'flat' ? 'Flat artwork — shown as a floating card · drag to spin' : 'Drag to spin'}</span>
+        <span className="afigure__hint">{status === 'flat' ? 'Flat artwork — shown as a floating card · drag to spin' : 'Drag to tilt & turn · settles facing you'}</span>
       </div>
     </div>
   );

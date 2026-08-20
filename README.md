@@ -28,6 +28,13 @@ Requirements: Node ≥ 20 (developed on 25), Python 3 (only for the research scr
 | **7** power classes | Standard → Advanced → Elite → Apex → Legendary → Cosmic → Infinite (Alien X, 200/200) |
 | **180/180** artwork assets visually verified | series-specific designs; provenance in `assets/asset-manifest.json` |
 
+## 3D holo-figures
+
+Each card detail renders an interactive 3D figure of the alien (drag to spin; Figure / Hologram modes).
+The mesh is generated client-side from the canonical artwork's alpha silhouette
+(`src/lib/inflate.ts`: chamfer distance transform → rounded heightfield → two-sided sheet, textured
+with the untouched art). No extra assets, no AI redraws; flat screenshot art falls back to a floating 3D card.
+
 ## Transformation clips
 
 Every card detail has a **Transformation sequence** player ("Slam it"): the alien's on-screen transformation

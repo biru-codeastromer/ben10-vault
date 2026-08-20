@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { useEffect, useMemo } from 'react';
+import { lazy, Suspense, useEffect, useMemo } from 'react';
 import { SCORE_DIMENSIONS, type SeriesId } from '../../data/schema';
 import { DIMENSION_LABELS, DIMENSION_WEIGHTS } from '../../data/scoring';
 import { anyAsset, getAlien, getBenVersion, getOmnitrix, getPowerClass, getSeries, sequencesFor, type WallEntry } from '../../data/vault';
@@ -7,6 +7,8 @@ import { useScrollLock } from '../../lib/hooks';
 import { AlienCard } from '../cards/AlienCard';
 import { OmnitrixIcon } from '../omnitrix/Hourglass';
 import { TransformationPlayer } from './TransformationPlayer';
+
+const AlienFigure3D = lazy(() => import('../figure/AlienFigure3D'));
 import './AlienDetail.css';
 
 interface Props {
@@ -143,6 +145,15 @@ export function AlienDetail({ entry, onClose, onNavigate, neighbours }: Props) {
               <dd>{usedBy.length ? usedBy.join(', ') : '—'}</dd>
             </div>
           </dl>
+
+          {entry.asset && (
+            <section className="adetail__section adetail__figure">
+              <h3>3D holo-figure</h3>
+              <Suspense fallback={<div className="adetail__figure-loading">Materialising figure…</div>}>
+                <AlienFigure3D asset={entry.asset} seriesId={appearance.seriesId} alienName={alien.name} />
+              </Suspense>
+            </section>
+          )}
 
           {clips.length > 0 ? (
             <TransformationPlayer clips={clips} currentSeries={appearance.seriesId} alienName={alien.name} />

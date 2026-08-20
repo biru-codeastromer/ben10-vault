@@ -593,3 +593,18 @@
   letter-spacing: 0.04em;
   color: var(--ink-mute);
 }
+
+.adetail__figure > .afigure {
+  margin-top: 6px;
+}
+
+.adetail__figure-loading {
+  padding: 40px 0;
+  text-align: center;
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--era-2);
+}

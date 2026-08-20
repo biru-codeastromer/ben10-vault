@@ -61,6 +61,16 @@ export function AboutPage() {
         </article>
 
         <article className="about__card">
+          <h2>3D holo-figures</h2>
+          <p>
+            Every card detail includes an interactive 3D figure of the alien — drag to spin it, or switch to <em>Hologram</em> for the
+            green Omnitrix-projection look. The mesh is generated in your browser from the exact canonical artwork by inflating its
+            silhouette (a distance-transform heightfield), so the character is never redrawn or approximated. Artwork without a clean
+            silhouette (episode stills) is shown as a floating 3D card instead.
+          </p>
+        </article>
+
+        <article className="about__card">
           <h2>Transformation clips</h2>
           <p>
             Open a card and hit <em>Slam it</em> to watch that alien's on-screen transformation sequence for that era. The clips are

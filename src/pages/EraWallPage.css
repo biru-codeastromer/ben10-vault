@@ -210,3 +210,39 @@
     padding-top: 12px;
   }
 }
+
+.wall__device-link {
+  position: relative;
+  display: block;
+  transition: transform var(--dur) var(--ease-out);
+}
+
+.wall__device-link:hover {
+  transform: scale(1.04);
+}
+
+.wall__device-cta {
+  position: absolute;
+  left: 50%;
+  bottom: -4px;
+  transform: translateX(-50%);
+  padding: 4px 12px;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--era) 55%, transparent);
+  background: rgba(0, 0, 0, 0.6);
+  color: var(--era-2);
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  opacity: 0;
+  transition: opacity var(--dur-fast);
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+.wall__device-link:hover .wall__device-cta,
+.wall__device-link:focus-visible .wall__device-cta {
+  opacity: 1;
+}

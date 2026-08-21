@@ -61,6 +61,16 @@ export function AboutPage() {
         </article>
 
         <article className="about__card">
+          <h2>Omnitrix Simulator</h2>
+          <p>
+            Each device can be operated like the real thing: activate it, turn the dial and slam. Previews are era-accurate — the
+            prototype Omnitrix shows the alien as a black silhouette on the glowing green face, exactly as the 2005 series drew it, while
+            the recalibrated Omnitrix, Ultimatrix and completed Omnitrix project a scan-lined green hologram above the watch. The
+            silhouettes and holograms are the canonical artworks restyled live with CSS filters — never redrawn.
+          </p>
+        </article>
+
+        <article className="about__card">
           <h2>3D holo-figures</h2>
           <p>
             Every card detail includes an interactive 3D figure of the alien — drag to spin it, or switch to <em>Hologram</em> for the

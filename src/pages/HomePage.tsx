@@ -63,6 +63,11 @@ export function HomePage() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, delay: 0.9 }}
       >
+        <Link to="/simulator" className="home__more-card">
+          <span className="eyebrow">Omnitrix Simulator</span>
+          <strong>Operate all four Omnitrixes</strong>
+          <span>Power the watch up, twist the dial through era-accurate silhouettes and holograms, then slam it down to transform.</span>
+        </Link>
         <Link to="/ben" className="home__more-card">
           <span className="eyebrow">Ben Archive</span>
           <strong>Every version of Ben Tennyson</strong>

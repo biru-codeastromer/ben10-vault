@@ -1,6 +1,6 @@
 import { AnimatePresence, motion } from 'framer-motion';
 import { useCallback, useEffect, useMemo } from 'react';
-import { useNavigate, useParams, useSearchParams } from 'react-router-dom';
+import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { AlienCard } from '../components/cards/AlienCard';
 import { AlienDetail } from '../components/detail/AlienDetail';
 import { DEVICE_COMPONENTS } from '../components/omnitrix/deviceRegistry';
@@ -84,7 +84,10 @@ export function EraWallPage() {
 
       <header className="wall__hero page">
         <motion.div className="wall__device" initial={{ opacity: 0, scale: 0.9, rotate: -8 }} animate={{ opacity: 1, scale: 1, rotate: 0 }} transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}>
-          <Device idPrefix={`wall-${seriesId}`} charge={0.8} dialRotation={0} />
+          <Link to={`/simulator/${seriesId}`} className="wall__device-link" title={`Open the ${device?.name} simulator`} aria-label={`Open the ${device?.name} simulator`}>
+            <Device idPrefix={`wall-${seriesId}`} charge={0.8} dialRotation={0} />
+            <span className="wall__device-cta">Simulate</span>
+          </Link>
         </motion.div>
         <div className="wall__hero-text">
           <motion.p className="eyebrow" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>

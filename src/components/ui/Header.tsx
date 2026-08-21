@@ -25,6 +25,9 @@ export function Header() {
               {s.shortName}
             </NavLink>
           ))}
+          <NavLink to="/simulator" className="site-nav__link">
+            Simulator
+          </NavLink>
           <NavLink to="/ben" className="site-nav__link">
             Ben Archive
           </NavLink>
